@@ -5914,7 +5914,7 @@
 3	,	_	PUNCT	_	_	_	_	_	_
 4	mais	_	CCONJ	_	_	_	_	_	_
 5	n'	_	ADV	_	Polarity=Neg	_	_	_	_
-6	attendez	_	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres	_	_	_	_
+6	attendez	_	VERB	_	Mood=Imp|Number=Plur|Person=2|Tense=Pres	_	_	_	_
 7	de	_	ADP	_	_	_	_	_	_
 8	réponse	_	NOUN	_	Number=Sing	_	_	_	_
 9	que	_	SCONJ	_	_	_	_	_	_
@@ -9248,7 +9248,7 @@
 16	font	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_	_
 17	,	_	PUNCT	_	_	_	_	_	_
 18	et	_	CCONJ	_	_	_	_	_	_
-19	passons	_	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres	_	_	_	_
+19	passons	_	VERB	_	Mood=Imp|Number=Plur|Person=1|Tense=Pres	_	_	_	_
 20	à	_	ADP	_	_	_	_	_	_
 21	un	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
 22	second	_	ADJ	_	NumType=Ord|Number=Sing	_	_	_	_
