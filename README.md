@@ -1,14 +1,13 @@
 __narraFEATS__ est un corpus de textes en français annotés pour l'étiquetage morpho-syntaxique ([POS](https://universaldependencies.org/u/pos/) + [feats](https://universaldependencies.org/u/feat/)).
 
-Le corpus est conçu pour entrainer des modèles d'annotation morphologique pour textes narratifs et/ou conversationnels contemporains dans lesquels les pronoms personnels et temps verbaux sont variés (typiquement: des textes de fictions contenant des dialogues). Il est constitué de textes littéraires et de sciences humaines, ainsi que de quelques textes très brefs rédigés de façon _ad hoc_, et d'extraits d'articles wikipedia. (Les textes ont été annotés de façon semi-automatiques: pré-annotés à l'aide de la librairie [spaCy](https://spacy.io/) puis corrigés à l'aide de script python/bash et ajustés manuellement.)
-
-Le corpus est disponible sous licence [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
-
-Quelques spécificités:
+Le corpus est conçu pour entrainer des modèles d'annotation morphologique pour textes narratifs et/ou conversationnels contemporains dans lesquels les pronoms personnels et temps verbaux sont variés (typiquement: des textes de fictions contenant des dialogues). Il est constitué de textes littéraires et de sciences humaines, ainsi que de quelques textes très brefs rédigés de façon _ad hoc_, et d'extraits de Wikipedia.
+Le corpus est disponible sous licence [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Il possède quelques spécificités:
 
 - Les seules apostrophes présentes sont les apostrophes droites (`'`).
 - Le seul format d'écriture inclusive contractée est celui-ci: `parti·es`, `auteur·rices`.
 - La _morphological feature_ `Gender` est absente.
+
+Les textes ont été annotés de façon semi-automatiques: pré-annotés à l'aide de la librairie [spaCy](https://spacy.io/) puis corrigés à l'aide de scripts, puis manuellement -- il comporte encore des erreurs.
 
 corpus
 ------
