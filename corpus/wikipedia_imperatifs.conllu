@@ -264,7 +264,7 @@
 
 
 
-# text = prends une feuille et un crayon , fais un plan , détermines ce qui est le plus important à dire , ce qui va aider les gens à comprendre ( et leur donner envie de participer ) , élimines ce qui est trop complexe dans un premier temps .
+# text = prends une feuille et un crayon , fais un plan , détermines ce qui est le plus important à dire , ce qui va aider les gens à comprendre ( et leur donner envie de participer ) , élimine qui est trop complexe dans un premier temps .
 1	prends	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	_
 2	une	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
 3	feuille	_	NOUN	_	Number=Sing	_	_	_	_
@@ -303,7 +303,7 @@
 36	participer	_	VERB	_	VerbForm=Inf	_	_	_	_
 37	)	_	PUNCT	_	_	_	_	_	_
 38	,	_	PUNCT	_	_	_	_	_	_
-39	élimine	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	
+39	élimine	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_
 41	qui	_	PRON	_	PronType=Rel	_	_	_	_
 42	est	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 43	trop	_	ADV	_	_	_	_	_	_
@@ -1273,7 +1273,7 @@
 3	qu'	_	PRON	_	PronType=Rel	_	_	_	_
 4	on	_	PRON	_	Number=Sing|Person=3|PronType=Prs	_	_	_	_
 5	te	_	PRON	_	Number=Sing|Person=2|PronType=Prs	_	_	_	_
-6	dis	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	
+6	dis	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	TODO=_|Person=21
 7	ou	_	CCONJ	_	_	_	_	_	_
 8	tu	_	PRON	_	Number=Sing|Person=2|PronType=Prs	_	_	_	_
 9	seras	_	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Fut	_	_	_	_
@@ -2837,7 +2837,7 @@
 10	du	_	ADP	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 11	proposant	_	VERB	_	Tense=Pres|VerbForm=Part	_	_	_	_
 12	tu	_	PRON	_	Number=Sing|Person=2|PronType=Prs	_	_	_	_
-13	gangeras	_	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Fut	_	_	_	
+13	gangeras	_	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Fut	_	_	_	TODO=Tense,Mood
 14	de	_	ADP	_	_	_	_	_	_
 15	l'	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 16	énergie	_	NOUN	_	Number=Sing	_	_	_	_
@@ -3479,7 +3479,7 @@
 
 
 
-# text = prends exemple sur la manière de catégoriser l' article samir nasri ( tout en bas de la page ) .
+# text = prends exemple sur la manière de catégoriser l' article samir ( tout en bas de la page ) .
 1	prends	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	_
 2	exemple	_	NOUN	_	Number=Sing	_	_	_	_
 3	sur	_	ADP	_	_	_	_	_	_
@@ -5341,7 +5341,7 @@
 
 
 
-# text = justifie tes actions , laisse des mots sur les pages de discussion , demande des explications aux auteurs , remplit toujours les résumés suffisamment , anticipe ce que l' on pourrait te reprocher .
+# text = justifie tes actions , laisse des mots sur les pages de discussion , demande des explications aux auteurs , remplis toujours les résumés suffisamment , anticipe ce que l' on pourrait te reprocher .
 1	justifie	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 2	tes	_	DET	_	Number=Plur|Number[psor]=Sing|Person=2|Poss=Yes	_	_	_	_
 3	actions	_	NOUN	_	Number=Plur	_	_	_	_
@@ -5361,7 +5361,7 @@
 17	aux	_	ADP	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
 18	auteurs	_	NOUN	_	Number=Plur	_	_	_	_
 19	,	_	PUNCT	_	_	_	_	_	_
-20	remplis	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_	
+20	remplis	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_	TODO=_|Person=21
 21	toujours	_	ADV	_	_	_	_	_	_
 22	les	_	DET	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
 23	résumés	_	NOUN	_	Number=Plur	_	_	_	_
@@ -5494,7 +5494,7 @@
 35	,	_	PUNCT	_	_	_	_	_	_
 36	qu'	_	SCONJ	_	_	_	_	_	_
 37	ils	_	PRON	_	Number=Plur|Person=3|PronType=Prs	_	_	_	_
-38	voyent	_	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres	_	_	_	
+38	voyent	_	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres	_	_	_	TODO=Tense,Mood
 39	l'	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 40	acceuil	_	NOUN	_	Number=Sing	_	_	_	_
 41	et	_	CCONJ	_	_	_	_	_	_
@@ -6511,7 +6511,7 @@
 10	fait	_	NOUN	_	Number=Sing	_	_	_	_
 11	que	_	SCONJ	_	_	_	_	_	_
 12	je	_	PRON	_	Number=Sing|Person=1|PronType=Prs	_	_	_	_
-13	sois	_	VERB	_	Mood=Sub|Number=Sing|Person=1|Tense=Pres	_	_	_	
+13	sois	_	VERB	_	Mood=Sub|Number=Sing|Person=1|Tense=Pres	_	_	_
 14	un	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
 15	donneur	_	NOUN	_	Number=Sing	_	_	_	_
 16	de	_	ADP	_	_	_	_	_	_
