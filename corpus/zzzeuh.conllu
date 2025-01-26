@@ -1352,7 +1352,7 @@
 6	messagerie	_	NOUN	_	Number=Sing	_	_	_	_
 7	,	_	PUNCT	_	_	_	_	_	_
 8	je	_	PRON	_	Number=Sing|Person=1|PronType=Prs	_	_	_	_
-9	tapotte	_	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	_	_	_
+9	tapotte	_	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	_	_	_	TODO=Tense,Mood
 10	un	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
 11	message	_	NOUN	_	Number=Sing	_	_	_	_
 12	.	_	PUNCT	_	_	_	_	_	_

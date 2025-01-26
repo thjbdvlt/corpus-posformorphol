@@ -303,8 +303,7 @@
 36	participer	_	VERB	_	VerbForm=Inf	_	_	_	_
 37	)	_	PUNCT	_	_	_	_	_	_
 38	,	_	PUNCT	_	_	_	_	_	_
-39	élimines	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	_
-40	ce	_	PRON	_	Number=Sing|Person=3|PronType=Dem	_	_	_	_
+39	élimine	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	
 41	qui	_	PRON	_	PronType=Rel	_	_	_	_
 42	est	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 43	trop	_	ADV	_	_	_	_	_	_
@@ -1274,7 +1273,7 @@
 3	qu'	_	PRON	_	PronType=Rel	_	_	_	_
 4	on	_	PRON	_	Number=Sing|Person=3|PronType=Prs	_	_	_	_
 5	te	_	PRON	_	Number=Sing|Person=2|PronType=Prs	_	_	_	_
-6	dis	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+6	dis	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	
 7	ou	_	CCONJ	_	_	_	_	_	_
 8	tu	_	PRON	_	Number=Sing|Person=2|PronType=Prs	_	_	_	_
 9	seras	_	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Fut	_	_	_	_
@@ -2838,7 +2837,7 @@
 10	du	_	ADP	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 11	proposant	_	VERB	_	Tense=Pres|VerbForm=Part	_	_	_	_
 12	tu	_	PRON	_	Number=Sing|Person=2|PronType=Prs	_	_	_	_
-13	gangeras	_	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres	_	_	_	_
+13	gangeras	_	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Fut	_	_	_	
 14	de	_	ADP	_	_	_	_	_	_
 15	l'	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 16	énergie	_	NOUN	_	Number=Sing	_	_	_	_
@@ -3491,7 +3490,6 @@
 8	l'	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 9	article	_	NOUN	_	Number=Sing	_	_	_	_
 10	samir	_	PROPN	_	_	_	_	_	_
-11	nasri	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 12	(	_	PUNCT	_	_	_	_	_	_
 13	tout	_	ADV	_	_	_	_	_	_
 14	en	_	ADP	_	_	_	_	_	_
@@ -3726,7 +3724,7 @@
 4	veux	_	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres	_	_	_	_
 5	,	_	PUNCT	_	_	_	_	_	_
 6	je	_	PRON	_	Number=Sing|Person=1|PronType=Prs	_	_	_	_
-7	laisses	_	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	_	_	_	_
+7	laisses	_	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres	_	_	_	_
 8	tombé	_	VERB	_	Tense=Past|VerbForm=Part	_	_	_	_
 9	.	_	PUNCT	_	_	_	_	_	_
 1	fais	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	_
@@ -5363,7 +5361,7 @@
 17	aux	_	ADP	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
 18	auteurs	_	NOUN	_	Number=Plur	_	_	_	_
 19	,	_	PUNCT	_	_	_	_	_	_
-20	remplit	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+20	remplis	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_	
 21	toujours	_	ADV	_	_	_	_	_	_
 22	les	_	DET	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
 23	résumés	_	NOUN	_	Number=Plur	_	_	_	_
@@ -5496,7 +5494,7 @@
 35	,	_	PUNCT	_	_	_	_	_	_
 36	qu'	_	SCONJ	_	_	_	_	_	_
 37	ils	_	PRON	_	Number=Plur|Person=3|PronType=Prs	_	_	_	_
-38	voyent	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+38	voyent	_	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres	_	_	_	
 39	l'	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 40	acceuil	_	NOUN	_	Number=Sing	_	_	_	_
 41	et	_	CCONJ	_	_	_	_	_	_
@@ -6513,7 +6511,7 @@
 10	fait	_	NOUN	_	Number=Sing	_	_	_	_
 11	que	_	SCONJ	_	_	_	_	_	_
 12	je	_	PRON	_	Number=Sing|Person=1|PronType=Prs	_	_	_	_
-13	sois	_	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	_	_	_	_
+13	sois	_	VERB	_	Mood=Sub|Number=Sing|Person=1|Tense=Pres	_	_	_	
 14	un	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
 15	donneur	_	NOUN	_	Number=Sing	_	_	_	_
 16	de	_	ADP	_	_	_	_	_	_
@@ -7420,7 +7418,7 @@
 3	énerve	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 4	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 5	,	_	PUNCT	_	_	_	_	_	_
-6	prend	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+6	prend	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 7	ton	_	DET	_	Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes	_	_	_	_
 8	temps	_	NOUN	_	Number=Sing	_	_	_	_
 9	.	_	PUNCT	_	_	_	_	_	_

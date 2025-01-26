@@ -34493,7 +34493,7 @@
 # sent_id = ludwig_wittgenstein_livre_brun.979a
 # text = le tapis particulier ...
 11	le	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
-12	tapis	_	NOUN	_	Number=Sing	_	_	_
+12	tapis	_	NOUN	_	Number=Plur	_	_	_
 13	particulier	_	ADJ	_	Number=Sing	_	_	_
 45	...	_	PUNCT	_	_	_	_	_	_
 

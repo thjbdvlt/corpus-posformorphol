@@ -12788,7 +12788,7 @@
 11	l'	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 12	art	_	NOUN	_	Number=Sing	_	_	_	_
 13	au	_	ADP	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
-14	dix-neuvième	_	ADJ	_	NumType=Ord|Number=Sing	_	_	_	_
+14	dix-neuvième	_	ADJ	_	NumType=Ord|Number=Plur	_	_	_	_
 15	siècle	_	NOUN	_	Number=Sing	_	_	_	_
 16	,	_	PUNCT	_	_	_	_	_	_
 17	non	_	ADV	_	Polarity=Neg	_	_	_	_

@@ -34136,7 +34136,7 @@
 6	et	_	CCONJ	_	_	_	_	_	_
 7	ne	_	ADV	_	Polarity=Neg	_	_	_	_
 8	s'	_	PRON	_	Person=3|PronType=Prs|Reflex=Yes	_	_	_	_
-9	émue	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	_	_	_
+9	émue	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	_	_	_	TODO=Tense,Mood
 10	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 11	tant	_	ADV	_	_	_	_	_	_
 12	pour	_	ADP	_	_	_	_	_	_
@@ -40786,7 +40786,7 @@
 13	et	_	CCONJ	_	_	_	_	_	_
 14	elle	_	PRON	_	Number=Sing|Person=3|PronType=Prs	_	_	_	_
 15	l'	_	PRON	_	Definite=Def|Number=Sing|Person=3|PronType=Art	_	_	_	_
-16	ému	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	_	_	_
+16	ému	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	_	_	_	TODO=Tense,Mood
 17	si	_	SCONJ	_	_	_	_	_	_
 18	honnêtement	_	ADV	_	_	_	_	_	_
 19	en	_	ADP	_	_	_	_	_	_
@@ -41675,7 +41675,7 @@
 # sent_id = francois_le_champi.1235
 # text = elle verra un bien beau et juste notaire
 17	elle	_	PRON	_	Number=Sing|Person=3|PronType=Prs	_	_	_	_
-19	verra	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	_	_	_	_
+19	verra	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut	_	_	_	_
 20	un	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
 21	bien	_	ADV	_	_	_	_	_
 22	beau	_	ADJ	_	Number=Sing	_	_	_	_

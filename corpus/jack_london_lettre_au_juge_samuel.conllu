@@ -411,7 +411,7 @@
 119	que	_	SCONJ	_	_	_	_	_	_
 120	nous	_	PRON	_	Number=Plur|Person=1|PronType=Prs	_	_	_	_
 121	nous	_	PRON	_	Number=Plur|Person=1|PronType=Prs|Reflex=Yes	_	_	_	_
-24	soyions	_	VERB	_	Mood=Sub|Number=Plur|Person=1|Tense=Pres	_	_	_
+24	soyions	_	VERB	_	Mood=Sub|Number=Plur|Person=1|Tense=Pres	_	_	_	TODO=Tense,Mood
 123	rendus	_	VERB	_	Tense=Past|VerbForm=Part	_	_	_	_
 124	coupables	_	ADJ	_	Number=Plur	_	_	_	_
 125	de	_	ADP	_	_	_	_	_	_
