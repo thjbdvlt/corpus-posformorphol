@@ -2889,7 +2889,7 @@
 33	L'	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 34	atroce	_	ADJ	_	Number=Sing	_	_	_	_
 35	souffrance	_	NOUN	_	Number=Sing	_	_	_	_
-57	réveille	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	
+57	réveille	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_
 37	Buck	_	PROPN	_	_	_	_	_	_
 38	de	_	ADP	_	_	_	_	_	_
 39	sa	_	DET	_	Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes	_	_	_	_

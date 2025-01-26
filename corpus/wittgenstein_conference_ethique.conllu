@@ -5501,7 +5501,7 @@
 29	absolu	_	ADJ	_	Number=Sing	_	_	_	_
 30	,	_	PUNCT	_	_	_	_	_	_
 31	ne	_	ADV	_	Polarity=Neg	_	_	_	_
-32	peut	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+32	peut	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_
 33	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 34	être	_	VERB	_	VerbForm=Inf	_	_	_	_
 35	une	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_

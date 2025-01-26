@@ -521,7 +521,7 @@
 51	ainsi	_	ADV	_	_	_	_	_	_
 52	-	_	PUNCT	_	_	_	_	_	_
 53	ne	_	ADV	_	Polarity=Neg	_	_	_	_
-54	fait	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+54	fait	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_
 55	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 56	exception	_	NOUN	_	Number=Sing	_	_	_	_
 57	.	_	PUNCT	_	_	_	_	_	_
@@ -1706,7 +1706,7 @@
 12	groupement	_	NOUN	_	Number=Sing	_	_	_	_
 13	,	_	PUNCT	_	_	_	_	_	_
 14	mais	_	CCONJ	_	_	_	_	_	_
-15	dérivent	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_	_
+15	dérivent	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_
 16	de	_	ADP	_	_	_	_	_	_
 17	la	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 18	nature	_	NOUN	_	Number=Sing	_	_	_	_
@@ -3031,7 +3031,7 @@
 34	gratuitement	_	ADV	_	_	_	_	_	_
 35	,	_	PUNCT	_	_	_	_	_	_
 36	ne	_	ADV	_	Polarity=Neg	_	_	_	_
-37	peuvent	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_	_
+37	peuvent	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_
 38	,	_	PUNCT	_	_	_	_	_	_
 39	à	_	ADP	_	_	_	_	_	_
 40	aucun	_	DET	_	Definite=Ind|Number=Sing|Polarity=Neg	_	_	_	_
@@ -7345,7 +7345,7 @@
 18	explications	_	NOUN	_	Number=Plur	_	_	_	_
 19	,	_	PUNCT	_	_	_	_	_	_
 20	ne	_	ADV	_	Polarity=Neg	_	_	_	_
-21	peuvent	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_	_
+21	peuvent	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_
 22	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 23	fournir	_	VERB	_	VerbForm=Inf	_	_	_	_
 24	de	_	DET	_	Definite=Ind|Number=Plur|PronType=Art	_	_	_
@@ -13718,7 +13718,7 @@
 8	autres	_	PRON	_	Number=Plur|Person=3	_	_	_	_
 9	,	_	PUNCT	_	_	_	_	_	_
 10	ne	_	ADV	_	Polarity=Neg	_	_	_	_
-11	peuvent	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_	_
+11	peuvent	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_
 12	être	_	AUX	_	VerbForm=Inf	_	_	_	_
 13	étudiés	_	VERB	_	Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
 14	en	_	ADP	_	_	_	_	_	_
@@ -14069,7 +14069,7 @@
 
 # sent_id = marcel_mauss_sociologie_ojets_methodes.366
 # text = Considérons en effet les documents officiels , qui , en général , offrent le plus de garanties .
-1	Considérons	_	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres	_	_	_	_
+1	Considérons	_	VERB	_	Mood=Imp|Number=Plur|Person=1|Tense=Pres	_	_	_	_
 2	en	_	ADP	_	_	_	_	_	_
 3	effet	_	NOUN	_	Number=Sing	_	_	_	_
 4	les	_	DET	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
@@ -17800,7 +17800,7 @@
 5	contraire	_	NOUN	_	Number=Sing	_	_	_	_
 6	,	_	PUNCT	_	_	_	_	_	_
 7	ne	_	ADV	_	Polarity=Neg	_	_	_	_
-8	distingue	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+8	distingue	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_
 9	naturellement	_	ADV	_	_	_	_	_	_
 10	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 11	entre	_	ADP	_	_	_	_	_	_

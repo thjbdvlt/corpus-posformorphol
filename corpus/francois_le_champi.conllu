@@ -3677,7 +3677,7 @@
 9	sais	_	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	_	_	_	_
 10	;	_	PUNCT	_	_	_	_	_	_
 11	mais	_	CCONJ	_	_	_	_	_	_
-12	peux	_	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres	_	_	_	_
+12	peux	_	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres	_	_	_
 13	-tu	_	PRON	_	Number=Sing|Person=2|PronType=Prs	_	_	_	_
 14	réussir	_	VERB	_	VerbForm=Inf	_	_	_	_
 15	?	_	PUNCT	_	_	_	_	_	_
@@ -22376,7 +22376,7 @@
 3	!	_	PUNCT	_	_	_	_	_	_
 4	…	_	PUNCT	_	_	_	_	_	_
 5	Ne	_	ADV	_	Polarity=Neg	_	_	_	_
-6	parlons	_	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres	_	_	_	_
+6	parlons	_	VERB	_	Mood=Imp|Number=Plur|Person=1|Tense=Pres	_	_	_
 7	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 8	de	_	ADP	_	_	_	_	_	_
 9	ça	_	PRON	_	Number=Sing|Person=3|PronType=Dem	_	_	_	_
@@ -26685,7 +26685,7 @@
 13	vos	_	DET	_	Number=Plur|Number[psor]=Plur|Person=2|Poss=Yes	_	_	_	_
 14	écus	_	NOUN	_	Number=Plur	_	_	_	_
 15	,	_	PUNCT	_	_	_	_	_	_
-16	partons	_	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres	_	_	_
+16	partons	_	VERB	_	Mood=Imp|Number=Plur|Person=1|Tense=Pres	_	_	_
 17	,	_	PUNCT	_	_	_	_	_	_
 18	car	_	CCONJ	_	_	_	_	_	_
 19	j'	_	PRON	_	Number=Sing|Person=1|PronType=Prs	_	_	_	_
@@ -32910,7 +32910,7 @@
 21	plus	_	ADV	_	_	_	_	_	_
 22	,	_	PUNCT	_	_	_	_	_	_
 23	ne	_	ADV	_	Polarity=Neg	_	_	_	_
-24	voulez	_	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres	_	_	_	_
+24	voulez	_	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres	_	_	_
 25	-vous	_	PRON	_	Number=Plur|Person=2|PronType=Prs	_	_	_	_
 26	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 27	m'	_	PRON	_	Number=Sing|Person=1|PronType=Prs|Reflex=Yes	_	_	_	_
@@ -47916,7 +47916,7 @@
 # text = - Ne disons pas cela à présent qu' il est mort , Oleksiy !
 1	-	_	PUNCT	_	_	_	_	_	_
 2	Ne	_	ADV	_	Polarity=Neg	_	_	_	_
-3	disons	_	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres	_	_	_	_
+3	disons	_	VERB	_	Mood=Imp|Number=Plur|Person=1|Tense=Pres	_	_	_
 4	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 5	cela	_	PRON	_	Number=Sing|Person=3|PronType=Dem	_	_	_	_
 6	à	_	ADP	_	_	_	_	_	_
@@ -49582,7 +49582,7 @@
 # text = - Ne fais pas attention .
 1	-	_	PUNCT	_	_	_	_	_	_
 2	Ne	_	ADV	_	Polarity=Neg	_	_	_	_
-3	fais	_	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	_	_	_	_
+3	fais	_	VERB	_	Mood=Imp|Number=Sing|Person=1|Tense=Pres	_	_	_
 4	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 5	attention	_	NOUN	_	Number=Sing	_	_	_	_
 6	.	_	PUNCT	_	_	_	_	_	_
@@ -52839,7 +52839,7 @@
 2	votre	_	DET	_	Number=Sing|Number[psor]=Plur|Person=2|Poss=Yes	_	_	_	_
 3	commandement	_	NOUN	_	Number=Sing	_	_	_	_
 4	!	_	PUNCT	_	_	_	_	_	_
-5	changeons	_	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres	_	_	_	_
+5	changeons	_	VERB	_	Mood=Imp|Number=Plur|Person=1|Tense=Pres	_	_	_	_
 6	d'	_	ADP	_	_	_	_	_	_
 7	habits	_	NOUN	_	Number=Plur	_	_	_	_
 8	.	_	PUNCT	_	_	_	_	_	_
@@ -54549,7 +54549,7 @@
 3	faire	_	VERB	_	VerbForm=Inf	_	_	_	_
 4	,	_	PUNCT	_	_	_	_	_	_
 5	ne	_	ADV	_	Polarity=Neg	_	_	_	_
-6	démentez	_	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres	_	_	_	_
+6	démentez	_	VERB	_	Mood=Imp|Number=Plur|Person=2|Tense=Pres	_	_	_
 7	rien	_	PRON	_	Number=Sing|Polarity=Neg	_	_	_	_
 8	de	_	ADP	_	_	_	_	_	_
 9	ce	_	PRON	_	Number=Sing|Person=3|PronType=Dem	_	_	_	_
@@ -64526,7 +64526,7 @@
 3	non	_	ADV	_	Polarity=Neg	_	_	_	_
 4	,	_	PUNCT	_	_	_	_	_	_
 5	ne	_	ADV	_	Polarity=Neg	_	_	_	_
-6	crois	_	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	_	_	_	_
+6	crois	_	VERB	_	Mood=Imp|Number=Sing|Person=1|Tense=Pres	_	_	_
 7	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 8	qu'	_	SCONJ	_	_	_	_	_	_
 9	elle	_	PRON	_	Number=Sing|Person=3|PronType=Prs	_	_	_	_

@@ -3029,7 +3029,7 @@
 32	)	_	PUNCT	_	_	_	_	_	_
 33	,	_	PUNCT	_	_	_	_	_	_
 34	mais	_	CCONJ	_	_	_	_	_	_
-35	possède	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+35	possède	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_
 36	également	_	ADV	_	_	_	_	_	_
 37	la	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 38	spécificité	_	NOUN	_	Number=Sing	_	_	_	_
@@ -4825,7 +4825,7 @@
 6	souris	_	NOUN	_	Number=Sing	_	_	_
 7	(	_	PUNCT	_	_	_	_	_	_
 8	ne	_	ADV	_	Polarity=Neg	_	_	_	_
-9	fonctionne	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+9	fonctionne	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_
 10	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 11	avec	_	ADP	_	_	_	_	_	_
 12	une	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_

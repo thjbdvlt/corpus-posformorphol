@@ -1,0 +1,6 @@
+.tags
+*.spacy
+__pycache__
+.ruff_cache
+scripts
+_tmp

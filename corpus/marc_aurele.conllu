@@ -164,7 +164,7 @@
 161	élytre	_	NOUN	_	Number=Sing	_	_	_	_
 162	.	_	PUNCT	_	_	_	_	_	_
 163	Mais	_	CCONJ	_	_	_	_	_	_
-164	veux	_	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres	_	_	_	_
+164	veux	_	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres	_	_	_
 165	-tu	_	PRON	_	Number=Sing|Person=2|PronType=Prs	_	_	_	_
 166	une	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
 167	règle	_	NOUN	_	Number=Sing	_	_	_	_
@@ -557,7 +557,7 @@
 560	74	_	NUM	_	NumType=Card	_	_	_	_
 561	]	_	PUNCT	_	_	_	_	_	_
 562	;	_	PUNCT	_	_	_	_	_	_
-563	observe	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+563	observe	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 564	la	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 565	justice	_	NOUN	_	Number=Sing	_	_	_	_
 566	dans	_	ADP	_	_	_	_	_	_
@@ -688,12 +688,16 @@
 
 
 # sent_id = marc_aurele.spacy.3
-# text = \n 12 \n Travaille , non comme un malheureux <= non pour te faire plaindre ou admirer . N' aie point d' autre volonté que d' agir ou de te contenir 37 =/= comme la raison l' exige pour le service de la cité . \n
+# text = \n 12 \n mais ne travaille surtout pas , non comme un malheureux <= non pour te faire plaindre ou admirer . N' aie point d' autre volonté que d' agir ou de te contenir 37 =/= comme la raison l' exige pour le service de la cité . \n
 # arrows_and_signs = Yes
 0	\n	_	SPACE	_	_	_	_	_
 1	12	_	NUM	_	NumType=Card	_	_	_	_
 2	\n	_	SPACE	_	_	_	_	_
-3	Travaille	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_
+163	mais	_	CCONJ	_	_	_	_	_	_
+18	ne	_	ADV	_	Polarity=Neg	_	_	_	_
+3	travaille	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_
+187	surtout	_	ADV	_	_	_	_	_	_
+20	pas	_	ADV	_	Polarity=Neg	_	_	_
 4	,	_	PUNCT	_	_	_	_	_	_
 5	non	_	ADV	_	Polarity=Neg	_	_	_	_
 6	comme	_	SCONJ	_	_	_	_	_	_

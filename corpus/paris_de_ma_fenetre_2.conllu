@@ -1729,7 +1729,7 @@
 6	l'	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 7	éducatrice	_	NOUN	_	Number=Sing	_	_	_	_
 8	,	_	PUNCT	_	_	_	_	_	_
-9	regarde	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+9	regarde	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 10	,	_	PUNCT	_	_	_	_	_	_
 11	voici	_	ADP	_	_	_	_	_	_
 12	des	_	DET	_	Definite=Ind|Number=Plur|PronType=Art	_	_	_	_

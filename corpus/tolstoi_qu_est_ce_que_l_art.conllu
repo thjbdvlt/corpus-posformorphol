@@ -2490,7 +2490,7 @@
 66	désole	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 67	,	_	PUNCT	_	_	_	_	_	_
 68	ne	_	ADV	_	Polarity=Neg	_	_	_	_
-69	rit	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+69	rit	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_
 70	ni	_	CCONJ	_	_	_	_	_	_
 71	ne	_	ADV	_	Polarity=Neg	_	_	_	_
 72	pleure	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
@@ -8540,7 +8540,7 @@
 6	Fichte	_	PROPN	_	_	_	_	_	_
 7	,	_	PUNCT	_	_	_	_	_	_
 8	ne	_	ADV	_	Polarity=Neg	_	_	_	_
-9	réside	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+9	réside	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_
 10	-t	_	ADP	_	_	_	_	_	_
 11	-elle	_	PRON	_	Number=Sing|Person=3|PronType=Prs	_	_	_	_
 12	pas	_	ADV	_	Polarity=Neg	_	_	_	_
@@ -9937,7 +9937,7 @@
 9	:	_	PUNCT	_	_	_	_	_	_
 10	«	_	PUNCT	_	_	_	_	_	_
 11	Ne	_	ADV	_	Polarity=Neg	_	_	_	_
-12	craignons	_	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres	_	_	_	_
+12	craignons	_	VERB	_	Mood=Imp|Number=Plur|Person=1|Tense=Pres	_	_	_
 13	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 14	d'	_	ADP	_	_	_	_	_	_
 15	affirmer	_	VERB	_	VerbForm=Inf	_	_	_	_
@@ -12809,7 +12809,7 @@
 32	symbolistes	_	NOUN	_	Number=Plur	_	_	_	_
 33	,	_	PUNCT	_	_	_	_	_	_
 34	mais	_	CCONJ	_	_	_	_	_	_
-35	travaille	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+35	travaille	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_
 36	le	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 37	plus	_	ADV	_	_	_	_	_	_
 38	consciencieusement	_	ADV	_	_	_	_	_	_
@@ -22195,7 +22195,7 @@
 34	présent	_	NOUN	_	Number=Sing	_	_	_	_
 35	,	_	PUNCT	_	_	_	_	_	_
 36	ne	_	ADV	_	Polarity=Neg	_	_	_	_
-37	peuvent	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_	_
+37	peuvent	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_
 38	provoquer	_	VERB	_	VerbForm=Inf	_	_	_	_
 39	chez	_	ADP	_	_	_	_	_	_
 40	l'	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
@@ -26807,7 +26807,7 @@
 12	Verlaine	_	PROPN	_	_	_	_	_	_
 13	,	_	PUNCT	_	_	_	_	_	_
 14	ne	_	ADV	_	Polarity=Neg	_	_	_	_
-15	sont	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_	_
+15	sont	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_
 16	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 17	moins	_	ADV	_	_	_	_	_	_
 18	affectées	_	ADJ	_	Number=Plur	_	_	_
@@ -33961,7 +33961,7 @@
 49	grands	_	ADJ	_	Number=Plur	_	_	_	_
 50	===>	_	PUNCT	_	_	_	_	_	_
 51	mais	_	CCONJ	_	_	_	_	_	_
-52	tiennent	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_	_
+52	tiennent	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_
 53	en	_	ADP	_	_	_	_	_	_
 54	outre	_	ADP	_	_	_	_	_	INVARIANT
 55	toutes	_	ADJ	_	Number=Plur	_	_	_	_
@@ -34733,7 +34733,7 @@
 4	sourd	_	ADJ	_	Number=Sing	_	_	_	_
 5	,	_	PUNCT	_	_	_	_	_	_
 6	ne	_	ADV	_	Polarity=Neg	_	_	_	_
-7	peut	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+7	peut	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_
 8	plus	_	ADV	_	_	_	_	_	_
 9	rien	_	PRON	_	Number=Sing|Polarity=Neg	_	_	_	_
 10	entendre	_	VERB	_	VerbForm=Inf	_	_	_	_
@@ -39389,7 +39389,7 @@
 65	enseigne	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 66	<=====	_	PUNCT	_	_	_	_	_	_
 67	ne	_	ADV	_	Polarity=Neg	_	_	_	_
-68	doit	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+68	doit	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_
 69	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 70	du	_	ADP	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 71	moins	_	ADV	_	_	_	_	_	_
@@ -39471,7 +39471,7 @@
 16	religion	_	NOUN	_	Number=Sing	_	_	_	_
 17	,	_	PUNCT	_	_	_	_	_	_
 18	mais	_	CCONJ	_	_	_	_	_	_
-19	tient	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+19	tient	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_
 20	même	_	ADV	_	_	_	_	_	_
 21	toutes	_	ADJ	_	Number=Plur	_	_	_	_
 22	les	_	DET	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_

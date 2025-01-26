@@ -1428,7 +1428,7 @@
 6	dire	_	VERB	_	VerbForm=Inf	_	_	_	_
 7	,	_	PUNCT	_	_	_	_	_	_
 8	ne	_	ADV	_	Polarity=Neg	_	_	_	_
-9	réside	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+9	réside	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_
 10	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 11	dans	_	ADP	_	_	_	_	_	_
 12	l'	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
@@ -3223,7 +3223,7 @@
 4	13	_	NUM	_	NumType=Card	_	_	_	_
 5	)	_	PUNCT	_	_	_	_	_	_
 6	ne	_	ADV	_	Polarity=Neg	_	_	_	_
-7	peuvent	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_	_
+7	peuvent	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_
 8	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 9	être	_	AUX	_	VerbForm=Inf	_	_	_	_
 10	considérés	_	VERB	_	Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
@@ -4501,7 +4501,7 @@
 6	pourquoi	_	ADV	_	_	_	_	_	INVARIANT
 7	"	_	PUNCT	_	_	_	_	_	_
 8	,	_	PUNCT	_	_	_	_	_	_
-9	demandez	_	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres	_	_	_	_
+9	demandez	_	VERB	_	Mood=Imp|Number=Plur|Person=2|Tense=Pres	_	_	_	_
 10	-vous	_	PRON	_	Number=Plur|Person=2|PronType=Prs	_	_	_	_
 11	la	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 12	cause	_	NOUN	_	Number=Sing	_	_	_	_
@@ -4965,7 +4965,7 @@
 # text = - Mais est -ce nécessairement ce qui s' est passé ?
 1	-	_	PUNCT	_	_	_	_	_	_
 2	Mais	_	CCONJ	_	_	_	_	_	_
-3	est	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+3	est	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_
 4	-ce	_	PRON	_	Number=Sing|Person=3|PronType=Dem	_	_	_	_
 5	nécessairement	_	ADV	_	_	_	_	_	_
 6	ce	_	PRON	_	Number=Sing|Person=3|PronType=Dem	_	_	_	_
@@ -10071,7 +10071,7 @@
 24	état	_	NOUN	_	Number=Sing	_	_	_	_
 25	"	_	PUNCT	_	_	_	_	_	_
 26	ne	_	ADV	_	Polarity=Neg	_	_	_	_
-27	correspond	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+27	correspond	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_
 28	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 29	une	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
 30	expérience	_	NOUN	_	Number=Sing	_	_	_	_
@@ -15416,7 +15416,7 @@
 # sent_id = ludwig_wittgenstein_livre_brun.496
 # text = ( Considérons également la catégorie de cas dans lesquels nous disons : " Je peux faire telle ou telle chose , mais je ne le ferai pas " : " Je pourrais si j' essayais " - par exemple soulever 100 livres ; " Je pourrais si je le voulais " - par exemple dire l' alphabet ) .
 1	(	_	PUNCT	_	_	_	_	_	_
-2	Considérons	_	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres	_	_	_	_
+2	Considérons	_	VERB	_	Mood=Imp|Number=Plur|Person=1|Tense=Pres	_	_	_	_
 3	également	_	ADV	_	_	_	_	_	_
 4	la	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 5	catégorie	_	NOUN	_	Number=Sing	_	_	_	_
@@ -22269,7 +22269,7 @@
 20	un	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
 21	ordre	_	NOUN	_	Number=Sing	_	_	_	_
 22	,	_	PUNCT	_	_	_	_	_	_
-23	disons	_	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres	_	_	_	_
+23	disons	_	VERB	_	Mood=Imp|Number=Plur|Person=1|Tense=Pres	_	_	_	_
 24	de	_	ADP	_	_	_	_	_	_
 25	la	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 26	forme	_	NOUN	_	Number=Sing	_	_	_	_
@@ -25102,7 +25102,7 @@
 1	Par	_	ADP	_	_	_	_	_	_
 2	exemple	_	NOUN	_	Number=Sing	_	_	_	_
 3	,	_	PUNCT	_	_	_	_	_	_
-4	notez	_	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres	_	_	_
+4	notez	_	VERB	_	Mood=Imp|Number=Plur|Person=2|Tense=Pres	_	_	_
 5	le	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 6	mot	_	NOUN	_	Number=Sing	_	_	_	_
 7	"	_	PUNCT	_	_	_	_	_	_
@@ -26502,7 +26502,7 @@
 6	personne	_	NOUN	_	Number=Sing	_	_	_	_
 7	"	_	PUNCT	_	_	_	_	_	_
 8	ne	_	ADV	_	Polarity=Neg	_	_	_	_
-9	voit	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+9	voit	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_
 10	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 11	ce	_	PRON	_	Number=Sing|Person=3|PronType=Dem	_	_	_	_
 12	qu'	_	PRON	_	PronType=Rel	_	_	_
@@ -26763,7 +26763,7 @@
 21	autre	_	ADJ	_	Number=Sing	_	_	_	_
 22	différence	_	NOUN	_	Number=Sing	_	_	_	_
 23	,	_	PUNCT	_	_	_	_	_	_
-24	disons	_	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres	_	_	_	_
+24	disons	_	VERB	_	Mood=Imp|Number=Plur|Person=1|Tense=Pres	_	_	_	_
 25	dans	_	ADP	_	_	_	_	_	_
 26	son	_	DET	_	Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes	_	_	_	_
 27	esprit	_	NOUN	_	Number=Sing	_	_	_	_
@@ -30272,7 +30272,7 @@
 7	crois	_	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	_	_	_	_
 8	"	_	PUNCT	_	_	_	_	_	_
 9	ne	_	ADV	_	Polarity=Neg	_	_	_	_
-10	signifie	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+10	signifie	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_
 11	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 12	:	_	PUNCT	_	_	_	_	_	_
 13	sentir	_	VERB	_	VerbForm=Inf	_	_	_	_
@@ -30879,7 +30879,7 @@
 14	accent	_	NOUN	_	Number=Sing	_	_	_	_
 15	,	_	PUNCT	_	_	_	_	_	_
 16	ne	_	ADV	_	Polarity=Neg	_	_	_	_
-17	sont	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_	_
+17	sont	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_
 18	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 19	appelés	_	VERB	_	Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
 20	,	_	PUNCT	_	_	_	_	_	_
@@ -30921,7 +30921,7 @@
 56	parole	_	NOUN	_	Number=Sing	_	_	_	_
 57	,	_	PUNCT	_	_	_	_	_	_
 58	ne	_	ADV	_	Polarity=Neg	_	_	_	_
-59	sont	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_	_
+59	sont	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_
 60	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 61	considérés	_	VERB	_	Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
 62	comme	_	SCONJ	_	_	_	_	_	_
@@ -33042,7 +33042,7 @@
 28	responsable	_	ADJ	_	Number=Sing	_	_	_	_
 29	,	_	PUNCT	_	_	_	_	_	_
 30	ne	_	ADV	_	Polarity=Neg	_	_	_	_
-31	sont	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_	_
+31	sont	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_
 32	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 33	les	_	DET	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
 34	mouvements	_	NOUN	_	Number=Plur	_	_	_	_
@@ -38047,7 +38047,7 @@
 51	côté	_	NOUN	_	Number=Sing	_	_	_	_
 52	suivant	_	ADJ	_	Number=Sing	_	_	_
 53	,	_	PUNCT	_	_	_	_	_	_
-54	disons	_	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres	_	_	_	_
+54	disons	_	VERB	_	Mood=Imp|Number=Plur|Person=1|Tense=Pres	_	_	_	_
 55	dans	_	ADP	_	_	_	_	_	_
 56	le	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 57	sens	_	NOUN	_	Number=Sing	_	_	_	_
@@ -38119,7 +38119,7 @@
 24	gammée	_	ADJ	_	Number=Sing	_	_	_	_
 25	"	_	PUNCT	_	_	_	_	_	_
 26	ne	_	ADV	_	Polarity=Neg	_	_	_	_
-27	signifie	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+27	signifie	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_
 28	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 29	voir	_	VERB	_	VerbForm=Inf	_	_	_	_
 30	ceci	_	PRON	_	Number=Sing|Person=3|PronType=Dem	_	_	_	_
@@ -39545,7 +39545,7 @@
 41	traits	_	NOUN	_	Number=Plur	_	_	_	_
 42	,	_	PUNCT	_	_	_	_	_	_
 43	(	_	PUNCT	_	_	_	_	_	_
-44	pensons	_	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres	_	_	_	_
+44	pensons	_	VERB	_	Mood=Imp|Number=Plur|Person=1|Tense=Pres	_	_	_	_
 45	à	_	ADP	_	_	_	_	_	_
 46	une	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
 47	image	_	NOUN	_	Number=Sing	_	_	_	_
@@ -41332,7 +41332,7 @@
 3	un	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
 4	exemple	_	NOUN	_	Number=Sing	_	_	_	_
 5	;	_	PUNCT	_	_	_	_	_	_
-6	considérons	_	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres	_	_	_	_
+6	considérons	_	VERB	_	Mood=Imp|Number=Plur|Person=1|Tense=Pres	_	_	_	_
 7	ce	_	DET	_	Number=Sing|PronType=Dem	_	_	_	_
 8	jeu	_	NOUN	_	Number=Sing	_	_	_	_
 9	linguistique	_	ADJ	_	Number=Sing	_	_	_	_
@@ -43905,7 +43905,7 @@
 28	..	_	PUNCT	_	_	_	_	_	_
 29	"	_	PUNCT	_	_	_	_	_	_
 30	ne	_	ADV	_	Polarity=Neg	_	_	_	_
-31	signifie	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+31	signifie	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_
 32	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 33	"	_	PUNCT	_	_	_	_	_	_
 34	Voir	_	VERB	_	VerbForm=Inf	_	_	_	_
@@ -47584,7 +47584,7 @@
 81	différence	_	NOUN	_	Number=Sing	_	_	_	_
 82	;	_	PUNCT	_	_	_	_	_	_
 83	ne	_	ADV	_	Polarity=Neg	_	_	_	_
-84	comprenez	_	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres	_	_	_	_
+84	comprenez	_	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres	_	_	_
 85	-vous	_	PRON	_	Number=Plur|Person=2|PronType=Prs	_	_	_	_
 86	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 87	ce	_	PRON	_	Number=Sing|Person=3|PronType=Dem	_	_	_	_
@@ -48417,7 +48417,7 @@
 11	autre	_	PRON	_	Number=Sing|Person=3	_	_	_	_
 12	,	_	PUNCT	_	_	_	_	_	_
 13	ne	_	ADV	_	Polarity=Neg	_	_	_	_
-14	dois	_	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	_	_	_	_
+14	dois	_	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	_	_	_
 15	-je	_	PRON	_	Number=Sing|Person=1|PronType=Prs	_	_	_	_
 16	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 17	,	_	PUNCT	_	_	_	_	_	_

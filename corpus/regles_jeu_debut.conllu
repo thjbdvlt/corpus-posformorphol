@@ -534,7 +534,7 @@
 279	,	_	PUNCT	_	_	_	_	_	_
 280	avance	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_
 281	(	_	PUNCT	_	_	_	_	_	_
-282	écoute	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_
+282	écoute	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_
 283	sa	_	DET	_	Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes	_	_	_	_
 284	respiration	_	NOUN	_	Number=Sing	_	_	_	_
 285	saccadée	_	ADJ	_	Number=Sing	_	_	_	_

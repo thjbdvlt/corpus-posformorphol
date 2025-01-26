@@ -4005,7 +4005,7 @@
 166	machinal	_	ADJ	_	Number=Sing	_	_	_	_
 167	,	_	PUNCT	_	_	_	_	_	_
 168	ne	_	ADV	_	Polarity=Neg	_	_	_	_
-169	croyez	_	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres	_	_	_	_
+169	croyez	_	VERB	_	Mood=Imp|Number=Plur|Person=2|Tense=Pres	_	_	_
 170	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 171	qu'	_	SCONJ	_	_	_	_	_	_
 172	on	_	PRON	_	Number=Sing|Person=3|PronType=Prs	_	_	_	_
@@ -9070,7 +9070,7 @@
 229	leur	_	DET	_	Number=Sing|Number[psor]=Plur|Person=3|Poss=Yes	_	_	_	_
 230	existence	_	NOUN	_	Number=Sing	_	_	_	_
 231	.	_	PUNCT	_	_	_	_	_	_
-232	Supposez	_	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres	_	_	_
+232	Supposez	_	VERB	_	Mood=Imp|Number=Plur|Person=2|Tense=Pres	_	_	_
 233	qu'	_	SCONJ	_	_	_	_	_	_
 234	on	_	PRON	_	Number=Sing|Person=3|PronType=Prs	_	_	_	_
 235	vous	_	PRON	_	Number=Plur|Person=2|PronType=Prs	_	_	_	_
@@ -9597,7 +9597,7 @@
 110	industrie	_	NOUN	_	Number=Sing	_	_	_	_
 111	,	_	PUNCT	_	_	_	_	_	_
 112	ne	_	ADV	_	Polarity=Neg	_	_	_	_
-113	croyez	_	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres	_	_	_	_
+113	croyez	_	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres	_	_	_
 114	-vous	_	PRON	_	Number=Plur|Person=2|PronType=Prs	_	_	_	_
 115	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 116	que	_	SCONJ	_	_	_	_	_	_
@@ -21242,7 +21242,7 @@
 93	grande	_	ADJ	_	Number=Sing	_	_	_	_
 94	échelle	_	NOUN	_	Number=Sing	_	_	_	_
 95	.	_	PUNCT	_	_	_	_	_	_
-96	Supposez	_	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres	_	_	_
+96	Supposez	_	VERB	_	Mood=Imp|Number=Plur|Person=2|Tense=Pres	_	_	_
 97	qu'	_	SCONJ	_	_	_	_	_	_
 98	il	_	PRON	_	Number=Sing|Person=3|PronType=Prs	_	_	_	_
 99	y	_	PRON	_	Person=3	_	_	_	_
@@ -23167,7 +23167,7 @@
 159	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 160	,	_	PUNCT	_	_	_	_	_	_
 161	mais	_	CCONJ	_	_	_	_	_	_
-158	détruit	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+158	détruit	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_
 163	.	_	PUNCT	_	_	_	_	_	_
 164	Elle	_	PRON	_	Number=Sing|Person=3|PronType=Prs	_	_	_	_
 165	a	_	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
