@@ -664,7 +664,7 @@
 5	leur	_	DET	_	Number=Sing|Number[psor]=Plur|Person=3|Poss=Yes	_	_	_	_
 6	41	_	NUM	_	NumType=Card	_	_	_	_
 7	]	_	PUNCT	_	_	_	_	_	_
-8	for	_	PUNCT	_	_	_	_	_
+8	for	_	NOUN	_	Number=Sing	_	_	_
 9	intérieur	_	NOUN	_	Number=Sing	_	_	_	_
 10	42	_	NUM	_	NumType=Card	_	_	_	_
 11	]	_	PUNCT	_	_	_	_	_	_

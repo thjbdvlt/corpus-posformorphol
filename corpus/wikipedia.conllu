@@ -7979,7 +7979,7 @@
 17	travaux	_	NOUN	_	Number=Plur	_	_	_	_
 18	dérivés	_	ADJ	_	Number=Plur	_	_	_	_
 19	[	_	PUNCT	_	_	_	_	_	_
-20	réf.	_	PUNCT	_	_	_	_	_
+20	réf.	_	NOUN	_	Number=Sing	_	_	_
 21	nécessaire	_	ADJ	_	Number=Sing	_	_	_	_
 22	]	_	PUNCT	_	_	_	_	_	_
 23	.	_	PUNCT	_	_	_	_	_	_

@@ -522,7 +522,7 @@
 1	par	_	ADP	_	_	_	_	_	_
 2	contre	_	ADP	_	_	_	_	_	_
 3	ne	_	ADV	_	Polarity=Neg	_	_	_	_
-4	met	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_
+4	mets	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_
 5	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 6	de	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
 7	chocolat	_	NOUN	_	Number=Sing	_	_	_	_
@@ -623,11 +623,11 @@
 17	ici	_	ADV	_	_	_	_	_	_
 18	(	_	PUNCT	_	_	_	_	_	_
 19	ils	_	PRON	_	Number=Plur|Person=3|PronType=Prs	_	_	_	_
-20	révertent	_	PUNCT	_	_	_	_	_	_
+22	révertent	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_
 21	,	_	PUNCT	_	_	_	_	_	_
 22	suppriment	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_
 23	et	_	CCONJ	_	_	_	_	_	_
-24	boquent	_	PUNCT	_	_	_	_	_	_
+22	boquent	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_
 25	selon	_	ADP	_	_	_	_	_	_
 26	leur	_	DET	_	Number=Sing|Number[psor]=Plur|Person=3|Poss=Yes	_	_	_	_
 27	seul	_	ADJ	_	Number=Sing	_	_	_	_
@@ -808,7 +808,7 @@
 # text = mais ne part pas !
 1	mais	_	CCONJ	_	_	_	_	_	_
 2	ne	_	ADV	_	Polarity=Neg	_	_	_	_
-3	part	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_
+3	pars	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_
 4	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 5	!	_	PUNCT	_	_	_	_	_	_
 
@@ -983,29 +983,6 @@
 40	sujet	_	NOUN	_	Number=Sing	_	_	_	_
 41	)	_	PUNCT	_	_	_	_	_	_
 42	.	_	PUNCT	_	_	_	_	_	_
-
-
-
-# text = surtout ne pas écrire l' identification avec les hébreux séduit certains , dont israël finkelstein , reprenant etc .
-1	surtout	_	ADV	_	_	_	_	_	_
-2	ne	_	ADV	_	Polarity=Neg	_	_	_	_
-3	pas	_	ADV	_	Polarity=Neg	_	_	_	_
-4	écrire	_	VERB	_	VerbForm=Inf	_	_	_	_
-5	l'	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
-6	identification	_	NOUN	_	Number=Sing	_	_	_	_
-7	avec	_	ADP	_	_	_	_	_	_
-8	les	_	DET	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
-9	hébreux	_	NOUN	_	Number=Plur	_	_	_	_
-10	séduit	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_
-11	certains	_	DET	_	Definite=Ind|Number=Plur|PronType=Art	_	_	_	_
-12	,	_	PUNCT	_	_	_	_	_	_
-13	dont	_	PRON	_	PronType=Rel	_	_	_	_
-14	israël	_	PRON	_	Number=Sing|Person=3|PronType=Prs	_	_	_	_
-15	finkelstein	_	PROPN	_	_	_	_	_	_
-16	,	_	PUNCT	_	_	_	_	_	_
-17	reprenant	_	VERB	_	Tense=Pres|VerbForm=Part	_	_	_	_
-18	etc	_	ADV	_	_	_	_	_	_
-19	.	_	PUNCT	_	_	_	_	_	_
 
 
 
@@ -1280,7 +1257,7 @@
 # text = surtout ne fait pas la même bêtise que moi , reste hyper cool , ne répond surtout pas tout de suite aux messages , tu rédiges un brouillon que tu relis , modifies , simplifies le lendemain avant de le poster .
 1	surtout	_	ADV	_	_	_	_	_	_
 2	ne	_	ADV	_	Polarity=Neg	_	_	_	_
-3	fait	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_
+3	fais	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_
 4	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 5	la	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 6	même	_	ADJ	_	Number=Sing	_	_	_	_
@@ -1293,7 +1270,7 @@
 13	cool	_	ADJ	_	Number=Sing	_	_	_	_
 14	,	_	PUNCT	_	_	_	_	_	_
 15	ne	_	ADV	_	Polarity=Neg	_	_	_	_
-16	répond	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_
+16	réponds	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_
 17	surtout	_	ADV	_	_	_	_	_	_
 18	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 19	tout	_	ADV	_	_	_	_	_	_
@@ -1671,7 +1648,7 @@
 # text = surtout ne prend pas mal mon avis , j' ai hésité à répondre là bas mais comme ça concernait aussi gemini 2 et flying jacket c' était le meilleur endroit .
 1	surtout	_	ADV	_	_	_	_	_	_
 2	ne	_	ADV	_	Polarity=Neg	_	_	_	_
-3	prend	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_
+3	prends	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_
 4	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 5	mal	_	ADV	_	_	_	_	_	_
 6	mon	_	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes	_	_	_	_
@@ -2016,7 +1993,7 @@
 5	l'	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 6	article	_	NOUN	_	Number=Sing	_	_	_	_
 7	denton	_	ADJ	_	Number=Sing	_	_	_	_
-8	true	_	PUNCT	_	_	_	_	_	_
+8	true	_	PROPN	_	_	_	_	_	_
 9	young	_	PROPN	_	_	_	_	_	_
 10	et	_	CCONJ	_	_	_	_	_	_
 11	ne	_	ADV	_	Polarity=Neg	_	_	_	_
@@ -2247,7 +2224,7 @@
 27	va	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_
 28	/	_	PUNCT	_	_	_	_	_	_
 29	/	_	PUNCT	_	_	_	_	_	_
-30	https://	_	PUNCT	_	_	_	_	_	_
+30	https://	_	SYM	_	_	_	_	_	_
 
 
 
@@ -2375,7 +2352,7 @@
 28	un	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
 29	journaliste	_	NOUN	_	Number=Sing	_	_	_	_
 30	.	_	PUNCT	_	_	_	_	_	_
-31	https://	_	PUNCT	_	_	_	_	_	_
+31	https://	_	SYM	_	_	_	_	_	_
 
 
 
@@ -2684,7 +2661,7 @@
 4	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 5	signaler	_	VERB	_	VerbForm=Inf	_	_	_	_
 6	[	_	PUNCT	_	_	_	_	_	_
-7	https://	_	PUNCT	_	_	_	_	_	_
+7	https://	_	SYM	_	_	_	_	_	_
 
 
 
@@ -2875,7 +2852,7 @@
 1	mais	_	CCONJ	_	_	_	_	_	_
 2	ne	_	ADV	_	Polarity=Neg	_	_	_	_
 3	le	_	PRON	_	Definite=Def|Number=Sing|Person=3|PronType=Art	_	_	_	_
-4	prend	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_
+4	prends	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_
 5	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 6	mal	_	ADV	_	_	_	_	_	_
 7	,	_	PUNCT	_	_	_	_	_	_
@@ -2977,7 +2954,7 @@
 # text = surtout ne prend pas cette remarque comme désobligeante , ce n' est qu' un petit conseil que j' ose te donner 2 ( cest )
 1	surtout	_	ADV	_	_	_	_	_	_
 2	ne	_	ADV	_	Polarity=Neg	_	_	_	_
-3	prend	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_
+3	prends	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_
 4	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 5	cette	_	DET	_	Number=Sing|PronType=Dem	_	_	_	_
 6	remarque	_	NOUN	_	Number=Sing	_	_	_	_
@@ -3145,59 +3122,6 @@
 8	léopoldine	_	PROPN	_	_	_	_	_	_
 9	hh	_	PROPN	_	_	_	_	_	_
 10	)	_	PUNCT	_	_	_	_	_	_
-
-
-
-# text = mais ne résout en aucun cas le problème des anciennes modifications où là il faut faire une recherche d' antérioté du contenu afin de savoir si c' est le site ou bien wikipedia qui a généré la première fois le contenu et pour çà je compte utiliser archive .
-1	mais	_	CCONJ	_	_	_	_	_	_
-2	ne	_	ADV	_	Polarity=Neg	_	_	_	_
-3	résout	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_
-4	en	_	ADP	_	_	_	_	_	_
-5	aucun	_	DET	_	Definite=Ind|Number=Sing|Polarity=Neg	_	_	_	_
-6	cas	_	NOUN	_	Number=Sing	_	_	_	_
-7	le	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
-8	problème	_	NOUN	_	Number=Sing	_	_	_	_
-9	des	_	ADP	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
-10	anciennes	_	ADJ	_	Number=Plur	_	_	_	_
-11	modifications	_	NOUN	_	Number=Plur	_	_	_	_
-12	où	_	PRON	_	PronType=Rel	_	_	_	_
-13	là	_	ADV	_	_	_	_	_	_
-14	il	_	PRON	_	Number=Sing|Person=3|PronType=Prs	_	_	_	_
-15	faut	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_
-16	faire	_	VERB	_	VerbForm=Inf	_	_	_	_
-17	une	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
-18	recherche	_	NOUN	_	Number=Sing	_	_	_	_
-19	d'	_	ADP	_	_	_	_	_	_
-20	antérioté	_	PROPN	_	_	_	_	_	_
-21	du	_	ADP	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
-22	contenu	_	NOUN	_	Number=Sing	_	_	_	_
-23	afin	_	SCONJ	_	_	_	_	_	_
-24	de	_	ADP	_	_	_	_	_	_
-25	savoir	_	VERB	_	VerbForm=Inf	_	_	_	_
-26	si	_	SCONJ	_	_	_	_	_	_
-27	c'	_	PRON	_	Number=Sing|Person=3|PronType=Dem	_	_	_	_
-28	est	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_
-29	le	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
-30	site	_	NOUN	_	Number=Sing	_	_	_	_
-31	ou	_	CCONJ	_	_	_	_	_	_
-32	bien	_	ADV	_	_	_	_	_	_
-33	wikipedia	_	NOUN	_	Number=Sing	_	_	_	_
-34	qui	_	PRON	_	PronType=Rel	_	_	_	_
-35	a	_	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
-36	généré	_	VERB	_	Tense=Past|VerbForm=Part	_	_	_	_
-37	la	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
-38	première	_	ADJ	_	NumType=Ord|Number=Sing	_	_	_	_
-39	fois	_	NOUN	_	Number=Sing	_	_	_	_
-40	le	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
-41	contenu	_	NOUN	_	Number=Sing	_	_	_	_
-42	et	_	CCONJ	_	_	_	_	_	_
-43	pour	_	ADP	_	_	_	_	_	_
-44	çà	_	ADV	_	_	_	_	_	_
-45	je	_	PRON	_	Number=Sing|Person=1|PronType=Prs	_	_	_	_
-46	compte	_	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	_	_	_
-47	utiliser	_	VERB	_	VerbForm=Inf	_	_	_	_
-48	archive	_	NOUN	_	Number=Sing	_	_	_	_
-49	.	_	PUNCT	_	_	_	_	_	_
 
 
 
@@ -3997,31 +3921,10 @@
 
 
 
-# text = surtout ne me parle pas de ian kershaw , que sa haine d' adolf hitler aveugle .
-1	surtout	_	ADV	_	_	_	_	_	_
-2	ne	_	ADV	_	Polarity=Neg	_	_	_	_
-3	me	_	PRON	_	Number=Sing|Person=1|PronType=Prs	_	_	_	_
-4	parle	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_
-5	pas	_	ADV	_	Polarity=Neg	_	_	_	_
-6	de	_	ADP	_	_	_	_	_	_
-7	ian	_	PROPN	_	_	_	_	_	_
-8	kershaw	_	PROPN	_	_	_	_	_	_
-9	,	_	PUNCT	_	_	_	_	_	_
-10	que	_	SCONJ	_	_	_	_	_	_
-11	sa	_	DET	_	Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes	_	_	_	_
-12	haine	_	NOUN	_	Number=Sing	_	_	_	_
-13	d'	_	ADP	_	_	_	_	_	_
-14	adolf	_	PROPN	_	_	_	_	_	_
-15	hitler	_	PRON	_	Number=Sing|Person=3|PronType=Prs	_	_	_	_
-16	aveugle	_	ADJ	_	Number=Sing	_	_	_	_
-17	.	_	PUNCT	_	_	_	_	_	_
-
-
-
 # text = surtout ne revverter plus sans , par exemple , m' en parler avant :
 1	surtout	_	ADV	_	_	_	_	_	_
 2	ne	_	ADV	_	Polarity=Neg	_	_	_	_
-3	revverter	_	PUNCT	_	_	_	_	_	_
+16	revverter	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_
 4	plus	_	ADV	_	_	_	_	_	_
 5	sans	_	ADP	_	Polarity=Neg	_	_	_	_
 6	,	_	PUNCT	_	_	_	_	_	_
@@ -4172,7 +4075,7 @@
 7	avoir	_	AUX	_	VerbForm=Inf	_	_	_	_
 8	rétabli	_	VERB	_	Tense=Past|VerbForm=Part	_	_	_	_
 9	[	_	PUNCT	_	_	_	_	_	_
-10	https://	_	PUNCT	_	_	_	_	_	_
+10	https://	_	SYM	_	_	_	_	_	_
 
 
 
@@ -4379,7 +4282,7 @@
 1	par	_	ADP	_	_	_	_	_	_
 2	contre	_	ADP	_	_	_	_	_	_
 3	ne	_	ADV	_	Polarity=Neg	_	_	_	_
-4	perd	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_
+4	perds	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_
 5	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 6	de	_	ADP	_	_	_	_	_	_
 7	vue	_	NOUN	_	Number=Sing	_	_	_	_
@@ -4557,7 +4460,7 @@
 1	surtout	_	ADV	_	_	_	_	_	_
 2	ne	_	ADV	_	Polarity=Neg	_	_	_	_
 3	le	_	PRON	_	Definite=Def|Number=Sing|Person=3|PronType=Art	_	_	_	_
-4	prend	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_
+4	prends	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_
 5	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 6	mal	_	ADV	_	_	_	_	_	_
 7	,	_	PUNCT	_	_	_	_	_	_
@@ -5126,7 +5029,7 @@
 1	surtout	_	ADV	_	_	_	_	_	_
 2	ne	_	ADV	_	Polarity=Neg	_	_	_	_
 3	le	_	PRON	_	Definite=Def|Number=Sing|Person=3|PronType=Art	_	_	_	_
-4	prend	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_
+4	prends	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_
 5	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 6	mal	_	ADV	_	_	_	_	_	_
 7	,	_	PUNCT	_	_	_	_	_	_
@@ -5385,7 +5288,7 @@
 1	surtout	_	ADV	_	_	_	_	_	_
 2	ne	_	ADV	_	Polarity=Neg	_	_	_	_
 3	le	_	PRON	_	Definite=Def|Number=Sing|Person=3|PronType=Art	_	_	_	_
-4	prend	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_
+4	prends	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_
 5	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 6	mal	_	ADV	_	_	_	_	_	_
 7	:	_	PUNCT	_	_	_	_	_	_
@@ -5515,7 +5418,7 @@
 14	d'	_	ADP	_	_	_	_	_	_
 15	écrire	_	VERB	_	VerbForm=Inf	_	_	_	_
 16	[	_	PUNCT	_	_	_	_	_	_
-17	https://	_	PUNCT	_	_	_	_	_	_
+17	https://	_	SYM	_	_	_	_	_	_
 
 
 
@@ -5762,7 +5665,7 @@
 # text = surtout ne répond pas , je m' en fous , c' est une question purement rhétorique qui n' appelle pas de réponse .
 1	surtout	_	ADV	_	_	_	_	_	_
 2	ne	_	ADV	_	Polarity=Neg	_	_	_	_
-3	répond	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_
+3	réponds	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_
 4	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 5	,	_	PUNCT	_	_	_	_	_	_
 6	je	_	PRON	_	Number=Sing|Person=1|PronType=Prs	_	_	_	_
@@ -6085,7 +5988,7 @@
 38	partie	_	NOUN	_	Number=Sing	_	_	_	_
 39	"	_	PUNCT	_	_	_	_	_	_
 40	[	_	PUNCT	_	_	_	_	_	_
-41	https://	_	PUNCT	_	_	_	_	_	_
+41	https://	_	SYM	_	_	_	_	_	_
 
 
 
@@ -6367,7 +6270,7 @@
 1	surtout	_	ADV	_	_	_	_	_	_
 2	ne	_	ADV	_	Polarity=Neg	_	_	_	_
 3	le	_	PRON	_	Definite=Def|Number=Sing|Person=3|PronType=Art	_	_	_	_
-4	prend	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_
+4	prends	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_
 5	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 6	mal	_	ADV	_	_	_	_	_	_
 7	.	_	PUNCT	_	_	_	_	_	_
@@ -6736,7 +6639,7 @@
 # text = surtout ne fait pas attention a ce que j' écris , je suis nul en francais .
 1	surtout	_	ADV	_	_	_	_	_	_
 2	ne	_	ADV	_	Polarity=Neg	_	_	_	_
-3	fait	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_
+3	fais	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_
 4	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 5	attention	_	NOUN	_	Number=Sing	_	_	_	_
 6	a	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_
@@ -7069,7 +6972,7 @@
 7	valeur	_	NOUN	_	Number=Sing	_	_	_	_
 8	des	_	ADP	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
 9	[	_	PUNCT	_	_	_	_	_	_
-10	https://	_	PUNCT	_	_	_	_	_	_
+10	https://	_	SYM	_	_	_	_	_	_
 
 
 
@@ -7873,7 +7776,7 @@
 # text = surtout ne guéris pas de ça clin
 1	surtout	_	ADV	_	_	_	_	_	_
 2	ne	_	ADV	_	Polarity=Neg	_	_	_	_
-3	guéris	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	TODO=_|Person=21
+3	guéris	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	
 4	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 5	de	_	ADP	_	_	_	_	_	_
 6	ça	_	PRON	_	Number=Sing|Person=3|PronType=Dem	_	_	_	_
@@ -8785,13 +8688,12 @@
 35	très	_	ADV	_	_	_	_	_	_
 36	récents	_	ADJ	_	Number=Plur	_	_	_	_
 37	(	_	PUNCT	_	_	_	_	_	_
-38	microsoft	_	ADJ	_	Number=Sing	_	_	_	_
+38	microsoft	_	PROPN	_	Number=Sing	_	_	_	_
 39	office	_	NOUN	_	Number=Sing	_	_	_	_
 40	,	_	PUNCT	_	_	_	_	_	_
-41	windows	_	PUNCT	_	_	_	_	_	_
+41	windows	_	PROPN	_	_	_	_	_	_
 42	,	_	PUNCT	_	_	_	_	_	_
-43	google	_	NOUN	_	Number=Sing	_	_	_	_
-44	chrome	_	NOUN	_	Number=Sing	_	_	_	_
+43	google	_	PROPN	_	Number=Sing	_	_	_	_
 45	,	_	PUNCT	_	_	_	_	_	_
 46	léopard	_	NOUN	_	Number=Sing	_	_	_	_
 47	,	_	PUNCT	_	_	_	_	_	_
@@ -8819,7 +8721,7 @@
 1	mais	_	CCONJ	_	_	_	_	_	_
 2	ne	_	ADV	_	Polarity=Neg	_	_	_	_
 3	nous	_	PRON	_	Number=Plur|Person=1|PronType=Prs	_	_	_	_
-4	dit	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_
+4	dis	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_
 5	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 6	qu'	_	SCONJ	_	_	_	_	_	_
 7	à	_	ADP	_	_	_	_	_	_
@@ -8898,26 +8800,6 @@
 24	,	_	PUNCT	_	_	_	_	_	_
 25	bienvenue	_	ADJ	_	Number=Sing	_	_	_	_
 26	.	_	PUNCT	_	_	_	_	_	_
-
-
-
-# text = surtout ne pas écrire certains , dont israël finkelstein , reprenant les thèses de etc .
-1	surtout	_	ADV	_	_	_	_	_	_
-2	ne	_	ADV	_	Polarity=Neg	_	_	_	_
-3	pas	_	ADV	_	Polarity=Neg	_	_	_	_
-4	écrire	_	VERB	_	VerbForm=Inf	_	_	_	_
-5	certains	_	DET	_	Definite=Ind|Number=Plur|PronType=Art	_	_	_	_
-6	,	_	PUNCT	_	_	_	_	_	_
-7	dont	_	PRON	_	PronType=Rel	_	_	_	_
-8	israël	_	PRON	_	Number=Sing|Person=3|PronType=Prs	_	_	_	_
-9	finkelstein	_	PROPN	_	_	_	_	_	_
-10	,	_	PUNCT	_	_	_	_	_	_
-11	reprenant	_	VERB	_	Tense=Pres|VerbForm=Part	_	_	_	_
-12	les	_	DET	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
-13	thèses	_	NOUN	_	Number=Plur	_	_	_	_
-14	de	_	ADP	_	_	_	_	_	_
-15	etc	_	ADV	_	_	_	_	_	_
-16	.	_	PUNCT	_	_	_	_	_	_
 
 
 
@@ -10015,7 +9897,7 @@
 10	ivan	_	NOUN	_	Number=Sing	_	_	_	_
 11	rioufol	_	PROPN	_	_	_	_	_	_
 12	[	_	PUNCT	_	_	_	_	_	_
-13	https://	_	PUNCT	_	_	_	_	_	_
+13	https://	_	SYM	_	_	_	_	_	_
 
 
 
@@ -10166,7 +10048,7 @@
 # text = surtout ne vient pas ici .
 1	surtout	_	ADV	_	_	_	_	_	_
 2	ne	_	ADV	_	Polarity=Neg	_	_	_	_
-3	vient	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_
+3	viens	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_
 4	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 5	ici	_	ADV	_	_	_	_	_	_
 15	.	_	PUNCT	_	_	_	_	_	_
@@ -10454,7 +10336,7 @@
 8	projet	_	NOUN	_	Number=Sing	_	_	_	_
 9	définitif	_	ADJ	_	Number=Sing	_	_	_	_
 10	[	_	PUNCT	_	_	_	_	_	_
-11	https://	_	PUNCT	_	_	_	_	_	_
+11	https://	_	SYM	_	_	_	_	_	_
 
 
 
@@ -10521,7 +10403,7 @@
 1	surtout	_	ADV	_	_	_	_	_	_
 2	ne	_	ADV	_	Polarity=Neg	_	_	_	_
 3	le	_	PRON	_	Definite=Def|Number=Sing|Person=3|PronType=Art	_	_	_	_
-4	prend	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_
+4	prends	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_
 5	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 6	comme	_	SCONJ	_	_	_	_	_	_
 7	une	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
@@ -10723,64 +10605,6 @@
 3	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 4	craquer	_	VERB	_	VerbForm=Inf	_	_	_	_
 5	.	_	PUNCT	_	_	_	_	_	_
-
-
-
-# text = par conséquent ne devraient pas se trouver d' articles sur des produits en cours de commercialisation tels que séries télévisées encore en tournage ou qui viennent d' être tournées , logiciels commerciaux exploités ou très récents ( microsoft office , windows , google chrome , léopard , mac os x snoow léopard , .
-1	par	_	ADP	_	_	_	_	_	_
-2	conséquent	_	ADJ	_	Number=Sing	_	_	_	_
-3	ne	_	ADV	_	Polarity=Neg	_	_	_	_
-4	devraient	_	VERB	_	Mood=Cnd|Number=Plur|Person=3|Tense=Pres	_	_	_	_
-5	pas	_	ADV	_	Polarity=Neg	_	_	_	_
-6	se	_	PRON	_	Person=3|PronType=Prs|Reflex=Yes	_	_	_	_
-7	trouver	_	VERB	_	VerbForm=Inf	_	_	_	_
-8	d'	_	ADP	_	_	_	_	_	_
-9	articles	_	NOUN	_	Number=Plur	_	_	_	_
-10	sur	_	ADP	_	_	_	_	_	_
-11	des	_	DET	_	Definite=Ind|Number=Plur|PronType=Art	_	_	_	_
-12	produits	_	NOUN	_	Number=Plur	_	_	_	_
-13	en	_	ADP	_	_	_	_	_	_
-14	cours	_	NOUN	_	Number=Sing	_	_	_	_
-15	de	_	ADP	_	_	_	_	_	_
-16	commercialisation	_	NOUN	_	Number=Sing	_	_	_	_
-17	tels	_	PRON	_	Number=Plur	_	_	_	_
-18	que	_	SCONJ	_	_	_	_	_	_
-19	séries	_	NOUN	_	Number=Plur	_	_	_	_
-20	télévisées	_	ADJ	_	Number=Plur	_	_	_	_
-21	encore	_	ADV	_	_	_	_	_	_
-22	en	_	ADP	_	_	_	_	_	_
-23	tournage	_	NOUN	_	Number=Sing	_	_	_	_
-24	ou	_	CCONJ	_	_	_	_	_	_
-25	qui	_	PRON	_	PronType=Rel	_	_	_	_
-26	viennent	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_
-27	d'	_	ADP	_	_	_	_	_	_
-28	être	_	AUX	_	VerbForm=Inf	_	_	_	_
-29	tournées	_	VERB	_	Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
-30	,	_	PUNCT	_	_	_	_	_	_
-31	logiciels	_	NOUN	_	Number=Plur	_	_	_	_
-32	commerciaux	_	ADJ	_	Number=Plur	_	_	_	_
-33	exploités	_	ADJ	_	Number=Plur	_	_	_	_
-34	ou	_	CCONJ	_	_	_	_	_	_
-35	très	_	ADV	_	_	_	_	_	_
-36	récents	_	ADJ	_	Number=Plur	_	_	_	_
-37	(	_	PUNCT	_	_	_	_	_	_
-38	microsoft	_	ADJ	_	Number=Sing	_	_	_	_
-39	office	_	NOUN	_	Number=Sing	_	_	_	_
-40	,	_	PUNCT	_	_	_	_	_	_
-41	windows	_	PUNCT	_	_	_	_	_	_
-42	,	_	PUNCT	_	_	_	_	_	_
-43	google	_	NOUN	_	Number=Sing	_	_	_	_
-44	chrome	_	NOUN	_	Number=Sing	_	_	_	_
-45	,	_	PUNCT	_	_	_	_	_	_
-46	léopard	_	NOUN	_	Number=Sing	_	_	_	_
-47	,	_	PUNCT	_	_	_	_	_	_
-48	mac	_	NOUN	_	Number=Sing	_	_	_	_
-49	os	_	NOUN	_	Number=Sing	_	_	_	_
-50	x	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_
-51	snoow	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
-52	léopard	_	NOUN	_	Number=Sing	_	_	_	_
-53	,	_	PUNCT	_	_	_	_	_	_
-54	.	_	PUNCT	_	_	_	_	_	_
 
 
 
@@ -11010,7 +10834,7 @@
 # text = surtout ne prend pas comme un reproche ma remarque sur ta modification sur l' article heinz lammerding .
 1	surtout	_	ADV	_	_	_	_	_	_
 2	ne	_	ADV	_	Polarity=Neg	_	_	_	_
-3	prend	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_
+3	prends	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_
 4	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 5	comme	_	SCONJ	_	_	_	_	_	_
 6	un	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
@@ -11208,62 +11032,6 @@
 3	changez	_	VERB	_	Mood=Imp|Number=Plur|Person=2|Tense=Pres	_	_	_	_
 4	rien	_	PRON	_	Number=Sing|Polarity=Neg	_	_	_	_
 5	.	_	PUNCT	_	_	_	_	_	_
-
-
-
-# text = par conséquent ne devraient pas se trouver d' articles sur des produits en cours de commercialisation tels que séries télévisées encore en tournage ou qui viennent d' être tournées , logiciels commerciaux exploités ou très récents ( microsoft office , windows , google chrome , léopard , mac os x , .
-1	par	_	ADP	_	_	_	_	_	_
-2	conséquent	_	ADJ	_	Number=Sing	_	_	_	_
-3	ne	_	ADV	_	Polarity=Neg	_	_	_	_
-4	devraient	_	VERB	_	Mood=Cnd|Number=Plur|Person=3|Tense=Pres	_	_	_	_
-5	pas	_	ADV	_	Polarity=Neg	_	_	_	_
-6	se	_	PRON	_	Person=3|PronType=Prs|Reflex=Yes	_	_	_	_
-7	trouver	_	VERB	_	VerbForm=Inf	_	_	_	_
-8	d'	_	ADP	_	_	_	_	_	_
-9	articles	_	NOUN	_	Number=Plur	_	_	_	_
-10	sur	_	ADP	_	_	_	_	_	_
-11	des	_	DET	_	Definite=Ind|Number=Plur|PronType=Art	_	_	_	_
-12	produits	_	NOUN	_	Number=Plur	_	_	_	_
-13	en	_	ADP	_	_	_	_	_	_
-14	cours	_	NOUN	_	Number=Sing	_	_	_	_
-15	de	_	ADP	_	_	_	_	_	_
-16	commercialisation	_	NOUN	_	Number=Sing	_	_	_	_
-17	tels	_	PRON	_	Number=Plur	_	_	_	_
-18	que	_	SCONJ	_	_	_	_	_	_
-19	séries	_	NOUN	_	Number=Plur	_	_	_	_
-20	télévisées	_	ADJ	_	Number=Plur	_	_	_	_
-21	encore	_	ADV	_	_	_	_	_	_
-22	en	_	ADP	_	_	_	_	_	_
-23	tournage	_	NOUN	_	Number=Sing	_	_	_	_
-24	ou	_	CCONJ	_	_	_	_	_	_
-25	qui	_	PRON	_	PronType=Rel	_	_	_	_
-26	viennent	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_
-27	d'	_	ADP	_	_	_	_	_	_
-28	être	_	AUX	_	VerbForm=Inf	_	_	_	_
-29	tournées	_	VERB	_	Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
-30	,	_	PUNCT	_	_	_	_	_	_
-31	logiciels	_	NOUN	_	Number=Plur	_	_	_	_
-32	commerciaux	_	ADJ	_	Number=Plur	_	_	_	_
-33	exploités	_	ADJ	_	Number=Plur	_	_	_	_
-34	ou	_	CCONJ	_	_	_	_	_	_
-35	très	_	ADV	_	_	_	_	_	_
-36	récents	_	ADJ	_	Number=Plur	_	_	_	_
-37	(	_	PUNCT	_	_	_	_	_	_
-38	microsoft	_	ADJ	_	Number=Sing	_	_	_	_
-39	office	_	NOUN	_	Number=Sing	_	_	_	_
-40	,	_	PUNCT	_	_	_	_	_	_
-41	windows	_	PUNCT	_	_	_	_	_	_
-42	,	_	PUNCT	_	_	_	_	_	_
-43	google	_	NOUN	_	Number=Sing	_	_	_	_
-44	chrome	_	NOUN	_	Number=Sing	_	_	_	_
-45	,	_	PUNCT	_	_	_	_	_	_
-46	léopard	_	NOUN	_	Number=Sing	_	_	_	_
-47	,	_	PUNCT	_	_	_	_	_	_
-48	mac	_	NOUN	_	Number=Sing	_	_	_	_
-49	os	_	NOUN	_	Number=Sing	_	_	_	_
-50	x	_	ADJ	_	Number=Plur	_	_	_	_
-51	,	_	PUNCT	_	_	_	_	_	_
-52	.	_	PUNCT	_	_	_	_	_	_
 
 
 

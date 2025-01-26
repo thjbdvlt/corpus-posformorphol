@@ -23,7 +23,7 @@
 2	ton	_	DET	_	Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes	_	_	_	_
 3	stylo	_	NOUN	_	Number=Sing	_	_	_	_
 4	et	_	CCONJ	_	_	_	_	_	_
-5	prouve	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+5	prouve	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 6	nous	_	PRON	_	Number=Plur|Person=1|PronType=Prs	_	_	_	_
 7	mathématiquement	_	ADV	_	_	_	_	_	_
 8	que	_	SCONJ	_	_	_	_	_	_
@@ -36,7 +36,7 @@
 15	au	_	ADP	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 16	lieu	_	NOUN	_	Number=Sing	_	_	_	_
 17	de	_	ADP	_	_	_	_	_	_
-18	jangler	_	PUNCT	_	_	_	_	_	_
+26	jongler	_	VERB	_	VerbForm=Inf	_	_	_	_
 19	avec	_	ADP	_	_	_	_	_	_
 20	les	_	DET	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
 21	mots	_	NOUN	_	Number=Plur	_	_	_	_
@@ -57,7 +57,7 @@
 36	le	_	PRON	_	Definite=Def|Number=Sing|Person=3|PronType=Art	_	_	_	_
 37	prouver	_	VERB	_	VerbForm=Inf	_	_	_	_
 38	marouane	_	PROPN	_	_	_	_	_	_
-39	rhafli	_	PUNCT	_	_	_	_	_	_
+12	.	_	PUNCT	_	_	_	_	_	_
 
 
 
@@ -1145,9 +1145,7 @@
 2	une	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
 3	recherche	_	NOUN	_	Number=Sing	_	_	_	_
 4	sur	_	ADP	_	_	_	_	_	_
-5	carbon	_	PRON	_	Definite=Ind|Number=Sing|Person=3|PronType=Ind	_	_	_	_
-6	finance	_	NOUN	_	Number=Sing	_	_	_	_
-7	intel	_	ADJ	_	Number=Sing	_	_	_	_
+7	intel	_	PROPN	_	_	_	_	_	_
 8	et	_	CCONJ	_	_	_	_	_	_
 9	tu	_	PRON	_	Number=Sing|Person=2|PronType=Prs	_	_	_	_
 10	ne	_	ADV	_	Polarity=Neg	_	_	_	_
@@ -1267,13 +1265,13 @@
 
 
 
-# text = fais ce qu' on te dis ou tu seras bannis .
+# text = fais ce qu' on te dit ou tu seras bannis .
 1	fais	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	_
 2	ce	_	PRON	_	Number=Sing|Person=3|PronType=Dem	_	_	_	_
 3	qu'	_	PRON	_	PronType=Rel	_	_	_	_
 4	on	_	PRON	_	Number=Sing|Person=3|PronType=Prs	_	_	_	_
 5	te	_	PRON	_	Number=Sing|Person=2|PronType=Prs	_	_	_	_
-6	dis	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	TODO=_|Person=21
+6	dit	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_
 7	ou	_	CCONJ	_	_	_	_	_	_
 8	tu	_	PRON	_	Number=Sing|Person=2|PronType=Prs	_	_	_	_
 9	seras	_	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Fut	_	_	_	_
@@ -1323,7 +1321,7 @@
 7	et	_	CCONJ	_	_	_	_	_	_
 8	ça	_	PRON	_	Number=Sing|Person=3|PronType=Dem	_	_	_	_
 9	[	_	PUNCT	_	_	_	_	_	_
-10	https://	_	PUNCT	_	_	_	_	_	_
+10	https://	_	SYM	_	_	_	_	_	_
 
 
 
@@ -1470,20 +1468,6 @@
 6	y	_	PRON	_	Person=3	_	_	_	_
 7	remédier	_	VERB	_	VerbForm=Inf	_	_	_	_
 8	.	_	PUNCT	_	_	_	_	_	_
-
-
-
-# text = fais tu référence à foncia ( imoca 2 mapfre ?
-1	fais	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	_
-2	tu	_	PRON	_	Number=Sing|Person=2|PronType=Prs	_	_	_	_
-3	référence	_	NOUN	_	Number=Sing	_	_	_	_
-4	à	_	ADP	_	_	_	_	_	_
-5	foncia	_	PROPN	_	_	_	_	_	_
-6	(	_	PUNCT	_	_	_	_	_	_
-7	imoca	_	ADJ	_	Number=Sing	_	_	_	_
-8	2	_	NUM	_	NumType=Card	_	_	_	_
-9	mapfre	_	PUNCT	_	_	_	_	_	_
-10	?	_	PUNCT	_	_	_	_	_	_
 
 
 
@@ -2261,7 +2245,7 @@
 10	par	_	ADP	_	_	_	_	_	_
 11	un	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
 12	bonbon	_	NOUN	_	Number=Sing	_	_	_	_
-13	mddr	_	PUNCT	_	_	_	_	_	_
+13	mddr	_	ADV	_	_	_	_	_	_
 14	.	_	PUNCT	_	_	_	_	_	_
 
 
@@ -2289,22 +2273,7 @@
 7	sur	_	ADP	_	_	_	_	_	_
 8	les	_	DET	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
 9	pieds	_	NOUN	_	Number=Plur	_	_	_	_
-10	avec	_	ADP	_	_	_	_	_	_
-11	like	_	NOUN	_	Number=Sing	_	_	_	_
-12	tears	_	PUNCT	_	_	_	_	_	_
-13	in	_	PUNCT	_	_	_	_	_	_
-14	rainn	_	PUNCT	_	_	_	_	_	_
-15	,	_	PUNCT	_	_	_	_	_	_
-16	je	_	PRON	_	Number=Sing|Person=1|PronType=Prs	_	_	_	_
-17	crois	_	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	_	_	_	_
-18	qu'	_	SCONJ	_	_	_	_	_	_
-19	il	_	PRON	_	Number=Sing|Person=3|PronType=Prs	_	_	_	_
-20	rôde	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
-21	aussi	_	ADV	_	_	_	_	_	_
-22	dans	_	ADP	_	_	_	_	_	_
-23	le	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
-24	coin	_	NOUN	_	Number=Sing	_	_	_	_
-25	mdr	_	PUNCT	_	_	_	_	_	_
+25	mdr	_	ADV	_	_	_	_	_	_
 26	.	_	PUNCT	_	_	_	_	_	_
 
 
@@ -2489,7 +2458,7 @@
 2	par	_	ADP	_	_	_	_	_	_
 3	exemple	_	NOUN	_	Number=Sing	_	_	_	_
 4	[	_	PUNCT	_	_	_	_	_	_
-5	https://	_	PUNCT	_	_	_	_	_	_
+5	https://	_	SYM	_	_	_	_	_	_
 
 
 
@@ -2837,7 +2806,7 @@
 10	du	_	ADP	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 11	proposant	_	VERB	_	Tense=Pres|VerbForm=Part	_	_	_	_
 12	tu	_	PRON	_	Number=Sing|Person=2|PronType=Prs	_	_	_	_
-13	gangeras	_	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Fut	_	_	_	TODO=Tense,Mood
+13	gagneras	_	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Fut	_	_	_	
 14	de	_	ADP	_	_	_	_	_	_
 15	l'	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 16	énergie	_	NOUN	_	Number=Sing	_	_	_	_
@@ -3713,7 +3682,7 @@
 7	tout	_	ADV	_	_	_	_	_	_
 8	simplement	_	ADV	_	_	_	_	_	_
 9	[	_	PUNCT	_	_	_	_	_	_
-10	https://	_	PUNCT	_	_	_	_	_	_
+10	https://	_	SYM	_	_	_	_	_	_
 
 
 
@@ -4040,22 +4009,6 @@
 11	de	_	ADP	_	_	_	_	_	_
 12	grave	_	ADJ	_	Number=Sing	_	_	_	_
 13	.	_	PUNCT	_	_	_	_	_	_
-
-
-
-# text = prends soin de ma femme ( take my wife , please )
-1	prends	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	_
-2	soin	_	NOUN	_	Number=Sing	_	_	_	_
-3	de	_	ADP	_	_	_	_	_	_
-4	ma	_	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes	_	_	_	_
-5	femme	_	NOUN	_	Number=Sing	_	_	_	_
-6	(	_	PUNCT	_	_	_	_	_	_
-7	take	_	VERB	_	Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
-8	my	_	PUNCT	_	_	_	_	_	_
-9	wife	_	PROPN	_	_	_	_	_	_
-10	,	_	PUNCT	_	_	_	_	_	_
-11	please	_	ADJ	_	Number=Plur	_	_	_	_
-12	)	_	PUNCT	_	_	_	_	_	_
 
 
 
@@ -5361,7 +5314,7 @@
 17	aux	_	ADP	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
 18	auteurs	_	NOUN	_	Number=Plur	_	_	_	_
 19	,	_	PUNCT	_	_	_	_	_	_
-20	remplis	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	TODO=_|Person=21
+20	remplis	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_
 21	toujours	_	ADV	_	_	_	_	_	_
 22	les	_	DET	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
 23	résumés	_	NOUN	_	Number=Plur	_	_	_	_
@@ -5453,78 +5406,6 @@
 17	faudrait	_	VERB	_	Mood=Cnd|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 18	faire	_	VERB	_	VerbForm=Inf	_	_	_	_
 19	.	_	PUNCT	_	_	_	_	_	_
-
-
-
-# text = imagine qu' ils tombent sur un lien de wikipédia ( dans les 2 premiers de la liste de google ( sinon , ils ne regardent pas ) ) , qu' ils lisent l' article , qu' ils voyent l' acceuil et qu' après avoir lu la page d' acceuil , ils se disent que c' est intéressant , ils deviennent des contribs et wikipédia en est gagnante ,
-1	imagine	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	_
-2	qu'	_	SCONJ	_	_	_	_	_	_
-3	ils	_	PRON	_	Number=Plur|Person=3|PronType=Prs	_	_	_	_
-4	tombent	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_	_
-5	sur	_	ADP	_	_	_	_	_	_
-6	un	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
-7	lien	_	NOUN	_	Number=Sing	_	_	_	_
-8	de	_	ADP	_	_	_	_	_	_
-9	wikipédia	_	NOUN	_	Number=Sing	_	_	_	_
-10	(	_	PUNCT	_	_	_	_	_	_
-11	dans	_	ADP	_	_	_	_	_	_
-12	les	_	DET	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
-13	2	_	NUM	_	NumType=Card	_	_	_	_
-14	premiers	_	ADJ	_	NumType=Ord|Number=Plur	_	_	_	_
-15	de	_	ADP	_	_	_	_	_	_
-16	la	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
-17	liste	_	NOUN	_	Number=Sing	_	_	_	_
-18	de	_	ADP	_	_	_	_	_	_
-19	google	_	NOUN	_	Number=Sing	_	_	_	_
-20	(	_	PUNCT	_	_	_	_	_	_
-21	sinon	_	SCONJ	_	_	_	_	_	_
-22	,	_	PUNCT	_	_	_	_	_	_
-23	ils	_	PRON	_	Number=Plur|Person=3|PronType=Prs	_	_	_	_
-24	ne	_	ADV	_	Polarity=Neg	_	_	_	_
-25	regardent	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_	_
-26	pas	_	ADV	_	Polarity=Neg	_	_	_	_
-27	)	_	PUNCT	_	_	_	_	_	_
-28	)	_	PUNCT	_	_	_	_	_	_
-29	,	_	PUNCT	_	_	_	_	_	_
-30	qu'	_	SCONJ	_	_	_	_	_	_
-31	ils	_	PRON	_	Number=Plur|Person=3|PronType=Prs	_	_	_	_
-32	lisent	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_	_
-33	l'	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
-34	article	_	NOUN	_	Number=Sing	_	_	_	_
-35	,	_	PUNCT	_	_	_	_	_	_
-36	qu'	_	SCONJ	_	_	_	_	_	_
-37	ils	_	PRON	_	Number=Plur|Person=3|PronType=Prs	_	_	_	_
-38	voyent	_	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres	_	_	_	TODO=Tense,Mood
-39	l'	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
-40	acceuil	_	NOUN	_	Number=Sing	_	_	_	_
-41	et	_	CCONJ	_	_	_	_	_	_
-42	qu'	_	SCONJ	_	_	_	_	_	_
-43	après	_	ADP	_	_	_	_	_	_
-44	avoir	_	AUX	_	VerbForm=Inf	_	_	_	_
-45	lu	_	VERB	_	Tense=Past|VerbForm=Part	_	_	_	_
-46	la	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
-47	page	_	NOUN	_	Number=Sing	_	_	_	_
-48	d'	_	ADP	_	_	_	_	_	_
-49	acceuil	_	NOUN	_	Number=Sing	_	_	_	_
-50	,	_	PUNCT	_	_	_	_	_	_
-51	ils	_	PRON	_	Number=Plur|Person=3|PronType=Prs	_	_	_	_
-52	se	_	PRON	_	Person=3|PronType=Prs|Reflex=Yes	_	_	_	_
-53	disent	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_	_
-54	que	_	SCONJ	_	_	_	_	_	_
-55	c'	_	PRON	_	Number=Sing|Person=3|PronType=Dem	_	_	_	_
-56	est	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
-57	intéressant	_	ADJ	_	Number=Sing	_	_	_	_
-58	,	_	PUNCT	_	_	_	_	_	_
-59	ils	_	PRON	_	Number=Plur|Person=3|PronType=Prs	_	_	_	_
-60	deviennent	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_	_
-61	des	_	DET	_	Definite=Ind|Number=Plur|PronType=Art	_	_	_	_
-62	contribs	_	NOUN	_	Number=Plur	_	_	_	_
-63	et	_	CCONJ	_	_	_	_	_	_
-64	wikipédia	_	NOUN	_	Number=Sing	_	_	_	_
-65	en	_	PRON	_	Person=3	_	_	_	_
-66	est	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
-67	gagnante	_	ADJ	_	Number=Sing	_	_	_	_
-68	,	_	PUNCT	_	_	_	_	_	_
 
 
 
@@ -7876,7 +7757,7 @@
 23	article	_	NOUN	_	Number=Sing	_	_	_	_
 24	(	_	PUNCT	_	_	_	_	_	_
 25	[	_	PUNCT	_	_	_	_	_	_
-26	https://	_	PUNCT	_	_	_	_	_	_
+26	https://	_	SYM	_	_	_	_	_	_
 
 
 
