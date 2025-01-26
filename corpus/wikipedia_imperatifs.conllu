@@ -4274,7 +4274,7 @@
 
 
 # text = corrige vite .
-1	corrige	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+1	corrige	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	_
 2	vite	_	ADV	_	_	_	_	_	_
 3	.	_	PUNCT	_	_	_	_	_	_
 
@@ -4314,7 +4314,7 @@
 
 
 # text = demande à un admin pour te renseigner ..
-1	demande	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+1	demande	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	_
 2	à	_	ADP	_	_	_	_	_	_
 3	un	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
 4	admin	_	NOUN	_	Number=Sing	_	_	_	_
@@ -4326,7 +4326,7 @@
 
 
 # text = demande à un contributeur moyennement expérimenté de circuler entre toutes ces pages et demande lui ce qu' il en pense .
-1	demande	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+1	demande	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	_
 2	à	_	ADP	_	_	_	_	_	_
 3	un	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
 4	contributeur	_	NOUN	_	Number=Sing	_	_	_	_
@@ -4358,7 +4358,7 @@
 5	le	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 6	temps	_	NOUN	_	Number=Sing	_	_	_	_
 7	,	_	PUNCT	_	_	_	_	_	_
-8	pense	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+8	pense	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	_
 9	à	_	ADP	_	_	_	_	_	_
 10	mettre	_	VERB	_	VerbForm=Inf	_	_	_	_
 11	tes	_	DET	_	Number=Plur|Number[psor]=Sing|Person=2|Poss=Yes	_	_	_	_
@@ -4372,7 +4372,7 @@
 
 
 # text = pense à jeter un coup d' oeil à la page de discussion de l' article , j' y ai proposé des modifs de fond .
-1	pense	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+1	pense	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	_
 2	à	_	ADP	_	_	_	_	_	_
 3	jeter	_	VERB	_	VerbForm=Inf	_	_	_	_
 4	un	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
@@ -4415,7 +4415,7 @@
 12	même	_	ADJ	_	Number=Sing	_	_	_	_
 13	chose	_	NOUN	_	Number=Sing	_	_	_	_
 14	,	_	PUNCT	_	_	_	_	_	_
-15	pense	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+15	pense	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	_
 16	à	_	ADP	_	_	_	_	_	_
 17	en	_	PRON	_	Person=3	_	_	_	_
 18	tester	_	VERB	_	VerbForm=Inf	_	_	_	_
@@ -4497,7 +4497,7 @@
 1	avant	_	ADP	_	_	_	_	_	_
 2	tout	_	PRON	_	Definite=Ind|Number=Sing|Person=3	_	_	_	_
 3	,	_	PUNCT	_	_	_	_	_	_
-4	pense	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+4	pense	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	_
 5	à	_	ADP	_	_	_	_	_	_
 6	te	_	PRON	_	Number=Sing|Person=2|PronType=Prs	_	_	_	_
 7	connecter	_	VERB	_	VerbForm=Inf	_	_	_	_
@@ -4555,9 +4555,9 @@
 
 
 # text = corrige et modifie tout ce que tu veux !
-1	corrige	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+1	corrige	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	_
 2	et	_	CCONJ	_	_	_	_	_	_
-3	modifie	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+3	modifie	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	_
 4	tout	_	ADJ	_	Number=Sing	_	_	_	_
 5	ce	_	PRON	_	Number=Sing|Person=3|PronType=Dem	_	_	_	_
 6	que	_	PRON	_	PronType=Rel	_	_	_	_
@@ -4574,7 +4574,7 @@
 4	de	_	ADP	_	_	_	_	_	_
 5	confusionner	_	VERB	_	VerbForm=Inf	_	_	_	_
 6	,	_	PUNCT	_	_	_	_	_	_
-7	corrige	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+7	corrige	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	_
 8	,	_	PUNCT	_	_	_	_	_	_
 9	tu	_	PRON	_	Number=Sing|Person=2|PronType=Prs	_	_	_	_
 10	as	_	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres	_	_	_	_
@@ -4600,7 +4600,7 @@
 5	premier	_	ADJ	_	NumType=Ord|Number=Sing	_	_	_	_
 6	jet	_	NOUN	_	Number=Sing	_	_	_	_
 7	,	_	PUNCT	_	_	_	_	_	_
-8	corrige	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+8	corrige	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	_
 9	comme	_	SCONJ	_	_	_	_	_	_
 10	bon	_	ADJ	_	Number=Sing	_	_	_	_
 11	te	_	PRON	_	Number=Sing|Person=2|PronType=Prs	_	_	_	_
@@ -4610,7 +4610,7 @@
 
 
 # text = demande l' aide d' ascaron , c' est lui qui nous a mis en route l' outil pour les évals du projet sport automobile , et ça marche impéc .
-1	demande	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+1	demande	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	_
 2	l'	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 3	aide	_	NOUN	_	Number=Sing	_	_	_	_
 4	d'	_	ADP	_	_	_	_	_	_
@@ -4692,7 +4692,7 @@
 12	ces	_	DET	_	Number=Plur|PronType=Dem	_	_	_	_
 13	articles	_	NOUN	_	Number=Plur	_	_	_	_
 14	,	_	PUNCT	_	_	_	_	_	_
-15	pense	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+15	pense	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	_
 16	à	_	ADP	_	_	_	_	_	_
 17	les	_	PRON	_	Definite=Def|Number=Plur|Person=3|PronType=Art	_	_	_	_
 18	compléter	_	VERB	_	VerbForm=Inf	_	_	_	_
@@ -4790,7 +4790,7 @@
 
 
 # text = demande à l'utilisateur francophone qui traîne là-bas ( les gens de l' atelier graphique , du illustrations , moi , .
-1	demande	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+1	demande	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	_
 2	à	_	ADP	_	_	_	_	_	_
 3	l'utilisateur	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 4	francophone	_	NOUN	_	Number=Sing	_	_	_	_
@@ -4833,7 +4833,7 @@
 # text = papa , pense à nous ( 2 tours )
 1	papa	_	NOUN	_	Number=Sing	_	_	_	_
 2	,	_	PUNCT	_	_	_	_	_	_
-3	pense	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+3	pense	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	_
 4	à	_	ADP	_	_	_	_	_	_
 5	nous	_	PRON	_	Number=Plur|Person=1|PronType=Prs	_	_	_	_
 6	(	_	PUNCT	_	_	_	_	_	_
@@ -4854,7 +4854,7 @@
 8	très	_	ADV	_	_	_	_	_	_
 9	fastidieux	_	ADJ	_	Number=Sing	_	_	_	_
 10	,	_	PUNCT	_	_	_	_	_	_
-11	imagine	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+11	imagine	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	_
 12	dans	_	ADP	_	_	_	_	_	_
 13	2	_	NUM	_	NumType=Card	_	_	_	_
 14	ans	_	NOUN	_	Number=Plur	_	_	_	_
@@ -4934,7 +4934,7 @@
 6	un	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
 7	message	_	NOUN	_	Number=Sing	_	_	_	_
 8	,	_	PUNCT	_	_	_	_	_	_
-9	pense	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+9	pense	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	_
 10	à	_	ADP	_	_	_	_	_	_
 11	le	_	PRON	_	Definite=Def|Number=Sing|Person=3|PronType=Art	_	_	_	_
 12	signer	_	VERB	_	VerbForm=Inf	_	_	_	_
@@ -4944,7 +4944,7 @@
 
 
 # text = imagine le en pleine forme , ou bien se battant contre un seul des deux sannins .
-1	imagine	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+1	imagine	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	_
 2	le	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 3	en	_	ADP	_	_	_	_	_	_
 4	pleine	_	ADJ	_	Number=Sing	_	_	_	_
@@ -5029,7 +5029,7 @@
 
 
 # text = demande si tu veux être sûr ( c' est elle la prez' ) .
-1	demande	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+1	demande	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	_
 4	si	_	SCONJ	_	_	_	_	_	_
 5	tu	_	PRON	_	Number=Sing|Person=2|PronType=Prs	_	_	_	_
 6	veux	_	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres	_	_	_	_
@@ -5047,7 +5047,7 @@
 
 
 # text = pense à signer tes message avec quatre tilde ( ~ ~ ~ ~ )
-1	pense	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+1	pense	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	_
 2	à	_	ADP	_	_	_	_	_	_
 3	signer	_	VERB	_	VerbForm=Inf	_	_	_	_
 4	tes	_	DET	_	Number=Plur|Number[psor]=Sing|Person=2|Poss=Yes	_	_	_	_
@@ -5065,7 +5065,7 @@
 
 
 # text = pense à signer tes messages sur les pages de discussions .
-1	pense	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+1	pense	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	_
 2	à	_	ADP	_	_	_	_	_	_
 3	signer	_	VERB	_	VerbForm=Inf	_	_	_	_
 4	tes	_	DET	_	Number=Plur|Number[psor]=Sing|Person=2|Poss=Yes	_	_	_	_
@@ -5108,7 +5108,7 @@
 26	la	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 27	ba	_	NOUN	_	Number=Sing	_	_	_	_
 28	,	_	PUNCT	_	_	_	_	_	_
-29	pense	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+29	pense	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	_
 30	à	_	ADP	_	_	_	_	_	_
 31	supprimer	_	VERB	_	VerbForm=Inf	_	_	_	_
 32	les	_	DET	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
@@ -5125,7 +5125,7 @@
 
 
 # text = pense à préciser dans ta demande sous quel nom l' article devrait être finalisé ( sachant que l' autre nom deviendra une redirection ) , en te basant pour cela sur les conventions sur les titres .
-1	pense	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+1	pense	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	_
 2	à	_	ADP	_	_	_	_	_	_
 3	préciser	_	VERB	_	VerbForm=Inf	_	_	_	_
 4	dans	_	ADP	_	_	_	_	_	_
@@ -5206,7 +5206,7 @@
 1	mais	_	CCONJ	_	_	_	_	_	_
 2	ne	_	ADV	_	Polarity=Neg	_	_	_	_
 3	nous	_	PRON	_	Number=Plur|Person=1|PronType=Prs	_	_	_	_
-4	force	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+4	force	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	_
 5	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 9	,	_	PUNCT	_	_	_	_	_	_
 10	c'	_	PRON	_	Number=Sing|Person=3|PronType=Dem	_	_	_	_
@@ -5214,7 +5214,7 @@
 12	dingue	_	ADJ	_	Number=Sing	_	_	_	_
 13	ça	_	PRON	_	Number=Sing|Person=3|PronType=Dem	_	_	_	_
 14	,	_	PUNCT	_	_	_	_	_	_
-15	imagine	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+15	imagine	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	_
 16	que	_	SCONJ	_	_	_	_	_	_
 17	d'	_	ADP	_	_	_	_	_	_
 18	un	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
@@ -5312,7 +5312,7 @@
 7	mes	_	DET	_	Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes	_	_	_	_
 8	dessins	_	NOUN	_	Number=Plur	_	_	_	_
 9	,	_	PUNCT	_	_	_	_	_	_
-10	pense	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+10	pense	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	_
 11	à	_	ADP	_	_	_	_	_	_
 12	changer	_	VERB	_	VerbForm=Inf	_	_	_	_
 13	le	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
@@ -5333,7 +5333,7 @@
 
 
 # text = pense aussi au modèle .
-1	pense	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+1	pense	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	_
 2	aussi	_	ADV	_	_	_	_	_	_
 3	au	_	ADP	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 4	modèle	_	NOUN	_	Number=Sing	_	_	_	_
@@ -5342,11 +5342,11 @@
 
 
 # text = justifie tes actions , laisse des mots sur les pages de discussion , demande des explications aux auteurs , remplis toujours les résumés suffisamment , anticipe ce que l' on pourrait te reprocher .
-1	justifie	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+1	justifie	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	_
 2	tes	_	DET	_	Number=Plur|Number[psor]=Sing|Person=2|Poss=Yes	_	_	_	_
 3	actions	_	NOUN	_	Number=Plur	_	_	_	_
 4	,	_	PUNCT	_	_	_	_	_	_
-5	laisse	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+5	laisse	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	_
 6	des	_	DET	_	Definite=Ind|Number=Plur|PronType=Art	_	_	_	_
 7	mots	_	NOUN	_	Number=Plur	_	_	_	_
 8	sur	_	ADP	_	_	_	_	_	_
@@ -5355,19 +5355,19 @@
 11	de	_	ADP	_	_	_	_	_	_
 12	discussion	_	NOUN	_	Number=Sing	_	_	_	_
 13	,	_	PUNCT	_	_	_	_	_	_
-14	demande	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+14	demande	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	_
 15	des	_	DET	_	Definite=Ind|Number=Plur|PronType=Art	_	_	_	_
 16	explications	_	NOUN	_	Number=Plur	_	_	_	_
 17	aux	_	ADP	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
 18	auteurs	_	NOUN	_	Number=Plur	_	_	_	_
 19	,	_	PUNCT	_	_	_	_	_	_
-20	remplis	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_	TODO=_|Person=21
+20	remplis	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	TODO=_|Person=21
 21	toujours	_	ADV	_	_	_	_	_	_
 22	les	_	DET	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
 23	résumés	_	NOUN	_	Number=Plur	_	_	_	_
 24	suffisamment	_	ADV	_	_	_	_	_	_
 25	,	_	PUNCT	_	_	_	_	_	_
-26	anticipe	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+26	anticipe	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	_
 27	ce	_	PRON	_	Number=Sing|Person=3|PronType=Dem	_	_	_	_
 28	que	_	PRON	_	PronType=Rel	_	_	_	_
 29	l'	_	PRON	_	Definite=Def|Number=Sing|Person=3|PronType=Art	_	_	_	_
@@ -5396,7 +5396,7 @@
 
 
 # text = imagine que tu as une conviction , quelle qu' elle soit , en laquelle tu crois vraiment .
-1	imagine	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+1	imagine	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	_
 2	que	_	SCONJ	_	_	_	_	_	_
 3	tu	_	PRON	_	Number=Sing|Person=2|PronType=Prs	_	_	_	_
 4	as	_	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres	_	_	_	_
@@ -5434,7 +5434,7 @@
 
 
 # text = demande à des gens bien informés où je pourrais publier mes livres et quelles démarches il faudrait faire .
-1	demande	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+1	demande	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	_
 2	à	_	ADP	_	_	_	_	_	_
 3	des	_	DET	_	Definite=Ind|Number=Plur|PronType=Art	_	_	_	_
 4	gens	_	NOUN	_	Number=Plur	_	_	_	_
@@ -5457,7 +5457,7 @@
 
 
 # text = imagine qu' ils tombent sur un lien de wikipédia ( dans les 2 premiers de la liste de google ( sinon , ils ne regardent pas ) ) , qu' ils lisent l' article , qu' ils voyent l' acceuil et qu' après avoir lu la page d' acceuil , ils se disent que c' est intéressant , ils deviennent des contribs et wikipédia en est gagnante ,
-1	imagine	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+1	imagine	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	_
 2	qu'	_	SCONJ	_	_	_	_	_	_
 3	ils	_	PRON	_	Number=Plur|Person=3|PronType=Prs	_	_	_	_
 4	tombent	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_	_
@@ -5559,7 +5559,7 @@
 
 
 # text = pense à signer tes posts .
-1	pense	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+1	pense	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	_
 2	à	_	ADP	_	_	_	_	_	_
 3	signer	_	VERB	_	VerbForm=Inf	_	_	_	_
 4	tes	_	DET	_	Number=Plur|Number[psor]=Sing|Person=2|Poss=Yes	_	_	_	_
@@ -5569,7 +5569,7 @@
 
 
 # text = pense aussi à mettre une description de ce que tu importe , on n' est pas censé deviner ce que c' est .
-1	pense	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+1	pense	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	_
 2	aussi	_	ADV	_	_	_	_	_	_
 3	à	_	ADP	_	_	_	_	_	_
 4	mettre	_	VERB	_	VerbForm=Inf	_	_	_	_
@@ -5640,7 +5640,7 @@
 29	prochain	_	ADJ	_	Number=Sing	_	_	_	_
 30	coup	_	NOUN	_	Number=Sing	_	_	_	_
 31	,	_	PUNCT	_	_	_	_	_	_
-32	pense	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+32	pense	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	_
 33	à	_	ADP	_	_	_	_	_	_
 34	me	_	PRON	_	Number=Sing|Person=1|PronType=Prs	_	_	_	_
 35	mettre	_	VERB	_	VerbForm=Inf	_	_	_	_
@@ -5723,7 +5723,7 @@
 39	employé	_	VERB	_	Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
 40	partout	_	ADV	_	_	_	_	_	_
 41	,	_	PUNCT	_	_	_	_	_	_
-42	imagine	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+42	imagine	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	_
 43	le	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 44	travail	_	NOUN	_	Number=Sing	_	_	_	_
 45	.	_	PUNCT	_	_	_	_	_	_
@@ -5743,7 +5743,7 @@
 
 
 # text = demande à quelqu' un de ton entourage de compétent en information de regarder ça éventuellement .
-1	demande	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+1	demande	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	_
 2	à	_	ADP	_	_	_	_	_	_
 3	quelqu'	_	SCONJ	_	_	_	_	_	_
 4	un	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
@@ -5763,7 +5763,7 @@
 
 
 # text = pense à renseigner ta page perso à l' occase :)
-1	pense	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+1	pense	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	_
 2	à	_	ADP	_	_	_	_	_	_
 3	renseigner	_	VERB	_	VerbForm=Inf	_	_	_	_
 4	ta	_	DET	_	Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes	_	_	_	_
@@ -5786,7 +5786,7 @@
 7	aussi	_	ADV	_	_	_	_	_	_
 8	lourds	_	ADJ	_	Number=Plur	_	_	_	_
 9	,	_	PUNCT	_	_	_	_	_	_
-10	pense	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+10	pense	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	_
 11	à	_	ADP	_	_	_	_	_	_
 12	en	_	PRON	_	Person=3	_	_	_	_
 13	parler	_	VERB	_	VerbForm=Inf	_	_	_	_
@@ -5830,7 +5830,7 @@
 22	articles	_	NOUN	_	Number=Plur	_	_	_	_
 23	,	_	PUNCT	_	_	_	_	_	_
 24	ne	_	ADV	_	Polarity=Neg	_	_	_	_
-25	demande	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+25	demande	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	_
 26	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 27	à	_	ADP	_	_	_	_	_	_
 28	un	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
@@ -5845,7 +5845,7 @@
 
 
 # text = imagine un peu , sinon , le genre de synthèse à laquelle on va aboutir ?
-1	imagine	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+1	imagine	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	_
 2	un	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
 3	peu	_	ADV	_	_	_	_	_	_
 4	,	_	PUNCT	_	_	_	_	_	_
@@ -5865,7 +5865,7 @@
 
 
 # text = demande à michelet sur legifer , il te donnera une repose claire et correcte .
-1	demande	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+1	demande	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	_
 2	à	_	ADP	_	_	_	_	_	_
 3	michelet	_	PROPN	_	_	_	_	_	_
 4	sur	_	ADP	_	_	_	_	_	_
@@ -5930,7 +5930,7 @@
 44	des	_	DET	_	Definite=Ind|Number=Plur|PronType=Art	_	_	_	_
 45	pieds	_	NOUN	_	Number=Plur	_	_	_	_
 46	,	_	PUNCT	_	_	_	_	_	_
-47	pense	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+47	pense	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	_
 48	au	_	ADP	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 49	cul-de-jatte	_	NOUN	_	Number=Sing	_	_	_	_
 50	qui	_	PRON	_	PronType=Rel	_	_	_	_
@@ -6066,7 +6066,7 @@
 15	gouvernement	_	NOUN	_	Number=Sing	_	_	_	_
 16	intérimaire	_	ADJ	_	Number=Sing	_	_	_	_
 17	,	_	PUNCT	_	_	_	_	_	_
-18	demande	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+18	demande	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	_
 19	le	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 20	report	_	NOUN	_	Number=Sing	_	_	_	_
 21	du	_	ADP	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
@@ -6117,7 +6117,7 @@
 22	article	_	NOUN	_	Number=Sing	_	_	_	_
 23	,	_	PUNCT	_	_	_	_	_	_
 24	mais	_	CCONJ	_	_	_	_	_	_
-25	pense	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+25	pense	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	_
 26	bien	_	ADV	_	_	_	_	_	_
 27	à	_	ADP	_	_	_	_	_	_
 28	passer	_	VERB	_	VerbForm=Inf	_	_	_	_
@@ -6136,7 +6136,7 @@
 5	être	_	VERB	_	VerbForm=Inf	_	_	_	_
 6	sûr	_	ADJ	_	Number=Sing	_	_	_	_
 7	,	_	PUNCT	_	_	_	_	_	_
-8	demande	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+8	demande	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	_
 9	à	_	ADP	_	_	_	_	_	_
 10	arte	_	NOUN	_	Number=Sing	_	_	_	_
 11	leurs	_	DET	_	Number=Plur|Number[psor]=Plur|Person=3|Poss=Yes	_	_	_	_
@@ -6146,7 +6146,7 @@
 
 
 # text = demande éventuellement au " jeune " punx si je suis un affreux .
-1	demande	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+1	demande	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	_
 2	éventuellement	_	ADV	_	_	_	_	_	_
 3	au	_	ADP	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 4	"	_	PUNCT	_	_	_	_	_	_
@@ -6206,7 +6206,7 @@
 
 
 # text = demande donc leur avis à d' autres contributeurs .
-1	demande	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+1	demande	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	_
 2	donc	_	CCONJ	_	_	_	_	_	_
 3	leur	_	DET	_	Number=Sing|Number[psor]=Plur|Person=3|Poss=Yes	_	_	_	_
 4	avis	_	NOUN	_	Number=Sing	_	_	_	_
@@ -6219,7 +6219,7 @@
 
 
 # text = demande aux autres rédacteurs .
-1	demande	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+1	demande	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	_
 2	aux	_	ADP	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
 3	autres	_	ADJ	_	Number=Plur	_	_	_	_
 4	rédacteurs	_	NOUN	_	Number=Plur	_	_	_	_
@@ -6238,7 +6238,7 @@
 8	de	_	ADP	_	_	_	_	_	_
 9	destruction	_	NOUN	_	Number=Sing	_	_	_	_
 10	,	_	PUNCT	_	_	_	_	_	_
-11	pense	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+11	pense	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	_
 12	ce	_	PRON	_	Number=Sing|Person=3|PronType=Dem	_	_	_	_
 13	que	_	PRON	_	PronType=Rel	_	_	_	_
 14	tu	_	PRON	_	Number=Sing|Person=2|PronType=Prs	_	_	_	_
@@ -6308,7 +6308,7 @@
 
 
 # text = pense à ajouter les catégories quand tu crée des footballeurs , exemple nom , prénom , ainsi que le bandeau 2 ( cet )
-1	pense	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+1	pense	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	_
 2	à	_	ADP	_	_	_	_	_	_
 3	ajouter	_	VERB	_	VerbForm=Inf	_	_	_	_
 4	les	_	DET	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
@@ -6336,7 +6336,7 @@
 
 
 # text = demande au bot qui a fait ce boulot ( les bots sont nos amis ) .
-1	demande	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+1	demande	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	_
 2	au	_	ADP	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 3	bot	_	NOUN	_	Number=Sing	_	_	_	_
 4	qui	_	PRON	_	PronType=Rel	_	_	_	_
@@ -6356,7 +6356,7 @@
 
 
 # text = imagine que je fasse une entrée " macdo de talence " , en invoquant pour motif :
-1	imagine	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+1	imagine	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	_
 2	que	_	SCONJ	_	_	_	_	_	_
 3	je	_	PRON	_	Number=Sing|Person=1|PronType=Prs	_	_	_	_
 4	fasse	_	VERB	_	Mood=Sub|Number=Sing|Person=1|Tense=Pres	_	_	_	_
@@ -6473,7 +6473,7 @@
 # text = oui , demande aux bots .
 1	oui	_	ADV	_	_	_	_	_	_
 2	,	_	PUNCT	_	_	_	_	_	_
-3	demande	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+3	demande	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	_
 4	aux	_	ADP	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
 5	bots	_	NOUN	_	Number=Plur	_	_	_	_
 6	.	_	PUNCT	_	_	_	_	_	_
@@ -6524,7 +6524,7 @@
 23	est	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 24	)	_	PUNCT	_	_	_	_	_	_
 25	,	_	PUNCT	_	_	_	_	_	_
-26	pense	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+26	pense	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	_
 27	ce	_	PRON	_	Number=Sing|Person=3|PronType=Dem	_	_	_	_
 28	que	_	PRON	_	PronType=Rel	_	_	_	_
 29	tu	_	PRON	_	Number=Sing|Person=2|PronType=Prs	_	_	_	_
@@ -6607,7 +6607,7 @@
 
 # text = et demande à toutes personnes en possessions d' articles .
 1	et	_	CCONJ	_	_	_	_	_	_
-2	demande	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+2	demande	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	_
 3	à	_	ADP	_	_	_	_	_	_
 4	toutes	_	DET	_	Definite=Ind|Number=Plur|Person=3	_	_	_	_
 5	personnes	_	NOUN	_	Number=Plur	_	_	_	_
@@ -6645,7 +6645,7 @@
 
 
 # text = imagine ce que ça donne à terme avec les marathons et autres :
-1	imagine	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+1	imagine	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	_
 2	ce	_	PRON	_	Number=Sing|Person=3|PronType=Dem	_	_	_	_
 3	que	_	PRON	_	PronType=Rel	_	_	_	_
 4	ça	_	PRON	_	Number=Sing|Person=3|PronType=Dem	_	_	_	_
@@ -6666,7 +6666,7 @@
 4	prochaine	_	ADJ	_	Number=Sing	_	_	_	_
 5	fois	_	NOUN	_	Number=Sing	_	_	_	_
 6	,	_	PUNCT	_	_	_	_	_	_
-7	passe	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+7	passe	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	_
 8	par	_	ADP	_	_	_	_	_	_
 9	la	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 10	page	_	NOUN	_	Number=Sing	_	_	_	_
@@ -6686,7 +6686,7 @@
 24	contributeurs	_	NOUN	_	Number=Plur	_	_	_	_
 25	,	_	PUNCT	_	_	_	_	_	_
 26	et	_	CCONJ	_	_	_	_	_	_
-27	demande	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+27	demande	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	_
 28	des	_	DET	_	Definite=Ind|Number=Plur|PronType=Art	_	_	_	_
 29	avis	_	NOUN	_	Number=Plur	_	_	_	_
 
@@ -6742,7 +6742,7 @@
 
 
 # text = pense à mettre des liens dans ton texte , pour les termes importants .
-1	pense	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+1	pense	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	_
 2	à	_	ADP	_	_	_	_	_	_
 3	mettre	_	VERB	_	VerbForm=Inf	_	_	_	_
 4	des	_	DET	_	Definite=Ind|Number=Plur|PronType=Art	_	_	_	_
@@ -6771,7 +6771,7 @@
 
 
 # text = imagine si tous les fans de musique créent un article par album de chanteur avec juste la listré des titres .
-1	imagine	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+1	imagine	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	_
 2	si	_	SCONJ	_	_	_	_	_	_
 3	tous	_	ADJ	_	Number=Plur	_	_	_	_
 4	les	_	DET	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
@@ -6796,7 +6796,7 @@
 
 
 # text = pense bien à hiérarchiser tes réponses ( avec les deux-points comme je fais ici ) et à signer tes discussions ! :)
-1	pense	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+1	pense	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	_
 2	bien	_	ADV	_	_	_	_	_	_
 3	à	_	ADP	_	_	_	_	_	_
 4	hiérarchiser	_	VERB	_	VerbForm=Inf	_	_	_	_
@@ -6822,7 +6822,7 @@
 
 
 # text = pense à jeter un oeil à d' autres articles , pour voir comment c' est fait .
-1	pense	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+1	pense	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	_
 2	à	_	ADP	_	_	_	_	_	_
 3	jeter	_	VERB	_	VerbForm=Inf	_	_	_	_
 4	un	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
@@ -6868,7 +6868,7 @@
 4	y	_	PRON	_	Person=3	_	_	_	_
 5	es	_	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres	_	_	_	_
 6	,	_	PUNCT	_	_	_	_	_	_
-7	pense	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+7	pense	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	_
 8	à	_	ADP	_	_	_	_	_	_
 9	t'	_	PRON	_	Number=Sing|Person=2|PronType=Prs	_	_	_	_
 10	écrire	_	VERB	_	VerbForm=Inf	_	_	_	_
@@ -6897,13 +6897,13 @@
 
 
 # text = imagine une grande maison , et imagine qu' il est tout vide .
-1	imagine	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+1	imagine	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	_
 2	une	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
 3	grande	_	ADJ	_	Number=Sing	_	_	_	_
 4	maison	_	NOUN	_	Number=Sing	_	_	_	_
 5	,	_	PUNCT	_	_	_	_	_	_
 6	et	_	CCONJ	_	_	_	_	_	_
-7	imagine	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+7	imagine	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	_
 8	qu'	_	SCONJ	_	_	_	_	_	_
 9	il	_	PRON	_	Number=Sing|Person=3|PronType=Prs	_	_	_	_
 10	est	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
@@ -6920,13 +6920,13 @@
 4	excellent	_	ADJ	_	Number=Sing	_	_	_	_
 5	travail	_	NOUN	_	Number=Sing	_	_	_	_
 6	,	_	PUNCT	_	_	_	_	_	_
-7	continue	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+7	continue	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	_
 8	sur	_	ADP	_	_	_	_	_	_
 9	cette	_	DET	_	Number=Sing|PronType=Dem	_	_	_	_
 10	voie	_	NOUN	_	Number=Sing	_	_	_	_
 11	,	_	PUNCT	_	_	_	_	_	_
 12	et	_	CCONJ	_	_	_	_	_	_
-13	pense	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+13	pense	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	_
 14	au	_	ADP	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 15	statut	_	NOUN	_	Number=Sing	_	_	_	_
 16	d'	_	ADP	_	_	_	_	_	_
@@ -6963,7 +6963,7 @@
 7	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 8	,	_	PUNCT	_	_	_	_	_	_
 9	mais	_	CCONJ	_	_	_	_	_	_
-10	pense	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+10	pense	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	_
 11	à	_	ADP	_	_	_	_	_	_
 12	donner	_	VERB	_	VerbForm=Inf	_	_	_	_
 13	un	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
@@ -7030,7 +7030,7 @@
 16	bien	_	ADV	_	_	_	_	_	_
 17	,	_	PUNCT	_	_	_	_	_	_
 18	mais	_	CCONJ	_	_	_	_	_	_
-19	pense	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+19	pense	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	_
 20	en	_	ADP	_	_	_	_	_	_
 21	revanche	_	NOUN	_	Number=Sing	_	_	_	_
 22	à	_	ADP	_	_	_	_	_	_
@@ -7108,7 +7108,7 @@
 # text = et surtout pense aussi au texte sur lequel tu aimerais passer .
 1	et	_	CCONJ	_	_	_	_	_	_
 2	surtout	_	ADV	_	_	_	_	_	_
-3	pense	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+3	pense	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	_
 4	aussi	_	ADV	_	_	_	_	_	_
 5	au	_	ADP	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 6	texte	_	NOUN	_	Number=Sing	_	_	_	_
@@ -7123,7 +7123,7 @@
 
 # text = mais imagine un peu ce à quoi ça va ressembler si on appliquait cela à versailles-chantier ou à juvisy ( pour ne parler que des grandes gares d' île de france non parisiennes ) .
 1	mais	_	CCONJ	_	_	_	_	_	_
-2	imagine	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+2	imagine	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	_
 3	un	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
 4	peu	_	ADV	_	_	_	_	_	_
 5	ce	_	PRON	_	Number=Sing|Person=3|PronType=Dem	_	_	_	_
@@ -7220,7 +7220,7 @@
 
 # text = et demande le statut d' administrateur car tu en auras besoin .
 1	et	_	CCONJ	_	_	_	_	_	_
-2	demande	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+2	demande	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	_
 3	le	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 4	statut	_	NOUN	_	Number=Sing	_	_	_	_
 5	d'	_	ADP	_	_	_	_	_	_
@@ -7296,7 +7296,7 @@
 26	)	_	PUNCT	_	_	_	_	_	_
 27	;	_	PUNCT	_	_	_	_	_	_
 28	mais	_	CCONJ	_	_	_	_	_	_
-29	pense	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+29	pense	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	_
 30	bien	_	ADV	_	_	_	_	_	_
 31	que	_	SCONJ	_	_	_	_	_	_
 32	ce	_	PRON	_	Number=Sing|Person=3|PronType=Dem	_	_	_	_
@@ -7349,7 +7349,7 @@
 
 # text = et pense à mettre une légende à l' image dans la taxoobox !
 1	et	_	CCONJ	_	_	_	_	_	_
-2	pense	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+2	pense	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	_
 3	à	_	ADP	_	_	_	_	_	_
 4	mettre	_	VERB	_	VerbForm=Inf	_	_	_	_
 5	une	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
@@ -7415,7 +7415,7 @@
 # text = ne t' énerve pas , prend ton temps .
 1	ne	_	ADV	_	Polarity=Neg	_	_	_	_
 2	t'	_	PRON	_	Number=Sing|Person=2|PronType=Prs	_	_	_	_
-3	énerve	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+3	énerve	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	_
 4	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 5	,	_	PUNCT	_	_	_	_	_	_
 6	prend	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
@@ -7472,7 +7472,7 @@
 1	oui	_	ADV	_	_	_	_	_	_
 2	,	_	PUNCT	_	_	_	_	_	_
 3	mais	_	CCONJ	_	_	_	_	_	_
-4	imagine	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+4	imagine	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	_
 5	que	_	SCONJ	_	_	_	_	_	_
 6	ce	_	PRON	_	Number=Sing|Person=3|PronType=Dem	_	_	_	_
 7	soit	_	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres	_	_	_	_
@@ -7551,7 +7551,7 @@
 
 # text = et pense à mettre les images en format standard .
 1	et	_	CCONJ	_	_	_	_	_	_
-2	pense	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+2	pense	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	_
 3	à	_	ADP	_	_	_	_	_	_
 4	mettre	_	VERB	_	VerbForm=Inf	_	_	_	_
 5	les	_	DET	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
@@ -7564,7 +7564,7 @@
 
 
 # text = appelle le garage ( ton concessionnaire si pas trop vieille ) au plus vite , et demande lui conseil .
-1	appelle	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+1	appelle	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	_
 2	le	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 3	garage	_	NOUN	_	Number=Sing	_	_	_	_
 4	(	_	PUNCT	_	_	_	_	_	_
@@ -7580,7 +7580,7 @@
 14	vite	_	ADV	_	_	_	_	_	_
 15	,	_	PUNCT	_	_	_	_	_	_
 16	et	_	CCONJ	_	_	_	_	_	_
-17	demande	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+17	demande	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	_
 18	lui	_	PRON	_	Number=Sing|Person=3|PronType=Prs	_	_	_	_
 19	conseil	_	NOUN	_	Number=Sing	_	_	_	_
 20	.	_	PUNCT	_	_	_	_	_	_
@@ -7590,7 +7590,7 @@
 # text = mais n' appelle -le qu' à la fin .
 1	mais	_	CCONJ	_	_	_	_	_	_
 2	n'	_	ADV	_	Polarity=Neg	_	_	_	_
-3	appelle	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+3	appelle	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	_
 4	-le	_	PRON	_	Definite=Def|Number=Sing|Person=3|PronType=Art	_	_	_	_
 5	qu'	_	SCONJ	_	_	_	_	_	_
 6	à	_	ADP	_	_	_	_	_	_
@@ -7964,7 +7964,7 @@
 1	)	_	PUNCT	_	_	_	_	_	_
 2	,	_	PUNCT	_	_	_	_	_	_
 3	n'	_	ADV	_	Polarity=Neg	_	_	_	_
-4	hésite	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+4	hésite	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	_
 5	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 6	à	_	ADP	_	_	_	_	_	_
 7	frapper	_	VERB	_	VerbForm=Inf	_	_	_	_
@@ -7999,7 +7999,7 @@
 21	questions	_	NOUN	_	Number=Plur	_	_	_	_
 22	,	_	PUNCT	_	_	_	_	_	_
 23	n'	_	ADV	_	Polarity=Neg	_	_	_	_
-24	hésite	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+24	hésite	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	_
 25	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 26	à	_	ADP	_	_	_	_	_	_
 27	me	_	PRON	_	Number=Sing|Person=1|PronType=Prs|Reflex=Yes	_	_	_	_
@@ -8019,7 +8019,7 @@
 8	dessus	_	ADV	_	_	_	_	_	_
 9	,	_	PUNCT	_	_	_	_	_	_
 10	n'	_	ADV	_	Polarity=Neg	_	_	_	_
-11	hésite	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+11	hésite	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	_
 12	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 13	,	_	PUNCT	_	_	_	_	_	_
 14	elle	_	PRON	_	Number=Sing|Person=3|PronType=Prs	_	_	_	_
@@ -8066,7 +8066,7 @@
 18	venir	_	VERB	_	VerbForm=Inf	_	_	_	_
 19	,	_	PUNCT	_	_	_	_	_	_
 20	n'	_	ADV	_	Polarity=Neg	_	_	_	_
-21	hésite	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+21	hésite	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	_
 22	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 23	à	_	ADP	_	_	_	_	_	_
 24	me	_	PRON	_	Number=Sing|Person=1|PronType=Prs|Reflex=Yes	_	_	_	_
@@ -8115,7 +8115,7 @@
 29	questions	_	NOUN	_	Number=Plur	_	_	_	_
 30	,	_	PUNCT	_	_	_	_	_	_
 31	n'	_	ADV	_	Polarity=Neg	_	_	_	_
-32	hésite	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+32	hésite	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	_
 33	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 34	!	_	PUNCT	_	_	_	_	_	_
 
@@ -8135,7 +8135,7 @@
 11	article	_	NOUN	_	Number=Sing	_	_	_	_
 12	,	_	PUNCT	_	_	_	_	_	_
 13	n'	_	ADV	_	Polarity=Neg	_	_	_	_
-14	hésite	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+14	hésite	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	_
 15	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 16	à	_	ADP	_	_	_	_	_	_
 17	corriger	_	VERB	_	VerbForm=Inf	_	_	_	_
@@ -8165,7 +8165,7 @@
 8	questions	_	NOUN	_	Number=Plur	_	_	_	_
 9	,	_	PUNCT	_	_	_	_	_	_
 10	n'	_	ADV	_	Polarity=Neg	_	_	_	_
-11	hésite	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+11	hésite	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	_
 12	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 13	.	_	PUNCT	_	_	_	_	_	_
 
@@ -8184,7 +8184,7 @@
 10	articles	_	NOUN	_	Number=Plur	_	_	_	_
 11	,	_	PUNCT	_	_	_	_	_	_
 12	n'	_	ADV	_	Polarity=Neg	_	_	_	_
-13	hésite	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+13	hésite	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	_
 14	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 15	à	_	ADP	_	_	_	_	_	_
 16	me	_	PRON	_	Number=Sing|Person=1|PronType=Prs|Reflex=Yes	_	_	_	_
@@ -8202,7 +8202,7 @@
 6	wiki	_	NOUN	_	Number=Sing	_	_	_	_
 7	,	_	PUNCT	_	_	_	_	_	_
 8	n'	_	ADV	_	Polarity=Neg	_	_	_	_
-9	hésite	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+9	hésite	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	_
 10	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 11	si	_	SCONJ	_	_	_	_	_	_
 12	tu	_	PRON	_	Number=Sing|Person=2|PronType=Prs	_	_	_	_
@@ -8247,7 +8247,7 @@
 10	statut	_	NOUN	_	Number=Sing	_	_	_	_
 11	,	_	PUNCT	_	_	_	_	_	_
 12	n'	_	ADV	_	Polarity=Neg	_	_	_	_
-13	hésite	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+13	hésite	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	_
 14	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 15	à	_	ADP	_	_	_	_	_	_
 16	faire	_	VERB	_	VerbForm=Inf	_	_	_	_
@@ -8265,7 +8265,7 @@
 2	information	_	NOUN	_	Number=Sing	_	_	_	_
 3	,	_	PUNCT	_	_	_	_	_	_
 4	n'	_	ADV	_	Polarity=Neg	_	_	_	_
-5	hésite	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+5	hésite	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	_
 6	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 7	à	_	ADP	_	_	_	_	_	_
 8	lire	_	VERB	_	VerbForm=Inf	_	_	_	_
@@ -8300,7 +8300,7 @@
 20	créer	_	VERB	_	VerbForm=Inf	_	_	_	_
 21	,	_	PUNCT	_	_	_	_	_	_
 22	n'	_	ADV	_	Polarity=Neg	_	_	_	_
-23	hésite	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+23	hésite	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	_
 24	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 25	à	_	ADP	_	_	_	_	_	_
 26	m'	_	PRON	_	Number=Sing|Person=1|PronType=Prs|Reflex=Yes	_	_	_	_
@@ -8323,7 +8323,7 @@
 11	re-citer	_	VERB	_	VerbForm=Inf	_	_	_	_
 12	,	_	PUNCT	_	_	_	_	_	_
 13	n'	_	ADV	_	Polarity=Neg	_	_	_	_
-14	hésite	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+14	hésite	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	_
 15	surtout	_	ADV	_	_	_	_	_	_
 16	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 17	.	_	PUNCT	_	_	_	_	_	_
@@ -8345,7 +8345,7 @@
 12	part	_	NOUN	_	Number=Sing	_	_	_	_
 13	,	_	PUNCT	_	_	_	_	_	_
 14	n'	_	ADV	_	Polarity=Neg	_	_	_	_
-15	hésite	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+15	hésite	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	_
 16	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 17	à	_	ADP	_	_	_	_	_	_
 18	nous	_	PRON	_	Number=Plur|Person=1|PronType=Prs	_	_	_	_
@@ -8405,7 +8405,7 @@
 5	questions	_	NOUN	_	Number=Plur	_	_	_	_
 6	,	_	PUNCT	_	_	_	_	_	_
 7	n'	_	ADV	_	Polarity=Neg	_	_	_	_
-8	hésite	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+8	hésite	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	_
 9	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 10	à	_	ADP	_	_	_	_	_	_
 11	me	_	PRON	_	Number=Sing|Person=1|PronType=Prs	_	_	_	_
@@ -8454,7 +8454,7 @@
 19	)	_	PUNCT	_	_	_	_	_	_
 20	,	_	PUNCT	_	_	_	_	_	_
 21	n'	_	ADV	_	Polarity=Neg	_	_	_	_
-22	hésite	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+22	hésite	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	_
 23	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 24	à	_	ADP	_	_	_	_	_	_
 25	la	_	PRON	_	Definite=Def|Number=Sing|Person=3|PronType=Art	_	_	_	_

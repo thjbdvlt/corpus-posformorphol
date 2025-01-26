@@ -61,7 +61,7 @@
 1	par	_	ADP	_	_	_	_	_	_
 2	contre	_	ADP	_	_	_	_	_	_
 3	ne	_	ADV	_	Polarity=Neg	_	_	_	_
-4	jette	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_
+4	jette	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_
 5	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 6	ton	_	DET	_	Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes	_	_	_	_
 7	ordinateur	_	NOUN	_	Number=Sing	_	_	_	_
@@ -187,7 +187,7 @@
 # text = surtout ne commence pas une ligne par un espace car ça met le texte dans une boîte en pointillés .
 1	surtout	_	ADV	_	_	_	_	_	_
 2	ne	_	ADV	_	Polarity=Neg	_	_	_	_
-3	commence	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_
+3	commence	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_
 4	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 5	une	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
 6	ligne	_	NOUN	_	Number=Sing	_	_	_	_
@@ -211,7 +211,7 @@
 # text = surtout ne manifeste pas de surprise excessive :
 1	surtout	_	ADV	_	_	_	_	_	_
 2	ne	_	ADV	_	Polarity=Neg	_	_	_	_
-3	manifeste	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_
+3	manifeste	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_
 4	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 5	de	_	ADP	_	_	_	_	_	_
 6	surprise	_	NOUN	_	Number=Sing	_	_	_	_
@@ -387,7 +387,7 @@
 1	par	_	ADP	_	_	_	_	_	_
 2	contre	_	ADP	_	_	_	_	_	_
 3	ne	_	ADV	_	Polarity=Neg	_	_	_	_
-4	modifie	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_
+4	modifie	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_
 5	ce	_	PRON	_	Number=Sing|Person=3|PronType=Dem	_	_	_	_
 6	qui	_	PRON	_	PronType=Rel	_	_	_	_
 7	est	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_
@@ -522,7 +522,7 @@
 1	par	_	ADP	_	_	_	_	_	_
 2	contre	_	ADP	_	_	_	_	_	_
 3	ne	_	ADV	_	Polarity=Neg	_	_	_	_
-4	met	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_
+4	met	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_
 5	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 6	de	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
 7	chocolat	_	NOUN	_	Number=Sing	_	_	_	_
@@ -597,7 +597,7 @@
 1	mais	_	CCONJ	_	_	_	_	_	_
 2	ne	_	ADV	_	Polarity=Neg	_	_	_	_
 3	t'	_	PRON	_	Number=Sing|Person=2|PronType=Prs	_	_	_	_
-4	inquiète	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_
+4	inquiète	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_
 5	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 6	.	_	PUNCT	_	_	_	_	_	_
 
@@ -715,7 +715,7 @@
 # text = surtout ne doute pas plus qu' il en est sain de ta capacité de lecture .
 1	surtout	_	ADV	_	_	_	_	_	_
 2	ne	_	ADV	_	Polarity=Neg	_	_	_	_
-3	doute	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_
+3	doute	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_
 4	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 5	plus	_	ADV	_	_	_	_	_	_
 6	qu'	_	SCONJ	_	_	_	_	_	_
@@ -808,7 +808,7 @@
 # text = mais ne part pas !
 1	mais	_	CCONJ	_	_	_	_	_	_
 2	ne	_	ADV	_	Polarity=Neg	_	_	_	_
-3	part	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_
+3	part	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_
 4	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 5	!	_	PUNCT	_	_	_	_	_	_
 
@@ -1164,7 +1164,7 @@
 1	surtout	_	ADV	_	_	_	_	_	_
 2	ne	_	ADV	_	Polarity=Neg	_	_	_	_
 3	te	_	PRON	_	Number=Sing|Person=2|PronType=Prs	_	_	_	_
-4	décourage	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_
+4	décourage	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_
 5	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 6	shakti	_	NOUN	_	Number=Sing	_	_	_	_
 7	,	_	PUNCT	_	_	_	_	_	_
@@ -1268,7 +1268,7 @@
 1	surtout	_	ADV	_	_	_	_	_	_
 2	ne	_	ADV	_	Polarity=Neg	_	_	_	_
 3	te	_	PRON	_	Number=Sing|Person=2|PronType=Prs	_	_	_	_
-4	gène	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_
+4	gène	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_
 5	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 6	pour	_	ADP	_	_	_	_	_	_
 7	le	_	PRON	_	Definite=Def|Number=Sing|Person=3|PronType=Art	_	_	_	_
@@ -1280,7 +1280,7 @@
 # text = surtout ne fait pas la même bêtise que moi , reste hyper cool , ne répond surtout pas tout de suite aux messages , tu rédiges un brouillon que tu relis , modifies , simplifies le lendemain avant de le poster .
 1	surtout	_	ADV	_	_	_	_	_	_
 2	ne	_	ADV	_	Polarity=Neg	_	_	_	_
-3	fait	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_
+3	fait	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_
 4	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 5	la	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 6	même	_	ADJ	_	Number=Sing	_	_	_	_
@@ -1288,12 +1288,12 @@
 8	que	_	SCONJ	_	_	_	_	_	_
 9	moi	_	PRON	_	Number=Sing|Person=1|PronType=Prs	_	_	_	_
 10	,	_	PUNCT	_	_	_	_	_	_
-11	reste	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_
+11	reste	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_
 12	hyper	_	ADV	_	_	_	_	_	_
 13	cool	_	ADJ	_	Number=Sing	_	_	_	_
 14	,	_	PUNCT	_	_	_	_	_	_
 15	ne	_	ADV	_	Polarity=Neg	_	_	_	_
-16	répond	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_
+16	répond	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_
 17	surtout	_	ADV	_	_	_	_	_	_
 18	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 19	tout	_	ADV	_	_	_	_	_	_
@@ -1379,7 +1379,7 @@
 2	ne	_	ADV	_	Polarity=Neg	_	_	_	_
 3	t'	_	PRON	_	Number=Sing|Person=2|PronType=Prs	_	_	_	_
 4	en	_	PRON	_	Person=3	_	_	_	_
-5	occupe	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_
+5	occupe	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_
 6	plus	_	ADV	_	_	_	_	_	_
 7	maintenant	_	ADV	_	_	_	_	_	_
 8	,	_	PUNCT	_	_	_	_	_	_
@@ -1671,7 +1671,7 @@
 # text = surtout ne prend pas mal mon avis , j' ai hésité à répondre là bas mais comme ça concernait aussi gemini 2 et flying jacket c' était le meilleur endroit .
 1	surtout	_	ADV	_	_	_	_	_	_
 2	ne	_	ADV	_	Polarity=Neg	_	_	_	_
-3	prend	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_
+3	prend	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_
 4	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 5	mal	_	ADV	_	_	_	_	_	_
 6	mon	_	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes	_	_	_	_
@@ -1821,7 +1821,7 @@
 # text = surtout ne demande pas ton chemin
 1	surtout	_	ADV	_	_	_	_	_	_
 2	ne	_	ADV	_	Polarity=Neg	_	_	_	_
-3	demande	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_
+3	demande	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_
 4	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 5	ton	_	DET	_	Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes	_	_	_	_
 6	chemin	_	NOUN	_	Number=Sing	_	_	_	_
@@ -2101,7 +2101,7 @@
 1	par	_	ADP	_	_	_	_	_	_
 2	contre	_	ADP	_	_	_	_	_	_
 3	ne	_	ADV	_	Polarity=Neg	_	_	_	_
-4	crée	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_
+4	crée	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_
 5	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 6	de	_	ADP	_	_	_	_	_	_
 7	nouvelle	_	ADJ	_	Number=Sing	_	_	_	_
@@ -2124,7 +2124,7 @@
 # text = mais ne reste pas longtemps avocat , l' écriture l' intéressant bien plus .
 1	mais	_	CCONJ	_	_	_	_	_	_
 2	ne	_	ADV	_	Polarity=Neg	_	_	_	_
-3	reste	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_
+3	reste	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_
 4	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 5	longtemps	_	ADV	_	_	_	_	_	_
 6	avocat	_	NOUN	_	Number=Sing	_	_	_	_
@@ -2481,7 +2481,7 @@
 6	temps	_	NOUN	_	Number=Sing	_	_	_	_
 7	,	_	PUNCT	_	_	_	_	_	_
 8	n'	_	ADV	_	Polarity=Neg	_	_	_	_
-9	hésite	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_
+9	hésite	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_
 10	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 11	à	_	ADP	_	_	_	_	_	_
 12	clôturer	_	VERB	_	VerbForm=Inf	_	_	_	_
@@ -2631,7 +2631,7 @@
 
 # text = ne reste que quelques semaines .
 2	ne	_	ADV	_	Polarity=Neg	_	_	_	_
-3	reste	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_
+3	reste	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_
 4	que	_	SCONJ	_	_	_	_	_	_
 5	quelques	_	DET	_	Definite=Ind|Number=Plur|PronType=Art	_	_	_	_
 6	semaines	_	NOUN	_	Number=Plur	_	_	_	_
@@ -2836,7 +2836,7 @@
 1	mais	_	CCONJ	_	_	_	_	_	_
 2	ne	_	ADV	_	Polarity=Neg	_	_	_	_
 3	te	_	PRON	_	Number=Sing|Person=2|PronType=Prs	_	_	_	_
-4	sens	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_	TODO=_|Person=12
+4	sens	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	TODO=_|Person=12
 5	oblige	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_
 6	,	_	PUNCT	_	_	_	_	_	_
 7	eh	_	INTJ	_	_	_	_	_	_
@@ -2875,7 +2875,7 @@
 1	mais	_	CCONJ	_	_	_	_	_	_
 2	ne	_	ADV	_	Polarity=Neg	_	_	_	_
 3	le	_	PRON	_	Definite=Def|Number=Sing|Person=3|PronType=Art	_	_	_	_
-4	prend	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_
+4	prend	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_
 5	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 6	mal	_	ADV	_	_	_	_	_	_
 7	,	_	PUNCT	_	_	_	_	_	_
@@ -2977,7 +2977,7 @@
 # text = surtout ne prend pas cette remarque comme désobligeante , ce n' est qu' un petit conseil que j' ose te donner 2 ( cest )
 1	surtout	_	ADV	_	_	_	_	_	_
 2	ne	_	ADV	_	Polarity=Neg	_	_	_	_
-3	prend	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_
+3	prend	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_
 4	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 5	cette	_	DET	_	Number=Sing|PronType=Dem	_	_	_	_
 6	remarque	_	NOUN	_	Number=Sing	_	_	_	_
@@ -3008,7 +3008,7 @@
 2	contre	_	ADP	_	_	_	_	_	_
 3	ne	_	ADV	_	Polarity=Neg	_	_	_	_
 4	le	_	PRON	_	Definite=Def|Number=Sing|Person=3|PronType=Art	_	_	_	_
-5	bloque	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_
+5	bloque	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_
 6	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 7	s'	_	SCONJ	_	_	_	_	_	_
 8	il	_	PRON	_	Number=Sing|Person=3|PronType=Prs	_	_	_	_
@@ -3118,7 +3118,7 @@
 # text = mais ne va pas bâcler ta cuisine pour mes pauvres modèles , va . :)
 1	mais	_	CCONJ	_	_	_	_	_	_
 2	ne	_	ADV	_	Polarity=Neg	_	_	_	_
-3	va	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_
+3	va	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_
 4	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 5	bâcler	_	VERB	_	VerbForm=Inf	_	_	_	_
 6	ta	_	DET	_	Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes	_	_	_	_
@@ -3128,7 +3128,7 @@
 10	pauvres	_	ADJ	_	Number=Plur	_	_	_	_
 11	modèles	_	NOUN	_	Number=Plur	_	_	_	_
 12	,	_	PUNCT	_	_	_	_	_	_
-13	va	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_
+13	va	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_
 14	.	_	PUNCT	_	_	_	_	_	_
 15	:)	_	PUNCT	_	_	_	_	_	_
 
@@ -3137,7 +3137,7 @@
 # text = surtout ne demande pas ton chemin ( léopoldine hh )
 1	surtout	_	ADV	_	_	_	_	_	_
 2	ne	_	ADV	_	Polarity=Neg	_	_	_	_
-3	demande	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_
+3	demande	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_
 4	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 5	ton	_	DET	_	Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes	_	_	_	_
 6	chemin	_	NOUN	_	Number=Sing	_	_	_	_
@@ -3151,7 +3151,7 @@
 # text = mais ne résout en aucun cas le problème des anciennes modifications où là il faut faire une recherche d' antérioté du contenu afin de savoir si c' est le site ou bien wikipedia qui a généré la première fois le contenu et pour çà je compte utiliser archive .
 1	mais	_	CCONJ	_	_	_	_	_	_
 2	ne	_	ADV	_	Polarity=Neg	_	_	_	_
-3	résout	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_
+3	résout	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_
 4	en	_	ADP	_	_	_	_	_	_
 5	aucun	_	DET	_	Definite=Ind|Number=Sing|Polarity=Neg	_	_	_	_
 6	cas	_	NOUN	_	Number=Sing	_	_	_	_
@@ -3310,7 +3310,7 @@
 1	surtout	_	ADV	_	_	_	_	_	_
 2	ne	_	ADV	_	Polarity=Neg	_	_	_	_
 3	te	_	PRON	_	Number=Sing|Person=2|PronType=Prs	_	_	_	_
-4	prive	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_
+4	prive	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_
 5	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 6	!	_	PUNCT	_	_	_	_	_	_
 
@@ -3354,7 +3354,7 @@
 1	surtout	_	ADV	_	_	_	_	_	_
 2	ne	_	ADV	_	Polarity=Neg	_	_	_	_
 3	te	_	PRON	_	Number=Sing|Person=2|PronType=Prs	_	_	_	_
-4	vexe	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_
+4	vexe	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_
 5	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 6	,	_	PUNCT	_	_	_	_	_	_
 7	mais	_	CCONJ	_	_	_	_	_	_
@@ -3571,7 +3571,7 @@
 1	mais	_	CCONJ	_	_	_	_	_	_
 2	ne	_	ADV	_	Polarity=Neg	_	_	_	_
 3	t'	_	PRON	_	Number=Sing|Person=2|PronType=Prs	_	_	_	_
-4	éloigne	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_
+4	éloigne	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_
 5	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 6	trop	_	ADV	_	_	_	_	_	_
 7	,	_	PUNCT	_	_	_	_	_	_
@@ -3694,7 +3694,7 @@
 # text = mais ne demande plus de brevet , il n' y a plus de place .
 1	mais	_	CCONJ	_	_	_	_	_	_
 2	ne	_	ADV	_	Polarity=Neg	_	_	_	_
-3	demande	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_
+3	demande	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_
 4	plus	_	ADV	_	_	_	_	_	_
 5	de	_	ADP	_	_	_	_	_	_
 6	brevet	_	NOUN	_	Number=Sing	_	_	_	_
@@ -3713,7 +3713,7 @@
 # text = mais ne compte pas sur moi pour travailler de nouveau sur commandes alors que tu as certainement toutes les compétences pour .
 1	mais	_	CCONJ	_	_	_	_	_	_
 2	ne	_	ADV	_	Polarity=Neg	_	_	_	_
-3	compte	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_
+3	compte	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_
 4	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 5	sur	_	ADP	_	_	_	_	_	_
 6	moi	_	PRON	_	Number=Sing|Person=1|PronType=Prs	_	_	_	_
@@ -4001,7 +4001,7 @@
 1	surtout	_	ADV	_	_	_	_	_	_
 2	ne	_	ADV	_	Polarity=Neg	_	_	_	_
 3	me	_	PRON	_	Number=Sing|Person=1|PronType=Prs	_	_	_	_
-4	parle	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_
+4	parle	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_
 5	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 6	de	_	ADP	_	_	_	_	_	_
 7	ian	_	PROPN	_	_	_	_	_	_
@@ -4039,7 +4039,7 @@
 # text = mais ne va pas croire que wp parle de discord à tout moment .
 1	mais	_	CCONJ	_	_	_	_	_	_
 2	ne	_	ADV	_	Polarity=Neg	_	_	_	_
-3	va	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_
+3	va	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_
 4	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 5	croire	_	VERB	_	VerbForm=Inf	_	_	_	_
 6	que	_	SCONJ	_	_	_	_	_	_
@@ -4195,7 +4195,7 @@
 1	par	_	ADP	_	_	_	_	_	_
 2	contre	_	ADP	_	_	_	_	_	_
 3	ne	_	ADV	_	Polarity=Neg	_	_	_	_
-4	signe	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_
+4	signe	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_
 5	jamais	_	ADV	_	Polarity=Neg	_	_	_	_
 6	quoi	_	PRON	_	PronType=Int	_	_	_	_
 7	que	_	SCONJ	_	_	_	_	_	_
@@ -4223,7 +4223,7 @@
 2	contre	_	ADP	_	_	_	_	_	_
 3	ne	_	ADV	_	Polarity=Neg	_	_	_	_
 4	te	_	PRON	_	Number=Sing|Person=2|PronType=Prs	_	_	_	_
-5	vexe	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_
+5	vexe	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_
 6	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 7	si	_	SCONJ	_	_	_	_	_	_
 8	un	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
@@ -4289,7 +4289,7 @@
 # text = surtout ne renomme pas l' article existant .
 1	surtout	_	ADV	_	_	_	_	_	_
 2	ne	_	ADV	_	Polarity=Neg	_	_	_	_
-3	renomme	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_
+3	renomme	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_
 4	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 5	l'	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 6	article	_	NOUN	_	Number=Sing	_	_	_	_
@@ -4379,7 +4379,7 @@
 1	par	_	ADP	_	_	_	_	_	_
 2	contre	_	ADP	_	_	_	_	_	_
 3	ne	_	ADV	_	Polarity=Neg	_	_	_	_
-4	perd	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_
+4	perd	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_
 5	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 6	de	_	ADP	_	_	_	_	_	_
 7	vue	_	NOUN	_	Number=Sing	_	_	_	_
@@ -4557,7 +4557,7 @@
 1	surtout	_	ADV	_	_	_	_	_	_
 2	ne	_	ADV	_	Polarity=Neg	_	_	_	_
 3	le	_	PRON	_	Definite=Def|Number=Sing|Person=3|PronType=Art	_	_	_	_
-4	prend	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_
+4	prend	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_
 5	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 6	mal	_	ADV	_	_	_	_	_	_
 7	,	_	PUNCT	_	_	_	_	_	_
@@ -4601,7 +4601,7 @@
 1	surtout	_	ADV	_	_	_	_	_	_
 2	ne	_	ADV	_	Polarity=Neg	_	_	_	_
 3	te	_	PRON	_	Number=Sing|Person=2|PronType=Prs	_	_	_	_
-4	gêne	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_
+4	gêne	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_
 5	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 6	et	_	CCONJ	_	_	_	_	_	_
 7	met	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_
@@ -4713,13 +4713,13 @@
 # text = surtout ne change pas tes qualités , et reste zen !
 1	surtout	_	ADV	_	_	_	_	_	_
 2	ne	_	ADV	_	Polarity=Neg	_	_	_	_
-3	change	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_
+3	change	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_
 4	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 5	tes	_	DET	_	Number=Plur|Number[psor]=Sing|Person=2|Poss=Yes	_	_	_	_
 6	qualités	_	NOUN	_	Number=Plur	_	_	_	_
 7	,	_	PUNCT	_	_	_	_	_	_
 8	et	_	CCONJ	_	_	_	_	_	_
-9	reste	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_
+9	reste	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_
 10	zen	_	ADJ	_	Number=Sing	_	_	_	_
 11	!	_	PUNCT	_	_	_	_	_	_
 
@@ -4869,7 +4869,7 @@
 1	mais	_	CCONJ	_	_	_	_	_	_
 2	ne	_	ADV	_	Polarity=Neg	_	_	_	_
 3	t'	_	PRON	_	Number=Sing|Person=2|PronType=Prs	_	_	_	_
-4	inquiète	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_
+4	inquiète	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_
 5	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 6	,	_	PUNCT	_	_	_	_	_	_
 7	je	_	PRON	_	Number=Sing|Person=1|PronType=Prs	_	_	_	_
@@ -4919,7 +4919,7 @@
 1	mais	_	CCONJ	_	_	_	_	_	_
 2	ne	_	ADV	_	Polarity=Neg	_	_	_	_
 3	t'	_	PRON	_	Number=Sing|Person=2|PronType=Prs	_	_	_	_
-4	inquiète	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_
+4	inquiète	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_
 5	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 6	trop	_	ADV	_	_	_	_	_	_
 7	,	_	PUNCT	_	_	_	_	_	_
@@ -4998,7 +4998,7 @@
 # text = surtout ne fatigons pas le lecteur .
 1	surtout	_	ADV	_	_	_	_	_	_
 2	ne	_	ADV	_	Polarity=Neg	_	_	_	_
-3	fatigons	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_
+3	fatigons	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_
 4	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 5	le	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 6	lecteur	_	NOUN	_	Number=Sing	_	_	_	_
@@ -5126,7 +5126,7 @@
 1	surtout	_	ADV	_	_	_	_	_	_
 2	ne	_	ADV	_	Polarity=Neg	_	_	_	_
 3	le	_	PRON	_	Definite=Def|Number=Sing|Person=3|PronType=Art	_	_	_	_
-4	prend	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_
+4	prend	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_
 5	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 6	mal	_	ADV	_	_	_	_	_	_
 7	,	_	PUNCT	_	_	_	_	_	_
@@ -5191,7 +5191,7 @@
 1	mais	_	CCONJ	_	_	_	_	_	_
 2	ne	_	ADV	_	Polarity=Neg	_	_	_	_
 3	t'	_	PRON	_	Number=Sing|Person=2|PronType=Prs	_	_	_	_
-4	inquiète	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_
+4	inquiète	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_
 5	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 6	,	_	PUNCT	_	_	_	_	_	_
 7	j'	_	PRON	_	Number=Sing|Person=1|PronType=Prs	_	_	_	_
@@ -5351,7 +5351,7 @@
 # text = surtout ne supprime pas ce brouillon .
 1	surtout	_	ADV	_	_	_	_	_	_
 2	ne	_	ADV	_	Polarity=Neg	_	_	_	_
-3	supprime	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_
+3	supprime	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_
 4	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 5	ce	_	DET	_	Number=Sing|PronType=Dem	_	_	_	_
 6	brouillon	_	NOUN	_	Number=Sing	_	_	_	_
@@ -5385,7 +5385,7 @@
 1	surtout	_	ADV	_	_	_	_	_	_
 2	ne	_	ADV	_	Polarity=Neg	_	_	_	_
 3	le	_	PRON	_	Definite=Def|Number=Sing|Person=3|PronType=Art	_	_	_	_
-4	prend	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_
+4	prend	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_
 5	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 6	mal	_	ADV	_	_	_	_	_	_
 7	:	_	PUNCT	_	_	_	_	_	_
@@ -5582,7 +5582,7 @@
 1	par	_	ADP	_	_	_	_	_	_
 2	contre	_	ADP	_	_	_	_	_	_
 3	ne	_	ADV	_	Polarity=Neg	_	_	_	_
-4	change	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_
+4	change	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_
 5	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 6	l'	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 7	inffobox	_	NOUN	_	Number=Sing	_	_	_	_
@@ -5762,7 +5762,7 @@
 # text = surtout ne répond pas , je m' en fous , c' est une question purement rhétorique qui n' appelle pas de réponse .
 1	surtout	_	ADV	_	_	_	_	_	_
 2	ne	_	ADV	_	Polarity=Neg	_	_	_	_
-3	répond	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_
+3	répond	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_
 4	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 5	,	_	PUNCT	_	_	_	_	_	_
 6	je	_	PRON	_	Number=Sing|Person=1|PronType=Prs	_	_	_	_
@@ -5916,7 +5916,7 @@
 # text = surtout ne rajoute pas des redirections d' un modèle qui appartient à l' accueil .
 1	surtout	_	ADV	_	_	_	_	_	_
 2	ne	_	ADV	_	Polarity=Neg	_	_	_	_
-3	rajoute	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_
+3	rajoute	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_
 4	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 5	des	_	DET	_	Definite=Ind|Number=Plur|PronType=Art	_	_	_	_
 6	redirections	_	NOUN	_	Number=Plur	_	_	_	_
@@ -5988,7 +5988,7 @@
 1	mais	_	CCONJ	_	_	_	_	_	_
 2	ne	_	ADV	_	Polarity=Neg	_	_	_	_
 3	m'	_	PRON	_	Number=Sing|Person=1|PronType=Prs	_	_	_	_
-4	accuse	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_
+4	accuse	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_
 5	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 6	de	_	ADP	_	_	_	_	_	_
 7	je-sais-pas-quoi	_	PRON	_	Number=Sing|Person=3|PronType=Dem	_	_	_	_
@@ -6011,7 +6011,7 @@
 1	surtout	_	ADV	_	_	_	_	_	_
 2	ne	_	ADV	_	Polarity=Neg	_	_	_	_
 3	te	_	PRON	_	Number=Sing|Person=2|PronType=Prs	_	_	_	_
-4	décourage	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_
+4	décourage	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_
 5	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 6	parce	_	SCONJ	_	_	_	_	_	_
 7	que	_	SCONJ	_	_	_	_	_	_
@@ -6317,7 +6317,7 @@
 # text = surtout ne passe pas par la rue cardinet , elle est mal fréquentée .
 1	surtout	_	ADV	_	_	_	_	_	_
 2	ne	_	ADV	_	Polarity=Neg	_	_	_	_
-3	passe	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_
+3	passe	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_
 4	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 5	par	_	ADP	_	_	_	_	_	_
 6	la	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
@@ -6346,7 +6346,7 @@
 1	surtout	_	ADV	_	_	_	_	_	_
 2	ne	_	ADV	_	Polarity=Neg	_	_	_	_
 3	te	_	PRON	_	Number=Sing|Person=2|PronType=Prs	_	_	_	_
-4	retourne	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_
+4	retourne	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_
 5	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 6	,	_	PUNCT	_	_	_	_	_	_
 7	éd.	_	PROPN	_	_	_	_	_	_
@@ -6367,7 +6367,7 @@
 1	surtout	_	ADV	_	_	_	_	_	_
 2	ne	_	ADV	_	Polarity=Neg	_	_	_	_
 3	le	_	PRON	_	Definite=Def|Number=Sing|Person=3|PronType=Art	_	_	_	_
-4	prend	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_
+4	prend	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_
 5	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 6	mal	_	ADV	_	_	_	_	_	_
 7	.	_	PUNCT	_	_	_	_	_	_
@@ -6417,7 +6417,7 @@
 1	surtout	_	ADV	_	_	_	_	_	_
 2	ne	_	ADV	_	Polarity=Neg	_	_	_	_
 3	te	_	PRON	_	Number=Sing|Person=2|PronType=Prs	_	_	_	_
-4	précipite	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_
+4	précipite	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_
 5	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 6	:	_	PUNCT	_	_	_	_	_	_
 
@@ -6577,7 +6577,7 @@
 # text = mais ne parle pas explicitement du rôle des marées .
 1	mais	_	CCONJ	_	_	_	_	_	_
 2	ne	_	ADV	_	Polarity=Neg	_	_	_	_
-3	parle	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_
+3	parle	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_
 4	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 5	explicitement	_	ADV	_	_	_	_	_	_
 6	du	_	ADP	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
@@ -6653,7 +6653,7 @@
 # text = surtout ne propose rien pour améliorer , tu n' es là que pour juger .
 1	surtout	_	ADV	_	_	_	_	_	_
 2	ne	_	ADV	_	Polarity=Neg	_	_	_	_
-3	propose	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_
+3	propose	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_
 4	rien	_	PRON	_	Number=Sing|Polarity=Neg	_	_	_	_
 5	pour	_	ADP	_	_	_	_	_	_
 6	améliorer	_	VERB	_	VerbForm=Inf	_	_	_	_
@@ -6736,7 +6736,7 @@
 # text = surtout ne fait pas attention a ce que j' écris , je suis nul en francais .
 1	surtout	_	ADV	_	_	_	_	_	_
 2	ne	_	ADV	_	Polarity=Neg	_	_	_	_
-3	fait	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_
+3	fait	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_
 4	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 5	attention	_	NOUN	_	Number=Sing	_	_	_	_
 6	a	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_
@@ -6856,7 +6856,7 @@
 1	surtout	_	ADV	_	_	_	_	_	_
 2	ne	_	ADV	_	Polarity=Neg	_	_	_	_
 3	te	_	PRON	_	Number=Sing|Person=2|PronType=Prs	_	_	_	_
-4	gène	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_
+4	gène	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_
 5	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 6	pour	_	ADP	_	_	_	_	_	_
 7	proposer	_	VERB	_	VerbForm=Inf	_	_	_	_
@@ -7368,7 +7368,7 @@
 # text = surtout ne change rien .
 1	surtout	_	ADV	_	_	_	_	_	_
 2	ne	_	ADV	_	Polarity=Neg	_	_	_	_
-3	change	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_
+3	change	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_
 4	rien	_	PRON	_	Number=Sing|Polarity=Neg	_	_	_	_
 5	.	_	PUNCT	_	_	_	_	_	_
 
@@ -7873,7 +7873,7 @@
 # text = surtout ne guéris pas de ça clin
 1	surtout	_	ADV	_	_	_	_	_	_
 2	ne	_	ADV	_	Polarity=Neg	_	_	_	_
-3	guéris	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_	TODO=_|Person=21
+3	guéris	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	TODO=_|Person=21
 4	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 5	de	_	ADP	_	_	_	_	_	_
 6	ça	_	PRON	_	Number=Sing|Person=3|PronType=Dem	_	_	_	_
@@ -7885,7 +7885,7 @@
 1	mais	_	CCONJ	_	_	_	_	_	_
 2	ne	_	ADV	_	Polarity=Neg	_	_	_	_
 3	t'	_	PRON	_	Number=Sing|Person=2|PronType=Prs	_	_	_	_
-4	inquiète	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_
+4	inquiète	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_
 5	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 6	je	_	PRON	_	Number=Sing|Person=1|PronType=Prs	_	_	_	_
 7	ne	_	ADV	_	Polarity=Neg	_	_	_	_
@@ -8326,11 +8326,11 @@
 1	mais	_	CCONJ	_	_	_	_	_	_
 2	ne	_	ADV	_	Polarity=Neg	_	_	_	_
 3	te	_	PRON	_	Number=Sing|Person=2|PronType=Prs	_	_	_	_
-4	donne	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_
+4	donne	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_
 5	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 6	cette	_	DET	_	Number=Sing|PronType=Dem	_	_	_	_
 7	peine	_	NOUN	_	Number=Sing	_	_	_	_
-8	va	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_
+8	va	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_
 9	.	_	PUNCT	_	_	_	_	_	_
 
 
@@ -8347,7 +8347,7 @@
 # text = surtout ne change rien !
 1	surtout	_	ADV	_	_	_	_	_	_
 2	ne	_	ADV	_	Polarity=Neg	_	_	_	_
-3	change	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_
+3	change	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_
 4	rien	_	PRON	_	Number=Sing|Polarity=Neg	_	_	_	_
 5	!	_	PUNCT	_	_	_	_	_	_
 
@@ -8572,7 +8572,7 @@
 1	mais	_	CCONJ	_	_	_	_	_	_
 2	ne	_	ADV	_	Polarity=Neg	_	_	_	_
 3	t'	_	PRON	_	Number=Sing|Person=2|PronType=Prs	_	_	_	_
-4	inquiète	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_
+4	inquiète	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_
 5	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 6	,	_	PUNCT	_	_	_	_	_	_
 7	ce	_	PRON	_	Number=Sing|Person=3|PronType=Dem	_	_	_	_
@@ -8691,7 +8691,7 @@
 1	mais	_	CCONJ	_	_	_	_	_	_
 2	ne	_	ADV	_	Polarity=Neg	_	_	_	_
 3	te	_	PRON	_	Number=Sing|Person=2|PronType=Prs	_	_	_	_
-4	lance	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_
+4	lance	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_
 5	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 6	dans	_	ADP	_	_	_	_	_	_
 7	des	_	DET	_	Definite=Ind|Number=Plur|PronType=Art	_	_	_	_
@@ -8819,7 +8819,7 @@
 1	mais	_	CCONJ	_	_	_	_	_	_
 2	ne	_	ADV	_	Polarity=Neg	_	_	_	_
 3	nous	_	PRON	_	Number=Plur|Person=1|PronType=Prs	_	_	_	_
-4	dit	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_
+4	dit	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_
 5	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 6	qu'	_	SCONJ	_	_	_	_	_	_
 7	à	_	ADP	_	_	_	_	_	_
@@ -8960,7 +8960,7 @@
 1	par	_	ADP	_	_	_	_	_	_
 2	contre	_	ADP	_	_	_	_	_	_
 3	ne	_	ADV	_	Polarity=Neg	_	_	_	_
-4	supprime	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_
+4	supprime	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_
 5	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 6	les	_	DET	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
 7	pages	_	NOUN	_	Number=Plur	_	_	_	_
@@ -9349,7 +9349,7 @@
 # text = surtout ne supprime rien .
 1	surtout	_	ADV	_	_	_	_	_	_
 2	ne	_	ADV	_	Polarity=Neg	_	_	_	_
-3	supprime	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_
+3	supprime	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_
 4	rien	_	PRON	_	Number=Sing|Polarity=Neg	_	_	_	_
 5	.	_	PUNCT	_	_	_	_	_	_
 
@@ -9358,7 +9358,7 @@
 # text = mais ne doute pas que la formulation des réclamations de gg , ces dernières semaines , sur le bistro , en a sérieusement agacé quelques-uns et que le jour où , d' aventure , il en viendrait à en faire réellement " & nbbsp ;
 1	mais	_	CCONJ	_	_	_	_	_	_
 2	ne	_	ADV	_	Polarity=Neg	_	_	_	_
-3	doute	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_
+3	doute	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_
 4	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 5	que	_	SCONJ	_	_	_	_	_	_
 6	la	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
@@ -9497,7 +9497,7 @@
 1	surtout	_	ADV	_	_	_	_	_	_
 2	ne	_	ADV	_	Polarity=Neg	_	_	_	_
 3	te	_	PRON	_	Number=Sing|Person=2|PronType=Prs	_	_	_	_
-4	gêne	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_
+4	gêne	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_
 5	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 6	pour	_	ADP	_	_	_	_	_	_
 7	modifier	_	VERB	_	VerbForm=Inf	_	_	_	_
@@ -9892,7 +9892,7 @@
 1	mais	_	CCONJ	_	_	_	_	_	_
 2	ne	_	ADV	_	Polarity=Neg	_	_	_	_
 3	t'	_	PRON	_	Number=Sing|Person=2|PronType=Prs	_	_	_	_
-4	inquiète	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_
+4	inquiète	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_
 5	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 6	,	_	PUNCT	_	_	_	_	_	_
 7	tes	_	DET	_	Number=Plur|Number[psor]=Sing|Person=2|Poss=Yes	_	_	_	_
@@ -10023,7 +10023,7 @@
 1	surtout	_	ADV	_	_	_	_	_	_
 2	ne	_	ADV	_	Polarity=Neg	_	_	_	_
 3	te	_	PRON	_	Number=Sing|Person=2|PronType=Prs	_	_	_	_
-4	décourage	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_
+4	décourage	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_
 5	par	_	ADP	_	_	_	_	_	_
 6	rapport	_	NOUN	_	Number=Sing	_	_	_	_
 7	a	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_
@@ -10166,7 +10166,7 @@
 # text = surtout ne vient pas ici .
 1	surtout	_	ADV	_	_	_	_	_	_
 2	ne	_	ADV	_	Polarity=Neg	_	_	_	_
-3	vient	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_
+3	vient	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_
 4	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 5	ici	_	ADV	_	_	_	_	_	_
 15	.	_	PUNCT	_	_	_	_	_	_
@@ -10328,7 +10328,7 @@
 1	mais	_	CCONJ	_	_	_	_	_	_
 2	ne	_	ADV	_	Polarity=Neg	_	_	_	_
 3	t'	_	PRON	_	Number=Sing|Person=2|PronType=Prs	_	_	_	_
-4	inquiète	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_
+4	inquiète	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_
 5	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 6	,	_	PUNCT	_	_	_	_	_	_
 7	si	_	SCONJ	_	_	_	_	_	_
@@ -10521,7 +10521,7 @@
 1	surtout	_	ADV	_	_	_	_	_	_
 2	ne	_	ADV	_	Polarity=Neg	_	_	_	_
 3	le	_	PRON	_	Definite=Def|Number=Sing|Person=3|PronType=Art	_	_	_	_
-4	prend	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_
+4	prend	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_
 5	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 6	comme	_	SCONJ	_	_	_	_	_	_
 7	une	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
@@ -10701,7 +10701,7 @@
 # text = mais ne justifie pas non plus la 2e monture ci dessus à mon sens .
 1	mais	_	CCONJ	_	_	_	_	_	_
 2	ne	_	ADV	_	Polarity=Neg	_	_	_	_
-3	justifie	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_
+3	justifie	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_
 4	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 5	non	_	ADV	_	Polarity=Neg	_	_	_	_
 6	plus	_	ADV	_	_	_	_	_	_
@@ -10835,7 +10835,7 @@
 # text = surtout ne renomme pas toi-même ta page utilisateur !
 1	surtout	_	ADV	_	_	_	_	_	_
 2	ne	_	ADV	_	Polarity=Neg	_	_	_	_
-3	renomme	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_
+3	renomme	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_
 4	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 5	toi-même	_	PRON	_	Number=Sing|Person=2|PronType=Prs|Reflex=Yes	_	_	_	_
 6	ta	_	DET	_	Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes	_	_	_	_
@@ -10933,7 +10933,7 @@
 # text = mais ne complique pas ton emploi du temps pour cela .
 1	mais	_	CCONJ	_	_	_	_	_	_
 2	ne	_	ADV	_	Polarity=Neg	_	_	_	_
-3	complique	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_
+3	complique	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_
 4	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 5	ton	_	DET	_	Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes	_	_	_	_
 6	emploi	_	NOUN	_	Number=Sing	_	_	_	_
@@ -11010,7 +11010,7 @@
 # text = surtout ne prend pas comme un reproche ma remarque sur ta modification sur l' article heinz lammerding .
 1	surtout	_	ADV	_	_	_	_	_	_
 2	ne	_	ADV	_	Polarity=Neg	_	_	_	_
-3	prend	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_
+3	prend	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_
 4	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 5	comme	_	SCONJ	_	_	_	_	_	_
 6	un	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
@@ -11120,7 +11120,7 @@
 # text = mais ne retombe pas aussi sur une propagation de celles -ci par rapport à un milieu au lieu d' une propagation relativiste entre émetteur et récepteur ?
 1	mais	_	CCONJ	_	_	_	_	_	_
 2	ne	_	ADV	_	Polarity=Neg	_	_	_	_
-3	retombe	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_
+3	retombe	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_
 4	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 5	aussi	_	ADV	_	_	_	_	_	_
 6	sur	_	ADP	_	_	_	_	_	_
@@ -11185,7 +11185,7 @@
 1	surtout	_	ADV	_	_	_	_	_	_
 2	ne	_	ADV	_	Polarity=Neg	_	_	_	_
 3	te	_	PRON	_	Number=Sing|Person=2|PronType=Prs	_	_	_	_
-4	bile	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_
+4	bile	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_
 5	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 6	.	_	PUNCT	_	_	_	_	_	_
 
@@ -11194,7 +11194,7 @@
 # text = mais ne recommence pas trop vite .
 1	mais	_	CCONJ	_	_	_	_	_	_
 2	ne	_	ADV	_	Polarity=Neg	_	_	_	_
-3	recommence	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_
+3	recommence	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_
 4	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 5	trop	_	ADV	_	_	_	_	_	_
 6	vite	_	ADV	_	_	_	_	_	_
