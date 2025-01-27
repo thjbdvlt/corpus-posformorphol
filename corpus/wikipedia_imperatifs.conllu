@@ -7224,7 +7224,7 @@
 3	énerve	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	_
 4	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 5	,	_	PUNCT	_	_	_	_	_	_
-6	prend	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	_
+6	prends	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	_
 7	ton	_	DET	_	Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes	_	_	_	_
 8	temps	_	NOUN	_	Number=Sing	_	_	_	_
 9	.	_	PUNCT	_	_	_	_	_	_
@@ -7241,7 +7241,7 @@
 7	en	_	ADP	_	_	_	_	_	_
 8	colère	_	NOUN	_	Number=Sing	_	_	_	_
 9	,	_	PUNCT	_	_	_	_	_	_
-10	prend	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	_
+10	prends	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	_
 11	ton	_	DET	_	Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes	_	_	_	_
 12	temps	_	NOUN	_	Number=Sing	_	_	_	_
 13	.	_	PUNCT	_	_	_	_	_	_
@@ -7255,7 +7255,7 @@
 4	énerve	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	_
 5	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 6	,	_	PUNCT	_	_	_	_	_	_
-7	prend	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	_
+7	prends	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	_
 8	ton	_	DET	_	Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes	_	_	_	_
 9	temps	_	NOUN	_	Number=Sing	_	_	_	_
 10	,	_	PUNCT	_	_	_	_	_	_
@@ -8280,7 +8280,7 @@
 
 # text = n' oublie pas qu' il y a déjà un article sous forme de tableau ici .
 1	n'	ne	ADV	_	Polarity=Neg	2	_	advmod	_
-2	oublie	oublier	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	2	_	ROOT	_
+2	oublie	oublier	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	2	_	ROOT	_
 3	pas	pas	ADV	_	Polarity=Neg	2	_	advmod	_
 4	qu'	que	SCONJ	_	_	7	_	mark	_
 5	il	il	PRON	_	Number=Sing|Person=3|PronType=Prs	7	_	expl:subj	_
@@ -8301,7 +8301,7 @@
 # text = et n' oublie pas de réintégrer carrasso à l' effectif monégasque à minuit , pusique c' est ta plus grande satisfaction anticipée depuis plusieurs jours !
 1	et	et	CCONJ	_	_	3	_	cc	_
 2	n'	ne	ADV	_	Polarity=Neg	3	_	advmod	_
-3	oublie	oublier	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	3	_	ROOT	_
+3	oublie	oublier	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	3	_	ROOT	_
 4	pas	pas	ADV	_	Polarity=Neg	3	_	advmod	_
 5	de	de	ADP	_	_	6	_	mark	_
 6	réintégrer	réintégrer	VERB	_	VerbForm=Inf	3	_	xcomp	_
@@ -8330,7 +8330,7 @@
 
 # text = n' oublie pas de t' inscrire .
 1	n'	ne	ADV	_	Polarity=Neg	2	_	advmod	_
-2	oublie	oublier	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	2	_	ROOT	_
+2	oublie	oublier	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	2	_	ROOT	_
 3	pas	pas	ADV	_	Polarity=Neg	2	_	advmod	_
 4	de	de	ADP	_	_	6	_	mark	_
 5	t'	te	PRON	_	Number=Sing|Person=2|PronType=Prs	6	_	obj	_
@@ -8340,7 +8340,7 @@
 
 
 # text = oublie le " vie personnelle " , mais si tu veux mettre ça , ça a plus sa place dans " selles en dehors des courts " ou " selles dans la culture populaire " que dans " distinctions et récompenses " .
-1	oublie	oublier	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	1	_	ROOT	_
+1	oublie	oublier	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	1	_	ROOT	_
 2	le	le·la	DET	_	Definite=Def|Number=Sing|PronType=Art	4	_	det	_
 3	"	"	PUNCT	_	_	4	_	punct	_
 4	vie	vie	NOUN	_	Number=Sing	1	_	obj	_
@@ -8388,7 +8388,7 @@
 
 # text = n' oublie juste pas de signer tes messages par quatre ~ pour que ton message ne reste pas anonyme !
 1	n'	ne	ADV	_	Polarity=Neg	2	_	advmod	_
-2	oublie	oublier	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	2	_	ROOT	_
+2	oublie	oublier	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	2	_	ROOT	_
 3	juste	juste	ADJ	_	Number=Sing	2	_	advmod	_
 4	pas	pas	ADV	_	Polarity=Neg	2	_	advmod	_
 5	de	de	ADP	_	_	6	_	mark	_
@@ -8412,7 +8412,7 @@
 
 # text = n' oublie pas signer aussi quand tu postes .
 1	n'	ne	ADV	_	Polarity=Neg	2	_	advmod	_
-2	oublie	oublier	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	2	_	ROOT	_
+2	oublie	oublier	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	2	_	ROOT	_
 3	pas	pas	ADV	_	Polarity=Neg	2	_	advmod	_
 4	signer	signer	VERB	_	VerbForm=Inf	2	_	ccomp	_
 5	aussi	aussi	ADV	_	_	4	_	advmod	_
@@ -8425,7 +8425,7 @@
 
 # text = n' oublie pas mes conseils quand tu crées de nouvelles pages .
 1	n'	ne	ADV	_	Polarity=Neg	2	_	advmod	_
-2	oublie	oublier	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	2	_	ROOT	_
+2	oublie	oublier	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	2	_	ROOT	_
 3	pas	pas	ADV	_	Polarity=Neg	2	_	advmod	_
 4	mes	mes	DET	_	Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes	5	_	det	_
 5	conseils	conseil	NOUN	_	Number=Plur	2	_	obj	_
@@ -8450,7 +8450,7 @@
 8	partie	partie	NOUN	_	Number=Sing	6	_	obj	_
 9	,	,	PUNCT	_	_	11	_	punct	_
 10	n'	ne	ADV	_	Polarity=Neg	11	_	advmod	_
-11	oublie	oublier	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	11	_	ROOT	_
+11	oublie	oublier	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	11	_	ROOT	_
 12	pas	pas	ADV	_	Polarity=Neg	11	_	advmod	_
 13	d'	de	ADP	_	_	14	_	mark	_
 14	utiliser	utiliser	VERB	_	VerbForm=Inf	11	_	xcomp	_
@@ -8464,7 +8464,7 @@
 
 # text = n' oublie pas de signer tes messages perso !
 1	n'	ne	ADV	_	Polarity=Neg	2	_	advmod	_
-2	oublie	oublier	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	2	_	ROOT	_
+2	oublie	oublier	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	2	_	ROOT	_
 3	pas	pas	ADV	_	Polarity=Neg	2	_	advmod	_
 4	de	de	ADP	_	_	5	_	mark	_
 5	signer	signer	VERB	_	VerbForm=Inf	2	_	xcomp	_
@@ -8476,7 +8476,7 @@
 
 
 # text = oublie ton ex ( féat .
-1	oublie	oublier	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	1	_	ROOT	_
+1	oublie	oublier	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	1	_	ROOT	_
 2	ton	ton	DET	_	Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes	3	_	det	_
 3	ex	ex	NOUN	_	Number=Plur	1	_	obj	_
 4	(	(	PUNCT	_	_	5	_	punct	_
@@ -8487,7 +8487,7 @@
 
 # text = n' oublie pas d' inscrire tes créations d' articles de musique classique au registre !
 1	n'	ne	ADV	_	Polarity=Neg	2	_	advmod	_
-2	oublie	oublier	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	2	_	ROOT	_
+2	oublie	oublier	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	2	_	ROOT	_
 3	pas	pas	ADV	_	Polarity=Neg	2	_	advmod	_
 4	d'	de	ADP	_	_	5	_	mark	_
 5	inscrire	inscrire	VERB	_	VerbForm=Inf	2	_	xcomp	_
@@ -8510,7 +8510,7 @@
 3	2	2	NUM	_	NumType=Card	4	_	nummod	_
 4	f.	f.	NOUN	_	Number=Plur	6	_	nsubj	_
 5	n'	ne	ADV	_	Polarity=Neg	6	_	advmod	_
-6	oublie	oublier	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	6	_	ROOT	_
+6	oublie	oublier	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	6	_	ROOT	_
 7	pas	pas	ADV	_	Polarity=Neg	6	_	advmod	_
 8	de	de	ADP	_	_	9	_	mark	_
 9	signer	signer	VERB	_	VerbForm=Inf	6	_	xcomp	_
@@ -8529,7 +8529,7 @@
 
 # text = n' oublie pas de signer quand tu avertis .
 1	n'	ne	ADV	_	Polarity=Neg	2	_	advmod	_
-2	oublie	oublier	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	2	_	ROOT	_
+2	oublie	oublier	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	2	_	ROOT	_
 3	pas	pas	ADV	_	Polarity=Neg	2	_	advmod	_
 4	de	de	ADP	_	_	5	_	mark	_
 5	signer	signer	VERB	_	VerbForm=Inf	2	_	xcomp	_
@@ -8542,7 +8542,7 @@
 
 # text = n' oublie pas de sauvegarder la carte quelquefois à tout hasard .
 1	n'	ne	ADV	_	Polarity=Neg	2	_	advmod	_
-2	oublie	oublier	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	2	_	ROOT	_
+2	oublie	oublier	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	2	_	ROOT	_
 3	pas	pas	ADV	_	Polarity=Neg	2	_	advmod	_
 4	de	de	ADP	_	_	5	_	mark	_
 5	sauvegarder	sauvegarder	VERB	_	VerbForm=Inf	2	_	xcomp	_
@@ -8588,7 +8588,7 @@
 29	plait	plaire	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	32	_	advcl	_
 30	,	,	PUNCT	_	_	32	_	punct	_
 31	n'	ne	ADV	_	Polarity=Neg	32	_	advmod	_
-32	oublie	oublier	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	3	_	conj	_
+32	oublie	oublier	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	3	_	conj	_
 33	pas	pas	ADV	_	Polarity=Neg	32	_	advmod	_
 34	que	que	SCONJ	_	_	38	_	mark	_
 35	tu	tu	PRON	_	Number=Sing|Person=2|PronType=Prs	38	_	nsubj	_
@@ -8601,7 +8601,7 @@
 
 # text = n' oublie pas également que cette abréviation est typiquement française et que de nombreux internautes suisses , belges , ou québécois consultent notre chère encyclopédie .
 1	n'	ne	ADV	_	Polarity=Neg	2	_	advmod	_
-2	oublie	oublier	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	2	_	ROOT	_
+2	oublie	oublier	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	2	_	ROOT	_
 3	pas	pas	ADV	_	Polarity=Neg	2	_	advmod	_
 4	également	également	ADV	_	_	2	_	advmod	_
 5	que	que	SCONJ	_	_	10	_	mark	_
@@ -8639,7 +8639,7 @@
 7	,	,	PUNCT	_	_	10	_	punct	_
 8	et	et	CCONJ	_	_	10	_	cc	_
 9	n'	ne	ADV	_	Polarity=Neg	10	_	advmod	_
-10	oublie	oublier	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	1	_	conj	_
+10	oublie	oublier	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	1	_	conj	_
 11	pas	pas	ADV	_	Polarity=Neg	10	_	advmod	_
 12	de	de	ADP	_	_	13	_	mark	_
 13	sourcer	sourcer	VERB	_	VerbForm=Inf	10	_	xcomp	_
@@ -8649,7 +8649,7 @@
 
 # text = n' oublie pas que google n' est pas exactement la bonne référence pour affirmer la justesse d' une donnée !
 1	n'	ne	ADV	_	Polarity=Neg	2	_	advmod	_
-2	oublie	oublier	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	2	_	ROOT	_
+2	oublie	oublier	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	2	_	ROOT	_
 3	pas	pas	ADV	_	Polarity=Neg	2	_	advmod	_
 4	que	que	SCONJ	_	_	12	_	mark	_
 5	google	googler	NOUN	_	Number=Sing	12	_	nsubj	_
@@ -8673,7 +8673,7 @@
 
 # text = n' oublie pas que tu as le droit de virer les bandeaux en haut des articles si tu penses qu' ils n' ont plus leur place .
 1	n'	ne	ADV	_	Polarity=Neg	2	_	advmod	_
-2	oublie	oublier	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	2	_	ROOT	_
+2	oublie	oublier	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	2	_	ROOT	_
 3	pas	pas	ADV	_	Polarity=Neg	2	_	advmod	_
 4	que	que	SCONJ	_	_	6	_	mark	_
 5	tu	tu	PRON	_	Number=Sing|Person=2|PronType=Prs	6	_	nsubj	_
@@ -8704,7 +8704,7 @@
 
 # text = n' oublie pas que comme tu es administrateur , il faut masquer les copyvios .
 1	n'	ne	ADV	_	Polarity=Neg	2	_	advmod	_
-2	oublie	oublier	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	2	_	ROOT	_
+2	oublie	oublier	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	2	_	ROOT	_
 3	pas	pas	ADV	_	Polarity=Neg	2	_	advmod	_
 4	que	que	SCONJ	_	_	11	_	mark	_
 5	comme	comme	SCONJ	_	_	8	_	mark	_
@@ -8733,7 +8733,7 @@
 9	lire	lire	VERB	_	VerbForm=Inf	4	_	xcomp	_
 10	,	,	PUNCT	_	_	12	_	punct	_
 11	n'	ne	ADV	_	Polarity=Neg	12	_	advmod	_
-12	oublie	oublier	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	12	_	ROOT	_
+12	oublie	oublier	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	12	_	ROOT	_
 13	pas	pas	ADV	_	Polarity=Neg	12	_	advmod	_
 14	de	de	ADP	_	_	15	_	mark	_
 15	venir	venir	VERB	_	VerbForm=Inf	12	_	ccomp	_
@@ -8743,7 +8743,7 @@
 
 
 # text = oublie les histoires de règles et tout et tout .
-1	oublie	oublier	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	1	_	ROOT	_
+1	oublie	oublier	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	1	_	ROOT	_
 2	les	le·la	DET	_	Definite=Def|Number=Plur|PronType=Art	3	_	det	_
 3	histoires	histoire	NOUN	_	Number=Plur	1	_	obj	_
 4	de	de	ADP	_	_	5	_	case	_
@@ -8766,7 +8766,7 @@
 7	,	,	PUNCT	_	_	10	_	punct	_
 8	mais	mais	CCONJ	_	_	10	_	cc	_
 9	n'	ne	ADV	_	Polarity=Neg	10	_	advmod	_
-10	oublie	oublier	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	10	_	ROOT	_
+10	oublie	oublier	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	10	_	ROOT	_
 11	pas	pas	ADV	_	Polarity=Neg	10	_	advmod	_
 12	d'	de	ADP	_	_	13	_	mark	_
 13	avoir	avoir	VERB	_	VerbForm=Inf	10	_	xcomp	_
@@ -8788,7 +8788,7 @@
 5	balise	balise	NOUN	_	Number=Sing	3	_	obj	_
 6	,	,	PUNCT	_	_	3	_	punct	_
 7	n'	ne	ADV	_	Polarity=Neg	8	_	advmod	_
-8	oublie	oublier	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	8	_	ROOT	_
+8	oublie	oublier	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	8	_	ROOT	_
 9	pas	pas	ADV	_	Polarity=Neg	8	_	advmod	_
 10	de	de	ADP	_	_	12	_	mark	_
 11	la	le	PRON	_	Definite=Def|Number=Sing|Person=3|PronType=Art	12	_	obj	_
@@ -8799,7 +8799,7 @@
 
 # text = n' oublie pas de venir voter pour valider ton propre travail rire
 1	n'	ne	ADV	_	Polarity=Neg	2	_	advmod	_
-2	oublie	oublier	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	2	_	ROOT	_
+2	oublie	oublier	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	2	_	ROOT	_
 3	pas	pas	ADV	_	Polarity=Neg	2	_	advmod	_
 4	de	de	ADP	_	_	5	_	mark	_
 5	venir	venir	VERB	_	VerbForm=Inf	2	_	ccomp	_
@@ -8821,7 +8821,7 @@
 5	ouvrage	ouvrage	NOUN	_	Number=Sing	3	_	obj	_
 6	,	,	PUNCT	_	_	8	_	punct	_
 7	n'	ne	ADV	_	Polarity=Neg	8	_	advmod	_
-8	oublie	oublier	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	8	_	ROOT	_
+8	oublie	oublier	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	8	_	ROOT	_
 9	pas	pas	ADV	_	Polarity=Neg	8	_	advmod	_
 10	de	de	ADP	_	_	11	_	mark	_
 11	citer	citer	VERB	_	VerbForm=Inf	8	_	xcomp	_
@@ -8839,7 +8839,7 @@
 
 # text = n' oublie pas que nous sommes tous bénévoles , que j' ai des tâches dans la vraie vie comme tout un chacun , et qu' en plus , en ce moment , une très grande partie de mon temps sur wp est consacré au prochain wc .
 1	n'	ne	ADV	_	Polarity=Neg	2	_	advmod	_
-2	oublie	oublier	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	2	_	ROOT	_
+2	oublie	oublier	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	2	_	ROOT	_
 3	pas	pas	ADV	_	Polarity=Neg	2	_	advmod	_
 4	que	que	SCONJ	_	_	8	_	mark	_
 5	nous	nous	PRON	_	Number=Plur|Person=1|PronType=Prs	8	_	nsubj	_
@@ -8898,7 +8898,7 @@
 7	cantates	cantate	NOUN	_	Number=Plur	5	_	nmod	_
 8	,	,	PUNCT	_	_	3	_	punct	_
 9	n'	ne	ADV	_	Polarity=Neg	10	_	advmod	_
-10	oublie	oublier	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	10	_	ROOT	_
+10	oublie	oublier	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	10	_	ROOT	_
 11	pas	pas	ADV	_	Polarity=Neg	10	_	advmod	_
 12	de	de	ADP	_	_	14	_	mark	_
 13	les	les	PRON	_	Definite=Def|Number=Plur|Person=3|PronType=Art	14	_	obj	_
@@ -8928,7 +8928,7 @@
 8	discussion	discussion	NOUN	_	Number=Sing	6	_	nmod	_
 9	,	,	PUNCT	_	_	6	_	punct	_
 10	n'	ne	ADV	_	Polarity=Neg	11	_	advmod	_
-11	oublie	oublier	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	11	_	ROOT	_
+11	oublie	oublier	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	11	_	ROOT	_
 12	pas	pas	ADV	_	Polarity=Neg	11	_	advmod	_
 13	de	de	ADP	_	_	14	_	mark	_
 14	finir	finir	VERB	_	VerbForm=Inf	11	_	ccomp	_
@@ -8948,7 +8948,7 @@
 8	,	,	PUNCT	_	_	11	_	punct	_
 9	mais	mais	CCONJ	_	_	11	_	cc	_
 10	n'	ne	ADV	_	Polarity=Neg	11	_	advmod	_
-11	oublie	oublier	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	1	_	conj	_
+11	oublie	oublier	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	1	_	conj	_
 12	pas	pas	ADV	_	Polarity=Neg	11	_	advmod	_
 13	la	le	DET	_	Definite=Def|Number=Sing|PronType=Art	15	_	det	_
 14	petite	petit·e	ADJ	_	Number=Sing	15	_	amod	_
@@ -8960,7 +8960,7 @@
 # text = et n' oublie pas nos amis québécois , sénégalais , guinéens , cambodgiens , libanais , maliens , malgache , etc .
 1	et	et	CCONJ	_	_	3	_	cc	_
 2	n'	ne	ADV	_	Polarity=Neg	3	_	advmod	_
-3	oublie	oublier	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	3	_	ROOT	_
+3	oublie	oublier	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	3	_	ROOT	_
 4	pas	pas	ADV	_	Polarity=Neg	3	_	advmod	_
 5	nos	nos	DET	_	Number=Plur|Number[psor]=Plur|Person=1|Poss=Yes	6	_	det	_
 6	amis	ami·e	NOUN	_	Number=Plur	3	_	obj	_
@@ -8987,7 +8987,7 @@
 1	cependant	cependant	ADV	_	_	4	_	advmod	_
 2	,	,	PUNCT	_	_	1	_	punct	_
 3	n'	ne	ADV	_	Polarity=Neg	4	_	advmod	_
-4	oublie	oublier	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	4	_	ROOT	_
+4	oublie	oublier	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	4	_	ROOT	_
 5	pas	pas	ADV	_	Polarity=Neg	4	_	advmod	_
 6	que	que	SCONJ	_	_	4	_	ccomp	_
 
@@ -8996,7 +8996,7 @@
 # text = et n' oublie pas que le beffroi de béthune est celui qui est dessiné sur le logo de la région nord-pas-de-calais .
 1	et	et	CCONJ	_	_	3	_	cc	_
 2	n'	ne	ADV	_	Polarity=Neg	3	_	advmod	_
-3	oublie	oublier	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	3	_	ROOT	_
+3	oublie	oublier	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	3	_	ROOT	_
 4	pas	pas	ADV	_	Polarity=Neg	3	_	advmod	_
 5	que	que	SCONJ	_	_	11	_	mark	_
 6	le	le·la	DET	_	Definite=Def|Number=Sing|PronType=Art	7	_	det	_
@@ -9025,7 +9025,7 @@
 3	chose	chose	NOUN	_	Number=Sing	6	_	nsubj	_
 4	,	,	PUNCT	_	_	3	_	punct	_
 5	n'	ne	ADV	_	Polarity=Neg	6	_	advmod	_
-6	oublie	oublier	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	44	_	advcl	_
+6	oublie	oublier	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	44	_	advcl	_
 7	pas	pas	ADV	_	Polarity=Neg	6	_	advmod	_
 8	de	de	ADP	_	_	9	_	mark	_
 9	signer	signer	VERB	_	VerbForm=Inf	6	_	xcomp	_
@@ -9090,7 +9090,7 @@
 3	bonne	bon·ne	ADJ	_	Number=Plur	4	_	amod	_
 4	vacances	vacance	NOUN	_	Number=Plur	1	_	obl:arg	_
 5	,	,	PUNCT	_	_	6	_	punct	_
-6	oublie	oublier	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	1	_	parataxis	_
+6	oublie	oublier	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	1	_	parataxis	_
 7	tout	touste	PRON	_	Definite=Ind|Number=Sing|Person=3	6	_	advmod	_
 8	et	et	CCONJ	_	_	9	_	cc	_
 9	fait	fait	NOUN	_	Number=Sing	6	_	conj	_
@@ -9118,7 +9118,7 @@
 12	emse	em	NOUN	_	Number=Sing	9	_	nmod	_
 13	,	,	PUNCT	_	_	6	_	punct	_
 14	n'	ne	ADV	_	Polarity=Neg	15	_	advmod	_
-15	oublie	oublier	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	3	_	conj	_
+15	oublie	oublier	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	3	_	conj	_
 16	pas	pas	ADV	_	Polarity=Neg	15	_	advmod	_
 17	de	de	ADP	_	_	18	_	mark	_
 18	signer	signer	VERB	_	VerbForm=Inf	15	_	xcomp	_
@@ -9135,7 +9135,7 @@
 # text = et n' oublie pas que le petit jeu de l' apposition des modèles pertinence détail est un couteau à double tranchant :
 1	et	et	CCONJ	_	_	3	_	cc	_
 2	n'	ne	ADV	_	Polarity=Neg	3	_	advmod	_
-3	oublie	oublier	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	3	_	ROOT	_
+3	oublie	oublier	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	3	_	ROOT	_
 4	pas	pas	ADV	_	Polarity=Neg	3	_	advmod	_
 5	que	que	SCONJ	_	_	18	_	mark	_
 6	le	le·la	DET	_	Definite=Def|Number=Sing|PronType=Art	8	_	det	_
@@ -9165,7 +9165,7 @@
 4	catégories	catégorie	NOUN	_	Number=Plur	7	_	obl:mod	_
 5	,	,	PUNCT	_	_	4	_	punct	_
 6	n'	ne	ADV	_	Polarity=Neg	7	_	advmod	_
-7	oublie	oublier	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	7	_	ROOT	_
+7	oublie	oublier	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	7	_	ROOT	_
 8	pas	pas	ADV	_	Polarity=Neg	7	_	advmod	_
 9	de	de	ADP	_	_	10	_	mark	_
 10	mettre	mettre	VERB	_	VerbForm=Inf	7	_	xcomp	_
@@ -9189,7 +9189,7 @@
 6	article	article	NOUN	_	Number=Sing	3	_	obj	_
 7	,	,	PUNCT	_	_	3	_	punct	_
 8	n'	ne	ADV	_	Polarity=Neg	9	_	advmod	_
-9	oublie	oublier	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	9	_	ROOT	_
+9	oublie	oublier	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	9	_	ROOT	_
 10	pas	pas	ADV	_	Polarity=Neg	9	_	advmod	_
 11	d'	de	ADP	_	_	12	_	mark	_
 12	ajouter	ajouter	VERB	_	VerbForm=Inf	9	_	ccomp	_
@@ -9229,7 +9229,7 @@
 
 # text = n' oublie pas - c' est le principal - les auteurs ( dans le cas présent les adaptateurs français ) .
 1	n'	ne	ADV	_	Polarity=Neg	2	_	advmod	_
-2	oublie	oublier	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	2	_	ROOT	_
+2	oublie	oublier	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	2	_	ROOT	_
 3	pas	pas	ADV	_	Polarity=Neg	2	_	advmod	_
 4	-	-	PUNCT	_	_	2	_	punct	_
 5	c'	ce	PRON	_	Number=Sing|Person=3|PronType=Dem	8	_	nsubj	_
@@ -9254,7 +9254,7 @@
 
 # text = n' oublie pas cependant de mettre des catégories a tes photos .
 1	n'	ne	ADV	_	Polarity=Neg	2	_	advmod	_
-2	oublie	oublier	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	2	_	ROOT	_
+2	oublie	oublier	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	2	_	ROOT	_
 3	pas	pas	ADV	_	Polarity=Neg	2	_	advmod	_
 4	cependant	cependant	ADV	_	_	2	_	advmod	_
 5	de	de	ADP	_	_	6	_	mark	_
@@ -9271,7 +9271,7 @@
 # text = surtout n' oublie pas de demander à maître la hurière de ce petit vin d' anjou qui lui est arrivé ces jours -ci .
 1	surtout	surtout	ADV	_	_	3	_	advmod	_
 2	n'	ne	ADV	_	Polarity=Neg	3	_	advmod	_
-3	oublie	oublier	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	3	_	ROOT	_
+3	oublie	oublier	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	3	_	ROOT	_
 4	pas	pas	ADV	_	Polarity=Neg	3	_	advmod	_
 5	de	de	ADP	_	_	6	_	mark	_
 6	demander	demander	VERB	_	VerbForm=Inf	3	_	ccomp	_
@@ -9298,7 +9298,7 @@
 
 # text = n' oublie pas que les titres ne prennent jamais de déterminant .
 1	n'	ne	ADV	_	Polarity=Neg	2	_	advmod	_
-2	oublie	oublier	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	2	_	ROOT	_
+2	oublie	oublier	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	2	_	ROOT	_
 3	pas	pas	ADV	_	Polarity=Neg	2	_	advmod	_
 4	que	que	SCONJ	_	_	8	_	mark	_
 5	les	le·la	DET	_	Definite=Def|Number=Plur|PronType=Art	6	_	det	_
@@ -9314,7 +9314,7 @@
 
 # text = n' oublie seulement pas que le forum des nouveaux est là pour t' aider , toujours si besoin est .
 1	n'	ne	ADV	_	Polarity=Neg	2	_	advmod	_
-2	oublie	oublier	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	2	_	ROOT	_
+2	oublie	oublier	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	2	_	ROOT	_
 3	seulement	seulement	ADV	_	_	2	_	advmod	_
 4	pas	pas	ADV	_	Polarity=Neg	2	_	advmod	_
 5	que	que	SCONJ	_	_	10	_	mark	_
@@ -9337,7 +9337,7 @@
 
 
 # text = oublie giantbomb , de très mauvaise qualité .
-1	oublie	oublier	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	1	_	ROOT	_
+1	oublie	oublier	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	1	_	ROOT	_
 2	giantbomb	giantbomb	ADJ	_	Number=Sing	1	_	xcomp	_
 3	,	,	PUNCT	_	_	7	_	punct	_
 4	de	de	ADP	_	_	7	_	case	_
@@ -9350,7 +9350,7 @@
 
 # text = n' oublie pas que nous , nous avons des centaines de villes de chine avec juste marqué ville de plus de 2 habitants :)
 1	n'	ne	ADV	_	Polarity=Neg	2	_	advmod	_
-2	oublie	oublier	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	2	_	ROOT	_
+2	oublie	oublier	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	2	_	ROOT	_
 3	pas	pas	ADV	_	Polarity=Neg	2	_	advmod	_
 4	que	que	SCONJ	_	_	8	_	mark	_
 5	nous	nous	PRON	_	Number=Plur|Person=1|PronType=Prs	8	_	dislocated	_
@@ -9378,7 +9378,7 @@
 
 # text = n' oublie pas que derrière un compte utilisateur se cache un être humain dont tu ignore plus que tu n' en sais .
 1	n'	ne	ADV	_	Polarity=Neg	2	_	advmod	_
-2	oublie	oublier	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	2	_	ROOT	_
+2	oublie	oublier	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	2	_	ROOT	_
 3	pas	pas	ADV	_	Polarity=Neg	2	_	advmod	_
 4	que	que	SCONJ	_	_	10	_	mark	_
 5	derrière	derrière	ADP	_	_	7	_	case	_
@@ -9409,7 +9409,7 @@
 3	ça	ça	PRON	_	Number=Sing|Person=3|PronType=Dem	6	_	nsubj	_
 4	,	,	PUNCT	_	_	3	_	punct	_
 5	n'	ne	ADV	_	Polarity=Neg	6	_	advmod	_
-6	oublie	oublier	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	1	_	conj	_
+6	oublie	oublier	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	1	_	conj	_
 7	pas	pas	ADV	_	Polarity=Neg	6	_	advmod	_
 8	de	de	ADP	_	_	9	_	mark	_
 9	mettre	mettre	VERB	_	VerbForm=Inf	6	_	xcomp	_
@@ -9429,7 +9429,7 @@
 1	attention	attention	NOUN	_	Number=Sing	4	_	nsubj	_
 2	,	,	PUNCT	_	_	1	_	punct	_
 3	n'	ne	ADV	_	Polarity=Neg	4	_	advmod	_
-4	oublie	oublier	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	4	_	ROOT	_
+4	oublie	oublier	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	4	_	ROOT	_
 5	pas	pas	ADV	_	Polarity=Neg	4	_	advmod	_
 6	l'	le·a	DET	_	Definite=Def|Number=Sing|PronType=Art	7	_	det	_
 7	apostrophe	apostrophe	NOUN	_	Number=Sing	4	_	obj	_
@@ -9444,7 +9444,7 @@
 1	surtout	surtout	ADV	_	_	4	_	advmod	_
 2	,	,	PUNCT	_	_	1	_	punct	_
 3	n'	ne	ADV	_	Polarity=Neg	4	_	advmod	_
-4	oublie	oublier	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	4	_	ROOT	_
+4	oublie	oublier	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	4	_	ROOT	_
 5	pas	pas	ADV	_	Polarity=Neg	4	_	advmod	_
 6	tes	tes	DET	_	Number=Plur|Number[psor]=Sing|Person=2|Poss=Yes	7	_	det	_
 7	chroniques	chronique	NOUN	_	Number=Plur	4	_	obj	_
@@ -9471,7 +9471,7 @@
 3	cas	cas	NOUN	_	Number=Sing	6	_	obl:mod	_
 4	,	,	PUNCT	_	_	3	_	punct	_
 5	n'	ne	ADV	_	Polarity=Neg	6	_	advmod	_
-6	oublie	oublier	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	6	_	ROOT	_
+6	oublie	oublier	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	6	_	ROOT	_
 7	pas	pas	ADV	_	Polarity=Neg	6	_	advmod	_
 8	de	de	ADP	_	_	9	_	mark	_
 9	contribuer	contribuer	VERB	_	VerbForm=Inf	6	_	xcomp	_
@@ -9485,7 +9485,7 @@
 
 # text = n' oublie tout de même pas de supposer la bonne foi et désolé pour l' utilisation de jargon wikipédien .
 1	n'	ne	ADV	_	Polarity=Neg	2	_	advmod	_
-2	oublie	oublier	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	2	_	ROOT	_
+2	oublie	oublier	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	2	_	ROOT	_
 3	tout	tous·te	ADV	_	_	5	_	advmod	_
 4	de	de	ADP	_	_	5	_	case	_
 5	même	même	ADV	_	_	2	_	advmod	_
@@ -9513,7 +9513,7 @@
 3	part	part	NOUN	_	Number=Sing	6	_	obl:mod	_
 4	,	,	PUNCT	_	_	3	_	punct	_
 5	n'	ne	ADV	_	Polarity=Neg	6	_	advmod	_
-6	oublie	oublier	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	6	_	ROOT	_
+6	oublie	oublier	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	6	_	ROOT	_
 7	pas	pas	ADV	_	Polarity=Neg	6	_	advmod	_
 8	de	de	ADP	_	_	9	_	mark	_
 9	citer	citer	VERB	_	VerbForm=Inf	6	_	xcomp	_
@@ -9537,7 +9537,7 @@
 
 # text = et oublie au passage que le tibet historique dont parle tendzin choegyal et le dallai lama est près de 2 fois plus grand , et comprend le plateau tibétain ainsi que les régionde de gansu , qinghai , sichuan , et yunnan .
 1	et	et	CCONJ	_	_	2	_	cc	_
-2	oublie	oublier	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	2	_	ROOT	_
+2	oublie	oublier	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	2	_	ROOT	_
 3	au	au	ADP	_	Definite=Def|Number=Sing|PronType=Art	4	_	det	_
 4	passage	passage	NOUN	_	Number=Sing	2	_	obl:mod	_
 5	que	que	SCONJ	_	_	7	_	case	_
@@ -9587,7 +9587,7 @@
 2	ailleurs	ailleurs	ADV	_	_	5	_	advmod	_
 3	,	,	PUNCT	_	_	2	_	punct	_
 4	n'	ne	ADV	_	Polarity=Neg	5	_	advmod	_
-5	oublie	oublier	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	5	_	ROOT	_
+5	oublie	oublier	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	5	_	ROOT	_
 6	pas	pas	ADV	_	Polarity=Neg	5	_	advmod	_
 7	mettre	mettre	VERB	_	VerbForm=Inf	5	_	xcomp	_
 8	à	à	ADP	_	_	9	_	case	_
@@ -9599,7 +9599,7 @@
 
 # text = n' oublie pas que tu es sur un projet collaboratif :
 1	n'	ne	ADV	_	Polarity=Neg	2	_	advmod	_
-2	oublie	oublier	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	2	_	ROOT	_
+2	oublie	oublier	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	2	_	ROOT	_
 3	pas	pas	ADV	_	Polarity=Neg	2	_	advmod	_
 4	que	que	SCONJ	_	_	6	_	mark	_
 5	tu	tu	PRON	_	Number=Sing|Person=2|PronType=Prs	6	_	nsubj	_
@@ -9613,7 +9613,7 @@
 
 
 # text = oublie darwinus et regarde ce qui s' est passé et les accusations d' hc .
-1	oublie	oublier	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	1	_	ROOT	_
+1	oublie	oublier	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	1	_	ROOT	_
 2	darwinus	darwinus	PROPN	_	_	1	_	obj	_
 3	et	et	CCONJ	_	_	4	_	cc	_
 4	regarde	regarder	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	1	_	conj	_
@@ -9645,7 +9645,7 @@
 11	,	,	PUNCT	_	_	14	_	punct	_
 12	mais	mais	CCONJ	_	_	14	_	cc	_
 13	n'	ne	ADV	_	Polarity=Neg	14	_	advmod	_
-14	oublie	oublier	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	10	_	conj	_
+14	oublie	oublier	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	10	_	conj	_
 15	pas	pas	ADV	_	Polarity=Neg	14	_	advmod	_
 16	de	de	ADP	_	_	17	_	mark	_
 17	faire	faire	VERB	_	VerbForm=Inf	14	_	ccomp	_
@@ -9678,7 +9678,7 @@
 3	ça	ça	PRON	_	Number=Sing|Person=3|PronType=Dem	6	_	nsubj	_
 4	,	,	PUNCT	_	_	3	_	punct	_
 5	n'	ne	ADV	_	Polarity=Neg	6	_	advmod	_
-6	oublie	oublier	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	6	_	ROOT	_
+6	oublie	oublier	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	6	_	ROOT	_
 7	pas	pas	ADV	_	Polarity=Neg	6	_	advmod	_
 8	de	de	ADP	_	_	9	_	mark	_
 9	catégoriser	catégoriser	VERB	_	VerbForm=Inf	6	_	xcomp	_
@@ -9701,7 +9701,7 @@
 
 # text = n' oublie pas de t' identifier et de commenter tes édits cela t' éviteras bien des déboires à l' avenir .
 1	n'	ne	ADV	_	Polarity=Neg	2	_	advmod	_
-2	oublie	oublier	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	2	_	ROOT	_
+2	oublie	oublier	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	2	_	ROOT	_
 3	pas	pas	ADV	_	Polarity=Neg	2	_	advmod	_
 4	de	de	ADP	_	_	6	_	mark	_
 5	t'	te	PRON	_	Number=Sing|Person=2|PronType=Prs	6	_	obj	_

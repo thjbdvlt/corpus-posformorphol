@@ -2514,7 +2514,7 @@
 
 
 
-# text = j' espère que ça va enfin avancer et que je ne nous ais pas mis tout le monde à dos .
+# text = j' espère que ça va enfin avancer .
 1	j'	_	PRON	_	Number=Sing|Person=1|PronType=Prs	_	_	_	_
 2	espère	_	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	_	_	_	_
 3	que	_	SCONJ	_	_	_	_	_	_
