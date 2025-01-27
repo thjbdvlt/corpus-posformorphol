@@ -1069,10 +1069,6 @@
 19	un	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
 20	simple	_	ADJ	_	Number=Sing	_	_	_	_
 21	copier-coller	_	VERB	_	VerbForm=Inf	_	_	_	_
-22	(	_	PUNCT	_	_	_	_	_	_
-23	pomme-c	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
-24	pomme-v	_	NOUN	_	Number=Sing	_	_	_	_
-25	)	_	PUNCT	_	_	_	_	_	_
 26	vous	_	PRON	_	Number=Plur|Person=2|PronType=Prs	_	_	_	_
 27	permettra	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut	_	_	_
 28	de	_	ADP	_	_	_	_	_	_
@@ -7900,7 +7896,6 @@
 9	un	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
 10	court	_	ADJ	_	Number=Sing	_	_	_	_
 11	article	_	NOUN	_	Number=Sing	_	_	_	_
-12	footwork	_	ADJ	_	Number=Sing	_	_	_	_
 13	(	_	PUNCT	_	_	_	_	_	_
 14	descriptions	_	NOUN	_	Number=Plur	_	_	_	_
 15	,	_	PUNCT	_	_	_	_	_	_

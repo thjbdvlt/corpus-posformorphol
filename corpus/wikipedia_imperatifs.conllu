@@ -4742,31 +4742,6 @@
 
 
 
-# text = demande à l'utilisateur francophone qui traîne là-bas ( les gens de l' atelier graphique , du illustrations , moi , .
-1	demande	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	_
-2	à	_	ADP	_	_	_	_	_	_
-3	l'utilisateur	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
-4	francophone	_	NOUN	_	Number=Sing	_	_	_	_
-5	qui	_	PRON	_	PronType=Rel	_	_	_	_
-6	traîne	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
-7	là-bas	_	ADV	_	_	_	_	_	_
-8	(	_	PUNCT	_	_	_	_	_	_
-9	les	_	DET	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
-10	gens	_	NOUN	_	Number=Plur	_	_	_	_
-11	de	_	ADP	_	_	_	_	_	_
-12	l'	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
-13	atelier	_	NOUN	_	Number=Sing	_	_	_	_
-14	graphique	_	ADJ	_	Number=Sing	_	_	_	_
-15	,	_	PUNCT	_	_	_	_	_	_
-16	du	_	ADP	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
-17	illustrations	_	NOUN	_	Number=Plur	_	_	_	_
-18	,	_	PUNCT	_	_	_	_	_	_
-19	moi	_	PRON	_	Number=Sing|Person=1|PronType=Prs	_	_	_	_
-20	,	_	PUNCT	_	_	_	_	_	_
-21	.	_	PUNCT	_	_	_	_	_	_
-
-
-
 # text = essaie de contacter le propriétaire ( page de discuss , email .
 1	essaie	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	_
 2	de	_	ADP	_	_	_	_	_	_

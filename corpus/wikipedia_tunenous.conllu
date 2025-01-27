@@ -4949,7 +4949,7 @@
 35	de	_	ADP	_	_	_	_	_	_
 36	retirer	_	VERB	_	VerbForm=Inf	_	_	_	_
 37	dans	_	ADP	_	_	_	_	_	_
-38	leers	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
+38	les	_	DET	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
 39	plus	_	ADV	_	_	_	_	_	_
 40	brefs	_	ADJ	_	Number=Plur	_	_	_	_
 41	délais	_	NOUN	_	Number=Plur	_	_	_	_
@@ -6387,7 +6387,7 @@
 30	plus	_	ADV	_	_	_	_	_	_
 31	que	_	SCONJ	_	_	_	_	_	_
 32	pour	_	ADP	_	_	_	_	_	_
-33	luc	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
+33	luc	_	PROPN	_	_	_	_	_	_
 34	ravel	_	PROPN	_	_	_	_	_	_
 35	ou	_	CCONJ	_	_	_	_	_	_
 36	orban	_	PROPN	_	_	_	_	_	_
@@ -11990,7 +11990,7 @@
 14	,	_	PUNCT	_	_	_	_	_	_
 15	propose	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 16	"	_	PUNCT	_	_	_	_	_	_
-17	kepelledro	_	NOUN	_	Number=Plur	_	_	_	_
+17	kepelledro	_	PROPN	_	_	_	_	_	_
 18	"	_	PUNCT	_	_	_	_	_	_
 19	,	_	PUNCT	_	_	_	_	_	_
 20	qui	_	PRON	_	PronType=Rel	_	_	_	_
@@ -13675,7 +13675,7 @@
 
 # text = que ld analyse longuement et dans le détail ta façon de faire , est peut-êtrr scolaire , mais elle ne laisse pas de doute quant au fait qu' il ne donne pas son avis sur une banale impression mais qu' il a pris le temps de se faire un avis , qu' il l' argumente , et que les autres admins peuvent ou non contre-argumenter .
 1	que	_	SCONJ	_	_	_	_	_	_
-2	ld	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
+2	l'	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 3	analyse	_	NOUN	_	Number=Sing	_	_	_	_
 4	longuement	_	ADV	_	_	_	_	_	_
 5	et	_	CCONJ	_	_	_	_	_	_
@@ -16393,7 +16393,7 @@
 11	as	_	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres	_	_	_	_
 12	mis	_	VERB	_	Tense=Past|VerbForm=Part	_	_	_	_
 13	sur	_	ADP	_	_	_	_	_	_
-14	ableton	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
+14	ableton	_	PROPN	_	_	_	_	_	_
 15	live	_	NOUN	_	Number=Sing	_	_	_	_
 16	,	_	PUNCT	_	_	_	_	_	_
 17	mais	_	CCONJ	_	_	_	_	_	_
