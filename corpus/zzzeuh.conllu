@@ -113,7 +113,7 @@
 
 # sent_id = zzzeuh.17
 # text = heuuuh
-1	heuuuh	_	INTJ	_	_	_	_	_
+1	heuuuh	_	INTJ	_	_	_	_	_	_
 
 
 
@@ -121,8 +121,8 @@
 # text = oui ouais nan nan oh
 1	oui	_	ADV	_	_	_	_	_	_
 2	ouais	_	ADV	_	_	_	_	_	_
-3	nan	_	ADV	_	Polarity=Neg	_	_	_
-4	nan	_	ADV	_	Polarity=Neg	_	_	_
+3	nan	_	ADV	_	Polarity=Neg	_	_	_	_
+4	nan	_	ADV	_	Polarity=Neg	_	_	_	_
 5	oh	_	INTJ	_	_	_	_	_	_
 
 
@@ -142,7 +142,7 @@
 # sent_id = zzzeuh.21
 # text = oh non oui
 1	oh	_	INTJ	_	_	_	_	_	_
-2	non	_	ADV	_	_	_	_	_
+2	non	_	ADV	_	_	_	_	_	_
 3	oui	_	ADV	_	_	_	_	_	_
 
 
@@ -150,7 +150,7 @@
 # sent_id = zzzeuh.22
 # text = ho non
 1	ho	_	INTJ	_	_	_	_	_	_
-2	non	_	ADV	_	Polarity=Neg	_	_	_
+2	non	_	ADV	_	Polarity=Neg	_	_	_	_
 
 
 
@@ -192,7 +192,7 @@
 # text = j' en suis euh parti euh ha haa aah euh mhh mh hmm hm
 1	j'	_	PRON	_	Number=Sing|Person=1|PronType=Prs	_	_	_	_
 2	en	_	PRON	_	Person=3	_	_	_	_
-3	suis	_	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	_	_	_
+3	suis	_	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	_	_	_	_
 4	euh	_	INTJ	_	_	_	_	_	_
 9	parti	_	VERB	_	Tense=Past|VerbForm=Part	_	_	_	_
 5	euh	_	INTJ	_	_	_	_	_	_
@@ -298,7 +298,7 @@
 3	promenais	_	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Imp	_	_	_	_
 4	avec	_	ADP	_	_	_	_	_	_
 5	un·e	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
-6	accessoiriste	_	NOUN	_	Number=Sing	_	_	noun.personne.métier=auteur·rice	_
+6	accessoiriste	_	NOUN	_	Number=Sing	_	_	_	_
 7	et	_	CCONJ	_	_	_	_	_	_
 8	tout	_	ADV	_	_	_	_	_	_
 9	à	_	ADP	_	_	_	_	_	_
@@ -306,39 +306,39 @@
 11	nous	_	PRON	_	Number=Plur|Person=1|PronType=Prs	_	_	_	_
 12	croisons	_	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres	_	_	_	_
 13	2	_	NUM	_	NumType=Card	_	_	_	_
-14	accompagnateurs	_	NOUN	_	Number=Plur	_	_	noun.personne.métier=auteur·rices	_
+14	accompagnateurs	_	NOUN	_	Number=Plur	_	_	_	_
 15	et	_	CCONJ	_	_	_	_	_	_
 16	un·e	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
-17	accompagnateur·rice	_	NOUN	_	Number=Sing	_	_	noun.personne.métier=auteur·rice	_
-18	ambitieuse	_	ADJ	_	Number=Sing	_	_	adj.personne.qualificatif=merveilleux·euse	_
+17	accompagnateur·rice	_	NOUN	_	Number=Sing	_	_	_	_
+18	ambitieuse	_	ADJ	_	Number=Sing	_	_	_	_
 19	et	_	CCONJ	_	_	_	_	_	_
 20	alors	_	ADV	_	_	_	_	_	_
 21	le	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
-22	barista	_	NOUN	_	Number=Sing	_	_	noun.personne.métier=auteur·rice	_
-23	ambitieux	_	ADJ	_	Number=Sing	_	_	adj.personne.qualificatif=merveilleux·euse	_
+22	barista	_	NOUN	_	Number=Sing	_	_	_	_
+23	ambitieux	_	ADJ	_	Number=Sing	_	_	_	_
 24	se	_	PRON	_	Person=3|PronType=Prs|Reflex=Yes	_	_	_	_
 25	lève	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 26	et	_	CCONJ	_	_	_	_	_	_
-27	pointe	_	VERB	_	Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_
+27	pointe	_	VERB	_	Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
 28	du	_	ADP	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 29	doigt	_	NOUN	_	Number=Sing	_	_	_	_
 30	un·e	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
-31	barmaid	_	NOUN	_	Number=Sing	_	_	noun.personne.métier=auteur·rice	_
+31	barmaid	_	NOUN	_	Number=Sing	_	_	_	_
 32	,	_	PUNCT	_	_	_	_	_	_
 33	un	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
-34	merveilleux·euse	_	ADJ	_	Number=Sing	_	_	adj.personne.qualificatif=merveilleux·euse	_
-35	barman	_	NOUN	_	Number=Sing	_	_	noun.personne.métier=auteur·rice	_
+34	merveilleux·euse	_	ADJ	_	Number=Sing	_	_	_	_
+35	barman	_	NOUN	_	Number=Sing	_	_	_	_
 36	,	_	PUNCT	_	_	_	_	_	_
 37	un·e	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
-38	bibliothécaire	_	NOUN	_	Number=Sing	_	_	noun.personne.métier=auteur·rice	_
+38	bibliothécaire	_	NOUN	_	Number=Sing	_	_	_	_
 39	vraiment	_	ADV	_	_	_	_	_	_
-40	ambitieux·euse	_	ADJ	_	Number=Sing	_	_	adj.personne.qualificatif=merveilleux·euse	_
+40	ambitieux·euse	_	ADJ	_	Number=Sing	_	_	_	_
 41	,	_	PUNCT	_	_	_	_	_	_
 42	très	_	ADV	_	_	_	_	_	_
-43	attentif	_	ADJ	_	Number=Sing	_	_	adj.personne.qualificatif=merveilleux·euse	_
+43	attentif	_	ADJ	_	Number=Sing	_	_	_	_
 44	.	_	PUNCT	_	_	_	_	_	_
 45	le	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
-46	bijoutier	_	NOUN	_	Number=Sing	_	_	noun.personne.métier=auteur·rice	_
+46	bijoutier	_	NOUN	_	Number=Sing	_	_	_	_
 47	soulève	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 48	un	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
 49	morceau	_	NOUN	_	Number=Sing	_	_	_	_
@@ -352,16 +352,16 @@
 57	.	_	PUNCT	_	_	_	_	_	_
 58	une	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
 59	personne	_	NOUN	_	Number=Sing	_	_	_	_
-60	attentif·ve	_	ADJ	_	Number=Sing	_	_	adj.personne.qualificatif=merveilleux·euse	_
+60	attentif·ve	_	ADJ	_	Number=Sing	_	_	_	_
 61	passe	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 62	.	_	PUNCT	_	_	_	_	_	_
 63	la	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 64	porte	_	NOUN	_	Number=Sing	_	_	_	_
 65	qu'	_	SCONJ	_	_	_	_	_	_
 66	un·e	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
-67	bijoutier·ère	_	NOUN	_	Number=Sing	_	_	noun.personne.métier=auteur·rice	_
+67	bijoutier·ère	_	NOUN	_	Number=Sing	_	_	_	_
 68	tient	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
-69	ouverte	_	ADJ	_	Number=Sing	_	_	_
+69	ouverte	_	ADJ	_	Number=Sing	_	_	_	_
 70	semble	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 71	passer	_	VERB	_	VerbForm=Inf	_	_	_	_
 72	par	_	ADP	_	_	_	_	_	_
@@ -375,10 +375,10 @@
 80	porte	_	NOUN	_	Number=Sing	_	_	_	_
 81	.	_	PUNCT	_	_	_	_	_	_
 82	le·a	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
-83	bijoutière	_	NOUN	_	Number=Sing	_	_	noun.personne.métier=auteur·rice	_
+83	bijoutière	_	NOUN	_	Number=Sing	_	_	_	_
 84	est	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 85	très	_	ADV	_	_	_	_	_	_
-86	attentionné	_	ADJ	_	Number=Sing	_	_	adj.personne.qualificatif=merveilleux·euse	_
+86	attentionné	_	ADJ	_	Number=Sing	_	_	_	_
 87	.	_	PUNCT	_	_	_	_	_	_
 88	la	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 89	porte	_	NOUN	_	Number=Sing	_	_	_	_
@@ -394,7 +394,7 @@
 99	je	_	PRON	_	Number=Sing|Person=1|PronType=Prs	_	_	_	_
 100	suis	_	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	_	_	_	_
 101	très	_	ADV	_	_	_	_	_	_
-102	attentionnée	_	ADJ	_	Number=Sing	_	_	adj.personne.qualificatif=merveilleux·euse	_
+102	attentionnée	_	ADJ	_	Number=Sing	_	_	_	_
 103	.	_	PUNCT	_	_	_	_	_	_
 104	et	_	CCONJ	_	_	_	_	_	_
 105	toi	_	PRON	_	Number=Sing|Person=2|PronType=Prs	_	_	_	_
@@ -402,26 +402,26 @@
 107	tu	_	PRON	_	Number=Sing|Person=2|PronType=Prs	_	_	_	_
 108	es	_	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres	_	_	_	_
 109	un·e	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
-110	biochimiste	_	NOUN	_	Number=Sing	_	_	noun.personne.métier=auteur·rice	_
+110	biochimiste	_	NOUN	_	Number=Sing	_	_	_	_
 111	?	_	PUNCT	_	_	_	_	_	_
 112	et	_	CCONJ	_	_	_	_	_	_
 113	toi	_	PRON	_	Number=Sing|Person=2|PronType=Prs	_	_	_	_
 114	tu	_	PRON	_	Number=Sing|Person=2|PronType=Prs	_	_	_	_
 115	es	_	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres	_	_	_	_
-116	attentionné·e	_	ADJ	_	Number=Sing	_	_	adj.personne.qualificatif=merveilleux·euse	_
+116	attentionné·e	_	ADJ	_	Number=Sing	_	_	_	_
 117	.	_	PUNCT	_	_	_	_	_	_
 118	nous	_	PRON	_	Number=Plur|Person=1|PronType=Prs	_	_	_	_
 119	,	_	PUNCT	_	_	_	_	_	_
-120	ensemble	_	ADV	_	_	_	_	_
+120	ensemble	_	ADV	_	_	_	_	_	_
 125	nous	_	PRON	_	Number=Plur|Person=1|PronType=Prs	_	_	_	_
 126	sommes	_	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres	_	_	_	_
-127	des	_	DET	_	Definite=Ind|Number=Plur|PronType=Art	_	_	_
-128	biographes	_	NOUN	_	Number=Plur	_	_	noun.personne.métier=auteur·rices	_
+127	des	_	DET	_	Definite=Ind|Number=Plur|PronType=Art	_	_	_	_
+128	biographes	_	NOUN	_	Number=Plur	_	_	_	_
 129	.	_	PUNCT	_	_	_	_	_	_
 130	des	_	ADP	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
-131	biologistes	_	NOUN	_	Number=Plur	_	_	noun.personne.métier=auteur·rices	_
+131	biologistes	_	NOUN	_	Number=Plur	_	_	_	_
 132	vraiment	_	ADV	_	_	_	_	_	_
-133	attentives	_	ADJ	_	Number=Plur	_	_	adj.personne.qualificatif=merveilleux·euse	_
+133	attentives	_	ADJ	_	Number=Plur	_	_	_	_
 134	.	_	PUNCT	_	_	_	_	_	_
 
 
@@ -431,8 +431,8 @@
 1	un	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
 2	groupe	_	NOUN	_	Number=Sing	_	_	_	_
 3	de	_	ADP	_	_	_	_	_	_
-4	biomathématiciens	_	NOUN	_	Number=Plur	_	_	noun.personne.métier=auteur·rices	_
-5	chaleureuses	_	ADJ	_	Number=Plur	_	_	adj.personne.qualificatif=merveilleux·euse	_
+4	biomathématiciens	_	NOUN	_	Number=Plur	_	_	_	_
+5	chaleureuses	_	ADJ	_	Number=Plur	_	_	_	_
 6	.	_	PUNCT	_	_	_	_	_	_
 
 
@@ -452,7 +452,7 @@
 # text = de merveilleux·euses biomathématicien·nes .
 1	de	_	ADP	_	_	_	_	_	_
 2	merveilleux·euses	_	ADJ	_	Number=Plur	_	_	_	_
-3	biomathématicien·nes	_	NOUN	_	Number=Plur	_	_	noun.personne.métier=auteur·rices	_
+3	biomathématicien·nes	_	NOUN	_	Number=Plur	_	_	_	_
 4	.	_	PUNCT	_	_	_	_	_	_
 
 
@@ -467,15 +467,15 @@
 14	l'	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 15	arrivée	_	NOUN	_	Number=Sing	_	_	_	_
 16	des	_	ADP	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
-17	biophysiciennes	_	NOUN	_	Number=Plur	_	_	noun.personne.métier=auteur·rices	_
+17	biophysiciennes	_	NOUN	_	Number=Plur	_	_	_	_
 18	,	_	PUNCT	_	_	_	_	_	_
-19	des	_	ADP	_	Definite=Def|Number=Plur|PronType=Art	_	_	_
-20	merveilleux·euses	_	ADJ	_	Number=Plur	_	_	adj.personne.qualificatif=merveilleux·euse	_
-21	biophysicien·nes	_	NOUN	_	Number=Plur	_	_	noun.personne.métier=auteur·rices	_
+19	des	_	ADP	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
+20	merveilleux·euses	_	ADJ	_	Number=Plur	_	_	_	_
+21	biophysicien·nes	_	NOUN	_	Number=Plur	_	_	_	_
 22	,	_	PUNCT	_	_	_	_	_	_
-23	des	_	ADP	_	Definite=Def|Number=Plur|PronType=Art	_	_	_
-24	merveilleux·euses	_	ADJ	_	Number=Plur	_	_	adj.personne.qualificatif=merveilleux·euse	_
-25	botanistes	_	NOUN	_	Number=Plur	_	_	noun.personne.métier=auteur·rices	_
+23	des	_	ADP	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
+24	merveilleux·euses	_	ADJ	_	Number=Plur	_	_	_	_
+25	botanistes	_	NOUN	_	Number=Plur	_	_	_	_
 26	.	_	PUNCT	_	_	_	_	_	_
 
 
@@ -485,19 +485,19 @@
 1	j'	_	PRON	_	Number=Sing|Person=1|PronType=Prs	_	_	_	_
 2	aimerais	_	VERB	_	Mood=Cnd|Number=Sing|Person=1|Tense=Pres	_	_	_	_
 3	devenir	_	VERB	_	VerbForm=Inf	_	_	_	_
-4	boucher	_	NOUN	_	Number=Sing	_	_	noun.personne.métier=auteur·rice
+4	boucher	_	NOUN	_	Number=Sing	_	_	_	_
 5	.	_	PUNCT	_	_	_	_	_	_
 6	je	_	PRON	_	Number=Sing|Person=1|PronType=Prs	_	_	_	_
 7	serai	_	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Fut	_	_	_	_
 8	un·e	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
-9	merveilleux·euse	_	ADJ	_	Number=Sing	_	_	adj.personne.qualificatif=merveilleux·euse	_
-10	boucher·ère	_	NOUN	_	Number=Sing	_	_	noun.personne.métier=auteur·rice	_
+9	merveilleux·euse	_	ADJ	_	Number=Sing	_	_	_	_
+10	boucher·ère	_	NOUN	_	Number=Sing	_	_	_	_
 11	,	_	PUNCT	_	_	_	_	_	_
 12	un·e	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
-13	bouchère	_	NOUN	_	Number=Sing	_	_	noun.personne.métier=auteur·rice	_
-14	chaleureux	_	ADJ	_	Number=Sing	_	_	adj.personne.qualificatif=merveilleux·euse	_
+13	bouchère	_	NOUN	_	Number=Sing	_	_	_	_
+14	chaleureux	_	ADJ	_	Number=Sing	_	_	_	_
 15	et	_	CCONJ	_	_	_	_	_	_
-16	chaleureux·euse	_	ADJ	_	Number=Sing	_	_	adj.personne.qualificatif=merveilleux·euse	_
+16	chaleureux·euse	_	ADJ	_	Number=Sing	_	_	_	_
 17	.	_	PUNCT	_	_	_	_	_	_
 
 
@@ -513,8 +513,8 @@
 7	je	_	PRON	_	Number=Sing|Person=1|PronType=Prs	_	_	_	_
 8	ferais	_	VERB	_	Mood=Cnd|Number=Sing|Person=1|Tense=Pres	_	_	_	_
 9	un·e	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
-10	merveilleux·euse	_	ADJ	_	Number=Sing	_	_	adj.personne.qualificatif=merveilleux·euse	_
-11	boulanger	_	NOUN	_	Number=Sing	_	_	noun.personne.métier=auteur·rice	_
+10	merveilleux·euse	_	ADJ	_	Number=Sing	_	_	_	_
+11	boulanger	_	NOUN	_	Number=Sing	_	_	_	_
 12	,	_	PUNCT	_	_	_	_	_	_
 13	et	_	CCONJ	_	_	_	_	_	_
 14	je	_	PRON	_	Number=Sing|Person=1|PronType=Prs	_	_	_	_
@@ -532,9 +532,9 @@
 26	es	_	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres	_	_	_	_
 27	le·a	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 28	plus	_	ADV	_	_	_	_	_	_
-29	chouette	_	ADJ	_	Number=Sing	_	_	adj.personne.qualificatif=merveilleux·euse	_
+29	chouette	_	ADJ	_	Number=Sing	_	_	_	_
 30	des	_	ADP	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
-31	boulanger·ère	_	NOUN	_	Number=Sing	_	_	noun.personne.métier=auteur·rice	_
+31	boulanger·ère	_	NOUN	_	Number=Sing	_	_	_	_
 32	.	_	PUNCT	_	_	_	_	_	_
 
 
@@ -560,15 +560,15 @@
 17	travaillent	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_	_
 18	,	_	PUNCT	_	_	_	_	_	_
 19	les	_	DET	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
-20	boulangère	_	NOUN	_	Number=Sing	_	_	noun.personne.métier=auteur·rice	_
+20	boulangère	_	NOUN	_	Number=Sing	_	_	_	_
 21	enregistrent	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_	_
 22	,	_	PUNCT	_	_	_	_	_	_
 23	les	_	DET	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
-24	brancardier	_	NOUN	_	Number=Sing	_	_	noun.personne.métier=auteur·rice	_
+24	brancardier	_	NOUN	_	Number=Sing	_	_	_	_
 25	scannent	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_	_
 26	,	_	PUNCT	_	_	_	_	_	_
 27	les	_	DET	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
-28	brancardier·ère	_	NOUN	_	Number=Sing	_	_	noun.personne.métier=auteur·rice	_
+28	brancardier·ère	_	NOUN	_	Number=Sing	_	_	_	_
 29	photographient	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_	_
 
 
@@ -578,25 +578,25 @@
 1	pendant	_	ADP	_	_	_	_	_	_
 2	que	_	SCONJ	_	_	_	_	_	_
 3	les	_	DET	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
-4	brancardières	_	NOUN	_	Number=Plur	_	_	noun.personne.métier=auteur·rices	_
+4	brancardières	_	NOUN	_	Number=Plur	_	_	_	_
 5	filment	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_	_
 6	,	_	PUNCT	_	_	_	_	_	_
 7	les	_	DET	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
-8	merveilleux·euses	_	ADJ	_	Number=Plur	_	_	adj.personne.qualificatif=merveilleux·euses	_
-9	bronziers	_	NOUN	_	Number=Plur	_	_	noun.personne.métier=auteur·rices	_
+8	merveilleux·euses	_	ADJ	_	Number=Plur	_	_	_	_
+9	bronziers	_	NOUN	_	Number=Plur	_	_	_	_
 10	zappent	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_	_
 11	,	_	PUNCT	_	_	_	_	_	_
 12	et	_	CCONJ	_	_	_	_	_	_
 13	pendant	_	ADP	_	_	_	_	_	_
 14	que	_	SCONJ	_	_	_	_	_	_
 15	les	_	DET	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
-16	bronzier·ères	_	NOUN	_	Number=Plur	_	_	noun.personne.métier=auteur·rices	_
-17	cool	_	ADJ	_	Number=Plur	_	_	adj.personne.qualificatif=merveilleux·euses
+16	bronzier·ères	_	NOUN	_	Number=Plur	_	_	_	_
+17	cool	_	ADJ	_	Number=Plur	_	_	_	_
 18	dézippent	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_	_
 19	,	_	PUNCT	_	_	_	_	_	_
 20	les	_	DET	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
-21	bronzières	_	NOUN	_	Number=Plur	_	_	noun.personne.métier=auteur·rices	_
-22	dingues	_	ADJ	_	Number=Plur	_	_	adj.personne.qualificatif=merveilleux·euses	_
+21	bronzières	_	NOUN	_	Number=Plur	_	_	_	_
+22	dingues	_	ADJ	_	Number=Plur	_	_	_	_
 23	chillent	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_	_
 
 
@@ -627,7 +627,7 @@
 22	abord	_	NOUN	_	Number=Sing	_	_	_	INVARIANT
 23	,	_	PUNCT	_	_	_	_	_	_
 24	les	_	DET	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
-25	bruiteurs	_	NOUN	_	Number=Plur	_	_	noun.personne.métier=auteur·rices	_
+25	bruiteurs	_	NOUN	_	Number=Plur	_	_	_	_
 26	articulent	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_	_
 27	les	_	DET	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
 28	IA	_	NOUN	_	Number=Plur	_	_	_	_
@@ -641,10 +641,10 @@
 36	ça	_	PRON	_	Number=Sing|Person=3|PronType=Dem	_	_	_	_
 37	que	_	SCONJ	_	_	_	_	_	_
 38	les	_	DET	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
-39	bruiteur·euses	_	NOUN	_	Number=Plur	_	_	noun.personne.métier=auteur·rices	_
+39	bruiteur·euses	_	NOUN	_	Number=Plur	_	_	_	_
 40	se	_	PRON	_	Person=3|PronType=Prs|Reflex=Yes	_	_	_	_
 41	procurent	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_	_
-42	des	_	DET	_	Number=Plur|PronType=Art|Definite=Ind	_	_	_
+42	des	_	DET	_	Number=Plur|PronType=Art|Definite=Ind	_	_	_	_
 43	portes	_	NOUN	_	Number=Plur	_	_	_	_
 44	,	_	PUNCT	_	_	_	_	_	_
 45	et	_	CCONJ	_	_	_	_	_	_
@@ -685,26 +685,26 @@
 80	dans	_	ADP	_	_	_	_	_	_
 81	lesquels	_	PRON	_	Number=Plur|Person=3|PronType=Rel	_	_	_	INVARIANT
 82	travaillent	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_	_
-83	des	_	DET	_	Number=Plur|PronType=Art|Definite=Ind	_	_	_
-84	bruiteuses	_	NOUN	_	Number=Plur	_	_	noun.personne.métier=auteur·rices	_
+83	des	_	DET	_	Number=Plur|PronType=Art|Definite=Ind	_	_	_	_
+84	bruiteuses	_	NOUN	_	Number=Plur	_	_	_	_
 85	,	_	PUNCT	_	_	_	_	_	_
 86	des	_	ADP	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
-87	bêta-lecteurs	_	NOUN	_	Number=Plur	_	_	noun.personne.métier=auteur·rices	_
+87	bêta-lecteurs	_	NOUN	_	Number=Plur	_	_	_	_
 88	,	_	PUNCT	_	_	_	_	_	_
 89	énormément	_	ADV	_	_	_	_	_	_
 90	de	_	ADP	_	_	_	_	_	_
-91	bêta-lectrices	_	NOUN	_	Number=Plur	_	_	noun.personne.métier=auteur·rices	_
+91	bêta-lectrices	_	NOUN	_	Number=Plur	_	_	_	_
 92	et	_	CCONJ	_	_	_	_	_	_
 93	,	_	PUNCT	_	_	_	_	_	_
 94	souvent	_	ADV	_	_	_	_	_	_
 95	aussi	_	ADV	_	_	_	_	_	_
 96	1-2	_	NUM	_	NumType=Card	_	_	_	_
-97	cadreurs	_	NOUN	_	Number=Plur	_	_	noun.personne.métier=auteur·rices	_
+97	cadreurs	_	NOUN	_	Number=Plur	_	_	_	_
 98	.	_	PUNCT	_	_	_	_	_	_
 99	parfois	_	ADV	_	_	_	_	_	_
 100	,	_	PUNCT	_	_	_	_	_	_
 101	quelques	_	DET	_	Definite=Ind|Number=Plur|PronType=Art	_	_	_	_
-102	cadreur·euses	_	NOUN	_	Number=Plur	_	_	noun.personne.métier=auteur·rices	_
+102	cadreur·euses	_	NOUN	_	Number=Plur	_	_	_	_
 109	,	_	PUNCT	_	_	_	_	_	_
 110	mais	_	CCONJ	_	_	_	_	_	_
 111	la	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
@@ -713,7 +713,7 @@
 114	temps	_	NOUN	_	Number=Sing	_	_	_	_
 115	,	_	PUNCT	_	_	_	_	_	_
 116	ces	_	DET	_	Number=Plur|PronType=Dem	_	_	_	_
-117	cadreuses	_	NOUN	_	Number=Plur	_	_	noun.personne.métier=auteur·rices	_
+117	cadreuses	_	NOUN	_	Number=Plur	_	_	_	_
 118	ne	_	ADV	_	Polarity=Neg	_	_	_	_
 119	viennent	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_	_
 120	que	_	SCONJ	_	_	_	_	_	_
@@ -735,9 +735,9 @@
 9	dormir	_	VERB	_	VerbForm=Inf	_	_	_	_
 10	.	_	PUNCT	_	_	_	_	_	_
 11	les	_	DET	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
-12	caissiers	_	NOUN	_	Number=Plur	_	_	noun.personne.métier=auteur·rices	_
+12	caissiers	_	NOUN	_	Number=Plur	_	_	_	_
 13	au	_	ADP	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
-14	dessus	_	ADV	_	_	_	_	_
+14	dessus	_	ADV	_	_	_	_	_	_
 15	.	_	PUNCT	_	_	_	_	_	_
 
 
@@ -749,26 +749,26 @@
 3	temps	_	NOUN	_	Number=Sing	_	_	_	_
 4	,	_	PUNCT	_	_	_	_	_	_
 5	les	_	DET	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
-6	caissier·ères	_	NOUN	_	Number=Plur	_	_	noun.personne.métier=auteur·rices	_
+6	caissier·ères	_	NOUN	_	Number=Plur	_	_	_	_
 7	zippent	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_	_
 8	on	_	PRON	_	Number=Sing|Person=3|PronType=Prs	_	_	_	_
 9	voit	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 10	des	_	DET	_	Definite=Ind|Number=Plur|PronType=Art	_	_	_	_
-11	caissières	_	NOUN	_	Number=Plur	_	_	noun.personne.métier=auteur·rices	_
+11	caissières	_	NOUN	_	Number=Plur	_	_	_	_
 12	qui	_	PRON	_	PronType=Rel	_	_	_	_
 13	défragmentent	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_	_
 14	partout	_	ADV	_	_	_	_	_	_
 15	,	_	PUNCT	_	_	_	_	_	_
 16	des	_	ADP	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
-17	calligraphes	_	NOUN	_	Number=Plur	_	_	noun.personne.métier=auteur·rices	_
+17	calligraphes	_	NOUN	_	Number=Plur	_	_	_	_
 18	qui	_	PRON	_	PronType=Rel	_	_	_	_
 19	fragmentent	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_	_
 20	,	_	PUNCT	_	_	_	_	_	_
 21	des	_	ADP	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
-22	cambistes	_	NOUN	_	Number=Plur	_	_	noun.personne.métier=auteur·rices	_
+22	cambistes	_	NOUN	_	Number=Plur	_	_	_	_
 23	qui	_	PRON	_	PronType=Rel	_	_	_	_
 24	installent	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_	_
-25	des	_	DET	_	Number=Plur|PronType=Art|Definite=Ind	_	_	_
+25	des	_	DET	_	Number=Plur|PronType=Art|Definite=Ind	_	_	_	_
 26	particules	_	NOUN	_	Number=Plur	_	_	_	_
 27	,	_	PUNCT	_	_	_	_	_	_
 28	et	_	CCONJ	_	_	_	_	_	_
@@ -781,11 +781,11 @@
 35	bien	_	ADV	_	_	_	_	_	_
 36	être	_	VERB	_	VerbForm=Inf	_	_	_	_
 37	un·e	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
-38	campaniste	_	NOUN	_	Number=Sing	_	_	noun.personne.métier=auteur·rice	_
+38	campaniste	_	NOUN	_	Number=Sing	_	_	_	_
 39	(	_	PUNCT	_	_	_	_	_	_
 40	ou	_	CCONJ	_	_	_	_	_	_
 41	un·e	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
-42	canneur	_	NOUN	_	Number=Sing	_	_	noun.personne.métier=auteur·rice	_
+42	canneur	_	NOUN	_	Number=Sing	_	_	_	_
 43	)	_	PUNCT	_	_	_	_	_	_
 44	on	_	PRON	_	Number=Sing|Person=3|PronType=Prs	_	_	_	_
 45	doit	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
@@ -801,12 +801,12 @@
 55	.	_	PUNCT	_	_	_	_	_	_
 56	entendre	_	VERB	_	VerbForm=Inf	_	_	_	_
 57	les	_	DET	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
-58	canneur-rempailleurs	_	NOUN	_	Number=Plur	_	_	noun.personne.métier=auteur·rices	_
+58	canneur-rempailleurs	_	NOUN	_	Number=Plur	_	_	_	_
 59	soupirer	_	VERB	_	VerbForm=Inf	_	_	_	_
 60	.	_	PUNCT	_	_	_	_	_	_
 61	écouter	_	VERB	_	VerbForm=Inf	_	_	_	_
 62	les	_	DET	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
-63	canneur-rempailleuses	_	NOUN	_	Number=Plur	_	_	noun.personne.métier=auteur·rices	_
+63	canneur-rempailleuses	_	NOUN	_	Number=Plur	_	_	_	_
 64	parler	_	VERB	_	VerbForm=Inf	_	_	_	_
 65	,	_	PUNCT	_	_	_	_	_	_
 66	papoter	_	VERB	_	VerbForm=Inf	_	_	_	_
@@ -855,15 +855,15 @@
 # sent_id = _divers.25
 # text = un·e canneur·euse prend le livre et lit " des canneuses désinstallent " .
 1	un·e	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
-2	canneur·euse	_	NOUN	_	Number=Sing	_	_	noun.personne.métier=auteur·rice	_
+2	canneur·euse	_	NOUN	_	Number=Sing	_	_	_	_
 3	prend	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 4	le	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 5	livre	_	NOUN	_	Number=Sing	_	_	_	_
 6	et	_	CCONJ	_	_	_	_	_	_
-7	lit	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_
+7	lit	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 8	"	_	PUNCT	_	_	_	_	_	_
 9	des	_	ADP	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
-10	canneuses	_	NOUN	_	Number=Plur	_	_	noun.personne.métier=auteur·rices	_
+10	canneuses	_	NOUN	_	Number=Plur	_	_	_	_
 11	désinstallent	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_	_
 12	"	_	PUNCT	_	_	_	_	_	_
 13	.	_	PUNCT	_	_	_	_	_	_
@@ -882,7 +882,7 @@
 8	sourdement	_	ADV	_	_	_	_	_	_
 9	de	_	ADP	_	_	_	_	_	_
 10	me	_	PRON	_	Number=Sing|Person=1|PronType=Prs	_	_	_	_
-11	désendormir	_	VERB	_	VerbForm=Inf	_	_	_
+11	désendormir	_	VERB	_	VerbForm=Inf	_	_	_	_
 12	mais	_	CCONJ	_	_	_	_	_	_
 13	je	_	PRON	_	Number=Sing|Person=1|PronType=Prs	_	_	_	_
 14	me	_	PRON	_	Number=Sing|Person=1|PronType=Prs|Reflex=Yes	_	_	_	_
@@ -896,28 +896,28 @@
 1	je	_	PRON	_	Number=Sing|Person=1|PronType=Prs	_	_	_	_
 2	rêve	_	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	_	_	_	_
 3	d'	_	ADP	_	_	_	_	_	_
-4	encadreurs	_	NOUN	_	Number=Plur	_	_	noun.personne.métier=auteur·rices	_
+4	encadreurs	_	NOUN	_	Number=Plur	_	_	_	_
 5	.	_	PUNCT	_	_	_	_	_	_
 6	je	_	PRON	_	Number=Sing|Person=1|PronType=Prs	_	_	_	_
 7	rêve	_	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	_	_	_	_
 8	de	_	ADP	_	_	_	_	_	_
-9	facteurs	_	NOUN	_	Number=Plur	_	_	noun.personne.métier=auteur·rices	_
-10	douces	_	ADJ	_	Number=Plur	_	_	adj.personne.qualificatif=merveilleux·euses	_
+9	facteurs	_	NOUN	_	Number=Plur	_	_	_	_
+10	douces	_	ADJ	_	Number=Plur	_	_	_	_
 11	.	_	PUNCT	_	_	_	_	_	_
 12	dans	_	ADP	_	_	_	_	_	_
 13	mon	_	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes	_	_	_	_
 14	rêve	_	NOUN	_	Number=Sing	_	_	_	_
 15	un·e	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
-16	facteur·rice	_	NOUN	_	Number=Sing	_	_	noun.personne.métier=auteur·rice	_
+16	facteur·rice	_	NOUN	_	Number=Sing	_	_	_	_
 17	traverse	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 18	un	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
 19	lieu	_	NOUN	_	Number=Sing	_	_	_	_
-20	doux	_	ADJ	_	Number=Sing	_	_	adj.personne.qualificatif=merveilleux·euse	_
+20	doux	_	ADJ	_	Number=Sing	_	_	_	_
 21	et	_	CCONJ	_	_	_	_	_	_
-22	doux·ce	_	ADJ	_	Number=Sing	_	_	adj.personne.qualificatif=merveilleux·euse
+22	doux·ce	_	ADJ	_	Number=Sing	_	_	_	_
 23	.	_	PUNCT	_	_	_	_	_	_
 24	un·e	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
-25	factrice	_	NOUN	_	Number=Sing	_	_	noun.personne.métier=auteur·rice	_
+25	factrice	_	NOUN	_	Number=Sing	_	_	_	_
 26	s'	_	PRON	_	Person=3|PronType=Prs|Reflex=Yes	_	_	_	_
 27	envole	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 28	et	_	CCONJ	_	_	_	_	_	_
@@ -928,7 +928,7 @@
 33	terre	_	NOUN	_	Number=Sing	_	_	_	_
 34	.	_	PUNCT	_	_	_	_	_	_
 35	le·a	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
-36	façadier	_	NOUN	_	Number=Sing	_	_	noun.personne.métier=auteur·rice	_
+36	façadier	_	NOUN	_	Number=Sing	_	_	_	_
 37	cherche	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 38	quelque	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
 39	chose	_	NOUN	_	Number=Sing	_	_	_	_
@@ -939,21 +939,21 @@
 44	le	_	PRON	_	Definite=Def|Number=Sing|Person=3|PronType=Art	_	_	_	_
 45	trouve	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 46	.	_	PUNCT	_	_	_	_	_	_
-47	le	_	PRON	_	Definite=Def|Number=Sing|Person=3|PronType=Art	_	_	_
-48	ramasse	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_
+47	le	_	PRON	_	Definite=Def|Number=Sing|Person=3|PronType=Art	_	_	_	_
+48	ramasse	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 49	,	_	PUNCT	_	_	_	_	_	_
-50	le	_	PRON	_	Definite=Def|Number=Sing|Person=3|PronType=Art	_	_	_
-51	prends	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_
+50	le	_	PRON	_	Definite=Def|Number=Sing|Person=3|PronType=Art	_	_	_	_
+51	prends	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	_
 52	de	_	ADP	_	_	_	_	_	_
 43	...	_	PUNCT	_	_	_	_	_	_
-53	tiens	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_
+53	tiens	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	_
 34	,	_	PUNCT	_	_	_	_	_	_
-54	tiens	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_
+54	tiens	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	_
 34	,	_	PUNCT	_	_	_	_	_	_
-55	tiens	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_
+55	tiens	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	_
 43	...	_	PUNCT	_	_	_	_	_	_
 56	mais	_	CCONJ	_	_	_	_	_	_
-57	qu'	_	PRON	_	PronType=Rel	_	_	_
+57	qu'	_	PRON	_	PronType=Rel	_	_	_	_
 58	est	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 59	-ce	_	PRON	_	Number=Sing|Person=3|PronType=Dem	_	_	_	_
 60	donc	_	CCONJ	_	_	_	_	_	_
@@ -964,17 +964,17 @@
 # sent_id = _divers.28
 # text = des façadier·ères s' enfuient on ne les voit plus , un·e façadière arrive l' air effrayé . et dans mon rêve qui continue il y a ensuite une grande discussion entre figurants , une discussion entre figurantes drôles et cette discussion a l' air de porter sur les figurant·es pas loin , les fiscalistes extras pas loin qui ... qui ... qui arrivent .
 1	des	_	DET	_	Definite=Ind|Number=Plur|PronType=Art	_	_	_	_
-2	façadier·ères	_	NOUN	_	Number=Plur	_	_	noun.personne.métier=auteur·rices	_
+2	façadier·ères	_	NOUN	_	Number=Plur	_	_	_	_
 3	s'	_	PRON	_	Person=3|PronType=Prs|Reflex=Yes	_	_	_	_
 4	enfuient	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_	_
 5	on	_	PRON	_	Number=Sing|Person=3|PronType=Prs	_	_	_	_
 6	ne	_	ADV	_	Polarity=Neg	_	_	_	_
 7	les	_	PRON	_	Definite=Def|Number=Plur|Person=3|PronType=Art	_	_	_	_
 8	voit	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
-9	plus	_	ADV	_	_	_	_	_
+9	plus	_	ADV	_	_	_	_	_	_
 10	,	_	PUNCT	_	_	_	_	_	_
 11	un·e	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
-12	façadière	_	NOUN	_	Number=Sing	_	_	noun.personne.métier=auteur·rice	_
+12	façadière	_	NOUN	_	Number=Sing	_	_	_	_
 13	arrive	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 14	l'	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 15	air	_	NOUN	_	Number=Sing	_	_	_	_
@@ -994,13 +994,13 @@
 29	grande	_	ADJ	_	Number=Sing	_	_	_	_
 30	discussion	_	NOUN	_	Number=Sing	_	_	_	_
 31	entre	_	ADP	_	_	_	_	_	_
-32	figurants	_	NOUN	_	Number=Plur	_	_	noun.personne.métier=auteur·rices	_
+32	figurants	_	NOUN	_	Number=Plur	_	_	_	_
 33	,	_	PUNCT	_	_	_	_	_	_
 34	une	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
 35	discussion	_	NOUN	_	Number=Sing	_	_	_	_
 36	entre	_	ADP	_	_	_	_	_	_
-37	figurantes	_	NOUN	_	Number=Plur	_	_	noun.personne.métier=auteur·rices	_
-38	drôles	_	ADJ	_	Number=Plur	_	_	adj.personne.qualificatif=merveilleux·euses	_
+37	figurantes	_	NOUN	_	Number=Plur	_	_	_	_
+38	drôles	_	ADJ	_	Number=Plur	_	_	_	_
 39	et	_	CCONJ	_	_	_	_	_	_
 40	cette	_	DET	_	Number=Sing|PronType=Dem	_	_	_	_
 41	discussion	_	NOUN	_	Number=Sing	_	_	_	_
@@ -1011,13 +1011,13 @@
 46	porter	_	VERB	_	VerbForm=Inf	_	_	_	_
 47	sur	_	ADP	_	_	_	_	_	_
 48	les	_	DET	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
-49	figurant·es	_	NOUN	_	Number=Plur	_	_	noun.personne.métier=auteur·rices	_
+49	figurant·es	_	NOUN	_	Number=Plur	_	_	_	_
 50	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 51	loin	_	ADV	_	_	_	_	_	_
 52	,	_	PUNCT	_	_	_	_	_	_
 53	les	_	DET	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
-54	fiscalistes	_	NOUN	_	Number=Plur	_	_	noun.personne.métier=auteur·rices	_
-55	extras	_	ADJ	_	Number=Plur	_	_	adj.personne.qualificatif=merveilleux·euses	_
+54	fiscalistes	_	NOUN	_	Number=Plur	_	_	_	_
+55	extras	_	ADJ	_	Number=Plur	_	_	_	_
 56	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 57	loin	_	ADV	_	_	_	_	_	_
 58	qui	_	PRON	_	PronType=Rel	_	_	_	_
@@ -1038,7 +1038,7 @@
 4	achève	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 5	,	_	PUNCT	_	_	_	_	_	_
 6	les	_	DET	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
-7	forgerons	_	NOUN	_	Number=Plur	_	_	noun.personne.métier=auteur·rices	_
+7	forgerons	_	NOUN	_	Number=Plur	_	_	_	_
 8	repartent	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_	_
 9	.	_	PUNCT	_	_	_	_	_	_
 
@@ -1076,7 +1076,7 @@
 4	que	_	SCONJ	_	_	_	_	_	_
 5	toi	_	PRON	_	Number=Sing|Person=2|PronType=Prs	_	_	_	_
 6	tu	_	PRON	_	Number=Sing|Person=2|PronType=Prs	_	_	_	_
-7	racontes	_	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres	_	_	_
+7	racontes	_	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres	_	_	_	_
 8	,	_	PUNCT	_	_	_	_	_	_
 9	ok	_	INTJ	_	_	_	_	_	_
 10	?	_	PUNCT	_	_	_	_	_	_
@@ -1110,7 +1110,7 @@
 8	gazon	_	NOUN	_	Number=Sing	_	_	_	_
 9	que	_	SCONJ	_	_	_	_	_	_
 10	j'	_	PRON	_	Number=Sing|Person=1|PronType=Prs	_	_	_	_
-11	analyse	_	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	_	_	_
+11	analyse	_	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	_	_	_	_
 12	avec	_	ADP	_	_	_	_	_	_
 13	mon	_	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes	_	_	_	_
 14	magnétophone	_	NOUN	_	Number=Sing	_	_	_	_
@@ -1164,7 +1164,7 @@
 
 # sent_id = _divers.38
 # text = dacodac .
-1	dacodac	_	ADV	_	_	_	_	_
+1	dacodac	_	ADV	_	_	_	_	_	_
 2	.	_	PUNCT	_	_	_	_	_	_
 
 
@@ -1263,7 +1263,7 @@
 7	ou	_	CCONJ	_	_	_	_	_	_
 8	vous	_	PRON	_	Number=Plur|Person=2|PronType=Prs	_	_	_	_
 9	attendez	_	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres	_	_	_	_
-10	juste	_	ADV	_	_	_	_	_
+10	juste	_	ADV	_	_	_	_	_	_
 11	comme	_	SCONJ	_	_	_	_	_	_
 12	ça	_	PRON	_	Number=Sing|Person=3|PronType=Dem	_	_	_	_
 13	devant	_	ADP	_	_	_	_	_	_
@@ -1337,7 +1337,7 @@
 9	les	_	PRON	_	Definite=Def|Number=Plur|Person=3|PronType=Art	_	_	_	_
 10	a	_	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 11	complétement	_	ADV	_	_	_	_	_	_
-12	ruiné	_	VERB	_	Tense=Past|VerbForm=Part	_	_	_
+12	ruiné	_	VERB	_	Tense=Past|VerbForm=Part	_	_	_	_
 13	.	_	PUNCT	_	_	_	_	_	_
 
 
@@ -1352,7 +1352,7 @@
 6	messagerie	_	NOUN	_	Number=Sing	_	_	_	_
 7	,	_	PUNCT	_	_	_	_	_	_
 8	je	_	PRON	_	Number=Sing|Person=1|PronType=Prs	_	_	_	_
-9	tapotte	_	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	_	_	_
+9	tapotte	_	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	_	_	_	_
 10	un	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
 11	message	_	NOUN	_	Number=Sing	_	_	_	_
 12	.	_	PUNCT	_	_	_	_	_	_
@@ -1461,7 +1461,7 @@
 # text = l' appareil que je porte est dans ma grosse poche .
 1	l'	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 2	appareil	_	NOUN	_	Number=Sing	_	_	_	_
-3	que	_	PRON	_	PronType=Rel	_	_	_
+3	que	_	PRON	_	PronType=Rel	_	_	_	_
 4	je	_	PRON	_	Number=Sing|Person=1|PronType=Prs	_	_	_	_
 5	porte	_	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	_	_	_	_
 6	est	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
@@ -1498,7 +1498,7 @@
 7	doigts	_	NOUN	_	Number=Plur	_	_	_	_
 8	qui	_	PRON	_	PronType=Rel	_	_	_	_
 9	se	_	PRON	_	Person=3|PronType=Prs|Reflex=Yes	_	_	_	_
-10	sont	_	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_
+10	sont	_	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_	_
 11	coupés	_	VERB	_	Tense=Past|VerbForm=Part	_	_	_	_
 12	.	_	PUNCT	_	_	_	_	_	_
 
@@ -1509,7 +1509,7 @@
 1	elle	_	PRON	_	Number=Sing|Person=3|PronType=Prs	_	_	_	_
 2	change	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 3	de	_	ADP	_	_	_	_	_	_
-4	tapis	_	NOUN	_	Number=Plur	_	_	_
+4	tapis	_	NOUN	_	Number=Plur	_	_	_	_
 5	,	_	PUNCT	_	_	_	_	_	_
 6	elle	_	PRON	_	Number=Sing|Person=3|PronType=Prs	_	_	_	_
 7	en	_	PRON	_	Person=3	_	_	_	_
@@ -1563,7 +1563,7 @@
 3	du	_	ADP	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 4	temps	_	NOUN	_	Number=Sing	_	_	_	_
 5	on	_	PRON	_	Number=Sing|Person=3|PronType=Prs	_	_	_	_
-6	comprend	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_
+6	comprend	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 7	ce	_	PRON	_	Number=Sing|Person=3|PronType=Dem	_	_	_	_
 8	qu'	_	PRON	_	PronType=Rel	_	_	_	_
 9	on	_	PRON	_	Number=Sing|Person=3|PronType=Prs	_	_	_	_

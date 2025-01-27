@@ -2,7 +2,7 @@
 # text = Ne méprise pas la mort ; fais -lui , au contraire , bon visage , parce qu' elle est aussi voulue par 11 > la nature . La dissolution de notre être 12 ] est un fait naturel , tout comme la jeunesse et la vieillesse | comme grandir , être adulte , avoir des dents , de la barbe , des cheveux blancs , comme la procréation < la grossesse , l' enfantement et les autres phénomènes qui arrivent avec les saisons de la vie . L' humain·e se conforme donc à la raison % lorsqu' au lieu de se montrer vis-à-vis de la mort mal disposé[·e] 13) , emporté , orgueilleux , il l' attend comme un des actes de la natur[e] 14 <--- . Et de même que tu attend[s] en ce moment le jour où ton enfant sortira du ventre de ta femme . Accueille de même l' heure où ton âme s' échappera de son élytre . Mais veux -tu une règle , sans doute assez vulgaire > capable néanmoins de fortifier ton cœur 15 [] ? Ce qui te rendra surtout bienveillant pour la mort , c' est d' examiner les objets qui t' entourent -----> et dont tu vas te séparer , c' est de te dire avec quelles mœurs ton âme ne sera plus mêlée <===> Ne t' irrite pas cependant le moins du monde contre ceux -ci 16 ] ; tu dois , au contraire <-----> t' intéresser à eux et les traiter avec douceur , mais en te rappelant que ces hommes dont tu vas être délivré n' ont pas les mêmes dogmes 17 * que toi . Un seul motif , si même il pouvait y en avoir un , était capable de t' attirer vers la vie et de t' y rattacher <-> c' eût été de vivre avec des hommes professant les mêmes dogmes 18 ] . Mais tu vois maintenant comme tu es las des désaccords qui te séparent de ceux avec qui tu vis --> Tu en arrives à t' écrier : Viens plus vite , ô mort , de peur que je ne finisse par m' oublier moi-même ---> \n Efface 21 ] tes représentations , contiens les mouvements de ton âme 22 ] , étouffe tes désirs ; sois maître de 23 ==> ton principe . \n Si tu le peux , dissuade -les 35 ] ; sinon rappelle -toi que c' est pour ce cas que la bienveillance t' a été donnée <====> Les Dieux eux-mêmes 36 ] sont pleins de bienveillance pour de tels hommes ; ils sont même assez bons parfois pour leur venir en aide <---> soit qu' ils désirent la santé , la richesse ou la gloire . Tu peux en faire autant ; ou bien dis -moi qui t' en empêche + \n Lancez une pierre ; elle ne sent pas plus de mal à tomber que de bien à monter 40 --- . \n Va à la détermination du principe efficient et formel . Considère -le , abstraction faite de la matière *** Suppute ensuite tout le temps que peut exister l' individu ou la chose en question ] 55 ] . \n Ne te laisse jamais troubler 73 ----> par les événements qui proviennent de la cause extérieure 74 ] ; observe la justice dans toutes les actions dont la cause 75 == est en toi ; je veux dire 76 ] que le but de toutes tes tendances et de toutes tes actions doit être précisément d' agir pour la cité <- parce que cela est conforme à ta nature .
 # arrows_and_signs = Yes
 0	Ne	_	ADV	_	Polarity=Neg	_	_	_	_
-1	méprise	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_
+1	méprise	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	_
 2	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 3	la	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 4	mort	_	NOUN	_	Number=Sing	_	_	_	_
@@ -32,7 +32,7 @@
 28	dissolution	_	NOUN	_	Number=Sing	_	_	_	_
 29	de	_	ADP	_	_	_	_	_	_
 30	notre	_	DET	_	Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes	_	_	_	_
-31	être	_	NOUN	_	Number=Sing	_	_	_
+31	être	_	NOUN	_	Number=Sing	_	_	_	_
 32	12	_	NUM	_	NumType=Card	_	_	_	_
 33	]	_	PUNCT	_	_	_	_	_	_
 34	est	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
@@ -91,7 +91,7 @@
 87	L'	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 88	humain·e	_	NOUN	_	Number=Sing	_	_	_	_
 89	se	_	PRON	_	Person=3|PronType=Prs|Reflex=Yes	_	_	_	_
-90	conforme	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_
+90	conforme	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 91	donc	_	CCONJ	_	_	_	_	_	_
 92	à	_	ADP	_	_	_	_	_	_
 93	la	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
@@ -148,8 +148,8 @@
 145	de	_	ADP	_	_	_	_	_	_
 146	ta	_	DET	_	Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes	_	_	_	_
 147	femme	_	NOUN	_	Number=Sing	_	_	_	_
-148	.	_	PUNCT	_	_	_	_	_
-149	Accueille	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_
+148	.	_	PUNCT	_	_	_	_	_	_
+149	Accueille	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	_
 150	de	_	ADP	_	_	_	_	_	_
 151	même	_	ADV	_	_	_	_	_	_
 152	l'	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
@@ -164,7 +164,7 @@
 161	élytre	_	NOUN	_	Number=Sing	_	_	_	_
 162	.	_	PUNCT	_	_	_	_	_	_
 163	Mais	_	CCONJ	_	_	_	_	_	_
-164	veux	_	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres	_	_	_
+164	veux	_	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres	_	_	_	_
 165	-tu	_	PRON	_	Number=Sing|Person=2|PronType=Prs	_	_	_	_
 166	une	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
 167	règle	_	NOUN	_	Number=Sing	_	_	_	_
@@ -194,7 +194,7 @@
 191	mort	_	NOUN	_	Number=Sing	_	_	_	_
 192	,	_	PUNCT	_	_	_	_	_	_
 193	c'	_	PRON	_	Number=Sing|Person=3|PronType=Dem	_	_	_	_
-194	est	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_
+194	est	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 195	d'	_	ADP	_	_	_	_	_	_
 196	examiner	_	VERB	_	VerbForm=Inf	_	_	_	_
 197	les	_	DET	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
@@ -227,7 +227,7 @@
 224	<===>	_	PUNCT	_	_	_	_	_	_
 225	Ne	_	ADV	_	Polarity=Neg	_	_	_	_
 226	t'	_	PRON	_	Number=Sing|Person=2|PronType=Prs	_	_	_	_
-227	irrite	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_
+227	irrite	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	_
 228	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 229	cependant	_	ADV	_	_	_	_	_	_
 230	le	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
@@ -328,8 +328,8 @@
 325	comme	_	SCONJ	_	_	_	_	_	_
 326	tu	_	PRON	_	Number=Sing|Person=2|PronType=Prs	_	_	_	_
 327	es	_	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres	_	_	_	_
-328	las	_	ADJ	_	Number=Plur	_	_	_
-329	des	_	ADP	_	Definite=Def|Number=Plur|PronType=Art	_	_	_
+328	las	_	ADJ	_	Number=Plur	_	_	_	_
+329	des	_	ADP	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
 330	désaccords	_	NOUN	_	Number=Plur	_	_	_	_
 331	qui	_	PRON	_	PronType=Rel	_	_	_	_
 332	te	_	PRON	_	Number=Sing|Person=2|PronType=Prs	_	_	_	_
@@ -366,8 +366,8 @@
 363	oublier	_	VERB	_	VerbForm=Inf	_	_	_	_
 364	moi-même	_	PRON	_	Number=Sing|Person=1|PronType=Prs|Reflex=Yes	_	_	_	_
 365	--->	_	PUNCT	_	_	_	_	_	_
-366	\n	_	SPACE	_	_	_	_	_
-367	Efface	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_
+366	\n	_	SPACE	_	_	_	_	_	_
+367	Efface	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	_
 368	21	_	NUM	_	NumType=Card	_	_	_	_
 369	]	_	PUNCT	_	_	_	_	_	_
 370	tes	_	DET	_	Number=Plur|Number[psor]=Sing|Person=2|Poss=Yes	_	_	_	_
@@ -382,7 +382,7 @@
 379	22	_	NUM	_	NumType=Card	_	_	_	_
 380	]	_	PUNCT	_	_	_	_	_	_
 381	,	_	PUNCT	_	_	_	_	_	_
-382	étouffe	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_
+382	étouffe	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	_
 383	tes	_	DET	_	Number=Plur|Number[psor]=Sing|Person=2|Poss=Yes	_	_	_	_
 384	désirs	_	NOUN	_	Number=Plur	_	_	_	_
 385	;	_	PUNCT	_	_	_	_	_	_
@@ -394,14 +394,14 @@
 391	ton	_	DET	_	Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes	_	_	_	_
 392	principe	_	NOUN	_	Number=Sing	_	_	_	_
 394	.	_	PUNCT	_	_	_	_	_	_
-395	\n	_	SPACE	_	_	_	_	_
+395	\n	_	SPACE	_	_	_	_	_	_
 396	Si	_	SCONJ	_	_	_	_	_	_
 397	tu	_	PRON	_	Number=Sing|Person=2|PronType=Prs	_	_	_	_
 398	le	_	PRON	_	Definite=Def|Number=Sing|Person=3|PronType=Art	_	_	_	_
 399	peux	_	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres	_	_	_	_
 400	,	_	PUNCT	_	_	_	_	_	_
-401	dissuade	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_
-402	-les	_	PRON	_	Definite=Def|Number=Plur|Person=3|PronType=Art	_	_	_
+401	dissuade	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	_
+402	-les	_	PRON	_	Definite=Def|Number=Plur|Person=3|PronType=Art	_	_	_	_
 403	35	_	NUM	_	NumType=Card	_	_	_	_
 404	]	_	PUNCT	_	_	_	_	_	_
 405	;	_	PUNCT	_	_	_	_	_	_
@@ -424,7 +424,7 @@
 422	<====>	_	PUNCT	_	_	_	_	_	_
 423	Les	_	DET	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
 424	Dieux	_	NOUN	_	Number=Plur	_	_	_	_
-425	eux-mêmes	_	PRON	_	Number=Plur|Person=3|PronType=Prs|Reflex=Yes	_	_	_
+425	eux-mêmes	_	PRON	_	Number=Plur|Person=3|PronType=Prs|Reflex=Yes	_	_	_	_
 426	36	_	NUM	_	NumType=Card	_	_	_	_
 427	]	_	PUNCT	_	_	_	_	_	_
 428	sont	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_	_
@@ -476,7 +476,7 @@
 474	en	_	PRON	_	Person=3	_	_	_	_
 475	empêche	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 476	+	_	PUNCT	_	_	_	_	_	_
-477	\n	_	SPACE	_	_	_	_	_
+477	\n	_	SPACE	_	_	_	_	_	_
 478	Lancez	_	VERB	_	Mood=Imp|Number=Plur|Person=2|Tense=Pres	_	_	_	_
 479	une	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
 480	pierre	_	NOUN	_	Number=Sing	_	_	_	_
@@ -498,7 +498,7 @@
 496	40	_	NUM	_	NumType=Card	_	_	_	_
 497	---	_	PUNCT	_	_	_	_	_	_
 498	.	_	PUNCT	_	_	_	_	_	_
-499	\n	_	SPACE	_	_	_	_	_
+499	\n	_	SPACE	_	_	_	_	_	_
 501	Va	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	_
 505	à	_	ADP	_	_	_	_	_	_
 506	la	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
@@ -518,7 +518,7 @@
 520	la	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 521	matière	_	NOUN	_	Number=Sing	_	_	_	_
 522	***	_	PUNCT	_	_	_	_	_	_
-523	Suppute	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_
+523	Suppute	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	_
 524	ensuite	_	ADV	_	_	_	_	_	_
 525	tout	_	ADJ	_	Number=Sing	_	_	_	_
 526	le	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
@@ -537,10 +537,10 @@
 540	55	_	NUM	_	NumType=Card	_	_	_	_
 541	]	_	PUNCT	_	_	_	_	_	_
 542	.	_	PUNCT	_	_	_	_	_	_
-543	\n	_	SPACE	_	_	_	_	_
+543	\n	_	SPACE	_	_	_	_	_	_
 544	Ne	_	ADV	_	Polarity=Neg	_	_	_	_
 545	te	_	PRON	_	Number=Sing|Person=2|PronType=Prs	_	_	_	_
-546	laisse	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_
+546	laisse	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	_
 547	jamais	_	ADV	_	Polarity=Neg	_	_	_	_
 548	troubler	_	VERB	_	VerbForm=Inf	_	_	_	_
 549	73	_	NUM	_	NumType=Card	_	_	_	_
@@ -615,7 +615,7 @@
 # text = 26 \n Tu as souffert mille peines parce qu' il ne te suffisait pas que ton principe dirigeant fît ce pour quoi il a été constitué 56 <=> : mais en voilà assez 57 ] .
 # arrows_and_signs = Yes
 0	26	_	NUM	_	NumType=Card	_	_	_	_
-1	\n	_	SPACE	_	_	_	_	_
+1	\n	_	SPACE	_	_	_	_	_	_
 2	Tu	_	PRON	_	Number=Sing|Person=2|PronType=Prs	_	_	_	_
 3	as	_	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres	_	_	_	_
 4	souffert	_	VERB	_	Tense=Past|VerbForm=Part	_	_	_	_
@@ -644,7 +644,7 @@
 27	<=>	_	PUNCT	_	_	_	_	_	_
 28	:	_	PUNCT	_	_	_	_	_	_
 29	mais	_	CCONJ	_	_	_	_	_	_
-30	en	_	ADP	_	_	_	_	_
+30	en	_	ADP	_	_	_	_	_	_
 31	voilà	_	ADP	_	_	_	_	_	_
 32	assez	_	ADV	_	_	_	_	_	_
 33	57	_	NUM	_	NumType=Card	_	_	_	_
@@ -656,15 +656,15 @@
 # sent_id = marc_aurele.spacy.2
 # text = \n 18 \n Pénètre dans leur 41 ] for intérieur 42 ] =====> et tu verras quels juges tu redoutes , et comment ils se jugent eux-mêmes .
 # arrows_and_signs = Yes
-0	\n	_	SPACE	_	_	_	_	_
+0	\n	_	SPACE	_	_	_	_	_	_
 1	18	_	NUM	_	NumType=Card	_	_	_	_
-2	\n	_	SPACE	_	_	_	_	_
-3	Pénètre	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_
+2	\n	_	SPACE	_	_	_	_	_	_
+3	Pénètre	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	_
 4	dans	_	ADP	_	_	_	_	_	_
 5	leur	_	DET	_	Number=Sing|Number[psor]=Plur|Person=3|Poss=Yes	_	_	_	_
 6	41	_	NUM	_	NumType=Card	_	_	_	_
 7	]	_	PUNCT	_	_	_	_	_	_
-8	for	_	NOUN	_	Number=Sing	_	_	_
+8	for	_	NOUN	_	Number=Sing	_	_	_	_
 9	intérieur	_	NOUN	_	Number=Sing	_	_	_	_
 10	42	_	NUM	_	NumType=Card	_	_	_	_
 11	]	_	PUNCT	_	_	_	_	_	_
@@ -675,7 +675,7 @@
 16	quels	_	DET	_	Number=Plur|Person=3|PronType=Int	_	_	_	_
 17	juges	_	NOUN	_	Number=Plur	_	_	_	_
 18	tu	_	PRON	_	Number=Sing|Person=2|PronType=Prs	_	_	_	_
-19	redoutes	_	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres	_	_	_
+19	redoutes	_	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres	_	_	_	_
 20	,	_	PUNCT	_	_	_	_	_	_
 21	et	_	CCONJ	_	_	_	_	_	_
 22	comment	_	ADV	_	_	_	_	_	_
@@ -690,14 +690,14 @@
 # sent_id = marc_aurele.spacy.3
 # text = \n 12 \n mais ne travaille surtout pas , non comme un malheureux <= non pour te faire plaindre ou admirer . N' aie point d' autre volonté que d' agir ou de te contenir 37 =/= comme la raison l' exige pour le service de la cité . \n
 # arrows_and_signs = Yes
-0	\n	_	SPACE	_	_	_	_	_
+0	\n	_	SPACE	_	_	_	_	_	_
 1	12	_	NUM	_	NumType=Card	_	_	_	_
-2	\n	_	SPACE	_	_	_	_	_
+2	\n	_	SPACE	_	_	_	_	_	_
 163	mais	_	CCONJ	_	_	_	_	_	_
 18	ne	_	ADV	_	Polarity=Neg	_	_	_	_
-3	travaille	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_
+3	travaille	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	_
 187	surtout	_	ADV	_	_	_	_	_	_
-20	pas	_	ADV	_	Polarity=Neg	_	_	_
+20	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 4	,	_	PUNCT	_	_	_	_	_	_
 5	non	_	ADV	_	Polarity=Neg	_	_	_	_
 6	comme	_	SCONJ	_	_	_	_	_	_
@@ -713,8 +713,8 @@
 16	admirer	_	VERB	_	VerbForm=Inf	_	_	_	_
 17	.	_	PUNCT	_	_	_	_	_	_
 18	N'	_	ADV	_	Polarity=Neg	_	_	_	_
-19	aie	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_
-20	point	_	ADV	_	Polarity=Neg	_	_	_
+19	aie	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	_
+20	point	_	ADV	_	Polarity=Neg	_	_	_	_
 21	d'	_	ADP	_	_	_	_	_	_
 22	autre	_	ADJ	_	Number=Sing	_	_	_	_
 23	volonté	_	NOUN	_	Number=Sing	_	_	_	_
@@ -739,5 +739,5 @@
 42	la	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 43	cité	_	NOUN	_	Number=Sing	_	_	_	_
 44	.	_	PUNCT	_	_	_	_	_	_
-45	\n	_	SPACE	_	_	_	_	_
+45	\n	_	SPACE	_	_	_	_	_	_
 

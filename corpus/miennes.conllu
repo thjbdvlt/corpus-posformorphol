@@ -34,7 +34,7 @@
 31	la	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 32	mienne	_	NOUN	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes	_	_	_	_
 33	.	_	PUNCT	_	_	_	_	_	_
-34	\n	_	SPACE	_	_	_	_	_
+34	\n	_	SPACE	_	_	_	_	_	_
 35	Et	_	CCONJ	_	_	_	_	_	_
 36	ces	_	DET	_	Number=Plur|PronType=Dem	_	_	_	_
 37	chaises	_	NOUN	_	Number=Plur	_	_	_	_
@@ -64,7 +64,7 @@
 61	sont	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_	_
 62	bleues	_	ADJ	_	Number=Plur	_	_	_	_
 63	.	_	PUNCT	_	_	_	_	_	_
-64	\n	_	SPACE	_	_	_	_	_
+64	\n	_	SPACE	_	_	_	_	_	_
 65	Les	_	DET	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
 32	tiennes	_	NOUN	_	Number=Plur|Number[psor]=Sing|Person=2|Poss=Yes	_	_	_	_
 67	sont	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_	_
@@ -96,7 +96,7 @@
 
 # text = Les sien·nes , les siennes , , les nôtres . \n — Pourquoi savons -nous que nous sommes en France ? dit mon compagnon . Personne n' en sait rien ? Essaie peut-être de lire plus fort . \n Tu pourrais essayer de lire plus fort .
 88	Les	_	DET	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
-32	sien·nes	_	NOUN	_	Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes	_	_	_
+32	sien·nes	_	NOUN	_	Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes	_	_	_	_
 90	,	_	PUNCT	_	_	_	_	_	_
 88	les	_	DET	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
 32	siennes	_	NOUN	_	Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes	_	_	_	_
@@ -105,12 +105,12 @@
 91	les	_	DET	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
 92	nôtres	_	NOUN	_	Number=Plur|Number[psor]=Plur|Person=1|Poss=Yes	_	_	_	_
 93	.	_	PUNCT	_	_	_	_	_	_
-94	\n	_	SPACE	_	_	_	_	_
+94	\n	_	SPACE	_	_	_	_	_	_
 95	—	_	PUNCT	_	_	_	_	_	_
 96	Pourquoi	_	ADV	_	_	_	_	_	_
 97	savons	_	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres	_	_	_	_
 98	-nous	_	PRON	_	Number=Plur|Person=1|PronType=Prs	_	_	_	_
-99	que	_	SCONJ	_	_	_	_	_
+99	que	_	SCONJ	_	_	_	_	_	_
 100	nous	_	PRON	_	Number=Plur|Person=1|PronType=Prs	_	_	_	_
 101	sommes	_	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres	_	_	_	_
 102	en	_	ADP	_	_	_	_	_	_
@@ -120,27 +120,27 @@
 106	mon	_	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes	_	_	_	_
 107	compagnon	_	NOUN	_	Number=Sing	_	_	_	_
 108	.	_	PUNCT	_	_	_	_	_	_
-109	Personne	_	PRON	_	Number=Sing|Polarity=Neg|PronType=Ind	_	_	_
+109	Personne	_	PRON	_	Number=Sing|Polarity=Neg|PronType=Ind	_	_	_	_
 110	n'	_	ADV	_	Polarity=Neg	_	_	_	_
 111	en	_	PRON	_	Person=3	_	_	_	_
 112	sait	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 113	rien	_	PRON	_	Number=Sing|Polarity=Neg	_	_	_	_
 114	?	_	PUNCT	_	_	_	_	_	_
-115	Essaie	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_
+115	Essaie	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	_
 116	peut-être	_	ADV	_	_	_	_	_	_
 117	de	_	ADP	_	_	_	_	_	_
 118	lire	_	VERB	_	VerbForm=Inf	_	_	_	_
 119	plus	_	ADV	_	_	_	_	_	_
-120	fort	_	ADV	_	_	_	_	_
+120	fort	_	ADV	_	_	_	_	_	_
 121	.	_	PUNCT	_	_	_	_	_	_
-122	\n	_	SPACE	_	_	_	_	_
+122	\n	_	SPACE	_	_	_	_	_	_
 123	Tu	_	PRON	_	Number=Sing|Person=2|PronType=Prs	_	_	_	_
 124	pourrais	_	VERB	_	Mood=Cnd|Number=Sing|Person=2|Tense=Pres	_	_	_	_
 125	essayer	_	VERB	_	VerbForm=Inf	_	_	_	_
 126	de	_	ADP	_	_	_	_	_	_
 127	lire	_	VERB	_	VerbForm=Inf	_	_	_	_
 128	plus	_	ADV	_	_	_	_	_	_
-129	fort	_	ADV	_	_	_	_	_
+129	fort	_	ADV	_	_	_	_	_	_
 130	.	_	PUNCT	_	_	_	_	_	_
 
 
@@ -148,11 +148,11 @@
 # sent_id = miennes.spacy.1
 # text = Tu parais bien , tu parais à l' heure . Il paraît que cela est plutôt pas mal . Tu apparaîs comme ci , comme ça .
 0	Tu	_	PRON	_	Number=Sing|Person=2|PronType=Prs	_	_	_	_
-1	parais	_	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres	_	_	_
+1	parais	_	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres	_	_	_	_
 2	bien	_	ADV	_	_	_	_	_	_
 3	,	_	PUNCT	_	_	_	_	_	_
 4	tu	_	PRON	_	Number=Sing|Person=2|PronType=Prs	_	_	_	_
-5	parais	_	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres	_	_	_
+5	parais	_	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres	_	_	_	_
 6	à	_	ADP	_	_	_	_	_	_
 7	l'	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 8	heure	_	NOUN	_	Number=Sing	_	_	_	_
@@ -167,7 +167,7 @@
 17	mal	_	ADV	_	_	_	_	_	_
 18	.	_	PUNCT	_	_	_	_	_	_
 19	Tu	_	PRON	_	Number=Sing|Person=2|PronType=Prs	_	_	_	_
-20	apparaîs	_	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres	_	_	_
+20	apparaîs	_	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres	_	_	_	_
 21	comme	_	SCONJ	_	_	_	_	_	_
 22	ci	_	PRON	_	Number=Sing|Person=3|PronType=Dem	_	_	_	_
 23	,	_	PUNCT	_	_	_	_	_	_
@@ -216,10 +216,10 @@
 2	à	_	ADP	_	_	_	_	_	_
 3	cette	_	DET	_	Number=Sing|PronType=Dem	_	_	_	_
 4	adresse	_	NOUN	_	Number=Sing	_	_	_	_
-5	www.tenk.com	_	SYM	_	_	_	_	_
-6	des	_	DET	_	Definite=Ind|Number=Plur|PronType=Art	_	_	_
+5	www.tenk.com	_	SYM	_	_	_	_	_	_
+6	des	_	DET	_	Definite=Ind|Number=Plur|PronType=Art	_	_	_	_
 7	trucs	_	NOUN	_	Number=Plur	_	_	_	_
-8	super	_	ADJ	_	Number=Plur	_	_	_
+8	super	_	ADJ	_	Number=Plur	_	_	_	_
 9	.	_	PUNCT	_	_	_	_	_	_
 
 
@@ -228,14 +228,14 @@
 # text = Et sur https://plante.com il y a aussi des trucs cool .
 0	Et	_	CCONJ	_	_	_	_	_	_
 1	sur	_	ADP	_	_	_	_	_	_
-2	https://plante.com	_	SYM	_	_	_	_	_
+2	https://plante.com	_	SYM	_	_	_	_	_	_
 3	il	_	PRON	_	Number=Sing|Person=3|PronType=Prs	_	_	_	_
 4	y	_	PRON	_	Person=3	_	_	_	_
 5	a	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 6	aussi	_	ADV	_	_	_	_	_	_
 7	des	_	DET	_	Definite=Ind|Number=Plur|PronType=Art	_	_	_	_
 8	trucs	_	NOUN	_	Number=Plur	_	_	_	_
-9	cool	_	ADJ	_	Number=Plur	_	_	_
+9	cool	_	ADJ	_	Number=Plur	_	_	_	_
 10	.	_	PUNCT	_	_	_	_	_	_
 
 
@@ -258,9 +258,9 @@
 13	plantes	_	NOUN	_	Number=Plur	_	_	_	_
 14	,	_	PUNCT	_	_	_	_	_	_
 15	les	_	DET	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
-16	miennes	_	NOUN	_	Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes	_	_	_
+16	miennes	_	NOUN	_	Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes	_	_	_	_
 17	.	_	PUNCT	_	_	_	_	_	_
-18	\n	_	SPACE	_	_	_	_	_
+18	\n	_	SPACE	_	_	_	_	_	_
 19	Dans	_	ADP	_	_	_	_	_	_
 20	le	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 21	frigo	_	NOUN	_	Number=Sing	_	_	_	_
@@ -332,20 +332,20 @@
 34	la	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 35	pluie	_	NOUN	_	Number=Sing	_	_	_	_
 36	.	_	PUNCT	_	_	_	_	_	_
-37	\n	_	SPACE	_	_	_	_	_
+37	\n	_	SPACE	_	_	_	_	_	_
 
 
 
 # sent_id = miennes.spacy.9
 # text = Les tien·nes , les mien·nes , les miens , les siens , les nôtres
 88	Les	_	DET	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
-32	tien·nes	_	NOUN	_	Number=Plur|Number[psor]=Sing|Person=2|Poss=Yes	_	_	_
+32	tien·nes	_	NOUN	_	Number=Plur|Number[psor]=Sing|Person=2|Poss=Yes	_	_	_	_
 90	,	_	PUNCT	_	_	_	_	_	_
 88	les	_	DET	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
-32	mien·nes	_	NOUN	_	Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes	_	_	_
+32	mien·nes	_	NOUN	_	Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes	_	_	_	_
 90	,	_	PUNCT	_	_	_	_	_	_
 88	les	_	DET	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
-32	miens	_	NOUN	_	Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes	_	_	_
+32	miens	_	NOUN	_	Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes	_	_	_	_
 90	,	_	PUNCT	_	_	_	_	_	_
 88	les	_	DET	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
 32	siens	_	NOUN	_	Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes	_	_	_	_
@@ -357,101 +357,101 @@
 
 # sent_id = miennes.spacy.10
 # text = http://depuis.org/ https://vite.fr http://depuis.org/ https://depuis.org/ www.ici.org/ www.loin.org/ www.partout.org/ www.des_feuilles_vertes.org/rien#quoi http://wiki-iic.org/rien#quoi https://partout.org/rien#quoi
-2	http://depuis.org/	_	SYM	_	_	_	_	_
-2	https://vite.fr	_	SYM	_	_	_	_	_
-2	http://depuis.org/	_	SYM	_	_	_	_	_
-2	https://depuis.org/	_	SYM	_	_	_	_	_
-2	www.ici.org/	_	SYM	_	_	_	_	_
-2	www.loin.org/	_	SYM	_	_	_	_	_
-2	www.partout.org/	_	SYM	_	_	_	_	_
-2	www.des_feuilles_vertes.org/rien#quoi	_	SYM	_	_	_	_	_
-2	http://wiki-iic.org/rien#quoi	_	SYM	_	_	_	_	_
-2	https://partout.org/rien#quoi	_	SYM	_	_	_	_	_
+2	http://depuis.org/	_	SYM	_	_	_	_	_	_
+2	https://vite.fr	_	SYM	_	_	_	_	_	_
+2	http://depuis.org/	_	SYM	_	_	_	_	_	_
+2	https://depuis.org/	_	SYM	_	_	_	_	_	_
+2	www.ici.org/	_	SYM	_	_	_	_	_	_
+2	www.loin.org/	_	SYM	_	_	_	_	_	_
+2	www.partout.org/	_	SYM	_	_	_	_	_	_
+2	www.des_feuilles_vertes.org/rien#quoi	_	SYM	_	_	_	_	_	_
+2	http://wiki-iic.org/rien#quoi	_	SYM	_	_	_	_	_	_
+2	https://partout.org/rien#quoi	_	SYM	_	_	_	_	_	_
 
 
 
 # sent_id = miennes.spacy.11
 # text = http://aluei.org/ https://seie.fr http://depuis.org/ https://depuis.org/
-2	http://aluei.org/	_	SYM	_	_	_	_	_
-2	https://seie.fr	_	SYM	_	_	_	_	_
-2	http://depuis.org/	_	SYM	_	_	_	_	_
-2	https://depuis.org/	_	SYM	_	_	_	_	_
+2	http://aluei.org/	_	SYM	_	_	_	_	_	_
+2	https://seie.fr	_	SYM	_	_	_	_	_	_
+2	http://depuis.org/	_	SYM	_	_	_	_	_	_
+2	https://depuis.org/	_	SYM	_	_	_	_	_	_
 
 
 
 # sent_id = miennes.spacy.12
 # text = www.ici.org/ www.loin.org/ www.partout.org/ www.des_feuilles_vertes.org/rien#quoi http://wiki-iic.org/rien#quoi
-2	www.ici.org/	_	SYM	_	_	_	_	_
-2	www.loin.org/	_	SYM	_	_	_	_	_
-2	www.partout.org/	_	SYM	_	_	_	_	_
-2	www.des_feuilles_vertes.org/rien#quoi	_	SYM	_	_	_	_	_
-2	http://wiki-iic.org/rien#quoi	_	SYM	_	_	_	_	_
+2	www.ici.org/	_	SYM	_	_	_	_	_	_
+2	www.loin.org/	_	SYM	_	_	_	_	_	_
+2	www.partout.org/	_	SYM	_	_	_	_	_	_
+2	www.des_feuilles_vertes.org/rien#quoi	_	SYM	_	_	_	_	_	_
+2	http://wiki-iic.org/rien#quoi	_	SYM	_	_	_	_	_	_
 
 
 
 # sent_id = miennes.spacy.13
 # text = bonjour :-)
 11	bonjour	_	INTJ	_	_	_	_	_	_
-2	:-)	_	PUNCT	_	_	_	_	_
+2	:-)	_	PUNCT	_	_	_	_	_	_
 
 
 
 # sent_id = miennes.spacy.13
 # text = hello xd
 11	hello	_	INTJ	_	_	_	_	_	_
-2	xd	_	PUNCT	_	_	_	_	_
+2	xd	_	PUNCT	_	_	_	_	_	_
 
 
 
 # sent_id = miennes.spacy.13
 # text = hello ^^
 11	hello	_	INTJ	_	_	_	_	_	_
-2	^^	_	PUNCT	_	_	_	_	_
+2	^^	_	PUNCT	_	_	_	_	_	_
 
 
 
 # sent_id = miennes.spacy.13
 # text = ô.ô
-2	ô.ô	_	PUNCT	_	_	_	_	_
+2	ô.ô	_	PUNCT	_	_	_	_	_	_
 
 
 
 # sent_id = miennes.spacy.13
 # text = yo :/
 11	yo	_	INTJ	_	_	_	_	_	_
-2	:/	_	PUNCT	_	_	_	_	_
+2	:/	_	PUNCT	_	_	_	_	_	_
 
 
 
 # sent_id = miennes.spacy.13
 # text = bonjour :-)
 11	bonjour	_	INTJ	_	_	_	_	_	_
-2	:-)	_	PUNCT	_	_	_	_	_
+2	:-)	_	PUNCT	_	_	_	_	_	_
 
 
 
 # sent_id = miennes.spacy.13
 # text = coucou xd
 11	coucou	_	INTJ	_	_	_	_	_	_
-2	xd	_	PUNCT	_	_	_	_	_
+2	xd	_	PUNCT	_	_	_	_	_	_
 
 
 
 # sent_id = miennes.spacy.13
 # text = hello ^^
 11	hello	_	INTJ	_	_	_	_	_	_
-2	^^	_	PUNCT	_	_	_	_	_
+2	^^	_	PUNCT	_	_	_	_	_	_
 
 
 
 # sent_id = miennes.spacy.13
 # text = ô.ô
-2	ô.ô	_	PUNCT	_	_	_	_	_
+2	ô.ô	_	PUNCT	_	_	_	_	_	_
 
 
 
 # sent_id = miennes.spacy.13
 # text = yo :/
 11	yo	_	INTJ	_	_	_	_	_	_
-2	:/	_	PUNCT	_	_	_	_	_
+2	:/	_	PUNCT	_	_	_	_	_	_
 

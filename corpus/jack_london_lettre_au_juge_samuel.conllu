@@ -112,8 +112,8 @@
 101	,	_	PUNCT	_	_	_	_	_	_
 102	de	_	ADP	_	_	_	_	_	_
 103	s'	_	PRON	_	Person=3|PronType=Prs|Reflex=Yes	_	_	_	_
-104	être	_	VERB	_	VerbForm=Inf	_	_	_
-105	mal	_	ADV	_	_	_	_	_
+104	être	_	VERB	_	VerbForm=Inf	_	_	_	_
+105	mal	_	ADV	_	_	_	_	_	_
 106	conduit	_	VERB	_	Tense=Past|VerbForm=Part	_	_	_	_
 107	avec	_	ADP	_	_	_	_	_	_
 108	une	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
@@ -147,12 +147,12 @@
 21	sur	_	ADP	_	_	_	_	_	_
 22	les	_	DET	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
 23	coups	_	NOUN	_	Number=Plur	_	_	_	_
-24	que	_	PRON	_	PronType=Rel	_	_	_
+24	que	_	PRON	_	PronType=Rel	_	_	_	_
 25	j'	_	PRON	_	Number=Sing|Person=1|PronType=Prs	_	_	_	_
 26	avais	_	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Imp	_	_	_	_
 27	reçus	_	VERB	_	Tense=Past|VerbForm=Part	_	_	_	_
 28	.	_	PUNCT	_	_	_	_	_	_
-29	Personne	_	PRON	_	Number=Sing|Polarity=Neg|PronType=Ind	_	_	_
+29	Personne	_	PRON	_	Number=Sing|Polarity=Neg|PronType=Ind	_	_	_	_
 30	n'	_	ADV	_	Polarity=Neg	_	_	_	_
 31	a	_	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 32	jamais	_	ADV	_	Polarity=Neg	_	_	_	_
@@ -230,7 +230,7 @@
 28	réputation	_	NOUN	_	Number=Sing	_	_	_	_
 29	fâcheuse	_	ADJ	_	Number=Sing	_	_	_	_
 30	du	_	ADP	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
-31	dit	_	VERB	_	Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_
+31	dit	_	VERB	_	Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
 32	Muldowney	_	PROPN	_	_	_	_	_	_
 33	et	_	CCONJ	_	_	_	_	_	_
 34	de	_	ADP	_	_	_	_	_	_
@@ -297,10 +297,10 @@
 5	pour	_	ADP	_	_	_	_	_	_
 6	des	_	DET	_	Definite=Ind|Number=Plur|PronType=Art	_	_	_	_
 7	raisons	_	NOUN	_	Number=Plur	_	_	_	_
-8	que	_	PRON	_	PronType=Rel	_	_	_
+8	que	_	PRON	_	PronType=Rel	_	_	_	_
 9	je	_	PRON	_	Number=Sing|Person=1|PronType=Prs	_	_	_	_
 10	crois	_	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	_	_	_	_
-11	inutile	_	ADJ	_	Number=Sing	_	_	_
+11	inutile	_	ADJ	_	Number=Sing	_	_	_	_
 12	de	_	ADP	_	_	_	_	_	_
 13	vous	_	PRON	_	Number=Plur|Person=2|PronType=Prs	_	_	_	_
 14	rappeler	_	VERB	_	VerbForm=Inf	_	_	_	_
@@ -352,10 +352,10 @@
 60	affaire	_	NOUN	_	Number=Sing	_	_	_	_
 61	,	_	PUNCT	_	_	_	_	_	_
 62	l'	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
-63	important	_	NOUN	_	Number=Sing	_	_	_
+63	important	_	NOUN	_	Number=Sing	_	_	_	_
 64	,	_	PUNCT	_	_	_	_	_	_
 65	c'	_	PRON	_	Number=Sing|Person=3|PronType=Dem	_	_	_	_
-66	est	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_
+66	est	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 67	qu'	_	SCONJ	_	_	_	_	_	_
 68	elle	_	PRON	_	Number=Sing|Person=3|PronType=Prs	_	_	_	_
 69	l'	_	PRON	_	Definite=Def|Number=Sing|Person=3|PronType=Art	_	_	_	_
@@ -411,7 +411,7 @@
 119	que	_	SCONJ	_	_	_	_	_	_
 120	nous	_	PRON	_	Number=Plur|Person=1|PronType=Prs	_	_	_	_
 121	nous	_	PRON	_	Number=Plur|Person=1|PronType=Prs|Reflex=Yes	_	_	_	_
-24	soyons	_	VERB	_	Mood=Sub|Number=Plur|Person=1|Tense=Pres	_	_	_
+24	soyons	_	VERB	_	Mood=Sub|Number=Plur|Person=1|Tense=Pres	_	_	_	_
 123	rendus	_	VERB	_	Tense=Past|VerbForm=Part	_	_	_	_
 124	coupables	_	ADJ	_	Number=Plur	_	_	_	_
 125	de	_	ADP	_	_	_	_	_	_
@@ -422,7 +422,7 @@
 130	,	_	PUNCT	_	_	_	_	_	_
 131	nous	_	PRON	_	Number=Plur|Person=1|PronType=Prs	_	_	_	_
 132	étions	_	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Imp	_	_	_	_
-133	innocents	_	ADJ	_	Number=Plur	_	_	_
+133	innocents	_	ADJ	_	Number=Plur	_	_	_	_
 134	l'	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 135	un	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
 136	et	_	CCONJ	_	_	_	_	_	_
@@ -491,10 +491,10 @@
 50	vous	_	PRON	_	Number=Plur|Person=2|PronType=Prs	_	_	_	_
 51	vous	_	PRON	_	Number=Plur|Person=2|PronType=Prs|Reflex=Yes	_	_	_	_
 52	en	_	PRON	_	Person=3	_	_	_	_
-53	êtes	_	AUX	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres	_	_	_
+53	êtes	_	AUX	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres	_	_	_	_
 54	fort	_	ADV	_	_	_	_	_	_
 55	bien	_	ADV	_	_	_	_	_	_
-56	tiré	_	VERB	_	Tense=Past|VerbForm=Part	_	_	_
+56	tiré	_	VERB	_	Tense=Past|VerbForm=Part	_	_	_	_
 57	,	_	PUNCT	_	_	_	_	_	_
 58	vous	_	PRON	_	Number=Plur|Person=2|PronType=Prs	_	_	_	_
 59	avez	_	AUX	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres	_	_	_	_
@@ -564,11 +564,11 @@
 123	acquitté	_	VERB	_	Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
 124	.	_	PUNCT	_	_	_	_	_	_
 125	Tout	_	PRON	_	Definite=Ind|Number=Sing|Person=3	_	_	_	_
-126	était	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp	_	_	_
+126	était	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp	_	_	_	_
 127	donc	_	CCONJ	_	_	_	_	_	_
 128	pour	_	ADP	_	_	_	_	_	_
 129	le	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
-130	mieux	_	NOUN	_	Number=Sing	_	_	_
+130	mieux	_	NOUN	_	Number=Sing	_	_	_	_
 131	dans	_	ADP	_	_	_	_	_	_
 132	le	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 133	meilleur	_	ADJ	_	Number=Sing	_	_	_	_
@@ -578,12 +578,12 @@
 137	Mais	_	CCONJ	_	_	_	_	_	_
 138	vous	_	PRON	_	Number=Plur|Person=2|PronType=Prs	_	_	_	_
 139	admettrez	_	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Fut	_	_	_	_
-140	que	_	SCONJ	_	_	_	_	_
+140	que	_	SCONJ	_	_	_	_	_	_
 141	nous	_	PRON	_	Number=Plur|Person=1|PronType=Prs	_	_	_	_
 142	trouver	_	VERB	_	VerbForm=Inf	_	_	_	_
 143	tous	_	ADJ	_	Number=Plur	_	_	_	_
 144	deux	_	NUM	_	NumType=Card	_	_	_	_
-145	innocents	_	NOUN	_	Number=Plur	_	_	_
+145	innocents	_	NOUN	_	Number=Plur	_	_	_	_
 146	,	_	PUNCT	_	_	_	_	_	_
 147	compte	_	NOUN	_	Number=Sing	_	_	_	_
 148	tenu	_	VERB	_	Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
@@ -610,7 +610,7 @@
 169	coup	_	NOUN	_	Number=Sing	_	_	_	INVARIANT
 170	me	_	PRON	_	Number=Sing|Person=1|PronType=Prs	_	_	_	_
 171	reconnaître	_	VERB	_	VerbForm=Inf	_	_	_	_
-172	coupable	_	ADJ	_	Number=Sing	_	_	_
+172	coupable	_	ADJ	_	Number=Sing	_	_	_	_
 173	.	_	PUNCT	_	_	_	_	_	_
 174	Vous	_	PRON	_	Number=Plur|Person=2|PronType=Prs	_	_	_	_
 175	le	_	PRON	_	Definite=Def|Number=Sing|Person=3|PronType=Art	_	_	_	_
@@ -619,10 +619,10 @@
 178	et	_	CCONJ	_	_	_	_	_	_
 179	vous	_	PRON	_	Number=Plur|Person=2|PronType=Prs	_	_	_	_
 180	n'	_	ADV	_	Polarity=Neg	_	_	_	_
-181	avez	_	AUX	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres	_	_	_
+181	avez	_	AUX	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres	_	_	_	_
 182	cependant	_	ADV	_	_	_	_	_	_
 183	pas	_	ADV	_	Polarity=Neg	_	_	_	_
-184	hésité	_	VERB	_	Tense=Past|VerbForm=Part	_	_	_
+184	hésité	_	VERB	_	Tense=Past|VerbForm=Part	_	_	_	_
 185	une	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
 186	seule	_	ADJ	_	Number=Sing	_	_	_	_
 187	minute	_	NOUN	_	Number=Sing	_	_	_	_
@@ -636,12 +636,12 @@
 195	Mais	_	CCONJ	_	_	_	_	_	_
 196	ce	_	PRON	_	Number=Sing|Person=3|PronType=Dem	_	_	_	_
 197	n'	_	ADV	_	Polarity=Neg	_	_	_	_
-198	est	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_
+198	est	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 199	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 200	encore	_	ADV	_	_	_	_	_	_
 201	pour	_	ADP	_	_	_	_	_	_
 202	cela	_	PRON	_	Number=Sing|Person=3|PronType=Dem	_	_	_	_
-203	que	_	SCONJ	_	_	_	_	_
+203	que	_	SCONJ	_	_	_	_	_	_
 204	je	_	PRON	_	Number=Sing|Person=1|PronType=Prs	_	_	_	_
 205	vous	_	PRON	_	Number=Plur|Person=2|PronType=Prs	_	_	_	_
 206	en	_	PRON	_	Person=3	_	_	_	_
@@ -712,7 +712,7 @@
 44	alors	_	ADV	_	_	_	_	_	_
 45	que	_	SCONJ	_	_	_	_	_	_
 46	,	_	PUNCT	_	_	_	_	_	_
-47	assisté	_	VERB	_	Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_
+47	assisté	_	VERB	_	Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
 48	de	_	ADP	_	_	_	_	_	_
 49	ses	_	DET	_	Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes	_	_	_	_
 50	sbires	_	NOUN	_	Number=Plur	_	_	_	_
@@ -746,8 +746,8 @@
 # text = Je vous le demande , juge Samuels , était -ce vraiment indispensable ? Vous aviez sur moi des avantages bien plus grands que n' en avait le gargotier Muldowney : retranché dans votre petite chaire , tout en haut , sous la panoplie sacrée de la loi , à l' ombre des matraques des policiers et protégé par les cellules des prisons de la ville et par le droit de me condamner pour outrage à magistrat ( amende , ou emprisonnement ) , vous avez préféré me tyranniser . Vous pouviez frapper en toute immunité – vous le saviez , et vous avez frappé . Vous le saviez , parce que bien souvent auparavant vous avez déjà frappé impunément de pauvres diables qui étaient venus se présenter devant vous .
 1	Je	_	PRON	_	Number=Sing|Person=1|PronType=Prs	_	_	_	_
 2	vous	_	PRON	_	Number=Plur|Person=2|PronType=Prs	_	_	_	_
-3	le	_	PRON	_	Definite=Def|Number=Sing|Person=3|PronType=Art	_	_	_
-4	demande	_	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	_	_	_
+3	le	_	PRON	_	Definite=Def|Number=Sing|Person=3|PronType=Art	_	_	_	_
+4	demande	_	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	_	_	_	_
 5	,	_	PUNCT	_	_	_	_	_	_
 6	juge	_	NOUN	_	Number=Sing	_	_	_	_
 7	Samuels	_	PROPN	_	_	_	_	_	_
@@ -758,10 +758,10 @@
 12	indispensable	_	ADJ	_	Number=Sing	_	_	_	_
 13	?	_	PUNCT	_	_	_	_	_	_
 14	Vous	_	PRON	_	Number=Plur|Person=2|PronType=Prs	_	_	_	_
-15	aviez	_	AUX	_	Mood=Ind|Number=Plur|Person=2|Tense=Imp	_	_	_
+15	aviez	_	AUX	_	Mood=Ind|Number=Plur|Person=2|Tense=Imp	_	_	_	_
 16	sur	_	ADP	_	_	_	_	_	_
 17	moi	_	PRON	_	Number=Sing|Person=1|PronType=Prs	_	_	_	_
-18	des	_	DET	_	Number=Plur|PronType=Art|Definite=Ind	_	_	_
+18	des	_	DET	_	Number=Plur|PronType=Art|Definite=Ind	_	_	_	_
 19	avantages	_	NOUN	_	Number=Plur	_	_	_	_
 20	bien	_	ADV	_	_	_	_	_	_
 21	plus	_	ADV	_	_	_	_	_	_
@@ -912,7 +912,7 @@
 31	,	_	PUNCT	_	_	_	_	_	_
 32	vous	_	PRON	_	Number=Plur|Person=2|PronType=Prs	_	_	_	_
 33	vous	_	PRON	_	Number=Plur|Person=2|PronType=Prs|Reflex=Yes	_	_	_	_
-34	êtes	_	AUX	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres	_	_	_
+34	êtes	_	AUX	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres	_	_	_	_
 35	conduit	_	VERB	_	Tense=Past|VerbForm=Part	_	_	_	_
 36	avec	_	ADP	_	_	_	_	_	_
 37	moi	_	PRON	_	Number=Sing|Person=1|PronType=Prs	_	_	_	_
@@ -959,10 +959,10 @@
 78	à	_	ADP	_	_	_	_	_	_
 79	se	_	PRON	_	Person=3|PronType=Prs|Reflex=Yes	_	_	_	_
 80	porter	_	VERB	_	VerbForm=Inf	_	_	_	_
-81	garant	_	ADJ	_	Number=Sing	_	_	_
+81	garant	_	ADJ	_	Number=Sing	_	_	_	_
 82	du	_	ADP	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 83	fait	_	NOUN	_	Number=Sing	_	_	_	_
-84	que	_	SCONJ	_	_	_	_	_
+84	que	_	SCONJ	_	_	_	_	_	_
 85	j'	_	PRON	_	Number=Sing|Person=1|PronType=Prs	_	_	_	_
 86	étais	_	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Imp	_	_	_	_
 87	un	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
@@ -1023,13 +1023,13 @@
 142	juge	_	NOUN	_	Number=Sing	_	_	_	_
 143	,	_	PUNCT	_	_	_	_	_	_
 144	convenablement	_	ADV	_	_	_	_	_	_
-145	assisté	_	VERB	_	Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_
+145	assisté	_	VERB	_	Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
 146	,	_	PUNCT	_	_	_	_	_	_
 147	bousculer	_	VERB	_	VerbForm=Inf	_	_	_	_
 148	et	_	CCONJ	_	_	_	_	_	_
 149	malmener	_	VERB	_	VerbForm=Inf	_	_	_	_
 150	mon	_	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes	_	_	_	_
-151	pauvre	_	ADJ	_	Number=Sing	_	_	_
+151	pauvre	_	ADJ	_	Number=Sing	_	_	_	_
 152	et	_	CCONJ	_	_	_	_	_	_
 153	unique	_	ADJ	_	Number=Sing	_	_	_	_
 154	témoin	_	NOUN	_	Number=Sing	_	_	_	_
@@ -1110,7 +1110,7 @@
 69	anglo-saxon	_	ADJ	_	Number=Sing	_	_	_	_
 70	et	_	CCONJ	_	_	_	_	_	_
 71	n'	_	ADV	_	Polarity=Neg	_	_	_	_
-72	embrassiez	_	VERB	_	Mood=Sub|Number=Plur|Person=2|Tense=Pres	_	_	_
+72	embrassiez	_	VERB	_	Mood=Sub|Number=Plur|Person=2|Tense=Pres	_	_	_	_
 73	ces	_	DET	_	Number=Plur|PronType=Dem	_	_	_	_
 74	pratiques	_	NOUN	_	Number=Plur	_	_	_	_
 75	aussi	_	ADV	_	_	_	_	_	_
@@ -1185,7 +1185,7 @@
 62	passé	_	NOUN	_	Number=Sing	_	_	_	_
 63	.	_	PUNCT	_	_	_	_	_	_
 64	C'	_	PRON	_	Number=Sing|Person=3|PronType=Dem	_	_	_	_
-65	est	_	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_
+65	est	_	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 66	à	_	ADP	_	_	_	_	_	_
 67	partir	_	VERB	_	VerbForm=Inf	_	_	_	_
 68	d'	_	ADP	_	_	_	_	_	_

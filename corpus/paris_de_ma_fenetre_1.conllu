@@ -8,23 +8,23 @@
 4	de	_	ADP	_	_	_	_	_	_
 5	tuiles	_	NOUN	_	Number=Plur	_	_	_	_
 6	à	_	ADP	_	_	_	_	_	_
-7	godrons	_	NOUN	_	Number=Plur	_	_	_
+7	godrons	_	NOUN	_	Number=Plur	_	_	_	_
 8	,	_	PUNCT	_	_	_	_	_	_
-114	dites	_	VERB	_	Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_
+114	dites	_	VERB	_	Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
 10	tuiles	_	NOUN	_	Number=Plur	_	_	_	_
 11	romaines	_	ADJ	_	Number=Plur	_	_	_	_
-12	http://Plût.com	_	SYM	_	_	_	_	_
+12	http://Plût.com	_	SYM	_	_	_	_	_	_
 13	Un	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
 14	cyprès	_	NOUN	_	Number=Sing	_	_	_	_
 15	en	_	ADP	_	_	_	_	_	_
 16	fuseau	_	NOUN	_	Number=Sing	_	_	_	_
 17	,	_	PUNCT	_	_	_	_	_	_
-18	noir	_	ADJ	_	Number=Sing	_	_	_
+18	noir	_	ADJ	_	Number=Sing	_	_	_	_
 19	sous	_	ADP	_	_	_	_	_	_
 20	la	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 21	belle	_	ADJ	_	Number=Sing	_	_	_	_
 22	lumière	_	NOUN	_	Number=Sing	_	_	_	_
-23	https://au.org/ciel#que	_	SYM	_	_	_	_	_
+23	https://au.org/ciel#que	_	SYM	_	_	_	_	_	_
 24	et	_	CCONJ	_	_	_	_	_	_
 25	quelques	_	DET	_	Definite=Ind|Number=Plur|PronType=Art	_	_	_	_
 26	saules	_	NOUN	_	Number=Plur	_	_	_	_
@@ -35,12 +35,12 @@
 32	d'	_	ADP	_	_	_	_	_	_
 33	un	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
 34	feuillage	_	NOUN	_	Number=Sing	_	_	_	_
-35	tendre	_	ADJ	_	Number=Sing	_	_	_
+35	tendre	_	ADJ	_	Number=Sing	_	_	_	_
 36	que	_	SCONJ	_	_	_	_	_	_
 37	le	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 38	vent	_	NOUN	_	Number=Sing	_	_	_	_
-39	peigne	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_
-40	www.le.ch	_	SYM	_	_	_	_	_
+39	peigne	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+40	www.le.ch	_	SYM	_	_	_	_	_	_
 41	divise	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 42	,	_	PUNCT	_	_	_	_	_	_
 43	écarte	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
@@ -61,7 +61,7 @@
 58	vert	_	ADJ	_	Number=Sing	_	_	_	_
 59	éclat	_	NOUN	_	Number=Sing	_	_	_	_
 60	printanier	_	ADJ	_	Number=Sing	_	_	_	_
-61	https://www.enhardi.fr/et#devenu	_	SYM	_	_	_	_	_
+61	https://www.enhardi.fr/et#devenu	_	SYM	_	_	_	_	_	_
 62	un	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
 63	grand	_	ADJ	_	Number=Sing	_	_	_	_
 64	ciel	_	NOUN	_	Number=Sing	_	_	_	_
@@ -75,7 +75,7 @@
 72	de	_	ADP	_	_	_	_	_	_
 73	l'	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 74	univers	_	NOUN	_	Number=Sing	_	_	_	_
-75	https://www.momentanément.be	_	SYM	_	_	_	_	_
+75	https://www.momentanément.be	_	SYM	_	_	_	_	_	_
 
 
 
@@ -86,7 +86,7 @@
 1	Pourquoi	_	ADV	_	_	_	_	_	_
 2	savons	_	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres	_	_	_	_
 3	-nous	_	PRON	_	Number=Plur|Person=1|PronType=Prs	_	_	_	_
-4	que	_	SCONJ	_	_	_	_	_
+4	que	_	SCONJ	_	_	_	_	_	_
 5	nous	_	PRON	_	Number=Plur|Person=1|PronType=Prs	_	_	_	_
 6	sommes	_	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres	_	_	_	_
 7	en	_	ADP	_	_	_	_	_	_
@@ -95,7 +95,7 @@
 10	dit	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	_	_	_	_
 11	mon	_	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes	_	_	_	_
 12	compagnon	_	NOUN	_	Number=Sing	_	_	_	_
-13	http://féroce.ca/comme#ce	_	SYM	_	_	_	_	_
+13	http://féroce.ca/comme#ce	_	SYM	_	_	_	_	_	_
 
 
 
@@ -120,7 +120,7 @@
 6	une	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
 7	certitude	_	NOUN	_	Number=Sing	_	_	_	_
 8	géographique	_	ADJ	_	Number=Sing	_	_	_	_
-9	https://sans.us	_	SYM	_	_	_	_	_
+9	https://sans.us	_	SYM	_	_	_	_	_	_
 10	J'	_	PRON	_	Number=Sing|Person=1|PronType=Prs	_	_	_	_
 11	entends	_	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	_	_	_	_
 12	la	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
@@ -135,7 +135,7 @@
 21	beauté	_	NOUN	_	Number=Sing	_	_	_	_
 22	de	_	ADP	_	_	_	_	_	_
 23	France	_	NOUN	_	Number=Sing	_	_	_	_
-24	www.se.ci/son#chemin	_	SYM	_	_	_	_	_
+24	www.se.ci/son#chemin	_	SYM	_	_	_	_	_	_
 25	son	_	DET	_	Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes	_	_	_	_
 26	équilibre	_	NOUN	_	Number=Sing	_	_	_	_
 27	,	_	PUNCT	_	_	_	_	_	_
@@ -147,7 +147,7 @@
 33	art	_	NOUN	_	Number=Sing	_	_	_	_
 34	semble	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 35	participer	_	VERB	_	VerbForm=Inf	_	_	_	_
-36	https://www.abrupt.es	_	SYM	_	_	_	_	_
+36	https://www.abrupt.es	_	SYM	_	_	_	_	_	_
 37	Le	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 38	cyprès	_	NOUN	_	Number=Sing	_	_	_	_
 39	isolé	_	ADJ	_	Number=Sing	_	_	_	_
@@ -158,7 +158,7 @@
 44	au	_	ADP	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 45	feuillage	_	NOUN	_	Number=Sing	_	_	_	_
 46	neuf	_	ADJ	_	Number=Sing	_	_	_	_
-47	https://www.et.it/à#travers	_	SYM	_	_	_	_	_
+47	https://www.et.it/à#travers	_	SYM	_	_	_	_	_	_
 48	un	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
 49	toit	_	NOUN	_	Number=Sing	_	_	_	_
 50	rose	_	ADJ	_	Number=Sing	_	_	_	_
@@ -176,7 +176,7 @@
 62	dans	_	ADP	_	_	_	_	_	_
 63	notre	_	DET	_	Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes	_	_	_	_
 64	Midi	_	NOUN	_	Number=Sing	_	_	_	_
-65	http://les.ik	_	SYM	_	_	_	_	_
+65	http://les.ik	_	SYM	_	_	_	_	_	_
 66	La	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 67	sèche	_	ADJ	_	Number=Sing	_	_	_	_
 68	pierraille	_	NOUN	_	Number=Sing	_	_	_	_
@@ -188,7 +188,7 @@
 74	à	_	ADP	_	_	_	_	_	_
 75	l'	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 76	Espagne	_	PROPN	_	_	_	_	_	_
-77	https://marécages.me/désolés#de	_	SYM	_	_	_	_	_
+77	https://marécages.me/désolés#de	_	SYM	_	_	_	_	_	_
 78	et	_	CCONJ	_	_	_	_	_	_
 79	ce	_	DET	_	Number=Sing|PronType=Dem	_	_	_	_
 80	grand	_	ADJ	_	Number=Sing	_	_	_	_
@@ -205,7 +205,7 @@
 91	sur	_	ADP	_	_	_	_	_	_
 92	le	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 93	Maroc	_	PROPN	_	_	_	_	_	_
-94	www.ces.pdf	_	SYM	_	_	_	_	_
+94	www.ces.pdf	_	SYM	_	_	_	_	_	_
 95	Mais	_	CCONJ	_	_	_	_	_	_
 96	transportez	_	VERB	_	Mood=Imp|Number=Plur|Person=2|Tense=Pres	_	_	_	_
 97	-moi	_	PRON	_	Number=Sing|Person=1|PronType=Prs	_	_	_	_
@@ -221,7 +221,7 @@
 107	et	_	CCONJ	_	_	_	_	_	_
 108	je	_	PRON	_	Number=Sing|Person=1|PronType=Prs	_	_	_	_
 109	crie	_	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	_	_	_	_
-110	https://www.pages.txt/sombres#et	_	SYM	_	_	_	_	_
+110	https://www.pages.txt/sombres#et	_	SYM	_	_	_	_	_	_
 111	«	_	PUNCT	_	_	_	_	_	_
 112	C'	_	PRON	_	Number=Sing|Person=3|PronType=Dem	_	_	_	_
 113	est	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
@@ -238,7 +238,7 @@
 # text = Donne -moi \s la France
 0	Donne	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	_
 1	-moi	_	PRON	_	Number=Sing|Person=1|PronType=Prs	_	_	_	_
-5	\s	_	SPACE	_	_	_	_	_
+5	\s	_	SPACE	_	_	_	_	_	_
 114	la	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 115	France	_	NOUN	_	Number=Sing	_	_	_	_
 
@@ -249,11 +249,11 @@
 # url = Yes
 0	Donne	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	_
 1	-moi	_	PRON	_	Number=Sing|Person=1|PronType=Prs	_	_	_	_
-5	\s	_	SPACE	_	_	_	_	_
+5	\s	_	SPACE	_	_	_	_	_	_
 2	une	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
 3	réponse	_	NOUN	_	Number=Sing	_	_	_	_
-4	https://www.pleines.mp3	_	SYM	_	_	_	_	_
-5	\n	_	SPACE	_	_	_	_	_
+4	https://www.pleines.mp3	_	SYM	_	_	_	_	_	_
+5	\n	_	SPACE	_	_	_	_	_	_
 6	Je	_	PRON	_	Number=Sing|Person=1|PronType=Prs	_	_	_	_
 7	ne	_	ADV	_	Polarity=Neg	_	_	_	_
 8	donnai	_	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past	_	_	_	_
@@ -265,9 +265,9 @@
 14	compagnon	_	NOUN	_	Number=Sing	_	_	_	_
 15	qui	_	PRON	_	PronType=Rel	_	_	_	_
 16	est	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
-5	\s	_	SPACE	_	_	_	_	_
+5	\s	_	SPACE	_	_	_	_	_	_
 17	poète	_	NOUN	_	Number=Sing	_	_	_	_
-18	http://de.odt/poison#à	_	SYM	_	_	_	_	_
+18	http://de.odt/poison#à	_	SYM	_	_	_	_	_	_
 19	Un	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
 20	poète	_	NOUN	_	Number=Sing	_	_	_	_
 21	accepte	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
@@ -282,7 +282,7 @@
 30	une	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
 31	réponse	_	NOUN	_	Number=Sing	_	_	_	_
 32	flatteuse	_	ADJ	_	Number=Sing	_	_	_	_
-33	https://moins.docx	_	SYM	_	_	_	_	_
+33	https://moins.docx	_	SYM	_	_	_	_	_	_
 34	Dans	_	ADP	_	_	_	_	_	_
 35	le	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 36	lyrisme	_	NOUN	_	Number=Sing	_	_	_	_
@@ -304,7 +304,7 @@
 52	retient	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_	_
 53	notre	_	DET	_	Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes	_	_	_	_
 54	sensibilité	_	NOUN	_	Number=Sing	_	_	_	_
-55	www.dans.com/sa#lecture	_	SYM	_	_	_	_	_
+55	www.dans.com/sa#lecture	_	SYM	_	_	_	_	_	_
 56	non	_	ADV	_	Polarity=Neg	_	_	_	_
 57	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 58	moins	_	ADV	_	_	_	_	_	_
@@ -312,8 +312,8 @@
 60	,	_	PUNCT	_	_	_	_	_	_
 61	mais	_	CCONJ	_	_	_	_	_	_
 62	moins	_	ADV	_	_	_	_	_	_
-63	musicienne	_	ADJ	_	Number=Sing	_	_	_
-5	\s	_	SPACE	_	_	_	_	_
+63	musicienne	_	ADJ	_	Number=Sing	_	_	_	_
+5	\s	_	SPACE	_	_	_	_	_	_
 64	.	_	PUNCT	_	_	_	_	_	_
 65	De	_	ADP	_	_	_	_	_	_
 66	sorte	_	NOUN	_	Number=Sing	_	_	_	_
@@ -322,7 +322,7 @@
 69	il	_	PRON	_	Number=Sing|Person=3|PronType=Prs	_	_	_	_
 70	s'	_	PRON	_	Person=3|PronType=Prs|Reflex=Yes	_	_	_	_
 71	écrie	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
-72	https://www.une.org	_	SYM	_	_	_	_	_
+72	https://www.une.org	_	SYM	_	_	_	_	_	_
 73	«	_	PUNCT	_	_	_	_	_	_
 74	Que	_	SCONJ	_	_	_	_	_	_
 75	c'	_	PRON	_	Number=Sing|Person=3|PronType=Dem	_	_	_	_
@@ -333,7 +333,7 @@
 80	nous	_	PRON	_	Number=Plur|Person=1|PronType=Prs	_	_	_	_
 81	nous	_	PRON	_	Number=Plur|Person=1|PronType=Prs|Reflex=Yes	_	_	_	_
 82	taisons	_	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres	_	_	_	_
-83	https://www.logique.ch/rigoureuse#et	_	SYM	_	_	_	_	_
+83	https://www.logique.ch/rigoureuse#et	_	SYM	_	_	_	_	_	_
 84	émus	_	ADJ	_	Number=Plur	_	_	_	_
 85	…	_	PUNCT	_	_	_	_	_	_
 86	Mais	_	CCONJ	_	_	_	_	_	_
@@ -342,11 +342,11 @@
 89	-il	_	PRON	_	Number=Sing|Person=3|PronType=Prs	_	_	_	_
 90	de	_	ADP	_	_	_	_	_	_
 91	la	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
-5	\s	_	SPACE	_	_	_	_	_
+5	\s	_	SPACE	_	_	_	_	_	_
 92	France	_	NOUN	_	Number=Sing	_	_	_	_
-93	http://une.fr	_	SYM	_	_	_	_	_
+93	http://une.fr	_	SYM	_	_	_	_	_	_
 94	et	_	CCONJ	_	_	_	_	_	_
-95	des	_	DET	_	Definite=Ind|Number=Plur|PronType=Art	_	_	_
+95	des	_	DET	_	Definite=Ind|Number=Plur|PronType=Art	_	_	_	_
 96	beautés	_	NOUN	_	Number=Plur	_	_	_	_
 97	de	_	ADP	_	_	_	_	_	_
 98	la	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
@@ -358,32 +358,32 @@
 104	tous	_	PRON	_	Definite=Ind|Number=Plur|Person=3	_	_	_	_
 105	et	_	CCONJ	_	_	_	_	_	_
 106	diversement	_	ADV	_	_	_	_	_	_
-107	poètes	_	NOUN	_	Number=Plur	_	_	_
+107	poètes	_	NOUN	_	Number=Plur	_	_	_	_
 108	et	_	CCONJ	_	_	_	_	_	_
 109	nous	_	PRON	_	Number=Plur|Person=1|PronType=Prs	_	_	_	_
 110	la	_	PRON	_	Definite=Def|Number=Sing|Person=3|PronType=Art	_	_	_	_
-111	chantons	_	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres	_	_	_
+111	chantons	_	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres	_	_	_	_
 112	meurtrie	_	ADJ	_	Number=Sing	_	_	_	_
 113	et	_	CCONJ	_	_	_	_	_	_
-114	diminuée	_	VERB	_	Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_
-115	https://tension.be/égale#au	_	SYM	_	_	_	_	_
+114	diminuée	_	VERB	_	Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
+115	https://tension.be/égale#au	_	SYM	_	_	_	_	_	_
 116	nous	_	PRON	_	Number=Plur|Person=1|PronType=Prs	_	_	_	_
 117	la	_	PRON	_	Definite=Def|Number=Sing|Person=3|PronType=Art	_	_	_	_
 118	plaignons	_	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres	_	_	_	_
-119	entravée	_	VERB	_	Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_
-5	\s	_	SPACE	_	_	_	_	_
+119	entravée	_	VERB	_	Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
+5	\s	_	SPACE	_	_	_	_	_	_
 120	,	_	PUNCT	_	_	_	_	_	_
 121	avec	_	ADP	_	_	_	_	_	_
 122	sa	_	DET	_	Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes	_	_	_	_
 123	grande	_	ADJ	_	Number=Sing	_	_	_	_
 124	blessure	_	NOUN	_	Number=Sing	_	_	_	_
 125	qui	_	PRON	_	PronType=Rel	_	_	_	_
-126	la	_	PRON	_	Definite=Def|Number=Sing|Person=3|PronType=Art	_	_	_
-127	coupe	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_
+126	la	_	PRON	_	Definite=Def|Number=Sing|Person=3|PronType=Art	_	_	_	_
+127	coupe	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 128	par	_	ADP	_	_	_	_	_	_
 129	le	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 130	milieu	_	NOUN	_	Number=Sing	_	_	_	_
-131	www.moins.ca	_	SYM	_	_	_	_	_
+131	www.moins.ca	_	SYM	_	_	_	_	_	_
 132	ses	_	DET	_	Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes	_	_	_	_
 133	bords	_	NOUN	_	Number=Plur	_	_	_	_
 134	rongés	_	VERB	_	Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
@@ -401,20 +401,20 @@
 146	venir	_	VERB	_	VerbForm=Inf	_	_	_	_
 147	plus	_	ADV	_	_	_	_	_	_
 148	tôt	_	ADV	_	_	_	_	_	_
-149	https://www.à.us/sa#les	_	SYM	_	_	_	_	_
+149	https://www.à.us/sa#les	_	SYM	_	_	_	_	_	_
 150	Dans	_	ADP	_	_	_	_	_	_
 151	les	_	DET	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
 152	cœurs	_	NOUN	_	Number=Plur	_	_	_	_
 153	français	_	ADJ	_	Number=Plur	_	_	_	_
 154	l'	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 155	amour	_	NOUN	_	Number=Sing	_	_	_	_
-5	\s	_	SPACE	_	_	_	_	_
+5	\s	_	SPACE	_	_	_	_	_	_
 156	se	_	PRON	_	Person=3|PronType=Prs|Reflex=Yes	_	_	_	_
 157	loge	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 158	inguérissable	_	ADJ	_	Number=Sing	_	_	_	_
 159	et	_	CCONJ	_	_	_	_	_	_
 160	discret	_	ADJ	_	Number=Sing	_	_	_	_
-161	https://www.émanations.ci	_	SYM	_	_	_	_	_
+161	https://www.émanations.ci	_	SYM	_	_	_	_	_	_
 162	comme	_	SCONJ	_	_	_	_	_	_
 163	celui	_	PRON	_	Number=Sing|Person=3|PronType=Dem	_	_	_	_
 164	d'	_	ADP	_	_	_	_	_	_
@@ -427,28 +427,28 @@
 171	par	_	ADP	_	_	_	_	_	_
 172	un	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
 173	amant	_	NOUN	_	Number=Sing	_	_	_	_
-174	assuré	_	VERB	_	Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_
+174	assuré	_	VERB	_	Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
 175	de	_	ADP	_	_	_	_	_	_
 176	tous	_	ADJ	_	Number=Plur	_	_	_	_
 177	les	_	DET	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
 178	pardons	_	NOUN	_	Number=Plur	_	_	_	_
-179	http://mortelles.es/de#ce	_	SYM	_	_	_	_	_
+179	http://mortelles.es/de#ce	_	SYM	_	_	_	_	_	_
 180	Nous	_	PRON	_	Number=Plur|Person=1|PronType=Prs	_	_	_	_
 181	fûmes	_	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Past	_	_	_	_
 182	les	_	DET	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
 183	enfants	_	NOUN	_	Number=Plur	_	_	_	_
 184	comblés	_	VERB	_	Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
 185	d'	_	ADP	_	_	_	_	_	_
-5	\s	_	SPACE	_	_	_	_	_
+5	\s	_	SPACE	_	_	_	_	_	_
 186	un	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
 187	pays	_	NOUN	_	Number=Sing	_	_	_	_
 188	qui	_	PRON	_	PronType=Rel	_	_	_	_
 189	valait	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp	_	_	_	_
 190	tous	_	ADJ	_	Number=Plur	_	_	_	_
 191	les	_	DET	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
-192	autres	_	PRON	_	Number=Plur|Person=3	_	_	_
+192	autres	_	PRON	_	Number=Plur|Person=3	_	_	_	_
 193	ensemble	_	ADV	_	_	_	_	_	_
-194	https://livre.it	_	SYM	_	_	_	_	_
+194	https://livre.it	_	SYM	_	_	_	_	_	_
 195	et	_	CCONJ	_	_	_	_	_	_
 196	maintenant	_	ADV	_	_	_	_	_	_
 197	ses	_	DET	_	Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes	_	_	_	_
@@ -459,21 +459,21 @@
 202	fendent	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_	_
 203	le	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 204	cœur	_	NOUN	_	Number=Sing	_	_	_	_
-205	www.imbiberont.ik/son#âme	_	SYM	_	_	_	_	_
+205	www.imbiberont.ik/son#âme	_	SYM	_	_	_	_	_	_
 
 
 
 # sent_id = paris_de_ma_fenetre_colette.spacy.5
 # text = \t N' ignore rien de toi . \n Je date d' un temps où les Français https://www.comme.me ignorants à peu près de leur pays , ne s' étaient pas encore mis à voyager https://www.le.pdf/Il#pas Quand ils s' entichèrent de déplacements , ils passèrent les frontières et laissèrent la France derrière eux http://bon.txt Ils revenaient et , pour dépeindre un lac d' Italie https://que.mp3/tout#le une forêt kabyle , des icebergs nageant comme des cygnes www.monde.odt ils s' asseyaient au bord d' un de ces paysages français que le hasard soigneux https://www.lise.docx/les#pages le climat , un sol riche et son sous-sol composent https://www.qui.com et dont les nuances fines , la modération des lignes http://vont.org/suivre#seuls une noblesse aimable , séduisaient les étrangers et faisaient du passant un sédentaire https://savoureront.ch
 # url = Yes
-5	\t	_	SPACE	_	_	_	_	_
+5	\t	_	SPACE	_	_	_	_	_	_
 0	N'	_	ADV	_	Polarity=Neg	_	_	_	_
 1	ignore	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 2	rien	_	PRON	_	Number=Sing|Polarity=Neg	_	_	_	_
 3	de	_	ADP	_	_	_	_	_	_
 4	toi	_	PRON	_	Number=Sing|Person=2|PronType=Prs	_	_	_	_
 5	.	_	PUNCT	_	_	_	_	_	_
-6	\n	_	SPACE	_	_	_	_	_
+6	\n	_	SPACE	_	_	_	_	_	_
 7	Je	_	PRON	_	Number=Sing|Person=1|PronType=Prs	_	_	_	_
 8	date	_	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	_	_	_	_
 9	d'	_	ADP	_	_	_	_	_	_
@@ -482,7 +482,7 @@
 12	où	_	PRON	_	PronType=Rel	_	_	_	_
 13	les	_	DET	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
 14	Français	_	NOUN	_	Number=Plur	_	_	_	_
-15	https://www.comme.me	_	SYM	_	_	_	_	_
+15	https://www.comme.me	_	SYM	_	_	_	_	_	_
 16	ignorants	_	ADJ	_	Number=Plur	_	_	_	_
 17	à	_	ADP	_	_	_	_	_	_
 18	peu	_	ADV	_	_	_	_	_	_
@@ -493,13 +493,13 @@
 23	,	_	PUNCT	_	_	_	_	_	_
 24	ne	_	ADV	_	Polarity=Neg	_	_	_	_
 25	s'	_	PRON	_	Person=3|PronType=Prs|Reflex=Yes	_	_	_	_
-26	étaient	_	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp	_	_	_
+26	étaient	_	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp	_	_	_	_
 27	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 28	encore	_	ADV	_	_	_	_	_	_
 29	mis	_	VERB	_	Tense=Past|VerbForm=Part	_	_	_	_
 30	à	_	ADP	_	_	_	_	_	_
 31	voyager	_	VERB	_	VerbForm=Inf	_	_	_	_
-32	https://www.le.pdf/Il#pas	_	SYM	_	_	_	_	_
+32	https://www.le.pdf/Il#pas	_	SYM	_	_	_	_	_	_
 33	Quand	_	SCONJ	_	_	_	_	_	_
 34	ils	_	PRON	_	Number=Plur|Person=3|PronType=Prs	_	_	_	_
 35	s'	_	PRON	_	Person=3|PronType=Prs|Reflex=Yes	_	_	_	_
@@ -517,7 +517,7 @@
 47	France	_	NOUN	_	Number=Sing	_	_	_	_
 48	derrière	_	ADP	_	_	_	_	_	_
 49	eux	_	PRON	_	Number=Plur|Person=3|PronType=Prs	_	_	_	_
-50	http://bon.txt	_	SYM	_	_	_	_	_
+50	http://bon.txt	_	SYM	_	_	_	_	_	_
 51	Ils	_	PRON	_	Number=Plur|Person=3|PronType=Prs	_	_	_	_
 52	revenaient	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp	_	_	_	_
 53	et	_	CCONJ	_	_	_	_	_	_
@@ -528,7 +528,7 @@
 58	lac	_	NOUN	_	Number=Sing	_	_	_	_
 59	d'	_	ADP	_	_	_	_	_	_
 60	Italie	_	NOUN	_	Number=Sing	_	_	_	_
-61	https://que.mp3/tout#le	_	SYM	_	_	_	_	_
+61	https://que.mp3/tout#le	_	SYM	_	_	_	_	_	_
 62	une	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
 63	forêt	_	NOUN	_	Number=Sing	_	_	_	_
 64	kabyle	_	ADJ	_	Number=Sing	_	_	_	_
@@ -539,7 +539,7 @@
 69	comme	_	SCONJ	_	_	_	_	_	_
 70	des	_	DET	_	Definite=Ind|Number=Plur|PronType=Art	_	_	_	_
 71	cygnes	_	NOUN	_	Number=Plur	_	_	_	_
-72	www.monde.odt	_	SYM	_	_	_	_	_
+72	www.monde.odt	_	SYM	_	_	_	_	_	_
 73	ils	_	PRON	_	Number=Plur|Person=3|PronType=Prs	_	_	_	_
 74	s'	_	PRON	_	Person=3|PronType=Prs|Reflex=Yes	_	_	_	_
 75	asseyaient	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp	_	_	_	_
@@ -555,7 +555,7 @@
 85	le	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 86	hasard	_	NOUN	_	Number=Sing	_	_	_	_
 87	soigneux	_	ADJ	_	Number=Sing	_	_	_	_
-88	https://www.lise.docx/les#pages	_	SYM	_	_	_	_	_
+88	https://www.lise.docx/les#pages	_	SYM	_	_	_	_	_	_
 89	le	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 90	climat	_	NOUN	_	Number=Sing	_	_	_	_
 91	,	_	PUNCT	_	_	_	_	_	_
@@ -566,7 +566,7 @@
 96	son	_	DET	_	Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes	_	_	_	_
 97	sous-sol	_	NOUN	_	Number=Sing	_	_	_	_
 98	composent	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_	_
-99	https://www.qui.com	_	SYM	_	_	_	_	_
+99	https://www.qui.com	_	SYM	_	_	_	_	_	_
 100	et	_	CCONJ	_	_	_	_	_	_
 101	dont	_	PRON	_	PronType=Rel	_	_	_	_
 102	les	_	DET	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
@@ -577,7 +577,7 @@
 107	modération	_	NOUN	_	Number=Sing	_	_	_	_
 108	des	_	ADP	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
 109	lignes	_	NOUN	_	Number=Plur	_	_	_	_
-110	http://vont.org/suivre#seuls	_	SYM	_	_	_	_	_
+110	http://vont.org/suivre#seuls	_	SYM	_	_	_	_	_	_
 111	une	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
 112	noblesse	_	NOUN	_	Number=Sing	_	_	_	_
 113	aimable	_	ADJ	_	Number=Sing	_	_	_	_
@@ -588,18 +588,18 @@
 118	et	_	CCONJ	_	_	_	_	_	_
 119	faisaient	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp	_	_	_	_
 120	du	_	ADP	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
-121	passant	_	VERB	_	Tense=Pres|VerbForm=Part	_	_	_
+121	passant	_	VERB	_	Tense=Pres|VerbForm=Part	_	_	_	_
 122	un	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
 123	sédentaire	_	ADJ	_	Number=Sing	_	_	_	_
-124	https://savoureront.ch	_	SYM	_	_	_	_	_
+124	https://savoureront.ch	_	SYM	_	_	_	_	_	_
 
 
 
 # sent_id = paris_de_ma_fenetre_colette.spacy.6
 # text = \t Ne Pars pas
-5	\t	_	SPACE	_	_	_	_	_
+5	\t	_	SPACE	_	_	_	_	_	_
 0	Ne	_	ADV	_	Polarity=Neg	_	_	_	_
-1	Pars	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_
+1	Pars	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	_
 2	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 
 
@@ -607,7 +607,7 @@
 # sent_id = paris_de_ma_fenetre_colette.spacy.6
 # text = Ne lis pas
 0	Ne	_	ADV	_	Polarity=Neg	_	_	_	_
-1	lis	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_
+1	lis	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	_
 2	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 
 
@@ -615,7 +615,7 @@
 # sent_id = paris_de_ma_fenetre_colette.spacy.6
 # text = N' écris pas
 0	N'	_	ADV	_	Polarity=Neg	_	_	_	_
-1	écris	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_
+1	écris	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	_
 2	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 
 
@@ -623,12 +623,12 @@
 # sent_id = paris_de_ma_fenetre_colette.spacy.6
 # text = \t Ne voyage pas . \n Avant la guerre , la jeunesse française voyageait www.ce.fr/fruit#amer disons qu' elle couvrait des distances , et qu' elle savait par cœur les haltes de maints itinéraires https://www.sans.be et sans faute les numéros des routes nationales . Bien entendu https://www.Par.ca/âme#avant dans le nombre de ces jeunes pleins de hâte , il y en avait qui s' attachaient à la beauté de leur patrie http://de.us \t On les reconnaissait facilement à ce qu' ils ralentissaient l' allure https://pénétrer.ci/plus#loin abandonnaient l' itinéraire préconçu , parfois remisaient l' automobile dans une ville et chargeaient un rücksack sur leur dos www.dans.es Ou bien ils s' oubliaient entre un mont , une rivière noire et bleue https://www.de.it/pareilles#landes de rougeoyantes bruyères , et vous les retrouviez là un mois plus tard https://www.dirige.ik Le véritable amant du voyage aime s' arrêter .
 # url = Yes
-5	\t	_	SPACE	_	_	_	_	_
+5	\t	_	SPACE	_	_	_	_	_	_
 0	Ne	_	ADV	_	Polarity=Neg	_	_	_	_
-1	voyage	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_
+1	voyage	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	_
 2	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 3	.	_	PUNCT	_	_	_	_	_	_
-4	\n	_	SPACE	_	_	_	_	_
+4	\n	_	SPACE	_	_	_	_	_	_
 5	Avant	_	ADP	_	_	_	_	_	_
 6	la	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 7	guerre	_	NOUN	_	Number=Sing	_	_	_	_
@@ -637,7 +637,7 @@
 10	jeunesse	_	NOUN	_	Number=Sing	_	_	_	_
 11	française	_	ADJ	_	Number=Sing	_	_	_	_
 12	voyageait	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp	_	_	_	_
-13	www.ce.fr/fruit#amer	_	SYM	_	_	_	_	_
+13	www.ce.fr/fruit#amer	_	SYM	_	_	_	_	_	_
 14	disons	_	VERB	_	Mood=Imp|Number=Plur|Person=1|Tense=Pres	_	_	_	_
 15	qu'	_	SCONJ	_	_	_	_	_	_
 16	elle	_	PRON	_	Number=Sing|Person=3|PronType=Prs	_	_	_	_
@@ -654,9 +654,9 @@
 27	les	_	DET	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
 28	haltes	_	NOUN	_	Number=Plur	_	_	_	_
 29	de	_	ADP	_	_	_	_	_	_
-30	maints	_	DET	_	Number=Plur|PronType=Dem	_	_	_
+30	maints	_	DET	_	Number=Plur|PronType=Dem	_	_	_	_
 31	itinéraires	_	NOUN	_	Number=Plur	_	_	_	_
-32	https://www.sans.be	_	SYM	_	_	_	_	_
+32	https://www.sans.be	_	SYM	_	_	_	_	_	_
 33	et	_	CCONJ	_	_	_	_	_	_
 34	sans	_	ADP	_	Polarity=Neg	_	_	_	_
 35	faute	_	NOUN	_	Number=Sing	_	_	_	_
@@ -668,14 +668,14 @@
 41	.	_	PUNCT	_	_	_	_	_	_
 42	Bien	_	ADV	_	_	_	_	_	_
 43	entendu	_	VERB	_	Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
-44	https://www.Par.ca/âme#avant	_	SYM	_	_	_	_	_
+44	https://www.Par.ca/âme#avant	_	SYM	_	_	_	_	_	_
 45	dans	_	ADP	_	_	_	_	_	_
 46	le	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 47	nombre	_	NOUN	_	Number=Sing	_	_	_	_
 48	de	_	ADP	_	_	_	_	_	_
 49	ces	_	DET	_	Number=Plur|PronType=Dem	_	_	_	_
-50	jeunes	_	NOUN	_	Number=Plur	_	_	_
-51	pleins	_	ADJ	_	Number=Plur	_	_	_
+50	jeunes	_	NOUN	_	Number=Plur	_	_	_	_
+51	pleins	_	ADJ	_	Number=Plur	_	_	_	_
 52	de	_	ADP	_	_	_	_	_	_
 53	hâte	_	NOUN	_	Number=Sing	_	_	_	_
 54	,	_	PUNCT	_	_	_	_	_	_
@@ -692,20 +692,20 @@
 65	de	_	ADP	_	_	_	_	_	_
 66	leur	_	DET	_	Number=Sing|Number[psor]=Plur|Person=3|Poss=Yes	_	_	_	_
 67	patrie	_	NOUN	_	Number=Sing	_	_	_	_
-68	http://de.us	_	SYM	_	_	_	_	_
-5	\t	_	SPACE	_	_	_	_	_
+68	http://de.us	_	SYM	_	_	_	_	_	_
+5	\t	_	SPACE	_	_	_	_	_	_
 69	On	_	PRON	_	Number=Sing|Person=3|PronType=Prs	_	_	_	_
 70	les	_	PRON	_	Definite=Def|Number=Plur|Person=3|PronType=Art	_	_	_	_
 71	reconnaissait	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp	_	_	_	_
 72	facilement	_	ADV	_	_	_	_	_	_
 73	à	_	ADP	_	_	_	_	_	_
 74	ce	_	PRON	_	Number=Sing|Person=3|PronType=Dem	_	_	_	_
-75	qu'	_	SCONJ	_	_	_	_	_
+75	qu'	_	SCONJ	_	_	_	_	_	_
 76	ils	_	PRON	_	Number=Plur|Person=3|PronType=Prs	_	_	_	_
 77	ralentissaient	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp	_	_	_	_
 78	l'	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 79	allure	_	NOUN	_	Number=Sing	_	_	_	_
-80	https://pénétrer.ci/plus#loin	_	SYM	_	_	_	_	_
+80	https://pénétrer.ci/plus#loin	_	SYM	_	_	_	_	_	_
 81	abandonnaient	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp	_	_	_	_
 82	l'	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 83	itinéraire	_	NOUN	_	Number=Sing	_	_	_	_
@@ -721,11 +721,11 @@
 93	et	_	CCONJ	_	_	_	_	_	_
 94	chargeaient	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp	_	_	_	_
 95	un	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
-96	rücksack	_	NOUN	_	Number=Sing	_	_	_
+96	rücksack	_	NOUN	_	Number=Sing	_	_	_	_
 97	sur	_	ADP	_	_	_	_	_	_
 98	leur	_	DET	_	Number=Sing|Number[psor]=Plur|Person=3|Poss=Yes	_	_	_	_
 99	dos	_	NOUN	_	Number=Sing	_	_	_	_
-100	www.dans.es	_	SYM	_	_	_	_	_
+100	www.dans.es	_	SYM	_	_	_	_	_	_
 101	Ou	_	CCONJ	_	_	_	_	_	_
 102	bien	_	ADV	_	_	_	_	_	_
 103	ils	_	PRON	_	Number=Plur|Person=3|PronType=Prs	_	_	_	_
@@ -740,7 +740,7 @@
 112	noire	_	ADJ	_	Number=Sing	_	_	_	_
 113	et	_	CCONJ	_	_	_	_	_	_
 114	bleue	_	ADJ	_	Number=Sing	_	_	_	_
-115	https://www.de.it/pareilles#landes	_	SYM	_	_	_	_	_
+115	https://www.de.it/pareilles#landes	_	SYM	_	_	_	_	_	_
 116	de	_	ADP	_	_	_	_	_	_
 117	rougeoyantes	_	ADJ	_	Number=Plur	_	_	_	_
 118	bruyères	_	NOUN	_	Number=Plur	_	_	_	_
@@ -754,7 +754,7 @@
 126	mois	_	NOUN	_	Number=Sing	_	_	_	_
 127	plus	_	ADV	_	_	_	_	_	_
 128	tard	_	ADV	_	_	_	_	_	_
-129	https://www.dirige.ik	_	SYM	_	_	_	_	_
+129	https://www.dirige.ik	_	SYM	_	_	_	_	_	_
 130	Le	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 131	véritable	_	ADJ	_	Number=Sing	_	_	_	_
 132	amant	_	NOUN	_	Number=Sing	_	_	_	_
@@ -773,11 +773,11 @@
 0	Ne	_	ADV	_	Polarity=Neg	_	_	_	_
 1	retombe	_	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	_	_	_	_
 2	pas	_	ADV	_	Polarity=Neg	_	_	_	_
-3	http://tes.me/talons#en	_	SYM	_	_	_	_	_
-5	\t	_	SPACE	_	_	_	_	_
+3	http://tes.me/talons#en	_	SYM	_	_	_	_	_	_
+5	\t	_	SPACE	_	_	_	_	_	_
 4	Si	_	SCONJ	_	_	_	_	_	_
 5	tu	_	PRON	_	Number=Sing|Person=2|PronType=Prs	_	_	_	_
-6	parais	_	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres	_	_	_
+6	parais	_	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres	_	_	_	_
 7	,	_	PUNCT	_	_	_	_	_	_
 8	lève	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	_
 9	-toi	_	PRON	_	Number=Sing|Person=2|PronType=Prs	_	_	_	_
@@ -788,8 +788,8 @@
 # sent_id = paris_de_ma_fenetre_colette.spacy.7a
 # text = J' en doute fréquemment ...
 44	J'	_	PRON	_	Number=Sing|Person=1|PronType=Prs	_	_	_	_
-45	en	_	PRON	_	Person=3	_	_	_
-46	doute	_	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	_	_	_
+45	en	_	PRON	_	Person=3	_	_	_	_
+46	doute	_	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	_	_	_	_
 3	fréquemment	_	ADV	_	_	_	_	_	_
 10	...	_	PUNCT	_	_	_	_	_	_
 
@@ -799,8 +799,8 @@
 # text = et j' en doute fortement ...
 120	et	_	CCONJ	_	_	_	_	_	_
 44	j'	_	PRON	_	Number=Sing|Person=1|PronType=Prs	_	_	_	_
-45	en	_	PRON	_	Person=3	_	_	_
-46	doute	_	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	_	_	_
+45	en	_	PRON	_	Person=3	_	_	_	_
+46	doute	_	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	_	_	_	_
 3	fortement	_	ADV	_	_	_	_	_	_
 10	...	_	PUNCT	_	_	_	_	_	_
 
@@ -818,8 +818,8 @@
 6	pages	_	NOUN	_	Number=Plur	_	_	_	_
 7	d'	_	ADP	_	_	_	_	_	_
 8	un	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
-9	Taine	_	PROPN	_	_	_	_	_
-10	https://arrière.pdf	_	SYM	_	_	_	_	_
+9	Taine	_	PROPN	_	_	_	_	_	_
+10	https://arrière.pdf	_	SYM	_	_	_	_	_	_
 11	le	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 12	Voyage	_	NOUN	_	Number=Sing	_	_	_	_
 13	aux	_	ADP	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
@@ -830,17 +830,17 @@
 18	a	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 19	-t	_	ADP	_	_	_	_	_	_
 20	-il	_	PRON	_	Number=Sing|Person=3|PronType=Prs	_	_	_	_
-21	www.et.txt/non#en	_	SYM	_	_	_	_	_
+21	www.et.txt/non#en	_	SYM	_	_	_	_	_	_
 22	en	_	ADP	_	_	_	_	_	_
 23	trois	_	NUM	_	NumType=Card	_	_	_	_
 24	cents	_	NUM	_	NumType=Card	_	_	_	_
 25	pages	_	NOUN	_	Number=Plur	_	_	_	_
 26	,	_	PUNCT	_	_	_	_	_	_
-27	couvert	_	VERB	_	Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_
+27	couvert	_	VERB	_	Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
 28	la	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 29	ration	_	NOUN	_	Number=Sing	_	_	_	_
 30	quotidienne	_	ADJ	_	Number=Sing	_	_	_	_
-31	qu'	_	PRON	_	PronType=Int	_	_	_
+31	qu'	_	PRON	_	PronType=Int	_	_	_	_
 32	avalait	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp	_	_	_	_
 33	un	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
 34	automobiliste	_	NOUN	_	Number=Sing	_	_	_	_
@@ -848,16 +848,16 @@
 36	avant	_	ADP	_	_	_	_	_	_
 37	la	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 38	guerre	_	NOUN	_	Number=Sing	_	_	_	_
-39	https://www.Écoute.mp3	_	SYM	_	_	_	_	_
+39	https://www.Écoute.mp3	_	SYM	_	_	_	_	_	_
 40	cinq	_	NUM	_	NumType=Card	_	_	_	_
 41	cents	_	NUM	_	NumType=Card	_	_	_	_
 42	kilomètres	_	NOUN	_	Number=Plur	_	_	_	_
 43	?	_	PUNCT	_	_	_	_	_	_
 44	J'	_	PRON	_	Number=Sing|Person=1|PronType=Prs	_	_	_	_
-45	en	_	PRON	_	Person=3	_	_	_
-46	doute	_	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	_	_	_
+45	en	_	PRON	_	Person=3	_	_	_	_
+46	doute	_	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	_	_	_	_
 47	.	_	PUNCT	_	_	_	_	_	_
-5	\t	_	SPACE	_	_	_	_	_
+5	\t	_	SPACE	_	_	_	_	_	_
 48	Mais	_	CCONJ	_	_	_	_	_	_
 49	il	_	PRON	_	Number=Sing|Person=3|PronType=Prs	_	_	_	_
 50	a	_	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
@@ -867,8 +867,8 @@
 54	entre	_	ADP	_	_	_	_	_	_
 55	Arcachon	_	PROPN	_	_	_	_	_	_
 56	et	_	CCONJ	_	_	_	_	_	_
-57	Bagnères-de-Bigorre	_	PROPN	_	_	_	_	_
-58	https://www.bien.odt/ce#que	_	SYM	_	_	_	_	_
+57	Bagnères-de-Bigorre	_	PROPN	_	_	_	_	_	_
+58	https://www.bien.odt/ce#que	_	SYM	_	_	_	_	_	_
 59	Mieux	_	ADV	_	_	_	_	_	_
 60	,	_	PUNCT	_	_	_	_	_	_
 61	il	_	PRON	_	Number=Sing|Person=3|PronType=Prs	_	_	_	_
@@ -881,12 +881,12 @@
 68	nous	_	PRON	_	Number=Plur|Person=1|PronType=Prs	_	_	_	_
 69	découvrons	_	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres	_	_	_	_
 70	avec	_	ADP	_	_	_	_	_	_
-5	\t	_	SPACE	_	_	_	_	_
+5	\t	_	SPACE	_	_	_	_	_	_
 71	lui	_	PRON	_	Number=Sing|Person=3|PronType=Prs	_	_	_	_
 72	la	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 73	chaîne	_	NOUN	_	Number=Sing	_	_	_	_
 74	française	_	ADJ	_	Number=Sing	_	_	_	_
-75	http://je.docx	_	SYM	_	_	_	_	_
+75	http://je.docx	_	SYM	_	_	_	_	_	_
 76	ses	_	DET	_	Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes	_	_	_	_
 77	légendes	_	NOUN	_	Number=Plur	_	_	_	_
 78	,	_	PUNCT	_	_	_	_	_	_
@@ -899,7 +899,7 @@
 85	Le	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 86	vrai	_	ADJ	_	Number=Sing	_	_	_	_
 87	voyageur	_	NOUN	_	Number=Sing	_	_	_	_
-88	https://te.com/dis#dirige	_	SYM	_	_	_	_	_
+88	https://te.com/dis#dirige	_	SYM	_	_	_	_	_	_
 89	c'	_	PRON	_	Number=Sing|Person=3|PronType=Dem	_	_	_	_
 90	est	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 91	celui	_	PRON	_	Number=Sing|Person=3|PronType=Dem	_	_	_	_
@@ -912,7 +912,7 @@
 98	assied	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 99	-il	_	PRON	_	Number=Sing|Person=3|PronType=Prs	_	_	_	_
 100	souvent	_	ADV	_	_	_	_	_	_
-101	www.tes.org	_	SYM	_	_	_	_	_
+101	www.tes.org	_	SYM	_	_	_	_	_	_
 
 
 
@@ -944,20 +944,20 @@
 22	récrier	_	VERB	_	VerbForm=Inf	_	_	_	_
 23	d'	_	ADP	_	_	_	_	_	_
 24	admiration	_	NOUN	_	Number=Sing	_	_	_	_
-25	https://www.talons.ch/en#arrière	_	SYM	_	_	_	_	_
-5	\t	_	SPACE	_	_	_	_	_
+25	https://www.talons.ch/en#arrière	_	SYM	_	_	_	_	_	_
+5	\t	_	SPACE	_	_	_	_	_	_
 26	Paresseuse	_	ADJ	_	Number=Sing	_	_	_	_
 27	mais	_	CCONJ	_	_	_	_	_	_
 28	clairvoyante	_	ADJ	_	Number=Sing	_	_	_	_
 29	,	_	PUNCT	_	_	_	_	_	_
-30	férue	_	ADJ	_	Number=Sing	_	_	_
+30	férue	_	ADJ	_	Number=Sing	_	_	_	_
 31	des	_	ADP	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
 32	clochers	_	NOUN	_	Number=Plur	_	_	_	_
 33	cernés	_	VERB	_	Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
 34	de	_	ADP	_	_	_	_	_	_
 35	pigeons	_	NOUN	_	Number=Plur	_	_	_	_
-36	https://www.et.fr	_	SYM	_	_	_	_	_
-37	des	_	DET	_	Definite=Ind|Number=Plur|PronType=Art	_	_	_
+36	https://www.et.fr	_	SYM	_	_	_	_	_	_
+37	des	_	DET	_	Definite=Ind|Number=Plur|PronType=Art	_	_	_	_
 38	lavoirs	_	NOUN	_	Number=Plur	_	_	_	_
 39	sur	_	ADP	_	_	_	_	_	_
 40	la	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
@@ -965,10 +965,10 @@
 42	,	_	PUNCT	_	_	_	_	_	_
 43	des	_	ADP	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
 44	mails	_	NOUN	_	Number=Plur	_	_	_	_
-45	ombragés	_	ADJ	_	Number=Plur	_	_	_
+45	ombragés	_	ADJ	_	Number=Plur	_	_	_	_
 46	de	_	ADP	_	_	_	_	_	_
 47	tilleuls	_	NOUN	_	Number=Plur	_	_	_	_
-48	http://non.be/en#comme	_	SYM	_	_	_	_	_
+48	http://non.be/en#comme	_	SYM	_	_	_	_	_	_
 49	j'	_	PRON	_	Number=Sing|Person=1|PronType=Prs	_	_	_	_
 50	ai	_	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	_	_	_	_
 51	vu	_	VERB	_	Tense=Past|VerbForm=Part	_	_	_	_
@@ -982,19 +982,19 @@
 59	Un	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
 60	lé	_	NOUN	_	Number=Sing	_	_	_	_
 61	de	_	ADP	_	_	_	_	_	_
-62	Bourgogne	_	NOUN	_	Number=Sing	_	_	_
-63	https://les.ca	_	SYM	_	_	_	_	_
+62	Bourgogne	_	NOUN	_	Number=Sing	_	_	_	_
+63	https://les.ca	_	SYM	_	_	_	_	_	_
 64	quelques	_	DET	_	Definite=Ind|Number=Plur|PronType=Art	_	_	_	_
 65	cantons	_	NOUN	_	Number=Plur	_	_	_	_
 66	suisses	_	ADJ	_	Number=Plur	_	_	_	_
 67	,	_	PUNCT	_	_	_	_	_	_
-68	savoisiens	_	ADJ	_	Number=Plur	_	_	_
+68	savoisiens	_	ADJ	_	Number=Plur	_	_	_	_
 69	,	_	PUNCT	_	_	_	_	_	_
-70	franc-comtois	_	ADJ	_	Number=Sing	_	_	_
+70	franc-comtois	_	ADJ	_	Number=Sing	_	_	_	_
 71	,	_	PUNCT	_	_	_	_	_	_
 72	la	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 73	Provence	_	PROPN	_	_	_	_	_	_
-74	www.yeux.us/fils#qui	_	SYM	_	_	_	_	_
+74	www.yeux.us/fils#qui	_	SYM	_	_	_	_	_	_
 75	des	_	ADP	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
 76	lieues	_	NOUN	_	Number=Plur	_	_	_	_
 77	de	_	ADP	_	_	_	_	_	_
@@ -1006,7 +1006,7 @@
 83	,	_	PUNCT	_	_	_	_	_	_
 84	des	_	ADP	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
 85	fjords	_	NOUN	_	Number=Plur	_	_	_	_
-86	https://www.se.ci	_	SYM	_	_	_	_	_
+86	https://www.se.ci	_	SYM	_	_	_	_	_	_
 87	le	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 88	Maroc	_	PROPN	_	_	_	_	_	_
 89	superficiellement	_	ADV	_	_	_	_	_	_
@@ -1023,7 +1023,7 @@
 100	oublie	_	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	_	_	_	_
 101	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 102	beaucoup	_	ADV	_	_	_	_	_	_
-103	https://www.détourne.es/respectueusement#de	_	SYM	_	_	_	_	_
+103	https://www.détourne.es/respectueusement#de	_	SYM	_	_	_	_	_	_
 104	je	_	PRON	_	Number=Sing|Person=1|PronType=Prs	_	_	_	_
 105	n'	_	ADV	_	Polarity=Neg	_	_	_	_
 106	en	_	PRON	_	Person=3	_	_	_	_
@@ -1038,13 +1038,13 @@
 115	à	_	ADP	_	_	_	_	_	_
 116	ma	_	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes	_	_	_	_
 117	disposition	_	NOUN	_	Number=Sing	_	_	_	_
-5	\t	_	SPACE	_	_	_	_	_
+5	\t	_	SPACE	_	_	_	_	_	_
 118	de	_	ADP	_	_	_	_	_	_
 119	très	_	ADV	_	_	_	_	_	_
 120	restreints	_	ADJ	_	Number=Plur	_	_	_	_
 121	vagabondages	_	NOUN	_	Number=Plur	_	_	_	_
 122	français	_	ADJ	_	Number=Plur	_	_	_	_
-123	http://la.it	_	SYM	_	_	_	_	_
+123	http://la.it	_	SYM	_	_	_	_	_	_
 124	Je	_	PRON	_	Number=Sing|Person=1|PronType=Prs	_	_	_	_
 125	sais	_	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	_	_	_	_
 126	qu'	_	SCONJ	_	_	_	_	_	_
@@ -1069,10 +1069,10 @@
 145	point	_	NOUN	_	Number=Sing	_	_	_	_
 146	de	_	ADP	_	_	_	_	_	_
 147	vue	_	NOUN	_	Number=Sing	_	_	_	_
-148	https://contemplation.ik/auguste#de	_	SYM	_	_	_	_	_
+148	https://contemplation.ik/auguste#de	_	SYM	_	_	_	_	_	_
 170	.	_	PUNCT	_	_	_	_	_	_
 149	L'	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
-150	un·e	_	PRON	_	Number=Sing|Person=3	_	_	_
+150	un·e	_	PRON	_	Number=Sing|Person=3	_	_	_	_
 151	est	_	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 152	venu	_	VERB	_	Tense=Past|VerbForm=Part	_	_	_	_
 153	à	_	ADP	_	_	_	_	_	_
@@ -1083,7 +1083,7 @@
 158	y	_	PRON	_	Person=3	_	_	_	_
 159	pensais	_	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Imp	_	_	_	_
 160	pas	_	ADV	_	Polarity=Neg	_	_	_	_
-161	www.la.me	_	SYM	_	_	_	_	_
+161	www.la.me	_	SYM	_	_	_	_	_	_
 162	l'	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 163	autre	_	PRON	_	Number=Sing|Person=3	_	_	_	_
 164	m'	_	PRON	_	Number=Sing|Person=1|PronType=Prs	_	_	_	_
@@ -1102,7 +1102,7 @@
 177	fontaines	_	NOUN	_	Number=Plur	_	_	_	_
 178	ont	_	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_	_
 179	ruisselé	_	VERB	_	Tense=Past|VerbForm=Part	_	_	_	_
-180	https://www.face.pdf/maternelle#comme	_	SYM	_	_	_	_	_
+180	https://www.face.pdf/maternelle#comme	_	SYM	_	_	_	_	_	_
 181	les	_	DET	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
 182	vieux	_	ADJ	_	Number=Plur	_	_	_	_
 183	gradins	_	NOUN	_	Number=Plur	_	_	_	_
@@ -1117,7 +1117,7 @@
 192	et	_	CCONJ	_	_	_	_	_	_
 193	d'	_	ADP	_	_	_	_	_	_
 194	enfants	_	NOUN	_	Number=Plur	_	_	_	_
-195	https://www.un.txt	_	SYM	_	_	_	_	_
+195	https://www.un.txt	_	SYM	_	_	_	_	_	_
 196	Il	_	PRON	_	Number=Sing|Person=3|PronType=Prs	_	_	_	_
 197	m'	_	PRON	_	Number=Sing|Person=1|PronType=Prs	_	_	_	_
 198	est	_	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
@@ -1126,12 +1126,12 @@
 201	que	_	SCONJ	_	_	_	_	_	_
 202	des	_	DET	_	Definite=Ind|Number=Plur|PronType=Art	_	_	_	_
 203	paysages	_	NOUN	_	Number=Plur	_	_	_	_
-204	désirés	_	ADJ	_	Number=Plur	_	_	_
+204	désirés	_	ADJ	_	Number=Plur	_	_	_	_
 205	se	_	PRON	_	Person=3|PronType=Prs|Reflex=Yes	_	_	_	_
-206	sont	_	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_
-207	refusés	_	VERB	_	Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_
-208	http://angle.mp3/à#perte	_	SYM	_	_	_	_	_
-5	\t	_	SPACE	_	_	_	_	_
+206	sont	_	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_	_
+207	refusés	_	VERB	_	Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
+208	http://angle.mp3/à#perte	_	SYM	_	_	_	_	_	_
+5	\t	_	SPACE	_	_	_	_	_	_
 209	par	_	ADP	_	_	_	_	_	_
 210	exemple	_	NOUN	_	Number=Sing	_	_	_	_
 211	les	_	DET	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
@@ -1143,7 +1143,7 @@
 217	gouffres	_	NOUN	_	Number=Plur	_	_	_	_
 218	de	_	ADP	_	_	_	_	_	_
 219	Padirac	_	PROPN	_	_	_	_	_	_
-220	https://de.odt	_	SYM	_	_	_	_	_
+220	https://de.odt	_	SYM	_	_	_	_	_	_
 221	Albi	_	PROPN	_	_	_	_	_	_
 222	,	_	PUNCT	_	_	_	_	_	_
 223	ont	_	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_	_
@@ -1155,7 +1155,7 @@
 229	quelques	_	DET	_	Definite=Ind|Number=Plur|PronType=Art	_	_	_	_
 230	accidents	_	NOUN	_	Number=Plur	_	_	_	_
 231	malicieux	_	ADJ	_	Number=Sing	_	_	_	_
-232	www.vue.docx/de#grues	_	SYM	_	_	_	_	_
+232	www.vue.docx/de#grues	_	SYM	_	_	_	_	_	_
 233	un	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
 234	écran	_	NOUN	_	Number=Sing	_	_	_	_
 235	,	_	PUNCT	_	_	_	_	_	_
@@ -1170,7 +1170,7 @@
 244	me	_	PRON	_	Number=Sing|Person=1|PronType=Prs	_	_	_	_
 245	les	_	PRON	_	Definite=Def|Number=Plur|Person=3|PronType=Art	_	_	_	_
 246	prit	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	_	_	_	_
-247	https://www.frileuses.com	_	SYM	_	_	_	_	_
+247	https://www.frileuses.com	_	SYM	_	_	_	_	_	_
 248	il	_	PRON	_	Number=Sing|Person=3|PronType=Prs	_	_	_	_
 249	me	_	PRON	_	Number=Sing|Person=1|PronType=Prs	_	_	_	_
 250	les	_	PRON	_	Definite=Def|Number=Plur|Person=3|PronType=Art	_	_	_	_
@@ -1183,7 +1183,7 @@
 257	donnera	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut	_	_	_	_
 258	des	_	DET	_	Definite=Ind|Number=Plur|PronType=Art	_	_	_	_
 259	compensations	_	NOUN	_	Number=Plur	_	_	_	_
-260	https://www.méditant.org/pendant#vole	_	SYM	_	_	_	_	_
+260	https://www.méditant.org/pendant#vole	_	SYM	_	_	_	_	_	_
 
 
 
@@ -1196,12 +1196,12 @@
 3	donne	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 4	déjà	_	ADV	_	_	_	_	_	_
 5	:	_	PUNCT	_	_	_	_	_	_
-5	\t	_	SPACE	_	_	_	_	_
+5	\t	_	SPACE	_	_	_	_	_	_
 6	j'	_	PRON	_	Number=Sing|Person=1|PronType=Prs	_	_	_	_
 7	habite	_	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	_	_	_	_
 8	le	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
-9	Palais-Royal	_	NOUN	_	Number=Sing	_	_	_
-10	http://puissamment.ch	_	SYM	_	_	_	_	_
+9	Palais-Royal	_	NOUN	_	Number=Sing	_	_	_	_
+10	http://puissamment.ch	_	SYM	_	_	_	_	_	_
 11	Comme	_	SCONJ	_	_	_	_	_	_
 12	beaucoup	_	ADV	_	_	_	_	_	_
 13	de	_	ADP	_	_	_	_	_	_
@@ -1213,7 +1213,7 @@
 19	un	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
 20	peu	_	ADV	_	_	_	_	_	_
 21	grincheux	_	ADJ	_	Number=Sing	_	_	_	_
-22	https://à.fr/travers#le	_	SYM	_	_	_	_	_
+22	https://à.fr/travers#le	_	SYM	_	_	_	_	_	_
 23	mais	_	CCONJ	_	_	_	_	_	_
 24	capables	_	ADJ	_	Number=Plur	_	_	_	_
 25	d'	_	ADP	_	_	_	_	_	_
@@ -1231,12 +1231,12 @@
 37	pays	_	NOUN	_	Number=Sing	_	_	_	_
 38	un	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
 39	culte	_	NOUN	_	Number=Sing	_	_	_	_
-40	assoupi	_	VERB	_	Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_
+40	assoupi	_	VERB	_	Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
 41	au	_	ADP	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 42	fond	_	NOUN	_	Number=Sing	_	_	_	_
 43	de	_	ADP	_	_	_	_	_	_
 44	moi-même	_	PRON	_	Number=Sing|Person=1|PronType=Prs|Reflex=Yes	_	_	_	_
-45	www.toutes.be	_	SYM	_	_	_	_	_
+45	www.toutes.be	_	SYM	_	_	_	_	_	_
 46	Nous	_	PRON	_	Number=Plur|Person=1|PronType=Prs	_	_	_	_
 47	fûmes	_	AUX	_	Mood=Ind|Number=Plur|Person=1|Tense=Past	_	_	_	_
 48	gâtés	_	VERB	_	Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
@@ -1250,7 +1250,7 @@
 56	la	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 57	terre	_	NOUN	_	Number=Sing	_	_	_	_
 58	française	_	ADJ	_	Number=Sing	_	_	_	_
-59	https://www.voiles.ca/vers#un	_	SYM	_	_	_	_	_
+59	https://www.voiles.ca/vers#un	_	SYM	_	_	_	_	_	_
 60	chaude	_	ADJ	_	Number=Sing	_	_	_	_
 61	dans	_	ADP	_	_	_	_	_	_
 62	tous	_	ADJ	_	Number=Plur	_	_	_	_
@@ -1262,11 +1262,11 @@
 68	l'	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 69	être	_	NOUN	_	Number=Sing	_	_	_	_
 70	humain	_	ADJ	_	Number=Sing	_	_	_	_
-71	https://www.point.us	_	SYM	_	_	_	_	_
+71	https://www.point.us	_	SYM	_	_	_	_	_	_
 72	Au	_	ADP	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 73	tournant	_	NOUN	_	Number=Sing	_	_	_	_
 74	de	_	ADP	_	_	_	_	_	_
-74	\\s	_	SPACE	_	_	_	_	_
+74	\\s	_	SPACE	_	_	_	_	_	_
 75	la	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 76	route	_	NOUN	_	Number=Sing	_	_	_	_
 77	,	_	PUNCT	_	_	_	_	_	_
@@ -1275,7 +1275,7 @@
 80	de	_	ADP	_	_	_	_	_	_
 81	la	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 82	rue	_	NOUN	_	Number=Sing	_	_	_	_
-83	http://déterminé.ci/de#tout	_	SYM	_	_	_	_	_
+83	http://déterminé.ci/de#tout	_	SYM	_	_	_	_	_	_
 84	sur	_	ADP	_	_	_	_	_	_
 85	les	_	DET	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
 86	plages	_	NOUN	_	Number=Plur	_	_	_	_
@@ -1288,10 +1288,10 @@
 93	,	_	PUNCT	_	_	_	_	_	_
 94	nous	_	PRON	_	Number=Plur|Person=1|PronType=Prs	_	_	_	_
 95	recevions	_	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Imp	_	_	_	_
-96	des	_	DET	_	Definite=Ind|Number=Plur|PronType=Art	_	_	_
+96	des	_	DET	_	Definite=Ind|Number=Plur|PronType=Art	_	_	_	_
 97	dons	_	NOUN	_	Number=Plur	_	_	_	_
 98	inestimables	_	ADJ	_	Number=Plur	_	_	_	_
-99	https://à.es	_	SYM	_	_	_	_	_
+99	https://à.es	_	SYM	_	_	_	_	_	_
 100	monnayés	_	VERB	_	Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
 101	en	_	ADP	_	_	_	_	_	_
 102	flots	_	NOUN	_	Number=Plur	_	_	_	_
@@ -1303,7 +1303,7 @@
 108	,	_	PUNCT	_	_	_	_	_	_
 109	en	_	ADP	_	_	_	_	_	_
 110	pâturages	_	NOUN	_	Number=Plur	_	_	_	_
-111	www.coup.it/part#un	_	SYM	_	_	_	_	_
+111	www.coup.it/part#un	_	SYM	_	_	_	_	_	_
 112	en	_	ADP	_	_	_	_	_	_
 113	palais	_	NOUN	_	Number=Sing	_	_	_	_
 114	historiques	_	ADJ	_	Number=Plur	_	_	_	_
@@ -1315,15 +1315,15 @@
 120	vallée	_	NOUN	_	Number=Sing	_	_	_	_
 121	du	_	ADP	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 122	Rhône	_	PROPN	_	_	_	_	_	_
-123	https://www.vent.ik	_	SYM	_	_	_	_	_
-74	\\s	_	SPACE	_	_	_	_	_
+123	https://www.vent.ik	_	SYM	_	_	_	_	_	_
+74	\\s	_	SPACE	_	_	_	_	_	_
 124	Nous	_	PRON	_	Number=Plur|Person=1|PronType=Prs	_	_	_	_
 125	ne	_	ADV	_	Polarity=Neg	_	_	_	_
 126	savions	_	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Imp	_	_	_	_
 127	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 128	que	_	SCONJ	_	_	_	_	_	_
 129	,	_	PUNCT	_	_	_	_	_	_
-130	des	_	DET	_	Definite=Ind|Number=Plur|PronType=Art	_	_	_
+130	des	_	DET	_	Definite=Ind|Number=Plur|PronType=Art	_	_	_	_
 131	coups	_	NOUN	_	Number=Plur	_	_	_	_
 132	portés	_	VERB	_	Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
 133	à	_	ADP	_	_	_	_	_	_
@@ -1331,7 +1331,7 @@
 135	si	_	SCONJ	_	_	_	_	_	_
 136	beau	_	ADJ	_	Number=Sing	_	_	_	_
 137	pays	_	NOUN	_	Number=Sing	_	_	_	_
-138	https://www.étrange.me/et#précurseur	_	SYM	_	_	_	_	_
+138	https://www.étrange.me/et#précurseur	_	SYM	_	_	_	_	_	_
 139	nous	_	PRON	_	Number=Plur|Person=1|PronType=Prs	_	_	_	_
 140	retentirions	_	VERB	_	Mood=Cnd|Number=Plur|Person=1|Tense=Pres	_	_	_	_
 141	tous	_	PRON	_	Definite=Ind|Number=Plur|Person=3	_	_	_	_
@@ -1353,7 +1353,7 @@
 157	l'	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 158	autre	_	ADJ	_	Number=Sing	_	_	_	_
 159	amour	_	NOUN	_	Number=Sing	_	_	_	_
-160	http://de.pdf	_	SYM	_	_	_	_	_
+160	http://de.pdf	_	SYM	_	_	_	_	_	_
 161	la	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 162	joie	_	NOUN	_	Number=Sing	_	_	_	_
 163	nous	_	PRON	_	Number=Plur|Person=1|PronType=Prs	_	_	_	_
@@ -1379,26 +1379,26 @@
 183	dans	_	ADP	_	_	_	_	_	_
 184	la	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 185	douleur	_	NOUN	_	Number=Sing	_	_	_	_
-186	https://la.txt/La#grue	_	SYM	_	_	_	_	_
+186	https://la.txt/La#grue	_	SYM	_	_	_	_	_	_
 
 
 
 # sent_id = paris_de_ma_fenetre_colette.spacy.11
 # text = \n I. \n Comme mouches sur miel , \\s ils s' empressent www.la.mp3 s' agglutinent , se nourrissent … La comparaison n' est pas neuve https://www.plus.odt/vieille#et mais elle est inévitable . Tout me la suggère : \\s l' heure de midi https://www.qui.docx la splendeur des journées d' automne , et la hâte http://forme.com/à#elle l' assiduité des lecteurs de plein air .
 # url = Yes
-0	\n	_	SPACE	_	_	_	_	_
+0	\n	_	SPACE	_	_	_	_	_	_
 1	I.	_	PROPN	_	_	_	_	_	_
-2	\n	_	SPACE	_	_	_	_	_
+2	\n	_	SPACE	_	_	_	_	_	_
 3	Comme	_	SCONJ	_	_	_	_	_	_
 4	mouches	_	NOUN	_	Number=Plur	_	_	_	_
 5	sur	_	ADP	_	_	_	_	_	_
 6	miel	_	NOUN	_	Number=Sing	_	_	_	_
 7	,	_	PUNCT	_	_	_	_	_	_
-74	\\s	_	SPACE	_	_	_	_	_
+74	\\s	_	SPACE	_	_	_	_	_	_
 8	ils	_	PRON	_	Number=Plur|Person=3|PronType=Prs	_	_	_	_
 9	s'	_	PRON	_	Person=3|PronType=Prs|Reflex=Yes	_	_	_	_
 10	empressent	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_	_
-11	www.la.mp3	_	SYM	_	_	_	_	_
+11	www.la.mp3	_	SYM	_	_	_	_	_	_
 12	s'	_	PRON	_	Person=3|PronType=Prs|Reflex=Yes	_	_	_	_
 13	agglutinent	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_	_
 14	,	_	PUNCT	_	_	_	_	_	_
@@ -1411,23 +1411,23 @@
 21	est	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 22	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 23	neuve	_	ADJ	_	Number=Sing	_	_	_	_
-24	https://www.plus.odt/vieille#et	_	SYM	_	_	_	_	_
+24	https://www.plus.odt/vieille#et	_	SYM	_	_	_	_	_	_
 25	mais	_	CCONJ	_	_	_	_	_	_
 26	elle	_	PRON	_	Number=Sing|Person=3|PronType=Prs	_	_	_	_
 27	est	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 28	inévitable	_	ADJ	_	Number=Sing	_	_	_	_
 29	.	_	PUNCT	_	_	_	_	_	_
-30	Tout	_	PRON	_	Definite=Ind|Number=Sing|Person=3	_	_	_
+30	Tout	_	PRON	_	Definite=Ind|Number=Sing|Person=3	_	_	_	_
 31	me	_	PRON	_	Number=Sing|Person=1|PronType=Prs	_	_	_	_
 32	la	_	PRON	_	Definite=Def|Number=Sing|Person=3|PronType=Art	_	_	_	_
 33	suggère	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 34	:	_	PUNCT	_	_	_	_	_	_
-74	\\s	_	SPACE	_	_	_	_	_
+74	\\s	_	SPACE	_	_	_	_	_	_
 35	l'	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 36	heure	_	NOUN	_	Number=Sing	_	_	_	_
 37	de	_	ADP	_	_	_	_	_	_
 38	midi	_	NOUN	_	Number=Sing	_	_	_	_
-39	https://www.qui.docx	_	SYM	_	_	_	_	_
+39	https://www.qui.docx	_	SYM	_	_	_	_	_	_
 40	la	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 41	splendeur	_	NOUN	_	Number=Sing	_	_	_	_
 42	des	_	ADP	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
@@ -1438,7 +1438,7 @@
 47	et	_	CCONJ	_	_	_	_	_	_
 48	la	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 49	hâte	_	NOUN	_	Number=Sing	_	_	_	_
-50	http://forme.com/à#elle	_	SYM	_	_	_	_	_
+50	http://forme.com/à#elle	_	SYM	_	_	_	_	_	_
 51	l'	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 52	assiduité	_	NOUN	_	Number=Sing	_	_	_	_
 53	des	_	ADP	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
@@ -1461,19 +1461,19 @@
 5	-vous	_	PRON	_	Number=Plur|Person=2|PronType=Prs	_	_	_	_
 6	est	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 7	ancien	_	ADJ	_	Number=Sing	_	_	_	_
-8	https://seule.org	_	SYM	_	_	_	_	_
+8	https://seule.org	_	SYM	_	_	_	_	_	_
 9	beau	_	ADJ	_	Number=Sing	_	_	_	_
 10	,	_	PUNCT	_	_	_	_	_	_
-11	respecté	_	ADJ	_	Number=Sing	_	_	_
+11	respecté	_	ADJ	_	Number=Sing	_	_	_	_
 12	.	_	PUNCT	_	_	_	_	_	_
-74	\\s	_	SPACE	_	_	_	_	_
+74	\\s	_	SPACE	_	_	_	_	_	_
 13	La	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 14	rareté	_	NOUN	_	Number=Sing	_	_	_	_
 15	des	_	ADP	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
 16	passants	_	NOUN	_	Number=Plur	_	_	_	_
 17	rend	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 18	lisible	_	ADJ	_	Number=Sing	_	_	_	_
-19	www.voyant.ch/branle#la	_	SYM	_	_	_	_	_
+19	www.voyant.ch/branle#la	_	SYM	_	_	_	_	_	_
 20	aère	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 21	ce	_	DET	_	Number=Sing|PronType=Dem	_	_	_	_
 22	carrefour	_	NOUN	_	Number=Sing	_	_	_	_
@@ -1487,7 +1487,7 @@
 30	à	_	ADP	_	_	_	_	_	_
 31	un	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
 32	jardin	_	NOUN	_	Number=Sing	_	_	_	_
-33	https://www.tête.fr	_	SYM	_	_	_	_	_
+33	https://www.tête.fr	_	SYM	_	_	_	_	_	_
 34	un	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
 35	palais	_	NOUN	_	Number=Sing	_	_	_	_
 36	qui	_	PRON	_	PronType=Rel	_	_	_	_
@@ -1505,7 +1505,7 @@
 2	et	_	CCONJ	_	_	_	_	_	_
 3	ses	_	DET	_	Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes	_	_	_	_
 4	plates-bandes	_	NOUN	_	Number=Plur	_	_	_	_
-5	https://www.comme.be/une#personne	_	SYM	_	_	_	_	_
+5	https://www.comme.be/une#personne	_	SYM	_	_	_	_	_	_
 6	Rivoli	_	PROPN	_	_	_	_	_	_
 7	et	_	CCONJ	_	_	_	_	_	_
 8	ses	_	DET	_	Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes	_	_	_	_
@@ -1526,8 +1526,8 @@
 23	une	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
 24	foule	_	NOUN	_	Number=Sing	_	_	_	_
 25	laborieuse	_	ADJ	_	Number=Sing	_	_	_	_
-26	http://conséquemment.ca	_	SYM	_	_	_	_	_
-74	\\s	_	SPACE	_	_	_	_	_
+26	http://conséquemment.ca	_	SYM	_	_	_	_	_	_
+74	\\s	_	SPACE	_	_	_	_	_	_
 27	qui	_	PRON	_	PronType=Rel	_	_	_	_
 28	prend	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 29	en	_	ADP	_	_	_	_	_	_
@@ -1540,7 +1540,7 @@
 36	et	_	CCONJ	_	_	_	_	_	_
 37	sa	_	DET	_	Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes	_	_	_	_
 38	récréation	_	NOUN	_	Number=Sing	_	_	_	_
-39	https://son.us/bec#aussi	_	SYM	_	_	_	_	_
+39	https://son.us/bec#aussi	_	SYM	_	_	_	_	_	_
 40	Il	_	PRON	_	Number=Sing|Person=3|PronType=Prs	_	_	_	_
 41	me	_	PRON	_	Number=Sing|Person=1|PronType=Prs	_	_	_	_
 42	paraît	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
@@ -1560,8 +1560,8 @@
 56	détriment	_	NOUN	_	Number=Sing	_	_	_	_
 57	de	_	ADP	_	_	_	_	_	_
 58	l'	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
-59	autre	_	PRON	_	Number=Sing|Person=3	_	_	_
-60	www.fait.ci	_	SYM	_	_	_	_	_
+59	autre	_	PRON	_	Number=Sing|Person=3	_	_	_	_
+60	www.fait.ci	_	SYM	_	_	_	_	_	_
 61	Avenue	_	ADJ	_	Number=Sing	_	_	_	_
 62	de	_	ADP	_	_	_	_	_	_
 63	l'	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
@@ -1574,7 +1574,7 @@
 70	les	_	DET	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
 71	mêmes	_	ADJ	_	Number=Plur	_	_	_	_
 72	hommages	_	NOUN	_	Number=Plur	_	_	_	_
-73	https://www.et.es/pas#contente	_	SYM	_	_	_	_	_
+73	https://www.et.es/pas#contente	_	SYM	_	_	_	_	_	_
 74	et	_	CCONJ	_	_	_	_	_	_
 75	l'	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 76	on	_	PRON	_	Number=Sing|Person=3|PronType=Prs	_	_	_	_
@@ -1583,7 +1583,7 @@
 79	que	_	SCONJ	_	_	_	_	_	_
 80	sous	_	ADP	_	_	_	_	_	_
 81	l'	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
-82	Odéon	_	NOUN	_	Number=Sing	_	_	_
+82	Odéon	_	NOUN	_	Number=Sing	_	_	_	_
 83	les	_	DET	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
 84	courants	_	NOUN	_	Number=Plur	_	_	_	_
 85	de	_	ADP	_	_	_	_	_	_
@@ -1595,8 +1595,8 @@
 91	passionné	_	NOUN	_	Number=Sing	_	_	_	_
 92	de	_	ADP	_	_	_	_	_	_
 93	lecture	_	NOUN	_	Number=Sing	_	_	_	_
-94	https://www.non.it	_	SYM	_	_	_	_	_
-74	\\s	_	SPACE	_	_	_	_	_
+94	https://www.non.it	_	SYM	_	_	_	_	_	_
+74	\\s	_	SPACE	_	_	_	_	_	_
 95	Mais	_	CCONJ	_	_	_	_	_	_
 96	ici	_	ADV	_	_	_	_	_	_
 97	,	_	PUNCT	_	_	_	_	_	_
@@ -1610,7 +1610,7 @@
 105	celui	_	PRON	_	Number=Sing|Person=3|PronType=Dem	_	_	_	_
 106	du	_	ADP	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 107	Théâtre-Français	_	NOUN	_	Number=Sing	_	_	_	_
-108	http://je.ik/ne#le	_	SYM	_	_	_	_	_
+108	http://je.ik/ne#le	_	SYM	_	_	_	_	_	_
 109	le	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 110	miel	_	NOUN	_	Number=Sing	_	_	_	_
 111	d'	_	ADP	_	_	_	_	_	_
@@ -1623,7 +1623,7 @@
 118	répand	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 119	comme	_	SCONJ	_	_	_	_	_	_
 120	débondé	_	VERB	_	Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
-121	https://serais.me	_	SYM	_	_	_	_	_
+121	https://serais.me	_	SYM	_	_	_	_	_	_
 122	s'	_	PRON	_	Person=3|PronType=Prs|Reflex=Yes	_	_	_	_
 123	offre	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 124	aux	_	ADP	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
@@ -1636,14 +1636,14 @@
 131	L'	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 132	atlas	_	NOUN	_	Number=Sing	_	_	_	_
 133	ancien	_	ADJ	_	Number=Sing	_	_	_	_
-134	www.pas.pdf/à#sa	_	SYM	_	_	_	_	_
+134	www.pas.pdf/à#sa	_	SYM	_	_	_	_	_	_
 135	gravé	_	VERB	_	Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
 136	sur	_	ADP	_	_	_	_	_	_
 137	cuivre	_	NOUN	_	Number=Sing	_	_	_	_
 138	,	_	PUNCT	_	_	_	_	_	_
 139	où	_	PRON	_	PronType=Rel	_	_	_	_
-140	des	_	DET	_	Definite=Ind|Number=Plur|PronType=Art	_	_	_
-141	Éoles	_	PROPN	_	_	_	_	_
+140	des	_	DET	_	Definite=Ind|Number=Plur|PronType=Art	_	_	_	_
+141	Éoles	_	PROPN	_	_	_	_	_	_
 142	gonflent	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_	_
 143	les	_	DET	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
 144	îles	_	NOUN	_	Number=Plur	_	_	_	_
@@ -1654,7 +1654,7 @@
 149	entre	_	ADP	_	_	_	_	_	_
 150	deux	_	NUM	_	NumType=Card	_	_	_	_
 151	continents	_	NOUN	_	Number=Plur	_	_	_	_
-152	https://www.tandis.txt	_	SYM	_	_	_	_	_
+152	https://www.tandis.txt	_	SYM	_	_	_	_	_	_
 153	opprime	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 154	,	_	PUNCT	_	_	_	_	_	_
 155	de	_	ADP	_	_	_	_	_	_
@@ -1666,9 +1666,9 @@
 161	et	_	CCONJ	_	_	_	_	_	_
 162	Victor	_	PROPN	_	_	_	_	_	_
 163	Cherbuliez	_	PROPN	_	_	_	_	_	_
-74	\\s	_	SPACE	_	_	_	_	_
-164	https://www.que.mp3/son#vieux	_	SYM	_	_	_	_	_
-74	\\s	_	SPACE	_	_	_	_	_
+74	\\s	_	SPACE	_	_	_	_	_	_
+164	https://www.que.mp3/son#vieux	_	SYM	_	_	_	_	_	_
+74	\\s	_	SPACE	_	_	_	_	_	_
 165	Le	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 166	«	_	PUNCT	_	_	_	_	_	_
 167	livre	_	NOUN	_	Number=Sing	_	_	_	_
@@ -1680,10 +1680,10 @@
 173	avant	_	ADP	_	_	_	_	_	_
 174	l'	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 175	âge	_	NOUN	_	Number=Sing	_	_	_	_
-176	http://dégarni.odt	_	SYM	_	_	_	_	_
+176	http://dégarni.odt	_	SYM	_	_	_	_	_	_
 171	,	_	PUNCT	_	_	_	_	_	_
 171	,	_	PUNCT	_	_	_	_	_	_
-177	écorché	_	ADJ	_	Number=Sing	_	_	_
+177	écorché	_	ADJ	_	Number=Sing	_	_	_	_
 178	et	_	CCONJ	_	_	_	_	_	_
 179	chaud	_	ADJ	_	Number=Sing	_	_	_	_
 180	,	_	PUNCT	_	_	_	_	_	_
@@ -1695,7 +1695,7 @@
 186	pendant	_	ADP	_	_	_	_	_	_
 187	au	_	ADP	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 188	derrière	_	ADP	_	_	_	_	_	_
-189	https://de.docx/plumes#et	_	SYM	_	_	_	_	_
+189	https://de.docx/plumes#et	_	SYM	_	_	_	_	_	_
 190	il	_	PRON	_	Number=Sing|Person=3|PronType=Prs	_	_	_	_
 191	est	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 192	à	_	ADP	_	_	_	_	_	_
@@ -1706,10 +1706,10 @@
 197	,	_	PUNCT	_	_	_	_	_	_
 198	à	_	ADP	_	_	_	_	_	_
 199	tous	_	PRON	_	Definite=Ind|Number=Plur|Person=3	_	_	_	_
-74	\\s	_	SPACE	_	_	_	_	_
-74	\\s	_	SPACE	_	_	_	_	_
-74	\\s	_	SPACE	_	_	_	_	_
-200	www.contemporain.com	_	SYM	_	_	_	_	_
+74	\\s	_	SPACE	_	_	_	_	_	_
+74	\\s	_	SPACE	_	_	_	_	_	_
+74	\\s	_	SPACE	_	_	_	_	_	_
+200	www.contemporain.com	_	SYM	_	_	_	_	_	_
 201	Mais	_	CCONJ	_	_	_	_	_	_
 202	laissez	_	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres	_	_	_	_
 203	-le	_	PRON	_	Definite=Def|Number=Sing|Person=3|PronType=Art	_	_	_	_
@@ -1725,7 +1725,7 @@
 213	l'	_	PRON	_	Definite=Def|Number=Sing|Person=3|PronType=Art	_	_	_	_
 214	achèteront	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Fut	_	_	_	_
 215	pas	_	ADV	_	Polarity=Neg	_	_	_	_
-216	https://www.de.org/trois#générations	_	SYM	_	_	_	_	_
+216	https://www.de.org/trois#générations	_	SYM	_	_	_	_	_	_
 217	qui	_	PRON	_	PronType=Rel	_	_	_	_
 218	aujourd'	_	PROPN	_	_	_	_	_	_
 219	hui	_	ADV	_	_	_	_	_	_
@@ -1741,7 +1741,7 @@
 229	du	_	ADP	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 230	volume	_	NOUN	_	Number=Sing	_	_	_	_
 231	après-demain	_	ADV	_	_	_	_	_	_
-232	https://www.de.ch	_	SYM	_	_	_	_	_
+232	https://www.de.ch	_	SYM	_	_	_	_	_	_
 
 
 
@@ -1760,7 +1760,7 @@
 9	ils	_	PRON	_	Number=Plur|Person=3|PronType=Prs	_	_	_	_
 10	lisent	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_	_
 11	debout	_	ADV	_	_	_	_	_	_
-12	http://se.fr/remue#en	_	SYM	_	_	_	_	_
+12	http://se.fr/remue#en	_	SYM	_	_	_	_	_	_
 13	et	_	CCONJ	_	_	_	_	_	_
 14	debout	_	ADV	_	_	_	_	_	_
 15	se	_	PRON	_	Person=3|PronType=Prs|Reflex=Yes	_	_	_	_
@@ -1771,8 +1771,8 @@
 20	sur	_	ADP	_	_	_	_	_	_
 21	l'	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 22	autre	_	PRON	_	Number=Sing|Person=3	_	_	_	_
-23	https://ondulations.be	_	SYM	_	_	_	_	_
-74	\\s	_	SPACE	_	_	_	_	_
+23	https://ondulations.be	_	SYM	_	_	_	_	_	_
+74	\\s	_	SPACE	_	_	_	_	_	_
 24	Tête	_	NOUN	_	Number=Sing	_	_	_	_
 25	nue	_	ADJ	_	Number=Sing	_	_	_	_
 26	,	_	PUNCT	_	_	_	_	_	_
@@ -1790,8 +1790,8 @@
 38	ni	_	CCONJ	_	_	_	_	_	_
 39	de	_	ADP	_	_	_	_	_	_
 40	manteau	_	NOUN	_	Number=Sing	_	_	_	_
-41	trois-quarts	_	NOUN	_	Number=Plur	_	_	_
-42	www.irritées.ca/qui#présagent	_	SYM	_	_	_	_	_
+41	trois-quarts	_	NOUN	_	Number=Plur	_	_	_	_
+42	www.irritées.ca/qui#présagent	_	SYM	_	_	_	_	_	_
 43	peut-être	_	ADV	_	_	_	_	_	_
 44	n'	_	ADV	_	Polarity=Neg	_	_	_	_
 45	en	_	PRON	_	Person=3	_	_	_	_
@@ -1802,7 +1802,7 @@
 50	tout	_	ADJ	_	Number=Sing	_	_	_	_
 51	l'	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 52	hiver	_	NOUN	_	Number=Sing	_	_	_	_
-53	https://www.qui.us	_	SYM	_	_	_	_	_
+53	https://www.qui.us	_	SYM	_	_	_	_	_	_
 54	Pour	_	ADP	_	_	_	_	_	_
 55	l'	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 56	heure	_	NOUN	_	Number=Sing	_	_	_	_
@@ -1824,18 +1824,18 @@
 72	le	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 73	sud	_	NOUN	_	Number=Sing	_	_	_	_
 74	et	_	CCONJ	_	_	_	_	_	_
-75	leur	_	DET	_	Number=Sing|Number[psor]=Plur|Person=3|Poss=Yes	_	_	_
+75	leur	_	DET	_	Number=Sing|Number[psor]=Plur|Person=3|Poss=Yes	_	_	_	_
 76	touche	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 77	l'	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 78	épaule	_	NOUN	_	Number=Sing	_	_	_	_
-79	https://www.de.ci/plus#en	_	SYM	_	_	_	_	_
+79	https://www.de.ci/plus#en	_	SYM	_	_	_	_	_	_
 80	et	_	CCONJ	_	_	_	_	_	_
 81	que	_	SCONJ	_	_	_	_	_	_
 82	par	_	ADP	_	_	_	_	_	_
 83	surcroît	_	NOUN	_	Number=Sing	_	_	_	_
 84	ils	_	PRON	_	Number=Plur|Person=3|PronType=Prs	_	_	_	_
 85	tiennent	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_	_
-86	ouvert	_	VERB	_	Tense=Past|VerbForm=Part	_	_	_
+86	ouvert	_	VERB	_	Tense=Past|VerbForm=Part	_	_	_	_
 87	un	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
 88	livre	_	NOUN	_	Number=Sing	_	_	_	_
 89	.	_	PUNCT	_	_	_	_	_	_
@@ -1847,7 +1847,7 @@
 95	servant	_	VERB	_	Tense=Pres|VerbForm=Part	_	_	_	_
 96	de	_	ADP	_	_	_	_	_	_
 97	pupitre	_	NOUN	_	Number=Sing	_	_	_	_
-98	http://Après.es	_	SYM	_	_	_	_	_
+98	http://Après.es	_	SYM	_	_	_	_	_	_
 99	ils	_	PRON	_	Number=Plur|Person=3|PronType=Prs	_	_	_	_
 100	tournent	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_	_
 101	les	_	DET	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
@@ -1864,10 +1864,10 @@
 112	lisant	_	VERB	_	Tense=Pres|VerbForm=Part	_	_	_	_
 113	ils	_	PRON	_	Number=Plur|Person=3|PronType=Prs	_	_	_	_
 114	déjeunent	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_	_
-115	https://avoir.it/de#regardé	_	SYM	_	_	_	_	_
-74	\\s	_	SPACE	_	_	_	_	_
-74	\\s	_	SPACE	_	_	_	_	_
-74	\\s	_	SPACE	_	_	_	_	_
+115	https://avoir.it/de#regardé	_	SYM	_	_	_	_	_	_
+74	\\s	_	SPACE	_	_	_	_	_	_
+74	\\s	_	SPACE	_	_	_	_	_	_
+74	\\s	_	SPACE	_	_	_	_	_	_
 116	J'	_	PRON	_	Number=Sing|Person=1|PronType=Prs	_	_	_	_
 117	aimerais	_	VERB	_	Mood=Cnd|Number=Sing|Person=1|Tense=Pres	_	_	_	_
 118	bien	_	ADV	_	_	_	_	_	_
@@ -1877,7 +1877,7 @@
 122	grande	_	ADJ	_	Number=Sing	_	_	_	_
 123	notre	_	DET	_	Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes	_	_	_	_
 124	lâcheté	_	NOUN	_	Number=Sing	_	_	_	_
-125	www.plusieurs.ik	_	SYM	_	_	_	_	_
+125	www.plusieurs.ik	_	SYM	_	_	_	_	_	_
 126	notre	_	DET	_	Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes	_	_	_	_
 127	envie	_	NOUN	_	Number=Sing	_	_	_	_
 128	de	_	ADP	_	_	_	_	_	_
@@ -1901,7 +1901,7 @@
 146	déjeunent	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_	_
 147	si	_	SCONJ	_	_	_	_	_	_
 148	vite	_	ADV	_	_	_	_	_	_
-149	https://www.fois.me/de#tous	_	SYM	_	_	_	_	_
+149	https://www.fois.me/de#tous	_	SYM	_	_	_	_	_	_
 150	et	_	CCONJ	_	_	_	_	_	_
 151	de	_	ADP	_	_	_	_	_	_
 152	si	_	SCONJ	_	_	_	_	_	_
@@ -1914,47 +1914,47 @@
 159	qu'	_	SCONJ	_	_	_	_	_	_
 160	ils	_	PRON	_	Number=Plur|Person=3|PronType=Prs	_	_	_	_
 161	sont	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_	_
-162	https://www.les.pdf	_	SYM	_	_	_	_	_
-74	\\s	_	SPACE	_	_	_	_	_
+162	https://www.les.pdf	_	SYM	_	_	_	_	_	_
+74	\\s	_	SPACE	_	_	_	_	_	_
 163	ils	_	PRON	_	Number=Plur|Person=3|PronType=Prs	_	_	_	_
-74	\\s	_	SPACE	_	_	_	_	_
+74	\\s	_	SPACE	_	_	_	_	_	_
 164	préféreraient	_	VERB	_	Mood=Cnd|Number=Plur|Person=3|Tense=Pres	_	_	_	_
-74	\\s	_	SPACE	_	_	_	_	_
+74	\\s	_	SPACE	_	_	_	_	_	_
 165	que	_	SCONJ	_	_	_	_	_	_
-74	\\s	_	SPACE	_	_	_	_	_
+74	\\s	_	SPACE	_	_	_	_	_	_
 166	nous	_	PRON	_	Number=Plur|Person=1|PronType=Prs	_	_	_	_
-74	\\s	_	SPACE	_	_	_	_	_
+74	\\s	_	SPACE	_	_	_	_	_	_
 167	ne	_	ADV	_	Polarity=Neg	_	_	_	_
-74	\\s	_	SPACE	_	_	_	_	_
+74	\\s	_	SPACE	_	_	_	_	_	_
 168	sachions	_	VERB	_	Mood=Sub|Number=Plur|Person=1|Tense=Pres	_	_	_	_
-74	\\s	_	SPACE	_	_	_	_	_
+74	\\s	_	SPACE	_	_	_	_	_	_
 169	pas	_	ADV	_	Polarity=Neg	_	_	_	_
-74	\\s	_	SPACE	_	_	_	_	_
+74	\\s	_	SPACE	_	_	_	_	_	_
 170	que	_	SCONJ	_	_	_	_	_	_
-74	\\s	_	SPACE	_	_	_	_	_
-171	ce	_	DET	_	Number=Sing|PronType=Dem	_	_	_
-74	\\s	_	SPACE	_	_	_	_	_
+74	\\s	_	SPACE	_	_	_	_	_	_
+171	ce	_	DET	_	Number=Sing|PronType=Dem	_	_	_	_
+74	\\s	_	SPACE	_	_	_	_	_	_
 172	gros	_	ADJ	_	Number=Sing	_	_	_	_
-74	\\s	_	SPACE	_	_	_	_	_
-173	mirliton	_	NOUN	_	Number=Sing	_	_	_
-74	\\s	_	SPACE	_	_	_	_	_
-74	\\s	_	SPACE	_	_	_	_	_
-174	http://côtés.txt/avec#des	_	SYM	_	_	_	_	_
-74	\\s	_	SPACE	_	_	_	_	_
+74	\\s	_	SPACE	_	_	_	_	_	_
+173	mirliton	_	NOUN	_	Number=Sing	_	_	_	_
+74	\\s	_	SPACE	_	_	_	_	_	_
+74	\\s	_	SPACE	_	_	_	_	_	_
+174	http://côtés.txt/avec#des	_	SYM	_	_	_	_	_	_
+74	\\s	_	SPACE	_	_	_	_	_	_
 175	par	_	ADP	_	_	_	_	_	_
-74	\\s	_	SPACE	_	_	_	_	_
-74	\\s	_	SPACE	_	_	_	_	_
+74	\\s	_	SPACE	_	_	_	_	_	_
+74	\\s	_	SPACE	_	_	_	_	_	_
 176	exemple	_	NOUN	_	Number=Sing	_	_	_	_
-74	\\s	_	SPACE	_	_	_	_	_
+74	\\s	_	SPACE	_	_	_	_	_	_
 177	,	_	PUNCT	_	_	_	_	_	_
-74	\\s	_	SPACE	_	_	_	_	_
+74	\\s	_	SPACE	_	_	_	_	_	_
 178	qu'	_	SCONJ	_	_	_	_	_	_
 179	ils	_	PRON	_	Number=Plur|Person=3|PronType=Prs	_	_	_	_
 180	portent	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_	_
 181	à	_	ADP	_	_	_	_	_	_
 182	leur	_	DET	_	Number=Sing|Number[psor]=Plur|Person=3|Poss=Yes	_	_	_	_
 183	bouche	_	NOUN	_	Number=Sing	_	_	_	_
-184	https://yeux.mp3	_	SYM	_	_	_	_	_
+184	https://yeux.mp3	_	SYM	_	_	_	_	_	_
 185	c'	_	PRON	_	Number=Sing|Person=3|PronType=Dem	_	_	_	_
 186	est	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 187	une	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
@@ -1966,20 +1966,20 @@
 193	non	_	ADV	_	Polarity=Neg	_	_	_	_
 194	de	_	ADP	_	_	_	_	_	_
 195	viande	_	NOUN	_	Number=Sing	_	_	_	_
-196	www.qui.odt/renferment#la	_	SYM	_	_	_	_	_
+196	www.qui.odt/renferment#la	_	SYM	_	_	_	_	_	_
 197	déguisé	_	VERB	_	Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
 198	en	_	ADP	_	_	_	_	_	_
 199	rouleau	_	NOUN	_	Number=Sing	_	_	_	_
 200	de	_	ADP	_	_	_	_	_	_
-74	\\s	_	SPACE	_	_	_	_	_
-74	\\s	_	SPACE	_	_	_	_	_
+74	\\s	_	SPACE	_	_	_	_	_	_
+74	\\s	_	SPACE	_	_	_	_	_	_
 201	paperasses	_	NOUN	_	Number=Plur	_	_	_	_
 202	.	_	PUNCT	_	_	_	_	_	_
 203	Il	_	PRON	_	Number=Sing|Person=3|PronType=Prs	_	_	_	_
 204	y	_	PRON	_	Person=3	_	_	_	_
 205	a	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 206	aussi	_	ADV	_	_	_	_	_	_
-207	https://www.première.docx	_	SYM	_	_	_	_	_
+207	https://www.première.docx	_	SYM	_	_	_	_	_	_
 208	hélas	_	INTJ	_	_	_	_	_	_
 209	!	_	PUNCT	_	_	_	_	_	_
 210	le	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
@@ -1994,9 +1994,9 @@
 219	sac	_	NOUN	_	Number=Sing	_	_	_	_
 220	à	_	ADP	_	_	_	_	_	_
 221	main	_	NOUN	_	Number=Sing	_	_	_	_
-222	https://www.elle.com/qui#a	_	SYM	_	_	_	_	_
+222	https://www.elle.com/qui#a	_	SYM	_	_	_	_	_	_
 223	et	_	CCONJ	_	_	_	_	_	_
-74	\\s	_	SPACE	_	_	_	_	_
+74	\\s	_	SPACE	_	_	_	_	_	_
 224	dont	_	PRON	_	PronType=Rel	_	_	_	_
 225	on	_	PRON	_	Number=Sing|Person=3|PronType=Prs	_	_	_	_
 226	détache	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
@@ -2007,7 +2007,7 @@
 231	de	_	ADP	_	_	_	_	_	_
 232	petites	_	ADJ	_	Number=Plur	_	_	_	_
 233	bouchées	_	NOUN	_	Number=Plur	_	_	_	_
-234	http://le.org	_	SYM	_	_	_	_	_
+234	http://le.org	_	SYM	_	_	_	_	_	_
 235	entre	_	ADP	_	_	_	_	_	_
 236	deux	_	NUM	_	NumType=Card	_	_	_	_
 237	doigts	_	NOUN	_	Number=Plur	_	_	_	_
@@ -2019,13 +2019,13 @@
 # text = Debout \\s , enchaînée à son rêve https://privilège.ch/de#montrer une partie de la jeunesse de Paris lit passionnément . Elle a toujours lu aux étalages www.les.fr et le long des quais , prise sous le couvercle des https://www.plumes.be/de#sa boîtes » comme passereau à la trappe . Mais je crois qu' elle y mit https://www.queue.ca en d' autres temps , moins de flamme et d' obstination http://aux.us/autres#grues Je n' ai , pour m' \\s en convaincre , qu' à lire attentivement mon https://inférieures.ci courrier des inconnus » :
 # url = Yes
 0	Debout	_	ADV	_	_	_	_	_	_
-74	\\s	_	SPACE	_	_	_	_	_
+74	\\s	_	SPACE	_	_	_	_	_	_
 1	,	_	PUNCT	_	_	_	_	_	_
 2	enchaînée	_	VERB	_	Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
 3	à	_	ADP	_	_	_	_	_	_
 4	son	_	DET	_	Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes	_	_	_	_
 5	rêve	_	NOUN	_	Number=Sing	_	_	_	_
-6	https://privilège.ch/de#montrer	_	SYM	_	_	_	_	_
+6	https://privilège.ch/de#montrer	_	SYM	_	_	_	_	_	_
 7	une	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
 8	partie	_	NOUN	_	Number=Sing	_	_	_	_
 9	de	_	ADP	_	_	_	_	_	_
@@ -2042,7 +2042,7 @@
 20	lu	_	VERB	_	Tense=Past|VerbForm=Part	_	_	_	_
 21	aux	_	ADP	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
 22	étalages	_	NOUN	_	Number=Plur	_	_	_	_
-23	www.les.fr	_	SYM	_	_	_	_	_
+23	www.les.fr	_	SYM	_	_	_	_	_	_
 24	et	_	CCONJ	_	_	_	_	_	_
 25	le	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 26	long	_	ADJ	_	Number=Sing	_	_	_	_
@@ -2054,7 +2054,7 @@
 32	le	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 33	couvercle	_	NOUN	_	Number=Sing	_	_	_	_
 34	des	_	ADP	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
-35	https://www.plumes.be/de#sa	_	SYM	_	_	_	_	_
+35	https://www.plumes.be/de#sa	_	SYM	_	_	_	_	_	_
 36	boîtes	_	NOUN	_	Number=Plur	_	_	_	_
 37	»	_	PUNCT	_	_	_	_	_	_
 38	comme	_	SCONJ	_	_	_	_	_	_
@@ -2070,7 +2070,7 @@
 48	elle	_	PRON	_	Number=Sing|Person=3|PronType=Prs	_	_	_	_
 49	y	_	PRON	_	Person=3	_	_	_	_
 50	mit	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	_	_	_	_
-51	https://www.queue.ca	_	SYM	_	_	_	_	_
+51	https://www.queue.ca	_	SYM	_	_	_	_	_	_
 52	en	_	ADP	_	_	_	_	_	_
 53	d'	_	DET	_	Definite=Ind|Number=Plur|PronType=Art	_	_	_	_
 54	autres	_	ADJ	_	Number=Plur	_	_	_	_
@@ -2082,23 +2082,23 @@
 60	et	_	CCONJ	_	_	_	_	_	_
 61	d'	_	ADP	_	_	_	_	_	_
 62	obstination	_	NOUN	_	Number=Sing	_	_	_	_
-63	http://aux.us/autres#grues	_	SYM	_	_	_	_	_
+63	http://aux.us/autres#grues	_	SYM	_	_	_	_	_	_
 64	Je	_	PRON	_	Number=Sing|Person=1|PronType=Prs	_	_	_	_
 65	n'	_	ADV	_	Polarity=Neg	_	_	_	_
 66	ai	_	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	_	_	_	_
 67	,	_	PUNCT	_	_	_	_	_	_
 68	pour	_	ADP	_	_	_	_	_	_
 69	m'	_	PRON	_	Number=Sing|Person=1|PronType=Prs	_	_	_	_
-74	\\s	_	SPACE	_	_	_	_	_
+74	\\s	_	SPACE	_	_	_	_	_	_
 70	en	_	PRON	_	Person=3	_	_	_	_
 71	convaincre	_	VERB	_	VerbForm=Inf	_	_	_	_
 72	,	_	PUNCT	_	_	_	_	_	_
-73	qu'	_	SCONJ	_	_	_	_	_
+73	qu'	_	SCONJ	_	_	_	_	_	_
 74	à	_	ADP	_	_	_	_	_	_
 75	lire	_	VERB	_	VerbForm=Inf	_	_	_	_
 76	attentivement	_	ADV	_	_	_	_	_	_
 77	mon	_	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes	_	_	_	_
-78	https://inférieures.ci	_	SYM	_	_	_	_	_
+78	https://inférieures.ci	_	SYM	_	_	_	_	_	_
 79	courrier	_	NOUN	_	Number=Sing	_	_	_	_
 80	des	_	ADP	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
 81	inconnus	_	NOUN	_	Number=Plur	_	_	_	_
@@ -2117,7 +2117,7 @@
 4	voudrais	_	VERB	_	Mood=Cnd|Number=Sing|Person=1|Tense=Pres	_	_	_	_
 5	des	_	DET	_	Definite=Ind|Number=Plur|PronType=Art	_	_	_	_
 6	livres	_	NOUN	_	Number=Plur	_	_	_	_
-7	www.en.es/avec#son	_	SYM	_	_	_	_	_
+7	www.en.es/avec#son	_	SYM	_	_	_	_	_	_
 8	comment	_	ADV	_	_	_	_	_	_
 9	peut	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 10	-on	_	PRON	_	Number=Sing|Person=3|PronType=Prs	_	_	_	_
@@ -2132,7 +2132,7 @@
 19	fonds	_	NOUN	_	Number=Plur	_	_	_	_
 20	assez	_	ADV	_	_	_	_	_	_
 21	hétéroclite	_	ADJ	_	Number=Sing	_	_	_	_
-22	https://www.cri.it	_	SYM	_	_	_	_	_
+22	https://www.cri.it	_	SYM	_	_	_	_	_	_
 23	voyages	_	NOUN	_	Number=Plur	_	_	_	_
 24	,	_	PUNCT	_	_	_	_	_	_
 25	romans	_	NOUN	_	Number=Plur	_	_	_	_
@@ -2140,10 +2140,10 @@
 27	sciences	_	NOUN	_	Number=Plur	_	_	_	_
 28	naturelles	_	ADJ	_	Number=Plur	_	_	_	_
 29	—	_	PUNCT	_	_	_	_	_	_
-30	lu	_	ADJ	_	Number=Sing	_	_	_
+30	lu	_	ADJ	_	Number=Sing	_	_	_	_
 31	et	_	CCONJ	_	_	_	_	_	_
-32	relu	_	ADJ	_	Number=Sing	_	_	_
-33	https://www.vigilant.ik/de#mélancolique	_	SYM	_	_	_	_	_
+32	relu	_	ADJ	_	Number=Sing	_	_	_	_
+33	https://www.vigilant.ik/de#mélancolique	_	SYM	_	_	_	_	_	_
 34	et	_	CCONJ	_	_	_	_	_	_
 35	ce	_	PRON	_	Number=Sing|Person=3|PronType=Dem	_	_	_	_
 36	n'	_	ADV	_	Polarity=Neg	_	_	_	_
@@ -2158,7 +2158,7 @@
 45	en	_	ADP	_	_	_	_	_	_
 46	ce	_	DET	_	Number=Sing|PronType=Dem	_	_	_	_
 47	moments	_	NOUN	_	Number=Plur	_	_	_	_
-48	http://pour.me	_	SYM	_	_	_	_	_
+48	http://pour.me	_	SYM	_	_	_	_	_	_
 49	Madame	_	NOUN	_	Number=Sing	_	_	_	_
 50	,	_	PUNCT	_	_	_	_	_	_
 51	pourquoi	_	ADV	_	_	_	_	_	_
@@ -2172,7 +2172,7 @@
 59	cabinets	_	NOUN	_	Number=Plur	_	_	_	_
 60	de	_	ADP	_	_	_	_	_	_
 61	lecture	_	NOUN	_	Number=Sing	_	_	_	_
-62	https://repousser.pdf/elle#vire	_	SYM	_	_	_	_	_
+62	https://repousser.pdf/elle#vire	_	SYM	_	_	_	_	_	_
 63	…	_	PUNCT	_	_	_	_	_	_
 
 
@@ -2190,7 +2190,7 @@
 7	des	_	ADP	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
 8	deux	_	NUM	_	NumType=Card	_	_	_	_
 9	sexes	_	NOUN	_	Number=Plur	_	_	_	_
-10	www.avec.txt	_	SYM	_	_	_	_	_
+10	www.avec.txt	_	SYM	_	_	_	_	_	_
 11	avides	_	ADJ	_	Number=Plur	_	_	_	_
 12	de	_	ADP	_	_	_	_	_	_
 13	lire	_	VERB	_	VerbForm=Inf	_	_	_	_
@@ -2202,7 +2202,7 @@
 19	une	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
 20	aspiration	_	NOUN	_	Number=Sing	_	_	_	_
 21	douloureuse	_	ADJ	_	Number=Sing	_	_	_	_
-22	https://www.flexibilité.mp3/la#pointe	_	SYM	_	_	_	_	_
+22	https://www.flexibilité.mp3/la#pointe	_	SYM	_	_	_	_	_	_
 23	un	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
 24	besoin	_	NOUN	_	Number=Sing	_	_	_	_
 25	de	_	ADP	_	_	_	_	_	_
@@ -2213,7 +2213,7 @@
 30	une	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
 31	lumière	_	NOUN	_	Number=Sing	_	_	_	_
 32	mentale	_	ADJ	_	Number=Sing	_	_	_	_
-33	https://www.de.odt	_	SYM	_	_	_	_	_
+33	https://www.de.odt	_	SYM	_	_	_	_	_	_
 34	de	_	ADP	_	_	_	_	_	_
 35	délasser	_	VERB	_	VerbForm=Inf	_	_	_	_
 36	leur	_	DET	_	Number=Sing|Number[psor]=Plur|Person=3|Poss=Yes	_	_	_	_
@@ -2226,7 +2226,7 @@
 43	train	_	NOUN	_	Number=Sing	_	_	_	_
 44	de	_	ADP	_	_	_	_	_	_
 45	lire	_	VERB	_	VerbForm=Inf	_	_	_	_
-46	http://la.docx/figure#géométrique	_	SYM	_	_	_	_	_
+46	http://la.docx/figure#géométrique	_	SYM	_	_	_	_	_	_
 47	n'	_	ADV	_	Polarity=Neg	_	_	_	_
 48	importe	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 49	quoi	_	PRON	_	PronType=Int	_	_	_	_
@@ -2242,7 +2242,7 @@
 59	assurée	_	VERB	_	Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
 60	par	_	ADP	_	_	_	_	_	_
 61	moi-même	_	PRON	_	Number=Sing|Person=1|PronType=Prs|Reflex=Yes	_	_	_	_
-62	https://un.com	_	SYM	_	_	_	_	_
+62	https://un.com	_	SYM	_	_	_	_	_	_
 63	Où	_	PRON	_	PronType=Rel	_	_	_	_
 64	est	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 65	le	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
@@ -2255,7 +2255,7 @@
 72	des	_	DET	_	Definite=Ind|Number=Plur|PronType=Art	_	_	_	_
 73	œuvres	_	NOUN	_	Number=Plur	_	_	_	_
 74	entomologiques	_	ADJ	_	Number=Plur	_	_	_	_
-75	www.mais.org/on#ne	_	SYM	_	_	_	_	_
+75	www.mais.org/on#ne	_	SYM	_	_	_	_	_	_
 76	des	_	ADP	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
 77	livraisons	_	NOUN	_	Number=Plur	_	_	_	_
 78	dépareillées	_	VERB	_	Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
@@ -2273,19 +2273,19 @@
 90	Alphonse	_	PROPN	_	_	_	_	_	_
 91	Daudet	_	PROPN	_	_	_	_	_	_
 84	:	_	PUNCT	_	_	_	_	_	_
-92	https://www.voit.ch	_	SYM	_	_	_	_	_
-93	des	_	DET	_	Definite=Ind|Number=Plur|PronType=Art	_	_	_
+92	https://www.voit.ch	_	SYM	_	_	_	_	_	_
+93	des	_	DET	_	Definite=Ind|Number=Plur|PronType=Art	_	_	_	_
 94	annales	_	NOUN	_	Number=Plur	_	_	_	_
 95	incomplètes	_	ADJ	_	Number=Plur	_	_	_	_
 96	de	_	ADP	_	_	_	_	_	_
 97	médecine	_	NOUN	_	Number=Sing	_	_	_	_
 98	,	_	PUNCT	_	_	_	_	_	_
-93	des	_	DET	_	Definite=Ind|Number=Plur|PronType=Art	_	_	_
+93	des	_	DET	_	Definite=Ind|Number=Plur|PronType=Art	_	_	_	_
 100	manuels	_	NOUN	_	Number=Plur	_	_	_	_
 101	de	_	ADP	_	_	_	_	_	_
 102	science	_	NOUN	_	Number=Sing	_	_	_	_
 103	pratique	_	ADJ	_	Number=Sing	_	_	_	_
-104	https://www.pas.fr/le#troisième	_	SYM	_	_	_	_	_
+104	https://www.pas.fr/le#troisième	_	SYM	_	_	_	_	_	_
 105	un	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
 106	gros	_	ADJ	_	Number=Sing	_	_	_	_
 107	tome	_	NOUN	_	Number=Sing	_	_	_	_
@@ -2298,9 +2298,9 @@
 114	un	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
 115	voyageur	_	NOUN	_	Number=Sing	_	_	_	_
 116	du	_	ADP	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
-117	xviiie	_	NUM	_	NumType=Card	_	_	_
+117	xviiie	_	NUM	_	NumType=Card	_	_	_	_
 118	siècle	_	NOUN	_	Number=Sing	_	_	_	_
-119	http://côté.be	_	SYM	_	_	_	_	_
+119	http://côté.be	_	SYM	_	_	_	_	_	_
 120	miracle	_	NOUN	_	Number=Sing	_	_	_	_
 121	de	_	ADP	_	_	_	_	_	_
 122	lenteur	_	NOUN	_	Number=Sing	_	_	_	_
@@ -2310,8 +2310,8 @@
 126	,	_	PUNCT	_	_	_	_	_	_
 127	de	_	ADP	_	_	_	_	_	_
 128	curiosité	_	NOUN	_	Number=Sing	_	_	_	_
-129	attendrie	_	ADJ	_	Number=Sing	_	_	_
-130	https://que.ca/forment#dans	_	SYM	_	_	_	_	_
+129	attendrie	_	ADJ	_	Number=Sing	_	_	_	_
+130	https://que.ca/forment#dans	_	SYM	_	_	_	_	_	_
 131	ils	_	PRON	_	Number=Plur|Person=3|PronType=Prs	_	_	_	_
 132	feuillettent	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_	_
 133	un	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
@@ -2322,29 +2322,29 @@
 138	lèvent	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_	_
 139	les	_	DET	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
 140	yeux	_	NOUN	_	Number=Plur	_	_	_	_
-141	www.ces.us	_	SYM	_	_	_	_	_
+141	www.ces.us	_	SYM	_	_	_	_	_	_
 142	et	_	CCONJ	_	_	_	_	_	_
 143	le	_	PRON	_	Definite=Def|Number=Sing|Person=3|PronType=Art	_	_	_	_
 144	reconnaissent	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_	_
 145	,	_	PUNCT	_	_	_	_	_	_
-146	étonnés	_	ADJ	_	Number=Plur	_	_	_
+146	étonnés	_	ADJ	_	Number=Plur	_	_	_	_
 147	,	_	PUNCT	_	_	_	_	_	_
 148	tout	_	ADV	_	_	_	_	_	_
 149	autour	_	ADV	_	_	_	_	_	_
 150	d'	_	ADP	_	_	_	_	_	_
 151	eux	_	PRON	_	Number=Plur|Person=3|PronType=Prs	_	_	_	_
-152	https://www.curieux.ci/oiseaux#de	_	SYM	_	_	_	_	_
+152	https://www.curieux.ci/oiseaux#de	_	SYM	_	_	_	_	_	_
 153	Ils	_	PRON	_	Number=Plur|Person=3|PronType=Prs	_	_	_	_
 154	touchent	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_	_
 155	à	_	ADP	_	_	_	_	_	_
 156	un	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
 157	passé	_	NOUN	_	Number=Sing	_	_	_	_
-158	qu'	_	SCONJ	_	_	_	_	_
+158	qu'	_	SCONJ	_	_	_	_	_	_
 159	ils	_	PRON	_	Number=Plur|Person=3|PronType=Prs	_	_	_	_
 160	reniaient	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp	_	_	_	_
 161	par	_	ADP	_	_	_	_	_	_
 162	ignorance	_	NOUN	_	Number=Sing	_	_	_	_
-163	https://www.soit.es	_	SYM	_	_	_	_	_
+163	https://www.soit.es	_	SYM	_	_	_	_	_	_
 164	à	_	ADP	_	_	_	_	_	_
 165	une	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
 166	capitale	_	NOUN	_	Number=Sing	_	_	_	_
@@ -2359,14 +2359,14 @@
 175	regardaient	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp	_	_	_	_
 176	même	_	ADV	_	_	_	_	_	_
 177	pas	_	ADV	_	Polarity=Neg	_	_	_	_
-178	http://à.it/soit#à	_	SYM	_	_	_	_	_
+178	http://à.it/soit#à	_	SYM	_	_	_	_	_	_
 179	ils	_	PRON	_	Number=Plur|Person=3|PronType=Prs	_	_	_	_
 180	s'	_	PRON	_	Person=3|PronType=Prs|Reflex=Yes	_	_	_	_
 181	émeuvent	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_	_
 182	à	_	ADP	_	_	_	_	_	_
 183	la	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 184	pensée	_	NOUN	_	Number=Sing	_	_	_	_
-185	qu'	_	PRON	_	PronType=Rel	_	_	_
+185	qu'	_	PRON	_	PronType=Rel	_	_	_	_
 186	elle	_	PRON	_	Number=Sing|Person=3|PronType=Prs	_	_	_	_
 187	aurait	_	AUX	_	Mood=Cnd|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 188	pu	_	VERB	_	Tense=Past|VerbForm=Part	_	_	_	_
@@ -2378,14 +2378,14 @@
 194	aient	_	AUX	_	VerbForm=Inf	_	_	_	_
 195	vraiment	_	ADV	_	_	_	_	_	_
 196	aimée	_	VERB	_	Tense=Past|VerbForm=Part	_	_	_	_
-197	https://comme.ik	_	SYM	_	_	_	_	_
+197	https://comme.ik	_	SYM	_	_	_	_	_	_
 
 
 
 # sent_id = paris_de_ma_fenetre_colette.spacy.18
 # text = Qu' ils lisent donc n' importe quoi . Ainsi fis -je dans mon jeune âge www.un.me/habile#capitaine lâchée à travers une bibliothèque où tout se fit pâture https://www.manœuvrant.pdf et où l' on n' aurait rien trouvé qui convînt à mes six ans https://www.avec.txt/des#ailes à mes dix , à mes quatorze ans … Livres défendus http://qui.mp3 livres trop graves , livres trop légers aussi , livres assez ennuyeux https://ne.odt/paraissent#pas livres éblouissants , qui au hasard s' illuminent , et referment sur l' enfant enchanté leurs portes de temple www.plus.docx Le désordre de la lecture lui-même est noble . Chaque livre https://www.grandes.com/que#celles mal annexé d' abord , est une conquête . Sa jungle d' idées et de mots s' ouvrira https://www.parce.org quelque jour , sur un calme paysage ami .
 # url = Yes
-0	Qu'	_	SCONJ	_	_	_	_	_
+0	Qu'	_	SCONJ	_	_	_	_	_	_
 1	ils	_	PRON	_	Number=Plur|Person=3|PronType=Prs	_	_	_	_
 2	lisent	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_	_
 3	donc	_	CCONJ	_	_	_	_	_	_
@@ -2400,7 +2400,7 @@
 12	mon	_	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes	_	_	_	_
 13	jeune	_	ADJ	_	Number=Sing	_	_	_	_
 14	âge	_	NOUN	_	Number=Sing	_	_	_	_
-15	www.un.me/habile#capitaine	_	SYM	_	_	_	_	_
+15	www.un.me/habile#capitaine	_	SYM	_	_	_	_	_	_
 16	lâchée	_	VERB	_	Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
 17	à	_	ADP	_	_	_	_	_	_
 18	travers	_	NOUN	_	Number=Sing	_	_	_	_
@@ -2411,7 +2411,7 @@
 23	se	_	PRON	_	Person=3|PronType=Prs|Reflex=Yes	_	_	_	_
 24	fit	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	_	_	_	_
 25	pâture	_	NOUN	_	Number=Sing	_	_	_	_
-26	https://www.manœuvrant.pdf	_	SYM	_	_	_	_	_
+26	https://www.manœuvrant.pdf	_	SYM	_	_	_	_	_	_
 27	et	_	CCONJ	_	_	_	_	_	_
 28	où	_	PRON	_	PronType=Rel	_	_	_	_
 29	l'	_	PRON	_	Definite=Def|Number=Sing|Person=3|PronType=Art	_	_	_	_
@@ -2426,7 +2426,7 @@
 38	mes	_	DET	_	Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes	_	_	_	_
 39	six	_	NUM	_	NumType=Card	_	_	_	_
 40	ans	_	NOUN	_	Number=Plur	_	_	_	_
-41	https://www.avec.txt/des#ailes	_	SYM	_	_	_	_	_
+41	https://www.avec.txt/des#ailes	_	SYM	_	_	_	_	_	_
 42	à	_	ADP	_	_	_	_	_	_
 43	mes	_	DET	_	Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes	_	_	_	_
 44	dix	_	NUM	_	NumType=Card	_	_	_	_
@@ -2437,8 +2437,8 @@
 49	ans	_	NOUN	_	Number=Plur	_	_	_	_
 50	…	_	PUNCT	_	_	_	_	_	_
 51	Livres	_	NOUN	_	Number=Plur	_	_	_	_
-52	défendus	_	VERB	_	Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_
-53	http://qui.mp3	_	SYM	_	_	_	_	_
+52	défendus	_	VERB	_	Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
+53	http://qui.mp3	_	SYM	_	_	_	_	_	_
 54	livres	_	NOUN	_	Number=Plur	_	_	_	_
 55	trop	_	ADV	_	_	_	_	_	_
 56	graves	_	ADJ	_	Number=Plur	_	_	_	_
@@ -2451,7 +2451,7 @@
 63	livres	_	NOUN	_	Number=Plur	_	_	_	_
 64	assez	_	ADV	_	_	_	_	_	_
 65	ennuyeux	_	ADJ	_	Number=Sing	_	_	_	_
-66	https://ne.odt/paraissent#pas	_	SYM	_	_	_	_	_
+66	https://ne.odt/paraissent#pas	_	SYM	_	_	_	_	_	_
 67	livres	_	NOUN	_	Number=Plur	_	_	_	_
 68	éblouissants	_	ADJ	_	Number=Plur	_	_	_	_
 69	,	_	PUNCT	_	_	_	_	_	_
@@ -2466,12 +2466,12 @@
 78	sur	_	ADP	_	_	_	_	_	_
 79	l'	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 80	enfant	_	NOUN	_	Number=Sing	_	_	_	_
-81	enchanté	_	VERB	_	Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_
+81	enchanté	_	VERB	_	Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
 82	leurs	_	DET	_	Number=Plur|Number[psor]=Plur|Person=3|Poss=Yes	_	_	_	_
 83	portes	_	NOUN	_	Number=Plur	_	_	_	_
 84	de	_	ADP	_	_	_	_	_	_
 85	temple	_	NOUN	_	Number=Sing	_	_	_	_
-86	www.plus.docx	_	SYM	_	_	_	_	_
+86	www.plus.docx	_	SYM	_	_	_	_	_	_
 87	Le	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 88	désordre	_	NOUN	_	Number=Sing	_	_	_	_
 89	de	_	ADP	_	_	_	_	_	_
@@ -2483,7 +2483,7 @@
 95	.	_	PUNCT	_	_	_	_	_	_
 96	Chaque	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
 97	livre	_	NOUN	_	Number=Sing	_	_	_	_
-98	https://www.grandes.com/que#celles	_	SYM	_	_	_	_	_
+98	https://www.grandes.com/que#celles	_	SYM	_	_	_	_	_	_
 99	mal	_	ADV	_	_	_	_	_	_
 100	annexé	_	VERB	_	Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
 101	d'	_	ADP	_	_	_	_	_	_
@@ -2502,7 +2502,7 @@
 114	mots	_	NOUN	_	Number=Plur	_	_	_	_
 115	s'	_	PRON	_	Person=3|PronType=Prs|Reflex=Yes	_	_	_	_
 116	ouvrira	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut	_	_	_	_
-117	https://www.parce.org	_	SYM	_	_	_	_	_
+117	https://www.parce.org	_	SYM	_	_	_	_	_	_
 118	quelque	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
 119	jour	_	NOUN	_	Number=Sing	_	_	_	_
 120	,	_	PUNCT	_	_	_	_	_	_
@@ -2523,7 +2523,7 @@
 2	et	_	CCONJ	_	_	_	_	_	_
 3	meurtrière	_	ADJ	_	Number=Sing	_	_	_	_
 4	guerre	_	NOUN	_	Number=Sing	_	_	_	_
-5	http://pas.ch/elle#prend	_	SYM	_	_	_	_	_
+5	http://pas.ch/elle#prend	_	SYM	_	_	_	_	_	_
 6	il	_	PRON	_	Number=Sing|Person=3|PronType=Prs	_	_	_	_
 7	y	_	PRON	_	Person=3	_	_	_	_
 8	a	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
@@ -2540,8 +2540,8 @@
 19	hommes	_	NOUN	_	Number=Plur	_	_	_	_
 20	combattants	_	ADJ	_	Number=Plur	_	_	_	_
 21	ou	_	CCONJ	_	_	_	_	_	_
-22	immolés	_	VERB	_	Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_
-23	https://ainsi.fr	_	SYM	_	_	_	_	_
+22	immolés	_	VERB	_	Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
+23	https://ainsi.fr	_	SYM	_	_	_	_	_	_
 24	Elles	_	PRON	_	Number=Plur|Person=3|PronType=Prs	_	_	_	_
 25	s'	_	PRON	_	Person=3|PronType=Prs|Reflex=Yes	_	_	_	_
 26	y	_	PRON	_	Person=3	_	_	_	_
@@ -2565,7 +2565,7 @@
 44	croyaient	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp	_	_	_	_
 45	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 46	capables	_	ADJ	_	Number=Plur	_	_	_	_
-47	www.un.be/autre#chemin	_	SYM	_	_	_	_	_
+47	www.un.be/autre#chemin	_	SYM	_	_	_	_	_	_
 48	Depuis	_	ADP	_	_	_	_	_	_
 49	,	_	PUNCT	_	_	_	_	_	_
 50	la	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
@@ -2599,7 +2599,7 @@
 78	un	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
 79	petit	_	ADJ	_	Number=Sing	_	_	_	_
 80	foyer	_	NOUN	_	Number=Sing	_	_	_	_
-81	https://www.philosophique.ca	_	SYM	_	_	_	_	_
+81	https://www.philosophique.ca	_	SYM	_	_	_	_	_	_
 82	Valeureuses	_	ADJ	_	Number=Plur	_	_	_	_
 83	,	_	PUNCT	_	_	_	_	_	_
 84	ambitieuses	_	ADJ	_	Number=Plur	_	_	_	_
@@ -2616,7 +2616,7 @@
 95	de	_	ADP	_	_	_	_	_	_
 96	la	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 97	modestie	_	NOUN	_	Number=Sing	_	_	_	_
-98	https://www.et.us/plus#Plût	_	SYM	_	_	_	_	_
+98	https://www.et.us/plus#Plût	_	SYM	_	_	_	_	_	_
 99	les	_	DET	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
 100	femmes	_	NOUN	_	Number=Plur	_	_	_	_
 101	n'	_	ADV	_	Polarity=Neg	_	_	_	_
@@ -2630,14 +2630,14 @@
 109	obscures	_	ADJ	_	Number=Plur	_	_	_	_
 110	et	_	CCONJ	_	_	_	_	_	_
 111	se	_	PRON	_	Person=3|PronType=Prs|Reflex=Yes	_	_	_	_
-112	sont	_	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_
+112	sont	_	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_	_
 113	détournées	_	VERB	_	Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
 114	de	_	ADP	_	_	_	_	_	_
 115	leur	_	DET	_	Number=Sing|Number[psor]=Plur|Person=3|Poss=Yes	_	_	_	_
 116	ancienne	_	ADJ	_	Number=Sing	_	_	_	_
 117	mission	_	NOUN	_	Number=Sing	_	_	_	_
 118	organiser	_	VERB	_	VerbForm=Inf	_	_	_	_
-119	http://au.ci	_	SYM	_	_	_	_	_
+119	http://au.ci	_	SYM	_	_	_	_	_	_
 120	distribuer	_	VERB	_	VerbForm=Inf	_	_	_	_
 121	un	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
 122	casanier	_	ADJ	_	Number=Sing	_	_	_	_
@@ -2655,7 +2655,7 @@
 3	,	_	PUNCT	_	_	_	_	_	_
 4	aujourd'	_	PROPN	_	_	_	_	_	_
 5	hui	_	ADV	_	_	_	_	_	_
-6	https://ciel.es/que#le	_	SYM	_	_	_	_	_
+6	https://ciel.es/que#le	_	SYM	_	_	_	_	_	_
 7	n'	_	ADV	_	Polarity=Neg	_	_	_	_
 8	opposent	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_	_
 9	à	_	ADP	_	_	_	_	_	_
@@ -2666,7 +2666,7 @@
 14	leur	_	DET	_	Number=Sing|Number[psor]=Plur|Person=3|Poss=Yes	_	_	_	_
 15	argument	_	NOUN	_	Number=Sing	_	_	_	_
 16	désolé	_	ADJ	_	Number=Sing	_	_	_	_
-17	www.enhardi.it	_	SYM	_	_	_	_	_
+17	www.enhardi.it	_	SYM	_	_	_	_	_	_
 18	«	_	PUNCT	_	_	_	_	_	_
 19	Retour	_	NOUN	_	Number=Sing	_	_	_	_
 20	au	_	ADP	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
@@ -2683,7 +2683,7 @@
 31	une	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
 32	place	_	NOUN	_	Number=Sing	_	_	_	_
 33	vide	_	ADJ	_	Number=Sing	_	_	_	_
-34	https://www.et.ik/devenu#momentanément	_	SYM	_	_	_	_	_
+34	https://www.et.ik/devenu#momentanément	_	SYM	_	_	_	_	_	_
 35	la	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 36	couche	_	NOUN	_	Number=Sing	_	_	_	_
 37	conjugale	_	ADJ	_	Number=Sing	_	_	_	_
@@ -2700,7 +2700,7 @@
 48	disposaient	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp	_	_	_	_
 49	deux	_	NUM	_	NumType=Card	_	_	_	_
 50	couverts	_	NOUN	_	Number=Plur	_	_	_	_
-51	https://www.féroce.me	_	SYM	_	_	_	_	_
+51	https://www.féroce.me	_	SYM	_	_	_	_	_	_
 52	Celles	_	PRON	_	Number=Plur|Person=3|PronType=Dem	_	_	_	_
 53	-là	_	ADV	_	_	_	_	_	_
 54	,	_	PUNCT	_	_	_	_	_	_
@@ -2714,7 +2714,7 @@
 62	ni	_	CCONJ	_	_	_	_	_	_
 63	la	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 64	douleur	_	NOUN	_	Number=Sing	_	_	_	_
-65	http://comme.pdf/ce#sans	_	SYM	_	_	_	_	_
+65	http://comme.pdf/ce#sans	_	SYM	_	_	_	_	_	_
 66	nous	_	PRON	_	Number=Plur|Person=1|PronType=Prs	_	_	_	_
 67	sommes	_	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres	_	_	_	_
 68	tous	_	PRON	_	Definite=Ind|Number=Plur|Person=3	_	_	_	_
@@ -2726,8 +2726,8 @@
 74	équilibre	_	NOUN	_	Number=Sing	_	_	_	_
 75	matériel	_	ADJ	_	Number=Sing	_	_	_	_
 76	soit	_	AUX	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres	_	_	_	_
-77	garanti	_	VERB	_	Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_
-78	https://se.txt	_	SYM	_	_	_	_	_
+77	garanti	_	VERB	_	Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
+78	https://se.txt	_	SYM	_	_	_	_	_	_
 79	Mais	_	CCONJ	_	_	_	_	_	_
 80	pour	_	ADP	_	_	_	_	_	_
 81	des	_	DET	_	Definite=Ind|Number=Plur|PronType=Art	_	_	_	_
@@ -2747,14 +2747,14 @@
 95	une	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
 96	sorte	_	NOUN	_	Number=Sing	_	_	_	_
 97	de	_	ADP	_	_	_	_	_	_
-98	mise	_	VERB	_	Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_
+98	mise	_	VERB	_	Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
 99	à	_	ADP	_	_	_	_	_	_
 100	la	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 101	retraite	_	NOUN	_	Number=Sing	_	_	_	_
 102	de	_	ADP	_	_	_	_	_	_
 103	sa	_	DET	_	Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes	_	_	_	_
 104	femme	_	NOUN	_	Number=Sing	_	_	_	_
-105	www.son.mp3/chemin#abrupt	_	SYM	_	_	_	_	_
+105	www.son.mp3/chemin#abrupt	_	SYM	_	_	_	_	_	_
 106	il	_	PRON	_	Number=Sing|Person=3|PronType=Prs	_	_	_	_
 107	va	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 108	falloir	_	VERB	_	VerbForm=Inf	_	_	_	_
@@ -2769,7 +2769,7 @@
 117	du	_	ADP	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 118	travail	_	NOUN	_	Number=Sing	_	_	_	_
 119	professionnel	_	ADJ	_	Number=Sing	_	_	_	_
-120	https://www.et.odt	_	SYM	_	_	_	_	_
+120	https://www.et.odt	_	SYM	_	_	_	_	_	_
 121	avec	_	ADP	_	_	_	_	_	_
 122	leur	_	DET	_	Number=Sing|Number[psor]=Plur|Person=3|Poss=Yes	_	_	_	_
 123	amour-propre	_	NOUN	_	Number=Sing	_	_	_	_
@@ -2783,7 +2783,7 @@
 131	sens	_	NOUN	_	Number=Sing	_	_	_	_
 132	des	_	ADP	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
 133	mots	_	NOUN	_	Number=Plur	_	_	_	_
-134	https://www.à.docx/travers#les	_	SYM	_	_	_	_	_
+134	https://www.à.docx/travers#les	_	SYM	_	_	_	_	_	_
 135	la	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 136	femme	_	NOUN	_	Number=Sing	_	_	_	_
 137	ne	_	ADV	_	Polarity=Neg	_	_	_	_
@@ -2794,11 +2794,11 @@
 142	travail	_	NOUN	_	Number=Sing	_	_	_	_
 143	,	_	PUNCT	_	_	_	_	_	_
 144	exclusivement	_	ADV	_	_	_	_	_	_
-145	http://marécages.com	_	SYM	_	_	_	_	_
+145	http://marécages.com	_	SYM	_	_	_	_	_	_
 146	l'	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 147	effort	_	NOUN	_	Number=Sing	_	_	_	_
 148	salarié	_	ADJ	_	Number=Sing	_	_	_	_
-149	qu'	_	SCONJ	_	_	_	_	_
+149	qu'	_	SCONJ	_	_	_	_	_	_
 150	elle	_	PRON	_	Number=Sing|Person=3|PronType=Prs	_	_	_	_
 151	exerce	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 152	à	_	ADP	_	_	_	_	_	_
@@ -2807,7 +2807,7 @@
 155	de	_	ADP	_	_	_	_	_	_
 156	son	_	DET	_	Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes	_	_	_	_
 157	domicile	_	NOUN	_	Number=Sing	_	_	_	_
-158	https://désolés.org/de#ces	_	SYM	_	_	_	_	_
+158	https://désolés.org/de#ces	_	SYM	_	_	_	_	_	_
 159	Et	_	CCONJ	_	_	_	_	_	_
 160	comment	_	ADV	_	_	_	_	_	_
 161	aborder	_	VERB	_	VerbForm=Inf	_	_	_	_
@@ -2819,7 +2819,7 @@
 167	le	_	PRON	_	Definite=Def|Number=Sing|Person=3|PronType=Art	_	_	_	_
 168	jeter	_	VERB	_	VerbForm=Inf	_	_	_	_
 169	bas	_	ADJ	_	Number=Sing	_	_	_	_
-170	www.pages.ch	_	SYM	_	_	_	_	_
+170	www.pages.ch	_	SYM	_	_	_	_	_	_
 171	le	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 172	fragile	_	ADJ	_	Number=Sing	_	_	_	_
 173	édifice	_	NOUN	_	Number=Sing	_	_	_	_
@@ -2836,7 +2836,7 @@
 184	plus	_	ADV	_	_	_	_	_	_
 185	gros	_	ADJ	_	Number=Sing	_	_	_	_
 186	salaire	_	NOUN	_	Number=Sing	_	_	_	_
-187	https://www.sombres.fr/et#pleines	_	SYM	_	_	_	_	_
+187	https://www.sombres.fr/et#pleines	_	SYM	_	_	_	_	_	_
 188	parfois	_	ADV	_	_	_	_	_	_
 189	le	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 190	seul	_	ADJ	_	Number=Sing	_	_	_	_
@@ -2854,7 +2854,7 @@
 3	pour	_	ADP	_	_	_	_	_	_
 4	la	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 5	femme	_	NOUN	_	Number=Sing	_	_	_	_
-6	https://www.de.be	_	SYM	_	_	_	_	_
+6	https://www.de.be	_	SYM	_	_	_	_	_	_
 7	il	_	PRON	_	Number=Sing|Person=3|PronType=Prs	_	_	_	_
 8	y	_	PRON	_	Person=3	_	_	_	_
 9	a	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
@@ -2876,21 +2876,21 @@
 25	tout	_	ADJ	_	Number=Sing	_	_	_	_
 26	la	_	PRON	_	Definite=Def|Number=Sing|Person=3|PronType=Art	_	_	_	_
 27	blessa	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	_	_	_	_
-28	http://poison.ca/à#moins	_	SYM	_	_	_	_	_
+28	http://poison.ca/à#moins	_	SYM	_	_	_	_	_	_
 29	Après	_	ADP	_	_	_	_	_	_
 30	,	_	PUNCT	_	_	_	_	_	_
 31	elle	_	PRON	_	Number=Sing|Person=3|PronType=Prs	_	_	_	_
 32	n'	_	ADV	_	Polarity=Neg	_	_	_	_
 33	eut	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	_	_	_	_
 34	plus	_	ADV	_	_	_	_	_	_
-35	d'	_	ADP	_	_	_	_	_
+35	d'	_	ADP	_	_	_	_	_	_
 36	autre	_	ADJ	_	Number=Sing	_	_	_	_
 37	devise	_	NOUN	_	Number=Sing	_	_	_	_
 38	que	_	SCONJ	_	_	_	_	_	_
 39	celle	_	PRON	_	Number=Sing|Person=3|PronType=Dem	_	_	_	_
 40	de	_	ADP	_	_	_	_	_	_
 41	Fouquet	_	PROPN	_	_	_	_	_	_
-42	https://dans.us	_	SYM	_	_	_	_	_
+42	https://dans.us	_	SYM	_	_	_	_	_	_
 43	Mais	_	CCONJ	_	_	_	_	_	_
 44	elle	_	PRON	_	Number=Sing|Person=3|PronType=Prs	_	_	_	_
 45	dut	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	_	_	_	_
@@ -2901,7 +2901,7 @@
 50	les	_	DET	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
 51	apprentissages	_	NOUN	_	Number=Plur	_	_	_	_
 52	rapides	_	ADJ	_	Number=Plur	_	_	_	_
-53	www.sa.ci/lecture#une	_	SYM	_	_	_	_	_
+53	www.sa.ci/lecture#une	_	SYM	_	_	_	_	_	_
 54	accepter	_	VERB	_	VerbForm=Inf	_	_	_	_
 55	l'	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 56	atmosphère	_	NOUN	_	Number=Sing	_	_	_	_
@@ -2912,7 +2912,7 @@
 61	acclimater	_	VERB	_	VerbForm=Inf	_	_	_	_
 62	aux	_	ADP	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
 63	vestiaires	_	NOUN	_	Number=Plur	_	_	_	_
-64	https://www.logique.es	_	SYM	_	_	_	_	_
+64	https://www.logique.es	_	SYM	_	_	_	_	_	_
 65	aux	_	ADP	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
 66	réfectoires	_	NOUN	_	Number=Plur	_	_	_	_
 67	,	_	PUNCT	_	_	_	_	_	_
@@ -2933,7 +2933,7 @@
 82	et	_	CCONJ	_	_	_	_	_	_
 83	des	_	ADP	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
 84	compagnons	_	NOUN	_	Number=Plur	_	_	_	_
-85	https://www.rigoureuse.it/et#une	_	SYM	_	_	_	_	_
+85	https://www.rigoureuse.it/et#une	_	SYM	_	_	_	_	_	_
 86	à	_	ADP	_	_	_	_	_	_
 87	la	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 88	sécheresse	_	NOUN	_	Number=Sing	_	_	_	_
@@ -2953,9 +2953,9 @@
 102	peu	_	ADV	_	_	_	_	_	_
 103	d'	_	ADP	_	_	_	_	_	_
 104	années	_	NOUN	_	Number=Plur	_	_	_	_
-105	http://tension.ik	_	SYM	_	_	_	_	_
+105	http://tension.ik	_	SYM	_	_	_	_	_	_
 106	Pour	_	ADP	_	_	_	_	_	_
-107	féroce	_	ADJ	_	Number=Sing	_	_	_
+107	féroce	_	ADJ	_	Number=Sing	_	_	_	_
 108	,	_	PUNCT	_	_	_	_	_	_
 109	elle	_	PRON	_	Number=Sing|Person=3|PronType=Prs	_	_	_	_
 110	l'	_	PRON	_	Definite=Def|Number=Sing|Person=3|PronType=Art	_	_	_	_
@@ -2977,7 +2977,7 @@
 126	ni	_	CCONJ	_	_	_	_	_	_
 127	le	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 128	silence	_	NOUN	_	Number=Sing	_	_	_	_
-129	https://égale.me/au#moins	_	SYM	_	_	_	_	_
+129	https://égale.me/au#moins	_	SYM	_	_	_	_	_	_
 130	Vivre	_	VERB	_	VerbForm=Inf	_	_	_	_
 131	en	_	ADP	_	_	_	_	_	_
 132	équipe	_	NOUN	_	Number=Sing	_	_	_	_
@@ -2990,7 +2990,7 @@
 139	une	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
 140	toute-puissante	_	ADJ	_	Number=Sing	_	_	_	_
 141	accoutumance	_	NOUN	_	Number=Sing	_	_	_	_
-142	www.à.pdf	_	SYM	_	_	_	_	_
+142	www.à.pdf	_	SYM	_	_	_	_	_	_
 143	et	_	CCONJ	_	_	_	_	_	_
 144	telle	_	ADJ	_	Number=Sing	_	_	_	_
 145	travailleuse	_	NOUN	_	Number=Sing	_	_	_	_
@@ -3006,7 +3006,7 @@
 155	d'	_	ADP	_	_	_	_	_	_
 156	y	_	PRON	_	Person=3	_	_	_	_
 157	échapper	_	VERB	_	VerbForm=Inf	_	_	_	_
-158	https://www.sa.txt/les#émanations	_	SYM	_	_	_	_	_
+158	https://www.sa.txt/les#émanations	_	SYM	_	_	_	_	_	_
 159	Edgar	_	PROPN	_	_	_	_	_	_
 160	Poe	_	NOUN	_	Number=Sing	_	_	_	_
 161	n'	_	ADV	_	Polarity=Neg	_	_	_	_
@@ -3020,13 +3020,13 @@
 169	homme	_	NOUN	_	Number=Sing	_	_	_	_
 170	des	_	ADP	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
 171	foules	_	NOUN	_	Number=Plur	_	_	_	_
-172	https://www.mortelles.mp3	_	SYM	_	_	_	_	_
+172	https://www.mortelles.mp3	_	SYM	_	_	_	_	_	_
 173	Le	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 174	travail	_	NOUN	_	Number=Sing	_	_	_	_
 175	en	_	ADP	_	_	_	_	_	_
 176	commun	_	NOUN	_	Number=Sing	_	_	_	_
 177	,	_	PUNCT	_	_	_	_	_	_
-178	qu'	_	PRON	_	PronType=Int	_	_	_
+178	qu'	_	PRON	_	PronType=Int	_	_	_	_
 179	imposa	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	_	_	_	_
 180	l'	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 181	époque	_	NOUN	_	Number=Sing	_	_	_	_
@@ -3037,7 +3037,7 @@
 186	femme	_	NOUN	_	Number=Sing	_	_	_	_
 187	au	_	ADP	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 188	plaisir	_	NOUN	_	Number=Sing	_	_	_	_
-189	http://de.odt/ce#livre	_	SYM	_	_	_	_	_
+189	http://de.odt/ce#livre	_	SYM	_	_	_	_	_	_
 190	au	_	ADP	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 191	loisir	_	NOUN	_	Number=Sing	_	_	_	_
 192	en	_	ADP	_	_	_	_	_	_
@@ -3048,7 +3048,7 @@
 197	les	_	PRON	_	Definite=Def|Number=Plur|Person=3|PronType=Art	_	_	_	_
 198	a	_	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 199	exigés	_	VERB	_	Tense=Past|VerbForm=Part	_	_	_	_
-200	https://imbiberont.docx	_	SYM	_	_	_	_	_
+200	https://imbiberont.docx	_	SYM	_	_	_	_	_	_
 201	La	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 202	blouse	_	NOUN	_	Number=Sing	_	_	_	_
 203	de	_	ADP	_	_	_	_	_	_
@@ -3059,7 +3059,7 @@
 208	deux	_	NUM	_	NumType=Card	_	_	_	_
 209	plus-four	_	NOUN	_	Number=Plur	_	_	_	_
 210	identiques	_	ADJ	_	Number=Plur	_	_	_	_
-211	www.son.com/âme#comme	_	SYM	_	_	_	_	_
+211	www.son.com/âme#comme	_	SYM	_	_	_	_	_	_
 212	à	_	ADP	_	_	_	_	_	_
 213	deux	_	NUM	_	NumType=Card	_	_	_	_
 214	pull-over	_	NOUN	_	Number=Plur	_	_	_	_
@@ -3070,5 +3070,5 @@
 219	selles	_	NOUN	_	Number=Plur	_	_	_	_
 220	du	_	ADP	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 221	tandem	_	NOUN	_	Number=Sing	_	_	_	_
-222	https://www.le.org	_	SYM	_	_	_	_	_
+222	https://www.le.org	_	SYM	_	_	_	_	_	_
 

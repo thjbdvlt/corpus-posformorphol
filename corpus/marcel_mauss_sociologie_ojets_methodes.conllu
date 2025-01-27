@@ -4,12 +4,12 @@
 1	Quoique	_	SCONJ	_	_	_	_	_	_
 2	le	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 3	mot	_	NOUN	_	Number=Sing	_	_	_	_
-4	fût	_	AUX	_	Mood=Sub|Number=Sing|Person=3|Tense=Imp	_	_	_
+4	fût	_	AUX	_	Mood=Sub|Number=Sing|Person=3|Tense=Imp	_	_	_	_
 5	formé	_	VERB	_	Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
 6	d'	_	ADP	_	_	_	_	_	_
 7	un	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
-8	radical	_	NOUN	_	Number=Sing	_	_	_
-9	latin	_	ADJ	_	Number=Sing	_	_	_
+8	radical	_	NOUN	_	Number=Sing	_	_	_	_
+9	latin	_	ADJ	_	Number=Sing	_	_	_	_
 10	et	_	CCONJ	_	_	_	_	_	_
 11	d'	_	ADP	_	_	_	_	_	_
 12	une	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
@@ -22,7 +22,7 @@
 19	raison	_	NOUN	_	Number=Sing	_	_	_	_
 20	les	_	DET	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
 21	puristes	_	NOUN	_	Number=Plur	_	_	_	_
-22	aient	_	AUX	_	VerbForm=Inf	_	_	_
+22	aient	_	AUX	_	VerbForm=Inf	_	_	_	_
 23	longtemps	_	ADV	_	_	_	_	_	_
 24	refusé	_	VERB	_	Tense=Past|VerbForm=Part	_	_	_	_
 25	de	_	ADP	_	_	_	_	_	_
@@ -30,7 +30,7 @@
 27	reconnaître	_	VERB	_	VerbForm=Inf	_	_	_	_
 28	,	_	PUNCT	_	_	_	_	_	_
 29	il	_	PRON	_	Number=Sing|Person=3|PronType=Prs	_	_	_	_
-30	a	_	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_
+30	a	_	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 31	aujourd'hui	_	ADV	_	_	_	_	_	_
 32	conquis	_	VERB	_	Tense=Past|VerbForm=Part	_	_	_	_
 33	droit	_	NOUN	_	Number=Sing	_	_	_	_
@@ -95,7 +95,7 @@
 2	remarquera	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut	_	_	_	_
 3	sans	_	ADP	_	Polarity=Neg	_	_	_	_
 4	peine	_	NOUN	_	Number=Sing	_	_	_	_
-5	que	_	SCONJ	_	_	_	_	_
+5	que	_	SCONJ	_	_	_	_	_	_
 6	nous	_	PRON	_	Number=Plur|Person=1|PronType=Prs	_	_	_	_
 7	nous	_	PRON	_	Number=Plur|Person=1|PronType=Prs|Reflex=Yes	_	_	_	_
 8	inspirons	_	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres	_	_	_	_
@@ -125,7 +125,7 @@
 7	,	_	PUNCT	_	_	_	_	_	_
 8	ce	_	PRON	_	Number=Sing|Person=3|PronType=Dem	_	_	_	_
 9	n'	_	ADV	_	Polarity=Neg	_	_	_	_
-10	est	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_
+10	est	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 11	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 12	seulement	_	ADV	_	_	_	_	_	_
 13	parce	_	SCONJ	_	_	_	_	_	_
@@ -140,7 +140,7 @@
 22	théoriques	_	ADJ	_	Number=Plur	_	_	_	_
 23	,	_	PUNCT	_	_	_	_	_	_
 24	c'	_	PRON	_	Number=Sing|Person=3|PronType=Dem	_	_	_	_
-25	est	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_
+25	est	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 26	encore	_	ADV	_	_	_	_	_	_
 27	qu'	_	SCONJ	_	_	_	_	_	_
 28	elles	_	PRON	_	Number=Plur|Person=3|PronType=Prs	_	_	_	_
@@ -236,7 +236,7 @@
 25	faits	_	NOUN	_	Number=Plur	_	_	_	_
 26	absolument	_	ADV	_	_	_	_	_	_
 27	différents	_	ADJ	_	Number=Plur	_	_	_	_
-28	des	_	ADP	_	Definite=Def|PronType=Art|Number=Plur	_	_	_
+28	des	_	ADP	_	Definite=Def|PronType=Art|Number=Plur	_	_	_	_
 29	faits	_	NOUN	_	Number=Plur	_	_	_	_
 30	naturels	_	ADJ	_	Number=Plur	_	_	_	_
 31	,	_	PUNCT	_	_	_	_	_	_
@@ -257,7 +257,7 @@
 2	le	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 3	sociologue	_	NOUN	_	Number=Sing	_	_	_	_
 4	n'	_	ADV	_	Polarity=Neg	_	_	_	_
-5	a	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_
+5	a	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 6	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 7	à	_	ADP	_	_	_	_	_	_
 8	justifier	_	VERB	_	VerbForm=Inf	_	_	_	_
@@ -282,7 +282,7 @@
 7	dès	_	ADP	_	_	_	_	_	_
 8	le	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 9	moment	_	NOUN	_	Number=Sing	_	_	_	_
-10	qu'	_	PRON	_	PronType=Rel	_	_	_
+10	qu'	_	PRON	_	PronType=Rel	_	_	_	_
 11	elle	_	PRON	_	Number=Sing|Person=3|PronType=Prs	_	_	_	_
 12	en	_	PRON	_	Person=3	_	_	_	_
 13	entrevoit	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
@@ -290,7 +290,7 @@
 15	possibilité	_	NOUN	_	Number=Sing	_	_	_	_
 16	,	_	PUNCT	_	_	_	_	_	_
 17	et	_	CCONJ	_	_	_	_	_	_
-18	des	_	DET	_	Definite=Ind|Number=Plur|PronType=Art	_	_	_
+18	des	_	DET	_	Definite=Ind|Number=Plur|PronType=Art	_	_	_	_
 19	théories	_	NOUN	_	Number=Plur	_	_	_	_
 20	philosophiques	_	ADJ	_	Number=Plur	_	_	_	_
 21	,	_	PUNCT	_	_	_	_	_	_
@@ -360,7 +360,7 @@
 44	que	_	SCONJ	_	_	_	_	_	_
 45	celle-ci	_	PRON	_	Number=Sing|Person=3|PronType=Dem	_	_	_	_
 46	obtient	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
-47	des	_	DET	_	Number=Plur|PronType=Art|Definite=Ind	_	_	_
+47	des	_	DET	_	Number=Plur|PronType=Art|Definite=Ind	_	_	_	_
 48	résultats	_	NOUN	_	Number=Plur	_	_	_	_
 49	.	_	PUNCT	_	_	_	_	_	_
 
@@ -418,7 +418,7 @@
 24	c'	_	PRON	_	Number=Sing|Person=3|PronType=Dem	_	_	_	_
 25	est-à-dire	_	VERB	_	VerbForm=Inf	_	_	_	_
 26	sont	_	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_	_
-27	soumis	_	VERB	_	Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_
+27	soumis	_	VERB	_	Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
 28	au	_	ADP	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 29	principe	_	NOUN	_	Number=Sing	_	_	_	_
 30	de	_	ADP	_	_	_	_	_	_
@@ -504,8 +504,8 @@
 34	de	_	ADP	_	_	_	_	_	_
 35	supposer	_	VERB	_	VerbForm=Inf	_	_	_	_
 36	que	_	SCONJ	_	_	_	_	_	_
-37	le	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_
-38	règne	_	NOUN	_	Number=Sing	_	_	_
+37	le	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
+38	règne	_	NOUN	_	Number=Sing	_	_	_	_
 39	social	_	ADJ	_	Number=Sing	_	_	_	_
 40	-	_	PUNCT	_	_	_	_	_	_
 41	s'	_	SCONJ	_	_	_	_	_	_
@@ -521,7 +521,7 @@
 51	ainsi	_	ADV	_	_	_	_	_	_
 52	-	_	PUNCT	_	_	_	_	_	_
 53	ne	_	ADV	_	Polarity=Neg	_	_	_	_
-54	fait	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_
+54	fait	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 55	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 56	exception	_	NOUN	_	Number=Sing	_	_	_	_
 57	.	_	PUNCT	_	_	_	_	_	_
@@ -582,7 +582,7 @@
 14	trouvé	_	VERB	_	Tense=Past|VerbForm=Part	_	_	_	_
 15	être	_	VERB	_	VerbForm=Inf	_	_	_	_
 16	vrai	_	ADJ	_	Number=Sing	_	_	_	_
-17	des	_	DET	_	Definite=Ind|Number=Plur|PronType=Art	_	_	_
+17	des	_	DET	_	Definite=Ind|Number=Plur|PronType=Art	_	_	_	_
 18	faits	_	NOUN	_	Number=Plur	_	_	_	_
 19	physiques	_	ADJ	_	Number=Plur	_	_	_	_
 20	,	_	PUNCT	_	_	_	_	_	_
@@ -623,7 +623,7 @@
 6	cet	_	DET	_	Number=Sing|PronType=Dem	_	_	_	_
 7	échec	_	NOUN	_	Number=Sing	_	_	_	_
 8	n'	_	ADV	_	Polarity=Neg	_	_	_	_
-9	est	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_
+9	est	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 10	plus	_	ADV	_	_	_	_	_	_
 11	à	_	ADP	_	_	_	_	_	_
 12	craindre	_	VERB	_	VerbForm=Inf	_	_	_	_
@@ -706,7 +706,7 @@
 # text = Plus elle entre en contact avec les faits et plus elle voit se révéler des régularités insoupçonnées , des concordances beaucoup plus précises qu' on ne pouvait le supposer d' abord ; plus , par conséquent , se fortifie le sentiment que l' on se trouve en présence d' un ordre naturel , dont l' existence ne peut plus être mise en doute que par des philosophes éloignés de la réalité dont ils parlent .
 1	Plus	_	ADV	_	_	_	_	_	_
 2	elle	_	PRON	_	Number=Sing|Person=3|PronType=Prs	_	_	_	_
-1	entre	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_
+1	entre	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	_
 4	en	_	ADP	_	_	_	_	_	_
 5	contact	_	NOUN	_	Number=Sing	_	_	_	_
 6	avec	_	ADP	_	_	_	_	_	_
@@ -771,7 +771,7 @@
 65	par	_	ADP	_	_	_	_	_	_
 66	des	_	DET	_	Definite=Ind|Number=Plur|PronType=Art	_	_	_	_
 67	philosophes	_	NOUN	_	Number=Plur	_	_	_	_
-68	éloignés	_	ADJ	_	Number=Plur	_	_	_
+68	éloignés	_	ADJ	_	Number=Plur	_	_	_	_
 69	de	_	ADP	_	_	_	_	_	_
 70	la	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 71	réalité	_	NOUN	_	Number=Sing	_	_	_	_
@@ -796,7 +796,7 @@
 10	que	_	SCONJ	_	_	_	_	_	_
 11	les	_	DET	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
 12	faits	_	NOUN	_	Number=Plur	_	_	_	_
-13	appelés	_	VERB	_	Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_
+13	appelés	_	VERB	_	Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
 14	sociaux	_	ADJ	_	Number=Plur	_	_	_	_
 15	sont	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_	_
 16	naturels	_	ADJ	_	Number=Plur	_	_	_	_
@@ -816,12 +816,12 @@
 30	il	_	PRON	_	Number=Sing|Person=3|PronType=Prs	_	_	_	_
 31	y	_	PRON	_	Person=3	_	_	_	_
 32	ait	_	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres	_	_	_	_
-33	des	_	DET	_	Definite=Ind|Number=Plur|PronType=Art	_	_	_
+33	des	_	DET	_	Definite=Ind|Number=Plur|PronType=Art	_	_	_	_
 34	faits	_	NOUN	_	Number=Plur	_	_	_	_
 35	qui	_	PRON	_	PronType=Rel	_	_	_	_
 36	puissent	_	VERB	_	Mood=Sub|Number=Plur|Person=3|Tense=Pres	_	_	_	_
 37	être	_	VERB	_	VerbForm=Inf	_	_	_	_
-38	proprement	_	ADV	_	_	_	_	_
+38	proprement	_	ADV	_	_	_	_	_	_
 39	appelés	_	VERB	_	Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
 40	de	_	ADP	_	_	_	_	_	_
 41	ce	_	DET	_	Number=Sing|PronType=Dem	_	_	_	_
@@ -966,7 +966,7 @@
 5	a	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 6	-t	_	ADP	_	_	_	_	_	_
 7	-il	_	PRON	_	Number=Sing|Person=3|PronType=Prs	_	_	_	_
-8	des	_	DET	_	Definite=Ind|Number=Plur|PronType=Art	_	_	_
+8	des	_	DET	_	Definite=Ind|Number=Plur|PronType=Art	_	_	_	_
 9	faits	_	NOUN	_	Number=Plur	_	_	_	_
 10	qui	_	PRON	_	PronType=Rel	_	_	_	_
 11	soient	_	VERB	_	Mood=Sub|Number=Plur|Person=3|Tense=Pres	_	_	_	_
@@ -992,7 +992,7 @@
 12	nient	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_	_
 13	figurent	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_	_
 14	même	_	ADV	_	_	_	_	_	_
-15	des	_	DET	_	Number=Plur|PronType=Art|Definite=Ind	_	_	_
+15	des	_	DET	_	Number=Plur|PronType=Art|Definite=Ind	_	_	_	_
 16	penseurs	_	NOUN	_	Number=Plur	_	_	_	_
 17	qui	_	PRON	_	PronType=Rel	_	_	_	_
 18	prétendent	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_	_
@@ -1062,7 +1062,7 @@
 12	ne	_	ADV	_	Polarity=Neg	_	_	_	_
 13	change	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 14	pas	_	ADV	_	Polarity=Neg	_	_	_	_
-15	de	_	ADP	_	_	_	_	_
+15	de	_	ADP	_	_	_	_	_	_
 16	nature	_	NOUN	_	Number=Sing	_	_	_	_
 17	parce	_	SCONJ	_	_	_	_	_	_
 18	qu'	_	SCONJ	_	_	_	_	_	_
@@ -1071,7 +1071,7 @@
 21	plus	_	ADV	_	_	_	_	_	_
 22	ou	_	CCONJ	_	_	_	_	_	_
 23	moins	_	ADV	_	_	_	_	_	_
-24	répété	_	VERB	_	Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_
+24	répété	_	VERB	_	Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
 25	.	_	PUNCT	_	_	_	_	_	_
 
 
@@ -1184,7 +1184,7 @@
 5	constant	_	ADJ	_	Number=Sing	_	_	_	_
 6	,	_	PUNCT	_	_	_	_	_	_
 7	c'	_	PRON	_	Number=Sing|Person=3|PronType=Dem	_	_	_	_
-8	est	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_
+8	est	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 9	qu'	_	SCONJ	_	_	_	_	_	_
 10	il	_	PRON	_	Number=Sing|Person=3|PronType=Prs	_	_	_	_
 11	existe	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
@@ -1193,7 +1193,7 @@
 14	,	_	PUNCT	_	_	_	_	_	_
 15	c'	_	PRON	_	Number=Sing|Person=3|PronType=Dem	_	_	_	_
 16	est-à-dire	_	VERB	_	VerbForm=Inf	_	_	_	_
-17	des	_	DET	_	Definite=Ind|Number=Plur|PronType=Art	_	_	_
+17	des	_	DET	_	Definite=Ind|Number=Plur|PronType=Art	_	_	_	_
 18	agrégats	_	NOUN	_	Number=Plur	_	_	_	_
 19	d'	_	ADP	_	_	_	_	_	_
 20	êtres	_	NOUN	_	Number=Plur	_	_	_	_
@@ -1217,8 +1217,8 @@
 11	nations	_	NOUN	_	Number=Plur	_	_	_	_
 12	,	_	PUNCT	_	_	_	_	_	_
 13	d'	_	DET	_	Definite=Ind|Number=Plur|PronType=Art	_	_	_	_
-14	autres	_	PRON	_	Number=Plur|Person=3	_	_	_
-15	éphémères	_	ADJ	_	Number=Plur	_	_	_
+14	autres	_	PRON	_	Number=Plur|Person=3	_	_	_	_
+15	éphémères	_	ADJ	_	Number=Plur	_	_	_	_
 16	comme	_	SCONJ	_	_	_	_	_	_
 17	les	_	DET	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
 18	foules	_	NOUN	_	Number=Plur	_	_	_	_
@@ -1340,7 +1340,7 @@
 1	Or	_	CCONJ	_	_	_	_	_	_
 2	la	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 3	question	_	NOUN	_	Number=Sing	_	_	_	_
-4	est	_	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_
+4	est	_	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 5	de	_	ADP	_	_	_	_	_	_
 6	savoir	_	VERB	_	VerbForm=Inf	_	_	_	_
 7	si	_	SCONJ	_	_	_	_	_	_
@@ -1359,7 +1359,7 @@
 20	,	_	PUNCT	_	_	_	_	_	_
 21	il	_	PRON	_	Number=Sing|Person=3|PronType=Prs	_	_	_	_
 22	en	_	PRON	_	Person=3	_	_	_	_
-23	est	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_
+23	est	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 24	qui	_	PRON	_	PronType=Rel	_	_	_	_
 25	manifestent	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_	_
 26	la	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
@@ -1410,7 +1410,7 @@
 13	que	_	SCONJ	_	_	_	_	_	_
 14	le	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 15	groupe	_	NOUN	_	Number=Sing	_	_	_	_
-16	est	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_
+16	est	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 17	ce	_	PRON	_	Number=Sing|Person=3|PronType=Dem	_	_	_	_
 18	qu'	_	PRON	_	PronType=Rel	_	_	_	_
 19	il	_	PRON	_	Number=Sing|Person=3|PronType=Prs	_	_	_	_
@@ -1450,16 +1450,16 @@
 27	la	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 28	société	_	NOUN	_	Number=Sing	_	_	_	_
 29	,	_	PUNCT	_	_	_	_	_	_
-30	distincte	_	ADJ	_	Number=Sing	_	_	_
+30	distincte	_	ADJ	_	Number=Sing	_	_	_	_
 31	de	_	ADP	_	_	_	_	_	_
 32	celle	_	PRON	_	Number=Sing|Person=3|PronType=Dem	_	_	_	_
-33	que	_	PRON	_	PronType=Rel	_	_	_
+33	que	_	PRON	_	PronType=Rel	_	_	_	_
 34	mènent	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_	_
 35	les	_	DET	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
 36	individus	_	NOUN	_	Number=Plur	_	_	_	_
 37	ou	_	CCONJ	_	_	_	_	_	_
 38	plutôt	_	ADV	_	_	_	_	_	_
-39	distincte	_	ADJ	_	Number=Sing	_	_	_
+39	distincte	_	ADJ	_	Number=Sing	_	_	_	_
 40	de	_	ADP	_	_	_	_	_	_
 41	celle	_	PRON	_	Number=Sing|Person=3|PronType=Dem	_	_	_	_
 42	qu'	_	PRON	_	PronType=Rel	_	_	_	_
@@ -1468,7 +1468,7 @@
 45	s'	_	SCONJ	_	_	_	_	_	_
 46	ils	_	PRON	_	Number=Plur|Person=3|PronType=Prs	_	_	_	_
 47	vivaient	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp	_	_	_	_
-48	isolés	_	VERB	_	Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_
+48	isolés	_	VERB	_	Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
 49	.	_	PUNCT	_	_	_	_	_	_
 
 
@@ -1573,7 +1573,7 @@
 18	normaux	_	ADJ	_	Number=Plur	_	_	_	_
 19	,	_	PUNCT	_	_	_	_	_	_
 20	régulièrement	_	ADV	_	_	_	_	_	_
-21	répétés	_	VERB	_	Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_
+21	répétés	_	VERB	_	Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
 22	,	_	PUNCT	_	_	_	_	_	_
 23	qui	_	PRON	_	PronType=Rel	_	_	_	_
 24	intéressent	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_	_
@@ -1627,7 +1627,7 @@
 25	est	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 26	de	_	ADP	_	_	_	_	_	_
 27	même	_	ADV	_	_	_	_	_	_
-28	des	_	ADP	_	Definite=Def|Number=Plur|PronType=Art	_	_	_
+28	des	_	ADP	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
 29	fonctions	_	NOUN	_	Number=Plur	_	_	_	_
 30	psychologiques	_	ADJ	_	Number=Plur	_	_	_	_
 31	:	_	PUNCT	_	_	_	_	_	_
@@ -1671,7 +1671,7 @@
 # sent_id = marcel_mauss_sociologie_ojets_methodes.45
 # text = Mais personne ne songe à les ranger dans la catégorie des faits sociaux malgré leur généralité .
 1	Mais	_	CCONJ	_	_	_	_	_	_
-2	personne	_	PRON	_	Number=Sing|Polarity=Neg|PronType=Ind	_	_	_
+2	personne	_	PRON	_	Number=Sing|Polarity=Neg|PronType=Ind	_	_	_	_
 3	ne	_	ADV	_	Polarity=Neg	_	_	_	_
 4	songe	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 5	à	_	ADP	_	_	_	_	_	_
@@ -1693,7 +1693,7 @@
 # sent_id = marcel_mauss_sociologie_ojets_methodes.46
 # text = C' est qu' ils ne tiennent aucunement à la nature du groupement , mais dérivent de la nature organique et psychique de l' individu .
 1	C'	_	PRON	_	Number=Sing|Person=3|PronType=Dem	_	_	_	_
-2	est	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_
+2	est	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 3	qu'	_	SCONJ	_	_	_	_	_	_
 4	ils	_	PRON	_	Number=Plur|Person=3|PronType=Prs	_	_	_	_
 5	ne	_	ADV	_	Polarity=Neg	_	_	_	_
@@ -1706,7 +1706,7 @@
 12	groupement	_	NOUN	_	Number=Sing	_	_	_	_
 13	,	_	PUNCT	_	_	_	_	_	_
 14	mais	_	CCONJ	_	_	_	_	_	_
-15	dérivent	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_
+15	dérivent	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_	_
 16	de	_	ADP	_	_	_	_	_	_
 17	la	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 18	nature	_	NOUN	_	Number=Sing	_	_	_	_
@@ -1923,7 +1923,7 @@
 50	un	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
 51	caractère	_	NOUN	_	Number=Sing	_	_	_	_
 52	,	_	PUNCT	_	_	_	_	_	_
-53	des	_	DET	_	Definite=Ind|Number=Plur|PronType=Art	_	_	_
+53	des	_	DET	_	Definite=Ind|Number=Plur|PronType=Art	_	_	_	_
 54	habitudes	_	NOUN	_	Number=Plur	_	_	_	_
 55	comme	_	SCONJ	_	_	_	_	_	_
 56	les	_	DET	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
@@ -1960,7 +1960,7 @@
 21	nature	_	NOUN	_	Number=Sing	_	_	_	_
 22	propre	_	ADJ	_	Number=Sing	_	_	_	_
 23	,	_	PUNCT	_	_	_	_	_	_
-24	qu'	_	PRON	_	PronType=Rel	_	_	_
+24	qu'	_	PRON	_	PronType=Rel	_	_	_	_
 25	il	_	PRON	_	Number=Sing|Person=3|PronType=Prs	_	_	_	_
 26	détermine	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 27	chez	_	ADP	_	_	_	_	_	_
@@ -2028,12 +2028,12 @@
 1	Entre	_	ADP	_	_	_	_	_	_
 2	les	_	DET	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
 3	idées	_	NOUN	_	Number=Plur	_	_	_	_
-4	qu'	_	PRON	_	PronType=Rel	_	_	_
+4	qu'	_	PRON	_	PronType=Rel	_	_	_	_
 5	aurait	_	VERB	_	Mood=Cnd|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 6	,	_	PUNCT	_	_	_	_	_	_
 7	les	_	DET	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
 8	actes	_	NOUN	_	Number=Plur	_	_	_	_
-9	qu'	_	PRON	_	PronType=Rel	_	_	_
+9	qu'	_	PRON	_	PronType=Rel	_	_	_	_
 10	accomplirait	_	VERB	_	Mood=Cnd|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 11	un	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
 12	individu	_	NOUN	_	Number=Sing	_	_	_	_
@@ -2063,8 +2063,8 @@
 36	à	_	ADP	_	_	_	_	_	_
 37	des	_	DET	_	Definite=Ind|Number=Plur|PronType=Art	_	_	_	_
 38	forces	_	NOUN	_	Number=Plur	_	_	_	_
-39	sui	_	ADJ	_	Number=Plur	_	_	_
-40	generis	_	ADJ	_	Number=Plur	_	_	_
+39	sui	_	ADJ	_	Number=Plur	_	_	_	_
+40	generis	_	ADJ	_	Number=Plur	_	_	_	_
 41	:	_	PUNCT	_	_	_	_	_	_
 42	sinon	_	SCONJ	_	_	_	_	_	_
 43	,	_	PUNCT	_	_	_	_	_	_
@@ -2092,7 +2092,7 @@
 13	sociétés	_	NOUN	_	Number=Plur	_	_	_	_
 14	modernes	_	ADJ	_	Number=Plur	_	_	_	_
 15	d'	_	ADP	_	_	_	_	_	_
-16	Occident	_	NOUN	_	Number=Sing	_	_	_
+16	Occident	_	NOUN	_	Number=Sing	_	_	_	_
 17	:	_	PUNCT	_	_	_	_	_	_
 18	production	_	NOUN	_	Number=Sing	_	_	_	_
 19	industrielle	_	ADJ	_	Number=Sing	_	_	_	_
@@ -2128,7 +2128,7 @@
 
 # sent_id = marcel_mauss_sociologie_ojets_methodes.56
 # text = Qu' on songe au nombre considérable de notions , d' institutions , d' habitudes que supposent les plus simples actes d' un·e commerçant·e ou d' un·e ouvrier·ère qui cherche à gagner sa vie ; il est manifeste que ni l' un·e ni l' autre ne créent les formes que prend nécessairement leur activité : ni l' un·e ni l' autre n' inventent le crédit , l' intérêt , le salaire , l' échange ou la monnaie .
-1	Qu'	_	SCONJ	_	_	_	_	_
+1	Qu'	_	SCONJ	_	_	_	_	_	_
 2	on	_	PRON	_	Number=Sing|Person=3|PronType=Prs	_	_	_	_
 3	songe	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 4	au	_	ADP	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
@@ -2168,7 +2168,7 @@
 38	que	_	SCONJ	_	_	_	_	_	_
 39	ni	_	CCONJ	_	_	_	_	_	_
 40	l'	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
-57	un·e	_	PRON	_	Number=Sing|Person=3	_	_	_
+57	un·e	_	PRON	_	Number=Sing|Person=3	_	_	_	_
 42	ni	_	CCONJ	_	_	_	_	_	_
 43	l'	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 44	autre	_	PRON	_	Number=Sing|Person=3	_	_	_	_
@@ -2176,7 +2176,7 @@
 46	créent	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_	_
 47	les	_	DET	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
 48	formes	_	NOUN	_	Number=Plur	_	_	_	_
-49	que	_	PRON	_	PronType=Rel	_	_	_
+49	que	_	PRON	_	PronType=Rel	_	_	_	_
 50	prend	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 51	nécessairement	_	ADV	_	_	_	_	_	_
 52	leur	_	DET	_	Number=Sing|Number[psor]=Plur|Person=3|Poss=Yes	_	_	_	_
@@ -2184,7 +2184,7 @@
 54	:	_	PUNCT	_	_	_	_	_	_
 55	ni	_	CCONJ	_	_	_	_	_	_
 56	l'	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
-57	un·e	_	PRON	_	Number=Sing|Person=3	_	_	_
+57	un·e	_	PRON	_	Number=Sing|Person=3	_	_	_	_
 58	ni	_	CCONJ	_	_	_	_	_	_
 59	l'	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 60	autre	_	PRON	_	Number=Sing|Person=3	_	_	_	_
@@ -2264,7 +2264,7 @@
 # sent_id = marcel_mauss_sociologie_ojets_methodes.58
 # text = Même des sentiments qui semblent tout spontanés , comme l' amour du travail , de l' épargne , du luxe , sont en réalité , le produit de la culture sociale puisqu' ils font défaut chez certains peuples et varient infiniment , à l' intérieur d' une même société , selon les couches de la population .
 1	Même	_	ADV	_	_	_	_	_	_
-2	des	_	DET	_	Number=Plur|PronType=Art|Definite=Ind	_	_	_
+2	des	_	DET	_	Number=Plur|PronType=Art|Definite=Ind	_	_	_	_
 3	sentiments	_	NOUN	_	Number=Plur	_	_	_	_
 4	qui	_	PRON	_	PronType=Rel	_	_	_	_
 5	semblent	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_	_
@@ -2278,7 +2278,7 @@
 13	travail	_	NOUN	_	Number=Sing	_	_	_	_
 14	,	_	PUNCT	_	_	_	_	_	_
 15	de	_	ADP	_	_	_	_	_	_
-16	l'	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_
+16	l'	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 17	épargne	_	NOUN	_	Number=Sing	_	_	_	_
 18	,	_	PUNCT	_	_	_	_	_	_
 19	du	_	ADP	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
@@ -2454,7 +2454,7 @@
 # sent_id = marcel_mauss_sociologie_ojets_methodes.63
 # text = C' est ainsi que naguère l' industriel était obligé de fabriquer des produits de mesure et de qualité déterminées , que maintenant encore il est soumis à toutes sortes de règlements , que nul ne peut refuser de recevoir en paiement la monnaie légale pour sa valeur légale .
 1	C'	_	PRON	_	Number=Sing|Person=3|PronType=Dem	_	_	_	_
-2	est	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_
+2	est	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 3	ainsi	_	ADV	_	_	_	_	_	_
 4	que	_	SCONJ	_	_	_	_	_	_
 5	naguère	_	ADV	_	_	_	_	_	_
@@ -2486,7 +2486,7 @@
 31	règlements	_	NOUN	_	Number=Plur	_	_	_	_
 32	,	_	PUNCT	_	_	_	_	_	_
 33	que	_	SCONJ	_	_	_	_	_	_
-34	nul	_	PRON	_	Definite=Ind|Number=Sing|Polarity=Neg|PronType=Neg	_	_	_
+34	nul	_	PRON	_	Definite=Ind|Number=Sing|Polarity=Neg|PronType=Neg	_	_	_	_
 35	ne	_	ADV	_	Polarity=Neg	_	_	_	_
 36	peut	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 37	refuser	_	VERB	_	VerbForm=Inf	_	_	_	_
@@ -2531,7 +2531,7 @@
 22	elles	_	PRON	_	Number=Plur|Person=3|PronType=Prs	_	_	_	_
 23	:	_	PUNCT	_	_	_	_	_	_
 24	c'	_	PRON	_	Number=Sing|Person=3|PronType=Dem	_	_	_	_
-25	est	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_
+25	est	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 26	ainsi	_	ADV	_	_	_	_	_	_
 27	que	_	SCONJ	_	_	_	_	_	_
 28	le	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
@@ -2678,7 +2678,7 @@
 22	quelque	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
 23	autre	_	ADJ	_	Number=Sing	_	_	_	_
 24	idiome	_	NOUN	_	Number=Sing	_	_	_	_
-25	existant	_	ADJ	_	Number=Sing	_	_	_
+25	existant	_	ADJ	_	Number=Sing	_	_	_	_
 26	,	_	PUNCT	_	_	_	_	_	_
 27	mais	_	CCONJ	_	_	_	_	_	_
 28	encore	_	ADV	_	_	_	_	_	_
@@ -2899,7 +2899,7 @@
 39	du	_	ADP	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 40	mariage	_	NOUN	_	Number=Sing	_	_	_	_
 41	et	_	CCONJ	_	_	_	_	_	_
-42	des	_	DET	_	Number=Plur|PronType=Art|Definite=Ind	_	_	_
+42	des	_	DET	_	Number=Plur|PronType=Art|Definite=Ind	_	_	_	_
 43	relations	_	NOUN	_	Number=Plur	_	_	_	_
 44	domestiques	_	ADJ	_	Number=Plur	_	_	_	_
 45	.	_	PUNCT	_	_	_	_	_	_
@@ -2916,7 +2916,7 @@
 6	,	_	PUNCT	_	_	_	_	_	_
 7	nous	_	PRON	_	Number=Plur|Person=1|PronType=Prs	_	_	_	_
 8	savons	_	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres	_	_	_	_
-9	tous	_	PRON	_	Definite=Ind|Number=Plur|Person=3	_	_	_
+9	tous	_	PRON	_	Definite=Ind|Number=Plur|Person=3	_	_	_	_
 10	que	_	SCONJ	_	_	_	_	_	_
 11	les	_	DET	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
 12	relations	_	NOUN	_	Number=Plur	_	_	_	_
@@ -2933,7 +2933,7 @@
 23	et	_	CCONJ	_	_	_	_	_	_
 24	des	_	ADP	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
 25	parents	_	NOUN	_	Number=Plur	_	_	_	_
-26	que	_	PRON	_	PronType=Rel	_	_	_
+26	que	_	PRON	_	PronType=Rel	_	_	_	_
 27	nous	_	PRON	_	Number=Plur|Person=1|PronType=Prs	_	_	_	_
 28	pouvons	_	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres	_	_	_	_
 29	ne	_	ADV	_	Polarity=Neg	_	_	_	_
@@ -2946,8 +2946,8 @@
 36	juridiques	_	ADJ	_	Number=Plur	_	_	_	_
 37	qui	_	PRON	_	PronType=Rel	_	_	_	_
 38	se	_	PRON	_	Person=3|PronType=Prs|Reflex=Yes	_	_	_	_
-39	sont	_	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_
-40	noués	_	VERB	_	Tense=Past|VerbForm=Part	_	_	_
+39	sont	_	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_	_
+40	noués	_	VERB	_	Tense=Past|VerbForm=Part	_	_	_	_
 41	sans	_	ADP	_	Polarity=Neg	_	_	_	_
 42	notre	_	DET	_	Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes	_	_	_	_
 43	consentement	_	NOUN	_	Number=Sing	_	_	_	_
@@ -3031,7 +3031,7 @@
 34	gratuitement	_	ADV	_	_	_	_	_	_
 35	,	_	PUNCT	_	_	_	_	_	_
 36	ne	_	ADV	_	Polarity=Neg	_	_	_	_
-37	peuvent	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_
+37	peuvent	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_	_
 38	,	_	PUNCT	_	_	_	_	_	_
 39	à	_	ADP	_	_	_	_	_	_
 40	aucun	_	DET	_	Definite=Ind|Number=Sing|Polarity=Neg	_	_	_	_
@@ -3065,7 +3065,7 @@
 5	religieux	_	ADJ	_	Number=Plur	_	_	_	_
 6	très	_	ADV	_	_	_	_	_	_
 7	généraux	_	ADJ	_	Number=Plur	_	_	_	_
-8	qu'	_	PRON	_	PronType=Rel	_	_	_
+8	qu'	_	PRON	_	PronType=Rel	_	_	_	_
 9	on	_	PRON	_	Number=Sing|Person=3|PronType=Prs	_	_	_	_
 10	a	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 11	coutume	_	NOUN	_	Number=Sing	_	_	_	_
@@ -3089,7 +3089,7 @@
 29	tourment	_	NOUN	_	Number=Sing	_	_	_	_
 30	de	_	ADP	_	_	_	_	_	_
 31	l'	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
-32	infini	_	NOUN	_	Number=Sing	_	_	_
+32	infini	_	NOUN	_	Number=Sing	_	_	_	_
 33	-	_	PUNCT	_	_	_	_	_	_
 34	ne	_	ADV	_	Polarity=Neg	_	_	_	_
 35	pourraient	_	VERB	_	Mood=Cnd|Number=Plur|Person=3|Tense=Pres	_	_	_	_
@@ -3200,7 +3200,7 @@
 36	iel	_	PRON	_	Number=Sing|Person=3|PronType=Prs	_	_	_	_
 37	connaît	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 38	très	_	ADV	_	_	_	_	_	_
-39	mal	_	ADV	_	_	_	_	_
+39	mal	_	ADV	_	_	_	_	_	_
 40	ces	_	DET	_	Number=Plur|PronType=Dem	_	_	_	_
 41	dogmes	_	NOUN	_	Number=Plur	_	_	_	_
 42	et	_	CCONJ	_	_	_	_	_	_
@@ -3279,7 +3279,7 @@
 3	individuels	_	ADJ	_	Number=Plur	_	_	_	_
 4	d'	_	ADP	_	_	_	_	_	_
 5	aucun·e	_	DET	_	Definite=Ind|Number=Sing|Polarity=Neg	_	_	_	_
-6	des	_	ADP	_	Definite=Def|Number=Plur|PronType=Art	_	_	_
+6	des	_	ADP	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
 7	fidèles	_	NOUN	_	Number=Plur	_	_	_	_
 8	n'	_	ADV	_	Polarity=Neg	_	_	_	_
 9	expliquent	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_	_
@@ -3289,7 +3289,7 @@
 13	le	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 14	système	_	NOUN	_	Number=Sing	_	_	_	_
 15	complexe	_	ADJ	_	Number=Sing	_	_	_	_
-16	des	_	ADP	_	Definite=Def|PronType=Art|Number=Plur	_	_	_
+16	des	_	ADP	_	Definite=Def|PronType=Art|Number=Plur	_	_	_	_
 17	représentations	_	NOUN	_	Number=Plur	_	_	_	_
 18	et	_	CCONJ	_	_	_	_	_	_
 19	des	_	ADP	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
@@ -3357,13 +3357,13 @@
 # sent_id = marcel_mauss_sociologie_ojets_methodes.79
 # text = C' est parce qu' iel est humain·e qu' iel mange , pense , s' amuse , etc . , mais s' iel est déterminé à agir par des tendances qui lui sont communes avec touxtes les humain·es , les formes précises que prend son activité à chaque moment de l' histoire dépendent de toutes autres conditions qui varient d' une société à une autre et changent avec le temps au sein d' une même société : c' est l' ensemble des habitudes collectives .
 1	C'	_	PRON	_	Number=Sing|Person=3|PronType=Dem	_	_	_	_
-2	est	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_
+2	est	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 3	parce	_	SCONJ	_	_	_	_	_	_
 4	qu'	_	SCONJ	_	_	_	_	_	_
 5	iel	_	PRON	_	Number=Sing|Person=3|PronType=Prs	_	_	_	_
 6	est	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
-7	humain·e	_	ADJ	_	Number=Sing	_	_	_
-8	qu'	_	SCONJ	_	_	_	_	_
+7	humain·e	_	ADJ	_	Number=Sing	_	_	_	_
+8	qu'	_	SCONJ	_	_	_	_	_	_
 9	iel	_	PRON	_	Number=Sing|Person=3|PronType=Prs	_	_	_	_
 10	mange	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 11	,	_	PUNCT	_	_	_	_	_	_
@@ -3397,7 +3397,7 @@
 39	les	_	DET	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
 40	formes	_	NOUN	_	Number=Plur	_	_	_	_
 41	précises	_	ADJ	_	Number=Plur	_	_	_	_
-42	que	_	SCONJ	_	_	_	_	_
+42	que	_	SCONJ	_	_	_	_	_	_
 43	prend	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 44	son	_	DET	_	Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes	_	_	_	_
 45	activité	_	NOUN	_	Number=Sing	_	_	_	_
@@ -3409,7 +3409,7 @@
 51	histoire	_	NOUN	_	Number=Sing	_	_	_	_
 52	dépendent	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_	_
 53	de	_	ADP	_	_	_	_	_	_
-20	toutes	_	ADJ	_	Number=Plur	_	_	_
+20	toutes	_	ADJ	_	Number=Plur	_	_	_	_
 55	autres	_	ADJ	_	Number=Plur	_	_	_	_
 56	conditions	_	NOUN	_	Number=Plur	_	_	_	_
 57	qui	_	PRON	_	PronType=Rel	_	_	_	_
@@ -3488,7 +3488,7 @@
 9	dans	_	ADP	_	_	_	_	_	_
 10	des	_	DET	_	Definite=Ind|Number=Plur|PronType=Art	_	_	_	_
 11	formules	_	NOUN	_	Number=Plur	_	_	_	_
-12	écrites	_	ADJ	_	Number=Plur	_	_	_
+12	écrites	_	ADJ	_	Number=Plur	_	_	_	_
 13	ou	_	CCONJ	_	_	_	_	_	_
 14	orales	_	ADJ	_	Number=Plur	_	_	_	_
 15	qui	_	PRON	_	PronType=Rel	_	_	_	_
@@ -3736,7 +3736,7 @@
 32	sans	_	ADP	_	Polarity=Neg	_	_	_	_
 33	que	_	SCONJ	_	_	_	_	_	_
 34	les	_	DET	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
-4	secondes	_	NOUN	_	NumType=Ord|Number=Plur	_	_	_
+4	secondes	_	NOUN	_	NumType=Ord|Number=Plur	_	_	_	_
 36	se	_	PRON	_	Person=3|PronType=Prs|Reflex=Yes	_	_	_	_
 37	transforment	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_	_
 38	également	_	ADV	_	_	_	_	_	_
@@ -3816,7 +3816,7 @@
 13	montrer	_	VERB	_	VerbForm=Inf	_	_	_	_
 14	les	_	DET	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
 15	rapports	_	NOUN	_	Number=Plur	_	_	_	_
-16	que	_	SCONJ	_	_	_	_	_
+16	que	_	SCONJ	_	_	_	_	_	_
 17	soutiennent	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_	_
 18	les	_	DET	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
 19	différentes	_	ADJ	_	Number=Plur	_	_	_	_
@@ -3837,7 +3837,7 @@
 34	où	_	PRON	_	PronType=Rel	_	_	_	_
 35	elle	_	PRON	_	Number=Sing|Person=3|PronType=Prs	_	_	_	_
 36	est	_	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
-37	apparue	_	VERB	_	Tense=Past|VerbForm=Part	_	_	_
+37	apparue	_	VERB	_	Tense=Past|VerbForm=Part	_	_	_	_
 38	.	_	PUNCT	_	_	_	_	_	_
 
 
@@ -3846,7 +3846,7 @@
 # text = Enfin on est de plus en plus porté à chercher dans les propriétés d' un milieu social ( volume , densité , mode de composition , etc . ) l' explication des phénomènes généraux qui s' y produisent : on montre par exemple quelles modifications profondes l' agglomération urbaine apporte à une civilisation agricole , comment la forme de l' habitat conditionne l' organisation domestique .
 1	Enfin	_	ADV	_	_	_	_	_	_
 2	on	_	PRON	_	Number=Sing|Person=3|PronType=Prs	_	_	_	_
-3	est	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_
+3	est	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 4	de	_	ADP	_	_	_	_	_	_
 5	plus	_	ADV	_	_	_	_	_	_
 6	en	_	ADP	_	_	_	_	_	_
@@ -3955,7 +3955,7 @@
 4	phénomènes	_	NOUN	_	Number=Plur	_	_	_	_
 5	serait	_	VERB	_	Mood=Cnd|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 6	inexplicable	_	ADJ	_	Number=Sing	_	_	_	_
-7	s'	_	SCONJ	_	_	_	_	_
+7	s'	_	SCONJ	_	_	_	_	_	_
 8	ils	_	PRON	_	Number=Plur|Person=3|PronType=Prs	_	_	_	_
 9	étaient	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp	_	_	_	_
 10	les	_	DET	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
@@ -3974,7 +3974,7 @@
 23	explique	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 24	au	_	ADP	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 25	contraire	_	NOUN	_	Number=Sing	_	_	_	_
-26	s'	_	SCONJ	_	_	_	_	_
+26	s'	_	SCONJ	_	_	_	_	_	_
 27	ils	_	PRON	_	Number=Plur|Person=3|PronType=Prs	_	_	_	_
 28	sont	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_	_
 29	les	_	DET	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
@@ -4025,7 +4025,7 @@
 13	des	_	ADP	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
 14	naissances	_	NOUN	_	Number=Plur	_	_	_	_
 15	,	_	PUNCT	_	_	_	_	_	_
-16	des	_	ADP	_	Definite=Def|Number=Plur|PronType=Art	_	_	_
+16	des	_	ADP	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
 17	suicides	_	NOUN	_	Number=Plur	_	_	_	_
 18	,	_	PUNCT	_	_	_	_	_	_
 19	des	_	ADP	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
@@ -4163,7 +4163,7 @@
 12	à	_	ADP	_	_	_	_	_	_
 13	fait	_	NOUN	_	Number=Sing	_	_	_	_
 14	différents	_	ADJ	_	Number=Plur	_	_	_	_
-15	des	_	ADP	_	Definite=Def|PronType=Art|Number=Plur	_	_	_
+15	des	_	ADP	_	Definite=Def|PronType=Art|Number=Plur	_	_	_	_
 16	états	_	NOUN	_	Number=Plur	_	_	_	_
 17	purement	_	ADV	_	_	_	_	_	_
 18	individuels	_	ADJ	_	Number=Plur	_	_	_	_
@@ -4197,7 +4197,7 @@
 14	fût	_	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Imp	_	_	_	_
 15	uniformément	_	ADV	_	_	_	_	_	_
 16	plus	_	ADV	_	_	_	_	_	_
-17	élevé	_	ADJ	_	Number=Sing	_	_	_
+17	élevé	_	ADJ	_	Number=Sing	_	_	_	_
 18	dans	_	ADP	_	_	_	_	_	_
 19	les	_	DET	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
 20	sociétés	_	NOUN	_	Number=Plur	_	_	_	_
@@ -4373,8 +4373,8 @@
 4	qui	_	PRON	_	PronType=Rel	_	_	_	_
 5	vient	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 6	d'	_	ADP	_	_	_	_	_	_
-7	être	_	AUX	_	VerbForm=Inf	_	_	_
-8	dit	_	VERB	_	Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_
+7	être	_	AUX	_	VerbForm=Inf	_	_	_	_
+8	dit	_	VERB	_	Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
 9	,	_	PUNCT	_	_	_	_	_	_
 10	la	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 11	nature	_	NOUN	_	Number=Sing	_	_	_	_
@@ -4382,7 +4382,7 @@
 13	a	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 14	précisément	_	ADV	_	_	_	_	_	_
 15	pour	_	ADP	_	_	_	_	_	_
-16	caractéristique	_	NOUN	_	Number=Sing	_	_	_
+16	caractéristique	_	NOUN	_	Number=Sing	_	_	_	_
 17	d'	_	ADP	_	_	_	_	_	_
 18	être	_	VERB	_	VerbForm=Inf	_	_	_	_
 19	comme	_	SCONJ	_	_	_	_	_	_
@@ -4399,13 +4399,13 @@
 30	des	_	DET	_	Definite=Ind|Number=Plur|PronType=Art	_	_	_	_
 31	idées	_	NOUN	_	Number=Plur	_	_	_	_
 32	ou	_	CCONJ	_	_	_	_	_	_
-33	des	_	DET	_	Number=Plur|PronType=Art|Definite=Ind	_	_	_
+33	des	_	DET	_	Number=Plur|PronType=Art|Definite=Ind	_	_	_	_
 34	actes	_	NOUN	_	Number=Plur	_	_	_	_
 35	qui	_	PRON	_	PronType=Rel	_	_	_	_
 36	,	_	PUNCT	_	_	_	_	_	_
 37	alors	_	ADV	_	_	_	_	_	_
 38	même	_	ADV	_	_	_	_	_	_
-39	que	_	SCONJ	_	_	_	_	_
+39	que	_	SCONJ	_	_	_	_	_	_
 40	nous	_	PRON	_	Number=Plur|Person=1|PronType=Prs	_	_	_	_
 41	contribuons	_	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres	_	_	_	_
 42	à	_	ADP	_	_	_	_	_	_
@@ -4491,7 +4491,7 @@
 11	légales	_	ADJ	_	Number=Plur	_	_	_	_
 12	,	_	PUNCT	_	_	_	_	_	_
 13	spontanément	_	ADV	_	_	_	_	_	_
-14	obéies	_	VERB	_	Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_
+14	obéies	_	VERB	_	Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
 15	ou	_	CCONJ	_	_	_	_	_	_
 16	inspirées	_	VERB	_	Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
 17	par	_	ADP	_	_	_	_	_	_
@@ -4527,8 +4527,8 @@
 8	même	_	ADV	_	_	_	_	_	_
 9	ceux	_	PRON	_	Number=Plur|Person=3|PronType=Dem	_	_	_	_
 10	qui	_	PRON	_	PronType=Rel	_	_	_	_
-11	les	_	PRON	_	Definite=Def|Number=Plur|Person=3|PronType=Art	_	_	_
-12	violent	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_
+11	les	_	PRON	_	Definite=Def|Number=Plur|Person=3|PronType=Art	_	_	_	_
+12	violent	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_	_
 13	savent	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_	_
 14	qu'	_	SCONJ	_	_	_	_	_	_
 15	ils	_	PRON	_	Number=Plur|Person=3|PronType=Prs	_	_	_	_
@@ -4545,7 +4545,7 @@
 26	,	_	PUNCT	_	_	_	_	_	_
 27	la	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 28	société	_	NOUN	_	Number=Sing	_	_	_	_
-29	leur	_	PRON	_	Number=Plur|Person=3|PronType=Prs	_	_	_
+29	leur	_	PRON	_	Number=Plur|Person=3|PronType=Prs	_	_	_	_
 30	rappelle	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 31	le	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 32	caractère	_	NOUN	_	Number=Sing	_	_	_	_
@@ -4587,7 +4587,7 @@
 21	mépris	_	NOUN	_	Number=Sing	_	_	_	_
 22	public	_	ADJ	_	Number=Sing	_	_	_	_
 23	,	_	PUNCT	_	_	_	_	_	_
-24	blâme	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_
+24	blâme	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 25	,	_	PUNCT	_	_	_	_	_	_
 26	simple	_	ADJ	_	Number=Sing	_	_	_	_
 27	notation	_	NOUN	_	Number=Sing	_	_	_	_
@@ -4609,7 +4609,7 @@
 43	est	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 44	toujours	_	ADV	_	_	_	_	_	_
 45	le	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
-46	même	_	ADJ	_	Number=Sing	_	_	_
+46	même	_	ADJ	_	Number=Sing	_	_	_	_
 47	:	_	PUNCT	_	_	_	_	_	_
 48	le	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 49	groupe	_	NOUN	_	Number=Sing	_	_	_	_
@@ -4683,7 +4683,7 @@
 9	déroge	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 10	,	_	PUNCT	_	_	_	_	_	_
 11	c'	_	PRON	_	Number=Sing|Person=3|PronType=Dem	_	_	_	_
-12	est	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_
+12	est	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 13	qu'	_	SCONJ	_	_	_	_	_	_
 14	il	_	PRON	_	Number=Sing|Person=3|PronType=Prs	_	_	_	_
 15	voit	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
@@ -4811,7 +4811,7 @@
 16	en	_	ADP	_	_	_	_	_	_
 17	dehors	_	ADV	_	_	_	_	_	_
 18	et	_	CCONJ	_	_	_	_	_	_
-19	au-dessus	_	ADP	_	_	_	_	_
+19	au-dessus	_	ADP	_	_	_	_	_	_
 20	de	_	ADP	_	_	_	_	_	_
 21	l'	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 22	individu	_	NOUN	_	Number=Sing	_	_	_	_
@@ -4836,7 +4836,7 @@
 41	dont	_	PRON	_	PronType=Rel	_	_	_	_
 42	il	_	PRON	_	Number=Sing|Person=3|PronType=Prs	_	_	_	_
 43	est	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
-44	membre	_	ADJ	_	Number=Sing	_	_	_
+44	membre	_	ADJ	_	Number=Sing	_	_	_	_
 45	.	_	PUNCT	_	_	_	_	_	_
 
 
@@ -4896,7 +4896,7 @@
 7	n'	_	ADV	_	Polarity=Neg	_	_	_	_
 8	est	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 9	guère	_	ADV	_	Polarity=Neg	_	_	_	_
-10	de	_	DET	_	Definite=Ind|Number=Plur|PronType=Art	_	_	_
+10	de	_	DET	_	Definite=Ind|Number=Plur|PronType=Art	_	_	_	_
 11	manifestations	_	NOUN	_	Number=Plur	_	_	_	_
 12	collectives	_	ADJ	_	Number=Plur	_	_	_	_
 13	qui	_	PRON	_	PronType=Rel	_	_	_	_
@@ -4917,7 +4917,7 @@
 2	humain·e	_	NOUN	_	Number=Sing	_	_	_	_
 3	n'	_	ADV	_	Polarity=Neg	_	_	_	_
 4	y	_	PRON	_	Person=3	_	_	_	_
-5	a	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_
+5	a	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 6	pour	_	ADP	_	_	_	_	_	_
 7	ainsi	_	ADV	_	_	_	_	_	_
 8	dire	_	VERB	_	VerbForm=Inf	_	_	_	_
@@ -5064,7 +5064,7 @@
 4	y	_	PRON	_	Person=3	_	_	_	_
 5	a	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 6	pas	_	ADV	_	Polarity=Neg	_	_	_	_
-7	d'	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_
+7	d'	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
 8	obligation	_	NOUN	_	Number=Sing	_	_	_	_
 9	proclamée	_	ADJ	_	Number=Sing	_	_	_	_
 10	,	_	PUNCT	_	_	_	_	_	_
@@ -5081,7 +5081,7 @@
 21	ne	_	ADV	_	Polarity=Neg	_	_	_	_
 22	sont	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_	_
 23	pas	_	ADV	_	Polarity=Neg	_	_	_	_
-24	prescrites	_	VERB	_	Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_
+24	prescrites	_	VERB	_	Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
 25	en	_	ADP	_	_	_	_	_	_
 26	principe	_	NOUN	_	Number=Sing	_	_	_	_
 27	.	_	PUNCT	_	_	_	_	_	_
@@ -5137,10 +5137,10 @@
 10	les	_	PRON	_	Definite=Def|Number=Plur|Person=3|PronType=Art	_	_	_	_
 11	trouve	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 12	déjà	_	ADV	_	_	_	_	_	_
-13	formées	_	VERB	_	Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_
+13	formées	_	VERB	_	Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
 14	et	_	CCONJ	_	_	_	_	_	_
 15	comme	_	SCONJ	_	_	_	_	_	_
-16	instituées	_	VERB	_	Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_
+16	instituées	_	VERB	_	Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
 17	,	_	PUNCT	_	_	_	_	_	_
 18	puisqu'	_	SCONJ	_	_	_	_	_	_
 19	iel	_	PRON	_	Number=Sing|Person=3|PronType=Prs	_	_	_	_
@@ -5159,12 +5159,12 @@
 32	dehors	_	ADV	_	_	_	_	_	_
 33	,	_	PUNCT	_	_	_	_	_	_
 34	c'	_	PRON	_	Number=Sing|Person=3|PronType=Dem	_	_	_	_
-35	est	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_
+35	est	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 36	donc	_	CCONJ	_	_	_	_	_	_
 37	qu'	_	SCONJ	_	_	_	_	_	_
 38	elles	_	PRON	_	Number=Plur|Person=3|PronType=Prs	_	_	_	_
 39	sont	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_	_
-40	préétablies	_	ADJ	_	Number=Plur	_	_	_
+40	préétablies	_	ADJ	_	Number=Plur	_	_	_	_
 41	.	_	PUNCT	_	_	_	_	_	_
 
 
@@ -5173,7 +5173,7 @@
 # text = Qu' il soit ou non défendu à l' individu de s' en écarter , elles existent déjà au moment où il se consulte pour savoir comment il doit agir ; ce sont des modèles de conduite qu' elles lui proposent .
 1	Qu'	_	SCONJ	_	_	_	_	_	_
 2	il	_	PRON	_	Number=Sing|Person=3|PronType=Prs	_	_	_	_
-3	soit	_	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres	_	_	_
+3	soit	_	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 4	ou	_	CCONJ	_	_	_	_	_	_
 5	non	_	ADV	_	Polarity=Neg	_	_	_	_
 6	défendu	_	VERB	_	Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
@@ -5256,10 +5256,10 @@
 13	l'	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 14	éducation	_	NOUN	_	Number=Sing	_	_	_	_
 15	,	_	PUNCT	_	_	_	_	_	_
-28	soit	_	ADV	_	_	_	_	_
+28	soit	_	ADV	_	_	_	_	_	_
 17	générale	_	ADJ	_	Number=Sing	_	_	_	_
 18	,	_	PUNCT	_	_	_	_	_	_
-28	soit	_	ADV	_	_	_	_	_
+28	soit	_	ADV	_	_	_	_	_	_
 20	spéciale	_	ADJ	_	Number=Sing	_	_	_	_
 21	,	_	PUNCT	_	_	_	_	_	_
 22	que	_	SCONJ	_	_	_	_	_	_
@@ -5337,8 +5337,8 @@
 6	opération	_	NOUN	_	Number=Sing	_	_	_	_
 7	par	_	ADP	_	_	_	_	_	_
 8	laquelle	_	PRON	_	Number=Sing|Person=3|PronType=Rel	_	_	_	INVARIANT
-9	l'	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_
-10	être	_	NOUN	_	Number=Sing	_	_	_
+9	l'	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
+10	être	_	NOUN	_	Number=Sing	_	_	_	_
 11	social·e	_	ADJ	_	Number=Sing	_	_	_	_
 12	est	_	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 13	surajouté·e	_	VERB	_	Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
@@ -5347,29 +5347,29 @@
 16	de	_	ADP	_	_	_	_	_	_
 17	nous	_	PRON	_	Number=Plur|Person=1|PronType=Prs	_	_	_	_
 18	à	_	ADP	_	_	_	_	_	_
-19	l'	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_
-20	être	_	NOUN	_	Number=Sing	_	_	_
+19	l'	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
+20	être	_	NOUN	_	Number=Sing	_	_	_	_
 21	individuel·le	_	ADJ	_	Number=Sing	_	_	_	_
 22	,	_	PUNCT	_	_	_	_	_	_
 23	l'	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
-24	être	_	NOUN	_	Number=Sing	_	_	_
+24	être	_	NOUN	_	Number=Sing	_	_	_	_
 25	moral·e	_	ADJ	_	Number=Sing	_	_	_	_
 26	à	_	ADP	_	_	_	_	_	_
 27	l'	_	PRON	_	Definite=Def|Number=Sing|Person=3|PronType=Art	_	_	_	_
-28	être	_	NOUN	_	Number=Sing	_	_	_
+28	être	_	NOUN	_	Number=Sing	_	_	_	_
 29	animal·e	_	ADJ	_	Number=Sing	_	_	_	_
 30	;	_	PUNCT	_	_	_	_	_	_
 31	c'	_	PRON	_	Number=Sing|Person=3|PronType=Dem	_	_	_	_
 32	est	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 33	le	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 34	procédé	_	NOUN	_	Number=Sing	_	_	_	_
-35	grâce	_	NOUN	_	Number=Sing	_	_	_
+35	grâce	_	NOUN	_	Number=Sing	_	_	_	_
 36	auquel	_	PRON	_	Number=Sing|Person=3|PronType=Rel	_	_	_	INVARIANT
 37	l'	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 38	enfant	_	NOUN	_	Number=Sing	_	_	_	_
 39	est	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 40	rapidement	_	ADV	_	_	_	_	_	_
-41	socialisé	_	VERB	_	Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_
+41	socialisé	_	VERB	_	Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
 42	.	_	PUNCT	_	_	_	_	_	_
 
 
@@ -5406,7 +5406,7 @@
 28	l'	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 29	individu	_	NOUN	_	Number=Sing	_	_	_	_
 30	trouve	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
-31	préétablies	_	ADJ	_	Number=Plur	_	_	_
+31	préétablies	_	ADJ	_	Number=Plur	_	_	_	_
 32	et	_	CCONJ	_	_	_	_	_	_
 33	dont	_	PRON	_	PronType=Rel	_	_	_	_
 34	la	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
@@ -5449,8 +5449,8 @@
 19	institutions	_	NOUN	_	Number=Plur	_	_	_	_
 20	serait	_	VERB	_	Mood=Cnd|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 21	le	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
-22	mieux	_	ADV	_	_	_	_	_
-23	approprié	_	ADJ	_	Number=Sing	_	_	_
+22	mieux	_	ADV	_	_	_	_	_	_
+23	approprié	_	ADJ	_	Number=Sing	_	_	_	_
 24	.	_	PUNCT	_	_	_	_	_	_
 
 
@@ -5473,7 +5473,7 @@
 14	ou	_	CCONJ	_	_	_	_	_	_
 15	d'	_	ADP	_	_	_	_	_	_
 16	idées	_	NOUN	_	Number=Plur	_	_	_	_
-18	instituées	_	ADJ	_	Number=Plur	_	_	_
+18	instituées	_	ADJ	_	Number=Plur	_	_	_	_
 19	que	_	SCONJ	_	_	_	_	_	_
 20	les	_	DET	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
 21	individus	_	NOUN	_	Number=Plur	_	_	_	_
@@ -5619,7 +5619,7 @@
 44	des	_	ADP	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
 45	institutions	_	NOUN	_	Number=Plur	_	_	_	_
 46	ainsi	_	ADV	_	_	_	_	_	_
-47	définies	_	VERB	_	Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_
+47	définies	_	VERB	_	Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
 48	.	_	PUNCT	_	_	_	_	_	_
 
 
@@ -5781,7 +5781,7 @@
 20	celles-ci	_	PRON	_	Number=Plur|Person=3|PronType=Dem	_	_	_	_
 21	sont	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_	_
 22	les	_	DET	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
-23	seules	_	ADJ	_	Number=Plur	_	_	_
+23	seules	_	ADJ	_	Number=Plur	_	_	_	_
 24	qui	_	PRON	_	PronType=Rel	_	_	_	_
 25	existent	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_	_
 26	.	_	PUNCT	_	_	_	_	_	_
@@ -5806,9 +5806,9 @@
 16	que	_	SCONJ	_	_	_	_	_	_
 17	nous	_	PRON	_	Number=Plur|Person=1|PronType=Prs	_	_	_	_
 18	ne	_	ADV	_	Polarity=Neg	_	_	_	_
-19	nous	_	PRON	_	Number=Plur|Person=1|PronType=Prs|Reflex=Yes	_	_	_
+19	nous	_	PRON	_	Number=Plur|Person=1|PronType=Prs|Reflex=Yes	_	_	_	_
 20	en	_	PRON	_	Person=3	_	_	_	_
-21	tenions	_	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Imp	_	_	_
+21	tenions	_	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Imp	_	_	_	_
 22	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 23	à	_	ADP	_	_	_	_	_	_
 24	une	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
@@ -5819,7 +5819,7 @@
 29	que	_	SCONJ	_	_	_	_	_	_
 30	nous	_	PRON	_	Number=Plur|Person=1|PronType=Prs	_	_	_	_
 31	ne	_	ADV	_	Polarity=Neg	_	_	_	_
-32	restreignions	_	VERB	_	Mood=Sub|Number=Plur|Person=1|Tense=Pres	_	_	_
+32	restreignions	_	VERB	_	Mood=Sub|Number=Plur|Person=1|Tense=Pres	_	_	_	_
 33	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 34	la	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 35	sociologie	_	NOUN	_	Number=Sing	_	_	_	_
@@ -5829,7 +5829,7 @@
 39	de	_	ADP	_	_	_	_	_	_
 40	l'	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 41	institution	_	NOUN	_	Number=Sing	_	_	_	_
-42	supposée	_	VERB	_	Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_
+42	supposée	_	VERB	_	Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
 43	immobile	_	ADJ	_	Number=Sing	_	_	_	_
 44	.	_	PUNCT	_	_	_	_	_	_
 
@@ -5842,7 +5842,7 @@
 3	l'	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 4	institution	_	NOUN	_	Number=Sing	_	_	_	_
 5	ainsi	_	ADV	_	_	_	_	_	_
-6	conçue	_	VERB	_	Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_
+6	conçue	_	VERB	_	Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
 7	n'	_	ADV	_	Polarity=Neg	_	_	_	_
 8	est	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 9	qu'	_	SCONJ	_	_	_	_	_	_
@@ -5873,9 +5873,9 @@
 17	ne	_	ADV	_	Polarity=Neg	_	_	_	_
 18	sont	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_	_
 19	ni	_	CCONJ	_	_	_	_	_	_
-20	comprises	_	VERB	_	Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_
+20	comprises	_	VERB	_	Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
 21	ni	_	CCONJ	_	_	_	_	_	_
-22	appliquées	_	VERB	_	Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_
+22	appliquées	_	VERB	_	Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
 23	de	_	ADP	_	_	_	_	_	_
 24	la	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 25	même	_	ADJ	_	Number=Sing	_	_	_	_
@@ -5996,7 +5996,7 @@
 12	bien	_	ADV	_	_	_	_	_	_
 13	instables	_	ADJ	_	Number=Plur	_	_	_	_
 14	et	_	CCONJ	_	_	_	_	_	_
-15	éphémères	_	ADJ	_	Number=Plur	_	_	_
+15	éphémères	_	ADJ	_	Number=Plur	_	_	_	_
 16	comme	_	SCONJ	_	_	_	_	_	_
 17	les	_	DET	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
 18	foules	_	NOUN	_	Number=Plur	_	_	_	_
@@ -6014,10 +6014,10 @@
 # sent_id = marcel_mauss_sociologie_ojets_methodes.146
 # text = Or des unes et des autres on peut dire qu' elles ne sont pas encore des sociétés proprement dites , mais seulement des sociétés en voie de devenir , avec cette différence que les unes sont destinées à aller jusqu' au bout de leur développement , à réaliser leur nature sociale , tandis que les autres disparaissent avant d' être parvenues à se constituer définitivement .
 1	Or	_	CCONJ	_	_	_	_	_	_
-2	des	_	ADP	_	Definite=Def|Number=Plur|PronType=Art	_	_	_
+2	des	_	ADP	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
 3	unes	_	NOUN	_	Number=Plur	_	_	_	_
 4	et	_	CCONJ	_	_	_	_	_	_
-5	des	_	ADP	_	Definite=Def|Number=Plur|PronType=Art	_	_	_
+5	des	_	ADP	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
 6	autres	_	PRON	_	Number=Plur|Person=3	_	_	_	_
 7	on	_	PRON	_	Number=Sing|Person=3|PronType=Prs	_	_	_	_
 8	peut	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
@@ -6072,7 +6072,7 @@
 57	disparaissent	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_	_
 58	avant	_	ADP	_	_	_	_	_	_
 59	d'	_	ADP	_	_	_	_	_	_
-60	être	_	AUX	_	VerbForm=Inf	_	_	_
+60	être	_	AUX	_	VerbForm=Inf	_	_	_	_
 61	parvenues	_	VERB	_	Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
 62	à	_	ADP	_	_	_	_	_	_
 63	se	_	PRON	_	Person=3|PronType=Prs|Reflex=Yes	_	_	_	_
@@ -6093,8 +6093,8 @@
 7	limites	_	NOUN	_	Number=Plur	_	_	_	_
 8	qui	_	PRON	_	PronType=Rel	_	_	_	_
 9	séparent	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_	_
-10	le	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_
-11	règne	_	NOUN	_	Number=Sing	_	_	_
+10	le	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
+11	règne	_	NOUN	_	Number=Sing	_	_	_	_
 12	social	_	ADJ	_	Number=Sing	_	_	_	_
 13	des	_	ADP	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
 14	règnes	_	NOUN	_	Number=Plur	_	_	_	_
@@ -6131,10 +6131,10 @@
 # text = Il n' est donc pas surprenant qu' ils ne puissent rentrer exactement dans les cadres d' aucune science .
 1	Il	_	PRON	_	Number=Sing|Person=3|PronType=Prs	_	_	_	_
 2	n'	_	ADV	_	Polarity=Neg	_	_	_	_
-3	est	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_
+3	est	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 4	donc	_	CCONJ	_	_	_	_	_	_
 5	pas	_	ADV	_	Polarity=Neg	_	_	_	_
-6	surprenant	_	ADJ	_	Number=Sing	_	_	_
+6	surprenant	_	ADJ	_	Number=Sing	_	_	_	_
 7	qu'	_	SCONJ	_	_	_	_	_	_
 8	ils	_	PRON	_	Number=Plur|Person=3|PronType=Prs	_	_	_	_
 9	ne	_	ADV	_	Polarity=Neg	_	_	_	_
@@ -6187,7 +6187,7 @@
 8	,	_	PUNCT	_	_	_	_	_	_
 9	nous	_	PRON	_	Number=Plur|Person=1|PronType=Prs	_	_	_	_
 10	n'	_	ADV	_	Polarity=Neg	_	_	_	_
-11	avons	_	AUX	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres	_	_	_
+11	avons	_	AUX	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres	_	_	_	_
 12	nullement	_	ADV	_	_	_	_	_	_
 13	cherché	_	VERB	_	Tense=Past|VerbForm=Part	_	_	_	_
 14	à	_	ADP	_	_	_	_	_	_
@@ -6346,7 +6346,7 @@
 11	à	_	ADP	_	_	_	_	_	_
 12	ces	_	DET	_	Number=Plur|PronType=Dem	_	_	_	_
 13	faits	_	NOUN	_	Number=Plur	_	_	_	_
-14	est	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_
+14	est	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 15	celui	_	PRON	_	Number=Sing|Person=3|PronType=Dem	_	_	_	_
 16	qui	_	PRON	_	PronType=Rel	_	_	_	_
 17	a	_	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
@@ -6357,7 +6357,7 @@
 22	usage	_	NOUN	_	Number=Sing	_	_	_	_
 23	dans	_	ADP	_	_	_	_	_	_
 24	ce	_	PRON	_	Number=Sing|Person=3|PronType=Dem	_	_	_	_
-25	qu'	_	PRON	_	PronType=Rel	_	_	_
+25	qu'	_	PRON	_	PronType=Rel	_	_	_	_
 26	il	_	PRON	_	Number=Sing|Person=3|PronType=Prs	_	_	_	_
 27	est	_	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 28	convenu	_	VERB	_	Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
@@ -6457,7 +6457,7 @@
 6	philosophique	_	ADJ	_	Number=Sing	_	_	_	_
 7	,	_	PUNCT	_	_	_	_	_	_
 8	c'	_	PRON	_	Number=Sing|Person=3|PronType=Dem	_	_	_	_
-9	est	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_
+9	est	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 10	qu'	_	SCONJ	_	_	_	_	_	_
 11	elle	_	PRON	_	Number=Sing|Person=3|PronType=Prs	_	_	_	_
 12	suppose	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
@@ -6479,7 +6479,7 @@
 28	dont	_	PRON	_	PronType=Rel	_	_	_	_
 29	on	_	PRON	_	Number=Sing|Person=3|PronType=Prs	_	_	_	_
 30	s'	_	PRON	_	Person=3|PronType=Prs|Reflex=Yes	_	_	_	_
-31	efforce	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_
+31	efforce	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 32	de	_	ADP	_	_	_	_	_	_
 33	découvrir	_	VERB	_	VerbForm=Inf	_	_	_	_
 34	toute	_	ADJ	_	Number=Sing	_	_	_	_
@@ -6488,8 +6488,8 @@
 37	par	_	ADP	_	_	_	_	_	_
 38	une	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
 39	investigation	_	NOUN	_	Number=Sing	_	_	_	_
-40	sommaire	_	ADJ	_	Number=Sing	_	_	_
-41	des	_	ADP	_	Definite=Def|Number=Plur|PronType=Art	_	_	_
+40	sommaire	_	ADJ	_	Number=Sing	_	_	_	_
+41	des	_	ADP	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
 42	faits	_	NOUN	_	Number=Plur	_	_	_	_
 43	historiques	_	ADJ	_	Number=Plur	_	_	_	_
 44	.	_	PUNCT	_	_	_	_	_	_
@@ -6638,7 +6638,7 @@
 34	unique	_	ADJ	_	Number=Sing	_	_	_	_
 35	et	_	CCONJ	_	_	_	_	_	_
 36	se	_	PRON	_	Person=3|PronType=Prs|Reflex=Yes	_	_	_	_
-37	développe	_	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres	_	_	_
+37	développe	_	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 38	dans	_	ADP	_	_	_	_	_	_
 39	un	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
 40	seul	_	ADJ	_	Number=Sing	_	_	_	_
@@ -6802,7 +6802,7 @@
 50	institutions	_	NOUN	_	Number=Plur	_	_	_	_
 51	qui	_	PRON	_	PronType=Rel	_	_	_	_
 52	se	_	PRON	_	Person=3|PronType=Prs|Reflex=Yes	_	_	_	_
-53	transforment	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_
+53	transforment	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_	_
 54	ensuite	_	ADV	_	_	_	_	_	_
 55	au	_	ADP	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 56	cours	_	NOUN	_	Number=Sing	_	_	_	_
@@ -6811,12 +6811,12 @@
 59	histoire	_	NOUN	_	Number=Sing	_	_	_	_
 60	,	_	PUNCT	_	_	_	_	_	_
 61	suivant	_	VERB	_	Tense=Pres|VerbForm=Part	_	_	_	_
-62	des	_	DET	_	Number=Plur|PronType=Art|Definite=Ind	_	_	_
+62	des	_	DET	_	Number=Plur|PronType=Art|Definite=Ind	_	_	_	_
 63	lois	_	NOUN	_	Number=Plur	_	_	_	_
 64	d'	_	ADP	_	_	_	_	_	_
 65	évolution	_	NOUN	_	Number=Sing	_	_	_	_
 66	très	_	ADV	_	_	_	_	_	_
-67	générales	_	ADJ	_	Number=Plur	_	_	_
+67	générales	_	ADJ	_	Number=Plur	_	_	_	_
 68	.	_	PUNCT	_	_	_	_	_	_
 
 
@@ -6879,7 +6879,7 @@
 10	sciences	_	NOUN	_	Number=Plur	_	_	_	_
 11	spéciales	_	ADJ	_	Number=Plur	_	_	_	_
 12	qui	_	PRON	_	PronType=Rel	_	_	_	_
-13	sont	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_
+13	sont	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_	_
 14	ou	_	CCONJ	_	_	_	_	_	_
 15	devraient	_	VERB	_	Mood=Cnd|Number=Plur|Person=3|Tense=Pres	_	_	_	_
 16	être	_	VERB	_	VerbForm=Inf	_	_	_	_
@@ -6891,7 +6891,7 @@
 # sent_id = marcel_mauss_sociologie_ojets_methodes.170
 # text = C' est ainsi que les économistes classiques trouvent , dans la nature individuelle de l' homo oeconomicus , les principes d' une explication suffisante de tous les faits économiques : l' homme cherchant toujours le plus grand avantage au prix de la plus petite peine , les relations économiques devaient nécessairement être telles et telles .
 1	C'	_	PRON	_	Number=Sing|Person=3|PronType=Dem	_	_	_	_
-2	est	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_
+2	est	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 3	ainsi	_	ADV	_	_	_	_	_	_
 4	que	_	SCONJ	_	_	_	_	_	_
 5	les	_	DET	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
@@ -6978,7 +6978,7 @@
 25	leurs	_	DET	_	Number=Plur|Number[psor]=Plur|Person=3|Poss=Yes	_	_	_	_
 26	yeux	_	NOUN	_	Number=Plur	_	_	_	_
 27	,	_	PUNCT	_	_	_	_	_	_
-28	des	_	DET	_	Number=Plur|PronType=Art|Definite=Ind	_	_	_
+28	des	_	DET	_	Number=Plur|PronType=Art|Definite=Ind	_	_	_	_
 29	tentatives	_	NOUN	_	Number=Plur	_	_	_	_
 30	plus	_	ADV	_	_	_	_	_	_
 31	ou	_	CCONJ	_	_	_	_	_	_
@@ -7012,7 +7012,7 @@
 59	approximatives	_	ADJ	_	Number=Plur	_	_	_	_
 60	du	_	ADP	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 61	droit	_	NOUN	_	Number=Sing	_	_	_	_
-62	qu'	_	PRON	_	PronType=Rel	_	_	_
+62	qu'	_	PRON	_	PronType=Rel	_	_	_	_
 63	iel	_	PRON	_	Number=Sing|Person=3|PronType=Prs	_	_	_	_
 64	porte	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 65	en	_	ADP	_	_	_	_	_	_
@@ -7103,7 +7103,7 @@
 35	humaine	_	ADJ	_	Number=Sing	_	_	_	_
 36	en	_	ADP	_	_	_	_	_	_
 37	général	_	NOUN	_	Number=Sing	_	_	_	_
-62	puissent	_	VERB	_	Mood=Sub|Number=Plur|Person=3|Tense=Pres	_	_	_
+62	puissent	_	VERB	_	Mood=Sub|Number=Plur|Person=3|Tense=Pres	_	_	_	_
 39	en	_	PRON	_	Person=3	_	_	_	_
 40	rendre	_	VERB	_	VerbForm=Inf	_	_	_	_
 41	compte	_	NOUN	_	Number=Sing	_	_	_	_
@@ -7212,16 +7212,16 @@
 12	d'	_	ADP	_	_	_	_	_	_
 13	expliquer	_	VERB	_	VerbForm=Inf	_	_	_	_
 14	,	_	PUNCT	_	_	_	_	_	_
-15	des	_	ADP	_	Definite=Def|Number=Plur|PronType=Art	_	_	_
+15	des	_	ADP	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
 16	problèmes	_	NOUN	_	Number=Plur	_	_	_	_
 17	précis	_	ADJ	_	Number=Plur	_	_	_	_
 18	se	_	PRON	_	Person=3|PronType=Prs|Reflex=Yes	_	_	_	_
-19	posent	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_
+19	posent	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_	_
 20	:	_	PUNCT	_	_	_	_	_	_
 21	comment	_	ADV	_	_	_	_	_	INVARIANT
 22	se	_	PRON	_	Person=3|PronType=Prs|Reflex=Yes	_	_	_	_
-23	sont	_	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_
-24	formés	_	VERB	_	Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_
+23	sont	_	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_	_
+24	formés	_	VERB	_	Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
 25	les	_	DET	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
 26	différents	_	ADJ	_	Number=Plur	_	_	_	_
 27	systèmes	_	NOUN	_	Number=Plur	_	_	_	_
@@ -7345,10 +7345,10 @@
 18	explications	_	NOUN	_	Number=Plur	_	_	_	_
 19	,	_	PUNCT	_	_	_	_	_	_
 20	ne	_	ADV	_	Polarity=Neg	_	_	_	_
-21	peuvent	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_
+21	peuvent	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_	_
 22	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 23	fournir	_	VERB	_	VerbForm=Inf	_	_	_	_
-24	de	_	DET	_	Definite=Ind|Number=Plur|PronType=Art	_	_	_
+24	de	_	DET	_	Definite=Ind|Number=Plur|PronType=Art	_	_	_	_
 25	réponses	_	NOUN	_	Number=Plur	_	_	_	_
 26	.	_	PUNCT	_	_	_	_	_	_
 
@@ -7400,7 +7400,7 @@
 42	possession	_	NOUN	_	Number=Sing	_	_	_	_
 43	exclusive	_	ADJ	_	Number=Sing	_	_	_	_
 44	et	_	CCONJ	_	_	_	_	_	_
-45	jalouse	_	ADJ	_	Number=Sing	_	_	_
+45	jalouse	_	ADJ	_	Number=Sing	_	_	_	_
 46	d'	_	ADP	_	_	_	_	_	_
 47	une	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
 48	seule	_	ADJ	_	Number=Sing	_	_	_	_
@@ -7451,8 +7451,8 @@
 24	homme	_	NOUN	_	Number=Sing	_	_	_	_
 25	les	_	DET	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
 26	sentiments	_	NOUN	_	Number=Plur	_	_	_	_
-27	que	_	SCONJ	_	_	_	_	_
-28	manifeste	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_
+27	que	_	SCONJ	_	_	_	_	_	_
+28	manifeste	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 29	sa	_	DET	_	Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes	_	_	_	_
 30	conduite	_	NOUN	_	Number=Sing	_	_	_	_
 31	,	_	PUNCT	_	_	_	_	_	_
@@ -7463,7 +7463,7 @@
 36	précisément	_	ADV	_	_	_	_	_	_
 37	ces	_	DET	_	Number=Plur|PronType=Dem	_	_	_	_
 38	sentiments	_	NOUN	_	Number=Plur	_	_	_	_
-39	qu'	_	PRON	_	PronType=Rel	_	_	_
+39	qu'	_	PRON	_	PronType=Rel	_	_	_	_
 40	il	_	PRON	_	Number=Sing|Person=3|PronType=Prs	_	_	_	_
 41	s'	_	PRON	_	Person=3|PronType=Prs|Reflex=Yes	_	_	_	_
 42	agirait	_	VERB	_	Mood=Cnd|Number=Sing|Person=3|Tense=Pres	_	_	_	_
@@ -7542,7 +7542,7 @@
 34	,	_	PUNCT	_	_	_	_	_	_
 35	détachés	_	VERB	_	Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
 36	de	_	ADP	_	_	_	_	_	_
-2	tout	_	DET	_	Definite=Ind|Number=Sing|Person=3	_	_	_
+2	tout	_	DET	_	Definite=Ind|Number=Sing|Person=3	_	_	_	_
 38	milieu	_	NOUN	_	Number=Sing	_	_	_	_
 39	défini	_	ADJ	_	Number=Sing	_	_	_	_
 40	.	_	PUNCT	_	_	_	_	_	_
@@ -7568,7 +7568,7 @@
 15	ce	_	DET	_	Number=Sing|PronType=Dem	_	_	_	_
 16	régime	_	NOUN	_	Number=Sing	_	_	_	_
 17	matrimonial	_	ADJ	_	Number=Sing	_	_	_	_
-18	satisfait	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_
+18	satisfait	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 19	mieux	_	ADV	_	_	_	_	_	_
 20	qu'	_	SCONJ	_	_	_	_	_	_
 21	un	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
@@ -7600,7 +7600,7 @@
 47	régime	_	NOUN	_	Number=Sing	_	_	_	_
 48	apparaît	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 49	dans	_	ADP	_	_	_	_	_	_
-50	telles	_	DET	_	Number=Plur	_	_	_
+50	telles	_	DET	_	Number=Plur	_	_	_	_
 51	sociétés	_	NOUN	_	Number=Plur	_	_	_	_
 52	plutôt	_	ADV	_	_	_	_	_	_
 53	que	_	SCONJ	_	_	_	_	_	_
@@ -7666,7 +7666,7 @@
 7	formes	_	NOUN	_	Number=Plur	_	_	_	_
 8	si	_	SCONJ	_	_	_	_	_	_
 9	variées	_	ADJ	_	Number=Plur	_	_	_	_
-10	qu'	_	PRON	_	PronType=Rel	_	_	_
+10	qu'	_	PRON	_	PronType=Rel	_	_	_	_
 11	a	_	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 12	prises	_	VERB	_	Tense=Past|VerbForm=Part	_	_	_	_
 13	successivement	_	ADV	_	_	_	_	_	_
@@ -7721,13 +7721,13 @@
 41	,	_	PUNCT	_	_	_	_	_	_
 42	entre	_	ADP	_	_	_	_	_	_
 43	ces	_	DET	_	Number=Plur|PronType=Dem	_	_	_	_
-44	extrêmes	_	NOUN	_	Number=Plur	_	_	_
+44	extrêmes	_	NOUN	_	Number=Plur	_	_	_	_
 45	,	_	PUNCT	_	_	_	_	_	_
 46	que	_	SCONJ	_	_	_	_	_	_
 47	de	_	ADP	_	_	_	_	_	_
 48	changements	_	NOUN	_	Number=Plur	_	_	_	_
 49	se	_	PRON	_	Person=3|PronType=Prs|Reflex=Yes	_	_	_	_
-50	sont	_	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_
+50	sont	_	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_	_
 51	produits	_	VERB	_	Tense=Past|VerbForm=Part	_	_	_	_
 52	!	_	PUNCT	_	_	_	_	_	_
 
@@ -7858,7 +7858,7 @@
 11	tel	_	PRON	_	Number=Sing	_	_	_	_
 12	qu'	_	SCONJ	_	_	_	_	_	_
 13	il	_	PRON	_	Number=Sing|Person=3|PronType=Prs	_	_	_	_
-14	est	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_
+14	est	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 15	ou	_	CCONJ	_	_	_	_	_	_
 16	était	_	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp	_	_	_	_
 17	organisé	_	VERB	_	Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
@@ -7890,7 +7890,7 @@
 1	La	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 2	sociologie	_	NOUN	_	Number=Sing	_	_	_	_
 3	ainsi	_	ADV	_	_	_	_	_	_
-4	entendue	_	VERB	_	Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_
+4	entendue	_	VERB	_	Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
 5	ne	_	ADV	_	Polarity=Neg	_	_	_	_
 6	peut	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 7	donc	_	CCONJ	_	_	_	_	_	_
@@ -7904,7 +7904,7 @@
 15	tout	_	ADV	_	_	_	_	_	_
 16	à	_	ADP	_	_	_	_	_	_
 17	fait	_	NOUN	_	Number=Sing	_	_	_	_
-18	généraux	_	ADJ	_	Number=Plur	_	_	_
+18	généraux	_	ADJ	_	Number=Plur	_	_	_	_
 19	,	_	PUNCT	_	_	_	_	_	_
 20	presque	_	ADV	_	_	_	_	_	_
 21	insaisissables	_	ADJ	_	Number=Plur	_	_	_	_
@@ -7947,7 +7947,7 @@
 25	des	_	ADP	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
 26	institutions	_	NOUN	_	Number=Plur	_	_	_	_
 27	)	_	PUNCT	_	_	_	_	_	_
-28	demeure	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_
+28	demeure	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 29	inexpliquée	_	ADJ	_	Number=Sing	_	_	_	_
 30	et	_	CCONJ	_	_	_	_	_	_
 31	inexplicable	_	ADJ	_	Number=Sing	_	_	_	_
@@ -7960,7 +7960,7 @@
 1	Seuls	_	ADJ	_	Number=Plur	_	_	_	_
 2	les	_	DET	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
 3	phénomènes	_	NOUN	_	Number=Plur	_	_	_	_
-4	que	_	PRON	_	PronType=Rel	_	_	_
+4	que	_	PRON	_	PronType=Rel	_	_	_	_
 5	détermine	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 6	la	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 7	nature	_	NOUN	_	Number=Sing	_	_	_	_
@@ -8018,14 +8018,14 @@
 59	y	_	PRON	_	Person=3	_	_	_	_
 60	voit	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 61	,	_	PUNCT	_	_	_	_	_	_
-28	soit	_	ADV	_	_	_	_	_
+28	soit	_	ADV	_	_	_	_	_	_
 63	les	_	DET	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
 64	résultats	_	NOUN	_	Number=Plur	_	_	_	_
 65	d'	_	ADP	_	_	_	_	_	_
 66	inventions	_	NOUN	_	Number=Plur	_	_	_	_
 67	fortuites	_	ADJ	_	Number=Plur	_	_	_	_
 68	,	_	PUNCT	_	_	_	_	_	_
-28	soit	_	ADV	_	_	_	_	_
+28	soit	_	ADV	_	_	_	_	_	_
 70	les	_	DET	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
 71	produits	_	NOUN	_	Number=Plur	_	_	_	_
 72	de	_	ADP	_	_	_	_	_	_
@@ -8074,7 +8074,7 @@
 18	les	_	DET	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
 19	institutions	_	NOUN	_	Number=Plur	_	_	_	_
 20	très	_	ADV	_	_	_	_	_	_
-21	déterminées	_	ADJ	_	Number=Plur	_	_	_
+21	déterminées	_	ADJ	_	Number=Plur	_	_	_	_
 22	,	_	PUNCT	_	_	_	_	_	_
 23	c'	_	PRON	_	Number=Sing|Person=3|PronType=Dem	_	_	_	_
 24	est-à-dire	_	VERB	_	VerbForm=Inf	_	_	_	_
@@ -8100,12 +8100,12 @@
 2	dire	_	VERB	_	VerbForm=Inf	_	_	_	_
 3	qu'	_	SCONJ	_	_	_	_	_	_
 4	on	_	PRON	_	Number=Sing|Person=3|PronType=Prs	_	_	_	_
-5	anéantit	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_
+5	anéantit	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 6	,	_	PUNCT	_	_	_	_	_	_
 7	avec	_	ADP	_	_	_	_	_	_
 8	l'	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 9	objet	_	NOUN	_	Number=Sing	_	_	_	_
-10	défini	_	VERB	_	Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_
+10	défini	_	VERB	_	Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
 11	d'	_	ADP	_	_	_	_	_	_
 12	une	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
 13	science	_	NOUN	_	Number=Sing	_	_	_	_
@@ -8129,13 +8129,13 @@
 31	à	_	ADP	_	_	_	_	_	_
 32	la	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 33	psychologie	_	NOUN	_	Number=Sing	_	_	_	_
-24	quelques	_	DET	_	Definite=Ind|Number=Plur|PronType=Art	_	_	_
+24	quelques	_	DET	_	Definite=Ind|Number=Plur|PronType=Art	_	_	_	_
 35	indications	_	NOUN	_	Number=Plur	_	_	_	_
 36	très	_	ADV	_	_	_	_	_	_
-37	générales	_	ADJ	_	Number=Plur	_	_	_
+37	générales	_	ADJ	_	Number=Plur	_	_	_	_
 38	sur	_	ADP	_	_	_	_	_	_
 39	les	_	DET	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
-40	destinées	_	NOUN	_	Number=Plur	_	_	_
+40	destinées	_	NOUN	_	Number=Plur	_	_	_	_
 41	de	_	ADP	_	_	_	_	_	_
 42	l'	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 43	humain·e	_	NOUN	_	Number=Sing	_	_	_	_
@@ -8172,7 +8172,7 @@
 22	:	_	PUNCT	_	_	_	_	_	_
 23	ce	_	PRON	_	Number=Sing|Person=3|PronType=Dem	_	_	_	_
 24	n'	_	ADV	_	Polarity=Neg	_	_	_	_
-25	est	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_
+25	est	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 26	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 27	que	_	SCONJ	_	_	_	_	_	_
 28	l'	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
@@ -8221,7 +8221,7 @@
 17	à	_	ADP	_	_	_	_	_	_
 18	une	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
 19	époque	_	NOUN	_	Number=Sing	_	_	_	_
-20	déterminées	_	ADJ	_	Number=Plur	_	_	_
+20	déterminées	_	ADJ	_	Number=Plur	_	_	_	_
 21	,	_	PUNCT	_	_	_	_	_	_
 22	familier·ère	_	ADJ	_	Number=Sing	_	_	_	_
 23	avec	_	ADP	_	_	_	_	_	_
@@ -8392,7 +8392,7 @@
 30	est	_	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 31	constituée	_	VERB	_	Tense=Past|VerbForm=Part	_	_	_	_
 32	ou	_	CCONJ	_	_	_	_	_	_
-33	modifiée	_	VERB	_	Tense=Past|VerbForm=Part	_	_	_
+33	modifiée	_	VERB	_	Tense=Past|VerbForm=Part	_	_	_	_
 34	,	_	PUNCT	_	_	_	_	_	_
 35	et	_	CCONJ	_	_	_	_	_	_
 36	elle	_	PRON	_	Number=Sing|Person=3|PronType=Prs	_	_	_	_
@@ -8503,7 +8503,7 @@
 31	à	_	ADP	_	_	_	_	_	_
 32	telle	_	ADJ	_	Number=Sing	_	_	_	_
 33	société	_	NOUN	_	Number=Sing	_	_	_	_
-34	déterminée	_	VERB	_	Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_
+34	déterminée	_	VERB	_	Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
 35	,	_	PUNCT	_	_	_	_	_	_
 36	considérée	_	VERB	_	Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
 37	à	_	ADP	_	_	_	_	_	_
@@ -8529,16 +8529,16 @@
 8	ait	_	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 9	de	_	ADP	_	_	_	_	_	_
 10	causes	_	NOUN	_	Number=Plur	_	_	_	_
-11	générales	_	ADJ	_	Number=Plur	_	_	_
+11	générales	_	ADJ	_	Number=Plur	_	_	_	_
 12	partout	_	ADV	_	_	_	_	_	_
-13	agissantes	_	ADJ	_	Number=Plur	_	_	_
+13	agissantes	_	ADJ	_	Number=Plur	_	_	_	_
 14	dont	_	PRON	_	PronType=Rel	_	_	_	_
 15	la	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 16	recherche	_	NOUN	_	Number=Sing	_	_	_	_
 17	peut	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 18	être	_	VERB	_	VerbForm=Inf	_	_	_	_
 19	utilement	_	ADV	_	_	_	_	_	_
-20	entreprise	_	VERB	_	Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_
+20	entreprise	_	VERB	_	Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
 21	;	_	PUNCT	_	_	_	_	_	_
 22	on	_	PRON	_	Number=Sing|Person=3|PronType=Prs	_	_	_	_
 23	s'	_	PRON	_	Person=3|PronType=Prs|Reflex=Yes	_	_	_	_
@@ -8611,7 +8611,7 @@
 27	l'	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 28	histoire	_	NOUN	_	Number=Sing	_	_	_	_
 29	comparée	_	ADJ	_	Number=Sing	_	_	_	_
-30	des	_	ADP	_	Definite=Def|PronType=Art|Number=Plur	_	_	_
+30	des	_	ADP	_	Definite=Def|PronType=Art|Number=Plur	_	_	_	_
 31	religions	_	NOUN	_	Number=Plur	_	_	_	_
 32	,	_	PUNCT	_	_	_	_	_	_
 33	des	_	ADP	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
@@ -8689,7 +8689,7 @@
 105	telle	_	ADJ	_	Number=Sing	_	_	_	_
 106	société	_	NOUN	_	Number=Sing	_	_	_	_
 107	civilisée	_	ADJ	_	Number=Sing	_	_	_	_
-108	d'	_	ADP	_	_	_	_	_
+108	d'	_	ADP	_	_	_	_	_	_
 109	autres	_	ADJ	_	Number=Plur	_	_	_	_
 110	causes	_	NOUN	_	Number=Plur	_	_	_	_
 111	également	_	ADV	_	_	_	_	_	_
@@ -8720,7 +8720,7 @@
 16	pratiques	_	NOUN	_	Number=Plur	_	_	_	_
 17	très	_	ADV	_	_	_	_	_	_
 18	générales	_	ADJ	_	Number=Plur	_	_	_	_
-19	qu'	_	PRON	_	PronType=Rel	_	_	_
+19	qu'	_	PRON	_	PronType=Rel	_	_	_	_
 20	on	_	PRON	_	Number=Sing|Person=3|PronType=Prs	_	_	_	_
 21	pourrait	_	VERB	_	Mood=Cnd|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 22	prétendre	_	VERB	_	VerbForm=Inf	_	_	_	_
@@ -8826,7 +8826,7 @@
 17	par	_	ADP	_	_	_	_	_	_
 18	des	_	DET	_	Definite=Ind|Number=Plur|PronType=Art	_	_	_	_
 19	causes	_	NOUN	_	Number=Plur	_	_	_	_
-20	particulières	_	ADJ	_	Number=Plur	_	_	_
+20	particulières	_	ADJ	_	Number=Plur	_	_	_	_
 21	à	_	ADP	_	_	_	_	_	_
 22	une	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
 23	société	_	NOUN	_	Number=Sing	_	_	_	_
@@ -8964,7 +8964,7 @@
 29	un	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
 30	autre	_	ADJ	_	Number=Sing	_	_	_	_
 31	événement	_	NOUN	_	Number=Sing	_	_	_	_
-32	qu'	_	PRON	_	PronType=Rel	_	_	_
+32	qu'	_	PRON	_	PronType=Rel	_	_	_	_
 33	iels	_	PRON	_	Number=Plur|Person=3|PronType=Prs	_	_	_	_
 34	appellent	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_	_
 35	sa	_	DET	_	Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes	_	_	_	_
@@ -9012,7 +9012,7 @@
 13	fait	_	NOUN	_	Number=Sing	_	_	_	_
 14	unique	_	ADJ	_	Number=Sing	_	_	_	_
 15	,	_	PUNCT	_	_	_	_	_	_
-16	qu'	_	SCONJ	_	_	_	_	_
+16	qu'	_	SCONJ	_	_	_	_	_	_
 17	ils	_	PRON	_	Number=Plur|Person=3|PronType=Prs	_	_	_	_
 18	n'	_	ADV	_	Polarity=Neg	_	_	_	_
 19	admettent	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_	_
@@ -9077,7 +9077,7 @@
 16	observées	_	ADJ	_	Number=Plur	_	_	_	_
 17	,	_	PUNCT	_	_	_	_	_	_
 18	l'	_	PRON	_	Definite=Def|Number=Sing|Person=3|PronType=Art	_	_	_	_
-19	est	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_
+19	est	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 20	même	_	ADV	_	_	_	_	_	_
 21	à	_	ADP	_	_	_	_	_	_
 22	rendre	_	VERB	_	VerbForm=Inf	_	_	_	_
@@ -9108,7 +9108,7 @@
 47	accidentels	_	ADJ	_	Number=Plur	_	_	_	_
 48	et	_	CCONJ	_	_	_	_	_	_
 49	arbitrairement	_	ADV	_	_	_	_	_	_
-50	enchaînés	_	VERB	_	Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_
+50	enchaînés	_	VERB	_	Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
 51	.	_	PUNCT	_	_	_	_	_	_
 
 
@@ -9188,7 +9188,7 @@
 12	faire	_	VERB	_	VerbForm=Inf	_	_	_	_
 13	des	_	DET	_	Definite=Ind|Number=Plur|PronType=Art	_	_	_	_
 14	distinctions	_	NOUN	_	Number=Plur	_	_	_	_
-15	suivant	_	VERB	_	Tense=Pres|VerbForm=Part	_	_	_
+15	suivant	_	VERB	_	Tense=Pres|VerbForm=Part	_	_	_	_
 16	qu'	_	SCONJ	_	_	_	_	_	_
 17	ils	_	PRON	_	Number=Plur|Person=3|PronType=Prs	_	_	_	_
 18	sont	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_	_
@@ -9252,7 +9252,7 @@
 7	présentent	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_	_
 8	les	_	DET	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
 9	caractères	_	NOUN	_	Number=Plur	_	_	_	_
-10	indiqués	_	VERB	_	Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_
+10	indiqués	_	VERB	_	Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
 11	comme	_	SCONJ	_	_	_	_	_	_
 12	ceux	_	PRON	_	Number=Plur|Person=3|PronType=Dem	_	_	_	_
 13	du	_	ADP	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
@@ -9291,7 +9291,7 @@
 17	n'	_	ADV	_	Polarity=Neg	_	_	_	_
 18	y	_	PRON	_	Person=3	_	_	_	_
 19	en	_	PRON	_	Person=3	_	_	_	_
-20	a	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_
+20	a	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 21	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 22	qu'	_	SCONJ	_	_	_	_	_	_
 23	il	_	PRON	_	Number=Sing|Person=3|PronType=Prs	_	_	_	_
@@ -9322,7 +9322,7 @@
 1	La	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 2	sociologie	_	NOUN	_	Number=Sing	_	_	_	_
 3	ainsi	_	ADV	_	_	_	_	_	_
-4	entendue	_	VERB	_	Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_
+4	entendue	_	VERB	_	Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
 5	n'	_	ADV	_	Polarity=Neg	_	_	_	_
 6	est	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 7	donc	_	CCONJ	_	_	_	_	_	_
@@ -9387,7 +9387,7 @@
 3	y	_	PRON	_	Person=3	_	_	_	_
 4	a	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 5	pas	_	ADV	_	Polarity=Neg	_	_	_	_
-6	de	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_
+6	de	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
 7	fait	_	NOUN	_	Number=Sing	_	_	_	_
 8	,	_	PUNCT	_	_	_	_	_	_
 9	si	_	SCONJ	_	_	_	_	_	_
@@ -9422,8 +9422,8 @@
 10	semblaient	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp	_	_	_	_
 11	de	_	ADP	_	_	_	_	_	_
 12	bien	_	ADV	_	_	_	_	_	_
-13	minime	_	ADJ	_	Number=Sing	_	_	_
-14	importance	_	NOUN	_	Number=Sing	_	_	_
+13	minime	_	ADJ	_	Number=Sing	_	_	_	_
+14	importance	_	NOUN	_	Number=Sing	_	_	_	_
 15	et	_	CCONJ	_	_	_	_	_	_
 16	qui	_	PRON	_	PronType=Rel	_	_	_	_
 17	sont	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_	_
@@ -9433,7 +9433,7 @@
 21	états	_	NOUN	_	Number=Plur	_	_	_	_
 22	sociaux	_	ADJ	_	Number=Plur	_	_	_	_
 23	essentiels	_	ADJ	_	Number=Plur	_	_	_	_
-24	qu'	_	PRON	_	PronType=Rel	_	_	_
+24	qu'	_	PRON	_	PronType=Rel	_	_	_	_
 25	ils	_	PRON	_	Number=Plur|Person=3|PronType=Prs	_	_	_	_
 26	peuvent	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_	_
 27	aider	_	VERB	_	VerbForm=Inf	_	_	_	_
@@ -9557,7 +9557,7 @@
 18	,	_	PUNCT	_	_	_	_	_	_
 19	la	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 20	sociologie	_	NOUN	_	Number=Sing	_	_	_	_
-21	entreprend	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_
+21	entreprend	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 22	d'	_	ADP	_	_	_	_	_	_
 23	en	_	PRON	_	Person=3	_	_	_	_
 24	donner	_	VERB	_	VerbForm=Inf	_	_	_	_
@@ -9606,8 +9606,8 @@
 6	faits	_	NOUN	_	Number=Plur	_	_	_	_
 7	sociaux	_	ADJ	_	Number=Plur	_	_	_	_
 8	se	_	PRON	_	Person=3|PronType=Prs|Reflex=Yes	_	_	_	_
-9	sont	_	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_
-10	produits	_	VERB	_	Tense=Past|VerbForm=Part	_	_	_
+9	sont	_	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_	_
+10	produits	_	VERB	_	Tense=Past|VerbForm=Part	_	_	_	_
 11	,	_	PUNCT	_	_	_	_	_	_
 12	quelles	_	DET	_	Number=Plur|Person=3|PronType=Int	_	_	_	INVARIANT
 13	sont	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_	_
@@ -9628,7 +9628,7 @@
 4	expliquer	_	VERB	_	VerbForm=Inf	_	_	_	_
 5	des	_	DET	_	Definite=Ind|Number=Plur|PronType=Art	_	_	_	_
 6	faits	_	NOUN	_	Number=Plur	_	_	_	_
-7	définis	_	VERB	_	Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_
+7	définis	_	VERB	_	Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
 8	par	_	ADP	_	_	_	_	_	_
 9	leurs	_	DET	_	Number=Plur|Number[psor]=Plur|Person=3|Poss=Yes	_	_	_	_
 10	causes	_	NOUN	_	Number=Plur	_	_	_	_
@@ -9666,7 +9666,7 @@
 16	des	_	DET	_	Definite=Ind|Number=Plur|PronType=Art	_	_	_	_
 17	causes	_	NOUN	_	Number=Plur	_	_	_	_
 18	très	_	ADV	_	_	_	_	_	_
-19	générales	_	ADJ	_	Number=Plur	_	_	_
+19	générales	_	ADJ	_	Number=Plur	_	_	_	_
 20	et	_	CCONJ	_	_	_	_	_	_
 21	très	_	ADV	_	_	_	_	_	_
 22	lointaines	_	ADJ	_	Number=Plur	_	_	_	_
@@ -9866,7 +9866,7 @@
 30	plus	_	ADV	_	_	_	_	_	_
 31	ou	_	CCONJ	_	_	_	_	_	_
 32	moins	_	ADV	_	_	_	_	_	_
-33	étendus	_	ADJ	_	Number=Plur	_	_	_
+33	étendus	_	ADJ	_	Number=Plur	_	_	_	_
 34	de	_	ADP	_	_	_	_	_	_
 35	villages	_	NOUN	_	Number=Plur	_	_	_	_
 36	à	_	ADP	_	_	_	_	_	_
@@ -9876,7 +9876,7 @@
 40	districts	_	NOUN	_	Number=Plur	_	_	_	_
 41	ruraux	_	ADJ	_	Number=Plur	_	_	_	_
 42	à	_	ADP	_	_	_	_	_	_
-43	districts	_	NOUN	_	Number=Plur	_	_	_
+43	districts	_	NOUN	_	Number=Plur	_	_	_	_
 44	industriels	_	ADJ	_	Number=Plur	_	_	_	_
 45	,	_	PUNCT	_	_	_	_	_	_
 46	aux	_	ADP	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
@@ -9917,14 +9917,14 @@
 18	de	_	ADP	_	_	_	_	_	_
 19	certaines	_	DET	_	Definite=Ind|Number=Plur|PronType=Art	_	_	_	_
 20	institutions	_	NOUN	_	Number=Plur	_	_	_	_
-21	déterminées	_	ADJ	_	Number=Plur	_	_	_
+21	déterminées	_	ADJ	_	Number=Plur	_	_	_	_
 22	,	_	PUNCT	_	_	_	_	_	_
 23	par	_	ADP	_	_	_	_	_	_
 24	exemple	_	NOUN	_	Number=Sing	_	_	_	_
 25	l'	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 26	arrangement	_	NOUN	_	Number=Sing	_	_	_	_
 27	en	_	ADP	_	_	_	_	_	_
-28	villes	_	NOUN	_	Number=Plur	_	_	_
+28	villes	_	NOUN	_	Number=Plur	_	_	_	_
 29	produit	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 30	certaines	_	DET	_	Definite=Ind|Number=Plur|PronType=Art	_	_	_	_
 31	formes	_	NOUN	_	Number=Plur	_	_	_	_
@@ -9968,7 +9968,7 @@
 5	des	_	DET	_	Definite=Ind|Number=Plur|PronType=Art	_	_	_	_
 6	institutions	_	NOUN	_	Number=Plur	_	_	_	_
 7	produisent	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_	_
-8	des	_	DET	_	Definite=Ind|Number=Plur|PronType=Art	_	_	_
+8	des	_	DET	_	Definite=Ind|Number=Plur|PronType=Art	_	_	_	_
 9	institutions	_	NOUN	_	Number=Plur	_	_	_	_
 10	par	_	ADP	_	_	_	_	_	_
 11	voie	_	NOUN	_	Number=Sing	_	_	_	_
@@ -9983,12 +9983,12 @@
 20	,	_	PUNCT	_	_	_	_	_	_
 21	ce	_	PRON	_	Number=Sing|Person=3|PronType=Dem	_	_	_	_
 22	n'	_	ADV	_	Polarity=Neg	_	_	_	_
-23	est	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_
+23	est	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 24	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 25	que	_	SCONJ	_	_	_	_	_	_
 26	nous	_	PRON	_	Number=Plur|Person=1|PronType=Prs	_	_	_	_
 27	les	_	PRON	_	Definite=Def|Number=Plur|Person=3|PronType=Art	_	_	_	_
-28	concevons	_	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres	_	_	_
+28	concevons	_	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres	_	_	_	_
 29	comme	_	SCONJ	_	_	_	_	_	_
 30	des	_	DET	_	Definite=Ind|Number=Plur|PronType=Art	_	_	_	_
 31	sortes	_	NOUN	_	Number=Plur	_	_	_	_
@@ -10031,7 +10031,7 @@
 16	,	_	PUNCT	_	_	_	_	_	_
 17	ce	_	PRON	_	Number=Sing|Person=3|PronType=Dem	_	_	_	_
 18	n'	_	ADV	_	Polarity=Neg	_	_	_	_
-19	est	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_
+19	est	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 20	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 21	que	_	SCONJ	_	_	_	_	_	_
 22	nous	_	PRON	_	Number=Plur|Person=1|PronType=Prs	_	_	_	_
@@ -10051,7 +10051,7 @@
 36	directement	_	ADV	_	_	_	_	_	_
 37	et	_	CCONJ	_	_	_	_	_	_
 38	sans	_	ADP	_	Polarity=Neg	_	_	_	_
-39	intermédiaire	_	NOUN	_	Number=Sing	_	_	_
+39	intermédiaire	_	NOUN	_	Number=Sing	_	_	_	_
 40	.	_	PUNCT	_	_	_	_	_	_
 
 
@@ -10082,9 +10082,9 @@
 2	leur	_	DET	_	Number=Sing|Number[psor]=Plur|Person=3|Poss=Yes	_	_	_	_
 3	force	_	NOUN	_	Number=Sing	_	_	_	_
 4	vive	_	ADJ	_	Number=Sing	_	_	_	_
-5	leur	_	PRON	_	Number=Plur|Person=3|PronType=Prs	_	_	_
+5	leur	_	PRON	_	Number=Plur|Person=3|PronType=Prs	_	_	_	_
 6	vient	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
-7	des	_	DET	_	Definite=Ind|Number=Plur|PronType=Art	_	_	_
+7	des	_	DET	_	Definite=Ind|Number=Plur|PronType=Art	_	_	_	_
 8	sentiments	_	NOUN	_	Number=Plur	_	_	_	_
 9	dont	_	PRON	_	PronType=Rel	_	_	_	_
 10	elles	_	PRON	_	Number=Plur|Person=3|PronType=Prs	_	_	_	_
@@ -10095,9 +10095,9 @@
 15	si	_	SCONJ	_	_	_	_	_	_
 16	elles	_	PRON	_	Number=Plur|Person=3|PronType=Prs	_	_	_	_
 17	sont	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_	_
-18	fortes	_	ADJ	_	Number=Plur	_	_	_
+18	fortes	_	ADJ	_	Number=Plur	_	_	_	_
 19	et	_	CCONJ	_	_	_	_	_	_
-20	respectées	_	ADJ	_	Number=Plur	_	_	_
+20	respectées	_	ADJ	_	Number=Plur	_	_	_	_
 21	,	_	PUNCT	_	_	_	_	_	_
 22	c'	_	PRON	_	Number=Sing|Person=3|PronType=Dem	_	_	_	_
 23	est	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
@@ -10112,7 +10112,7 @@
 32	cèdent	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_	_
 33	,	_	PUNCT	_	_	_	_	_	_
 34	c'	_	PRON	_	Number=Sing|Person=3|PronType=Dem	_	_	_	_
-35	est	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_
+35	est	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 36	qu'	_	SCONJ	_	_	_	_	_	_
 37	elles	_	PRON	_	Number=Plur|Person=3|PronType=Prs	_	_	_	_
 38	ont	_	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_	_
@@ -10143,7 +10143,7 @@
 13	institutions	_	NOUN	_	Number=Plur	_	_	_	_
 14	,	_	PUNCT	_	_	_	_	_	_
 15	c'	_	PRON	_	Number=Sing|Person=3|PronType=Dem	_	_	_	_
-16	est	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_
+16	est	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 17	parce	_	SCONJ	_	_	_	_	_	_
 18	qu'	_	SCONJ	_	_	_	_	_	_
 19	ils	_	PRON	_	Number=Plur|Person=3|PronType=Prs	_	_	_	_
@@ -10284,7 +10284,7 @@
 22	opinion	_	NOUN	_	Number=Sing	_	_	_	_
 23	:	_	PUNCT	_	_	_	_	_	_
 24	c'	_	PRON	_	Number=Sing|Person=3|PronType=Dem	_	_	_	_
-25	est	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_
+25	est	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 26	parce	_	SCONJ	_	_	_	_	_	_
 27	que	_	SCONJ	_	_	_	_	_	_
 28	les	_	DET	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
@@ -10310,7 +10310,7 @@
 48	régime	_	NOUN	_	Number=Sing	_	_	_	_
 49	pénal	_	ADJ	_	Number=Sing	_	_	_	_
 50	s'	_	PRON	_	Person=3|PronType=Prs|Reflex=Yes	_	_	_	_
-51	adoucit	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_
+51	adoucit	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 52	progressivement	_	ADV	_	_	_	_	_	_
 53	.	_	PUNCT	_	_	_	_	_	_
 
@@ -10332,7 +10332,7 @@
 12	mais	_	CCONJ	_	_	_	_	_	_
 13	celle-ci	_	PRON	_	Number=Sing|Person=3|PronType=Dem	_	_	_	_
 14	est	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
-15	proprement	_	ADV	_	_	_	_	_
+15	proprement	_	ADV	_	_	_	_	_	_
 16	ce	_	PRON	_	Number=Sing|Person=3|PronType=Dem	_	_	_	_
 17	que	_	PRON	_	PronType=Rel	_	_	_	_
 18	nous	_	PRON	_	Number=Plur|Person=1|PronType=Prs	_	_	_	_
@@ -10427,7 +10427,7 @@
 14	psychologie	_	NOUN	_	Number=Sing	_	_	_	_
 15	est	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 16	spécifiquement	_	ADV	_	_	_	_	_	_
-17	distincte	_	ADJ	_	Number=Sing	_	_	_
+17	distincte	_	ADJ	_	Number=Sing	_	_	_	_
 18	de	_	ADP	_	_	_	_	_	_
 19	la	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 20	psychologie	_	NOUN	_	Number=Sing	_	_	_	_
@@ -10481,7 +10481,7 @@
 12	dit	_	VERB	_	Tense=Past|VerbForm=Part	_	_	_	_
 13	à	_	ADP	_	_	_	_	_	_
 14	propos	_	NOUN	_	Number=Plur	_	_	_	INVARIANT
-15	des	_	ADP	_	Definite=Def|Number=Plur|PronType=Art	_	_	_
+15	des	_	ADP	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
 16	caractères	_	NOUN	_	Number=Plur	_	_	_	_
 17	du	_	ADP	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 18	phénomène	_	NOUN	_	Number=Sing	_	_	_	_
@@ -10593,7 +10593,7 @@
 5	ces	_	DET	_	Number=Plur|PronType=Dem	_	_	_	_
 6	réactions	_	NOUN	_	Number=Plur	_	_	_	_
 7	dégagent	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_	_
-8	des	_	DET	_	Number=Plur|PronType=Art|Definite=Ind	_	_	_
+8	des	_	DET	_	Number=Plur|PronType=Art|Definite=Ind	_	_	_	_
 9	phénomènes	_	NOUN	_	Number=Plur	_	_	_	_
 10	psychiques	_	ADJ	_	Number=Plur	_	_	_	_
 11	d'	_	ADP	_	_	_	_	_	_
@@ -10751,7 +10751,7 @@
 71	,	_	PUNCT	_	_	_	_	_	_
 72	le	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 73	sentiment	_	NOUN	_	Number=Sing	_	_	_	_
-74	qu'	_	PRON	_	PronType=Rel	_	_	_
+74	qu'	_	PRON	_	PronType=Rel	_	_	_	_
 75	il	_	PRON	_	Number=Sing|Person=3|PronType=Prs	_	_	_	_
 76	a	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 77	de	_	ADP	_	_	_	_	_	_
@@ -10794,7 +10794,7 @@
 # text = Ce n' est pas à dire toutefois qu' il y ait entre elles une solution de continuité .
 1	Ce	_	PRON	_	Number=Sing|Person=3|PronType=Dem	_	_	_	_
 2	n'	_	ADV	_	Polarity=Neg	_	_	_	_
-3	est	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_
+3	est	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 4	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 5	à	_	ADP	_	_	_	_	_	_
 6	dire	_	VERB	_	VerbForm=Inf	_	_	_	_
@@ -10826,7 +10826,7 @@
 9	formée	_	VERB	_	Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
 10	y	_	PRON	_	Person=3	_	_	_	_
 11	sont	_	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_	_
-12	combinées	_	VERB	_	Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_
+12	combinées	_	VERB	_	Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
 13	sous	_	ADP	_	_	_	_	_	_
 14	des	_	DET	_	Definite=Ind|Number=Plur|PronType=Art	_	_	_	_
 15	formes	_	NOUN	_	Number=Plur	_	_	_	_
@@ -10922,7 +10922,7 @@
 1	Inversement	_	ADV	_	_	_	_	_	_
 2	le	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 3	social	_	NOUN	_	Number=Sing	_	_	_	_
-4	redevient	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_
+4	redevient	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 5	individuel	_	ADJ	_	Number=Sing	_	_	_	_
 6	.	_	PUNCT	_	_	_	_	_	_
 
@@ -11032,7 +11032,7 @@
 4	prie	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 5	et	_	CCONJ	_	_	_	_	_	_
 6	adore	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
-7	suivant	_	VERB	_	Tense=Pres|VerbForm=Part	_	_	_
+7	suivant	_	VERB	_	Tense=Pres|VerbForm=Part	_	_	_	_
 8	ses	_	DET	_	Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes	_	_	_	_
 9	penchants	_	NOUN	_	Number=Plur	_	_	_	_
 10	.	_	PUNCT	_	_	_	_	_	_
@@ -11124,7 +11124,7 @@
 15	sociaux	_	ADJ	_	Number=Plur	_	_	_	_
 16	et	_	CCONJ	_	_	_	_	_	_
 17	constituent	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_	_
-18	des	_	DET	_	Number=Plur|PronType=Art|Definite=Ind	_	_	_
+18	des	_	DET	_	Number=Plur|PronType=Art|Definite=Ind	_	_	_	_
 19	institutions	_	NOUN	_	Number=Plur	_	_	_	_
 20	:	_	PUNCT	_	_	_	_	_	_
 21	c'	_	PRON	_	Number=Sing|Person=3|PronType=Dem	_	_	_	_
@@ -11150,10 +11150,10 @@
 41	Rome	_	PROPN	_	_	_	_	_	_
 42	,	_	PUNCT	_	_	_	_	_	_
 43	chaque	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
-44	citoyen·ne	_	NOUN	_	Number=Sing	_	_	_
+44	citoyen·ne	_	NOUN	_	Number=Sing	_	_	_	_
 45	a	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 46	son	_	DET	_	Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes	_	_	_	_
-47	genius	_	NOUN	_	Number=Sing	_	_	_
+47	genius	_	NOUN	_	Number=Sing	_	_	_	_
 48	,	_	PUNCT	_	_	_	_	_	_
 49	dans	_	ADP	_	_	_	_	_	_
 50	le	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
@@ -11192,7 +11192,7 @@
 19	est	_	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 20	réfractée	_	VERB	_	Tense=Past|VerbForm=Part	_	_	_	_
 21	et	_	CCONJ	_	_	_	_	_	_
-22	défigurée	_	VERB	_	Tense=Past|VerbForm=Part	_	_	_
+22	défigurée	_	VERB	_	Tense=Past|VerbForm=Part	_	_	_	_
 23	dans	_	ADP	_	_	_	_	_	_
 24	les	_	DET	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
 25	consciences	_	NOUN	_	Number=Plur	_	_	_	_
@@ -11225,7 +11225,7 @@
 20	un	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
 21	se	_	PRON	_	Person=3|PronType=Prs|Reflex=Yes	_	_	_	_
 22	croit	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
-23	parent	_	NOUN	_	Number=Sing	_	_	_
+23	parent	_	NOUN	_	Number=Sing	_	_	_	_
 24	des	_	ADP	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
 25	lézards	_	NOUN	_	Number=Plur	_	_	_	_
 26	,	_	PUNCT	_	_	_	_	_	_
@@ -11235,7 +11235,7 @@
 30	autre	_	PRON	_	Number=Sing|Person=3	_	_	_	_
 31	se	_	PRON	_	Person=3|PronType=Prs|Reflex=Yes	_	_	_	_
 32	sent	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
-33	associé	_	NOUN	_	Number=Sing	_	_	_
+33	associé	_	NOUN	_	Number=Sing	_	_	_	_
 34	des	_	ADP	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
 35	corbeaux	_	NOUN	_	Number=Plur	_	_	_	_
 36	,	_	PUNCT	_	_	_	_	_	_
@@ -11298,7 +11298,7 @@
 33	être	_	VERB	_	VerbForm=Inf	_	_	_	_
 34	pour	_	ADP	_	_	_	_	_	_
 35	autant	_	ADV	_	_	_	_	_	_
-36	des	_	DET	_	Number=Plur|PronType=Art|Definite=Ind	_	_	_
+36	des	_	DET	_	Number=Plur|PronType=Art|Definite=Ind	_	_	_	_
 37	phénomènes	_	NOUN	_	Number=Plur	_	_	_	_
 38	de	_	ADP	_	_	_	_	_	_
 39	la	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
@@ -11340,7 +11340,7 @@
 9	davantage	_	ADV	_	_	_	_	_	_
 10	la	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 11	formule	_	NOUN	_	Number=Sing	_	_	_	_
-12	que	_	PRON	_	PronType=Rel	_	_	_
+12	que	_	PRON	_	PronType=Rel	_	_	_	_
 13	nous	_	PRON	_	Number=Plur|Person=1|PronType=Prs	_	_	_	_
 14	avons	_	AUX	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres	_	_	_	_
 15	donnée	_	VERB	_	Tense=Past|VerbForm=Part	_	_	_	_
@@ -11384,7 +11384,7 @@
 9	qui	_	PRON	_	PronType=Rel	_	_	_	_
 10	précède	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 11	,	_	PUNCT	_	_	_	_	_	_
-12	qu'	_	SCONJ	_	_	_	_	_
+12	qu'	_	SCONJ	_	_	_	_	_	_
 13	il	_	PRON	_	Number=Sing|Person=3|PronType=Prs	_	_	_	_
 14	existe	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 15	deux	_	NUM	_	NumType=Card	_	_	_	_
@@ -11400,7 +11400,7 @@
 25	structure	_	NOUN	_	Number=Sing	_	_	_	_
 26	sociale	_	ADJ	_	Number=Sing	_	_	_	_
 27	,	_	PUNCT	_	_	_	_	_	_
-28	c'est-à-dire	_	ADV	_	_	_	_	_
+28	c'est-à-dire	_	ADV	_	_	_	_	_	_
 29	les	_	DET	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
 30	formes	_	NOUN	_	Number=Plur	_	_	_	_
 31	du	_	ADP	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
@@ -11441,7 +11441,7 @@
 8	toute	_	DET	_	Definite=Ind|Number=Sing|Person=3	_	_	_	_
 9	explication	_	NOUN	_	Number=Sing	_	_	_	_
 10	sociologique	_	ADJ	_	Number=Sing	_	_	_	_
-11	entre	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_
+11	entre	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 12	dans	_	ADP	_	_	_	_	_	_
 13	un	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
 14	des	_	ADP	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
@@ -11492,7 +11492,7 @@
 59	cause	_	NOUN	_	Number=Sing	_	_	_	_
 60	;	_	PUNCT	_	_	_	_	_	_
 61	ainsi	_	ADV	_	_	_	_	_	_
-62	l'	_	PRON	_	Definite=Def|Number=Sing|Person=3|PronType=Art	_	_	_
+62	l'	_	PRON	_	Definite=Def|Number=Sing|Person=3|PronType=Art	_	_	_	_
 63	on	_	PRON	_	Number=Sing|Person=3|PronType=Prs	_	_	_	_
 64	voit	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 65	dans	_	ADP	_	_	_	_	_	_
@@ -11527,7 +11527,7 @@
 94	bien	_	ADV	_	_	_	_	_	_
 95	elle	_	PRON	_	Number=Sing|Person=3|PronType=Prs	_	_	_	_
 96	rattache	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
-97	des	_	DET	_	Number=Plur|PronType=Art|Definite=Ind	_	_	_
+97	des	_	DET	_	Number=Plur|PronType=Art|Definite=Ind	_	_	_	_
 98	faits	_	NOUN	_	Number=Plur	_	_	_	_
 99	de	_	ADP	_	_	_	_	_	_
 100	structure	_	NOUN	_	Number=Sing	_	_	_	_
@@ -11561,7 +11561,7 @@
 128	;	_	PUNCT	_	_	_	_	_	_
 129	la	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 130	fascination	_	NOUN	_	Number=Sing	_	_	_	_
-131	qu'	_	SCONJ	_	_	_	_	_
+131	qu'	_	SCONJ	_	_	_	_	_	_
 132	exercent	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_	_
 133	les	_	DET	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
 134	grandes	_	ADJ	_	Number=Plur	_	_	_	_
@@ -11679,7 +11679,7 @@
 25	qui	_	PRON	_	PronType=Rel	_	_	_	_
 26	,	_	PUNCT	_	_	_	_	_	_
 27	une	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
-28	fois	_	NOUN	_	Number=Sing	_	_	_
+28	fois	_	NOUN	_	Number=Sing	_	_	_	_
 29	formées	_	ADJ	_	Number=Plur	_	_	_	_
 30	,	_	PUNCT	_	_	_	_	_	_
 31	ont	_	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_	_
@@ -11714,7 +11714,7 @@
 18	primauté	_	NOUN	_	Number=Sing	_	_	_	_
 19	,	_	PUNCT	_	_	_	_	_	_
 20	ni	_	CCONJ	_	_	_	_	_	_
-21	logique	_	ADJ	_	Number=Sing	_	_	_
+21	logique	_	ADJ	_	Number=Sing	_	_	_	_
 22	,	_	PUNCT	_	_	_	_	_	_
 23	ni	_	CCONJ	_	_	_	_	_	_
 24	chronologique	_	ADJ	_	Number=Sing	_	_	_	_
@@ -11728,7 +11728,7 @@
 2	explication	_	NOUN	_	Number=Sing	_	_	_	_
 3	sociologique	_	ADJ	_	Number=Sing	_	_	_	_
 4	ainsi	_	ADV	_	_	_	_	_	_
-5	entendue	_	VERB	_	Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_
+5	entendue	_	VERB	_	Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
 6	ne	_	ADV	_	Polarity=Neg	_	_	_	_
 7	mérite	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 8	donc	_	CCONJ	_	_	_	_	_	_
@@ -11745,7 +11745,7 @@
 19	été	_	VERB	_	Tense=Past|VerbForm=Part	_	_	_	_
 20	quelque	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
 21	fois	_	NOUN	_	Number=Sing	_	_	_	_
-22	adressé	_	VERB	_	Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_
+22	adressé	_	VERB	_	Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
 23	.	_	PUNCT	_	_	_	_	_	_
 
 
@@ -11758,12 +11758,12 @@
 4	est	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 5	indépendante	_	ADJ	_	Number=Sing	_	_	_	_
 6	de	_	ADP	_	_	_	_	_	_
-7	toute	_	DET	_	Definite=Ind|Number=Sing|Person=3	_	_	_
+7	toute	_	DET	_	Definite=Ind|Number=Sing|Person=3	_	_	_	_
 8	métaphysique	_	ADJ	_	Number=Sing	_	_	_	_
 9	,	_	PUNCT	_	_	_	_	_	_
 10	matérialiste	_	ADJ	_	Number=Sing	_	_	_	_
 11	ou	_	CCONJ	_	_	_	_	_	_
-12	autre	_	ADJ	_	Number=Sing	_	_	_
+12	autre	_	ADJ	_	Number=Sing	_	_	_	_
 13	.	_	PUNCT	_	_	_	_	_	_
 
 
@@ -11827,7 +11827,7 @@
 6	doivent	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 7	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 8	être	_	AUX	_	VerbForm=Inf	_	_	_	_
-9	conçues	_	VERB	_	Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_
+9	conçues	_	VERB	_	Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
 10	comme	_	SCONJ	_	_	_	_	_	_
 11	se	_	PRON	_	Person=3|PronType=Prs|Reflex=Yes	_	_	_	_
 12	développant	_	VERB	_	Tense=Pres|VerbForm=Part	_	_	_	_
@@ -11875,7 +11875,7 @@
 6	droit	_	NOUN	_	Number=Sing	_	_	_	_
 7	pénal	_	ADJ	_	Number=Sing	_	_	_	_
 8	ont	_	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_	_
-9	changé	_	VERB	_	Tense=Past|VerbForm=Part	_	_	_
+9	changé	_	VERB	_	Tense=Past|VerbForm=Part	_	_	_	_
 10	,	_	PUNCT	_	_	_	_	_	_
 11	ce	_	PRON	_	Number=Sing|Person=3|PronType=Dem	_	_	_	_
 12	n'	_	ADV	_	Polarity=Neg	_	_	_	_
@@ -11883,7 +11883,7 @@
 14	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 15	par	_	ADP	_	_	_	_	_	_
 16	suite	_	NOUN	_	Number=Sing	_	_	_	_
-17	des	_	ADP	_	Definite=Def|PronType=Art|Number=Plur	_	_	_
+17	des	_	ADP	_	Definite=Def|PronType=Art|Number=Plur	_	_	_	_
 18	progrès	_	NOUN	_	Number=Plur	_	_	_	_
 19	rationnels	_	ADJ	_	Number=Plur	_	_	_	_
 20	d'	_	ADP	_	_	_	_	_	_
@@ -11935,7 +11935,7 @@
 1	Ainsi	_	ADV	_	_	_	_	_	_
 2	ce	_	PRON	_	Number=Sing|Person=3|PronType=Dem	_	_	_	_
 3	n'	_	ADV	_	Polarity=Neg	_	_	_	_
-4	est	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_
+4	est	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 5	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 6	expliquer	_	VERB	_	VerbForm=Inf	_	_	_	_
 7	une	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
@@ -11962,7 +11962,7 @@
 28	un	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
 29	progrès	_	NOUN	_	Number=Sing	_	_	_	_
 30	,	_	PUNCT	_	_	_	_	_	_
-31	qu'	_	SCONJ	_	_	_	_	_
+31	qu'	_	SCONJ	_	_	_	_	_	_
 32	elle	_	PRON	_	Number=Sing|Person=3|PronType=Prs	_	_	_	_
 33	est	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 34	plus	_	ADV	_	_	_	_	_	_
@@ -12053,7 +12053,7 @@
 # sent_id = marcel_mauss_sociologie_ojets_methodes.297
 # text = C' est dire que le sociologue n' a pas pour objet de trouver nous ne savons quelle loi de progrès , d' évolution générale qui dominerait le passé et prédéterminerait l' avenir .
 1	C'	_	PRON	_	Number=Sing|Person=3|PronType=Dem	_	_	_	_
-2	est	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_
+2	est	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 3	dire	_	VERB	_	VerbForm=Inf	_	_	_	_
 4	que	_	SCONJ	_	_	_	_	_	_
 5	le	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
@@ -12118,7 +12118,7 @@
 7	lois	_	NOUN	_	Number=Plur	_	_	_	_
 8	d'	_	ADP	_	_	_	_	_	_
 9	inégale	_	ADJ	_	Number=Sing	_	_	_	_
-10	généralité	_	NOUN	_	Number=Sing	_	_	_
+10	généralité	_	NOUN	_	Number=Sing	_	_	_	_
 11	.	_	PUNCT	_	_	_	_	_	_
 
 
@@ -12136,7 +12136,7 @@
 9	science	_	NOUN	_	Number=Sing	_	_	_	_
 10	,	_	PUNCT	_	_	_	_	_	_
 11	c'	_	PRON	_	Number=Sing|Person=3|PronType=Dem	_	_	_	_
-12	est	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_
+12	est	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 13	donc	_	CCONJ	_	_	_	_	_	_
 14	découvrir	_	VERB	_	VerbForm=Inf	_	_	_	_
 15	des	_	DET	_	Definite=Ind|Number=Plur|PronType=Art	_	_	_	_
@@ -12151,7 +12151,7 @@
 24	lier	_	VERB	_	VerbForm=Inf	_	_	_	_
 25	des	_	DET	_	Definite=Ind|Number=Plur|PronType=Art	_	_	_	_
 26	faits	_	NOUN	_	Number=Plur	_	_	_	_
-28	suivant	_	VERB	_	Tense=Pres|VerbForm=Part	_	_	_
+28	suivant	_	VERB	_	Tense=Pres|VerbForm=Part	_	_	_	_
 29	des	_	DET	_	Definite=Ind|Number=Plur|PronType=Art	_	_	_	_
 30	rapports	_	NOUN	_	Number=Plur	_	_	_	_
 31	définis	_	ADJ	_	Number=Plur	_	_	_	_
@@ -12256,7 +12256,7 @@
 18	comme	_	SCONJ	_	_	_	_	_	_
 19	la	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 20	science	_	NOUN	_	Number=Sing	_	_	_	_
-21	qu'	_	PRON	_	PronType=Rel	_	_	_
+21	qu'	_	PRON	_	PronType=Rel	_	_	_	_
 22	ils	_	PRON	_	Number=Plur|Person=3|PronType=Prs	_	_	_	_
 23	entendaient	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp	_	_	_	_
 24	fonder	_	VERB	_	VerbForm=Inf	_	_	_	_
@@ -12357,7 +12357,7 @@
 12	et	_	CCONJ	_	_	_	_	_	_
 13	à	_	ADP	_	_	_	_	_	_
 14	mesure	_	NOUN	_	Number=Sing	_	_	_	_
-15	des	_	DET	_	Definite=Ind|Number=Plur|PronType=Art	_	_	_
+15	des	_	DET	_	Definite=Ind|Number=Plur|PronType=Art	_	_	_	_
 16	progrès	_	NOUN	_	Number=Plur	_	_	_	_
 17	de	_	ADP	_	_	_	_	_	_
 18	cette	_	DET	_	Number=Sing|PronType=Dem	_	_	_	_
@@ -12496,7 +12496,7 @@
 4	extérieures	_	ADJ	_	Number=Plur	_	_	_	_
 5	qu'	_	SCONJ	_	_	_	_	_	_
 6	elles	_	PRON	_	Number=Plur|Person=3|PronType=Prs	_	_	_	_
-7	soient	_	VERB	_	Mood=Sub|Number=Plur|Person=3|Tense=Pres	_	_	_
+7	soient	_	VERB	_	Mood=Sub|Number=Plur|Person=3|Tense=Pres	_	_	_	_
 8	,	_	PUNCT	_	_	_	_	_	_
 9	elles	_	PRON	_	Number=Plur|Person=3|PronType=Prs	_	_	_	_
 10	n'	_	ADV	_	Polarity=Neg	_	_	_	_
@@ -12565,8 +12565,8 @@
 6	sorte	_	NOUN	_	Number=Sing	_	_	_	_
 7	,	_	PUNCT	_	_	_	_	_	_
 8	de	_	ADP	_	_	_	_	_	_
-9	graves	_	ADJ	_	Number=Plur	_	_	_
-10	méprises	_	NOUN	_	Number=Plur	_	_	_
+9	graves	_	ADJ	_	Number=Plur	_	_	_	_
+10	méprises	_	NOUN	_	Number=Plur	_	_	_	_
 11	:	_	PUNCT	_	_	_	_	_	_
 12	ainsi	_	ADV	_	_	_	_	_	_
 13	,	_	PUNCT	_	_	_	_	_	_
@@ -12665,7 +12665,7 @@
 27	appellent	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_	_
 28	monogamie	_	NOUN	_	Number=Sing	_	_	_	_
 29	ce	_	PRON	_	Number=Sing|Person=3|PronType=Dem	_	_	_	_
-30	que	_	PRON	_	PronType=Rel	_	_	_
+30	que	_	PRON	_	PronType=Rel	_	_	_	_
 31	les	_	DET	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
 32	autres	_	PRON	_	Number=Plur|Person=3	_	_	_	_
 33	ne	_	ADV	_	Polarity=Neg	_	_	_	_
@@ -12716,7 +12716,7 @@
 # sent_id = marcel_mauss_sociologie_ojets_methodes.321
 # text = Naturellement des définitions de ce genre sont construites .
 1	Naturellement	_	ADV	_	_	_	_	_	_
-2	des	_	DET	_	Number=Plur|PronType=Art|Definite=Ind	_	_	_
+2	des	_	DET	_	Number=Plur|PronType=Art|Definite=Ind	_	_	_	_
 3	définitions	_	NOUN	_	Number=Plur	_	_	_	_
 4	de	_	ADP	_	_	_	_	_	_
 5	ce	_	DET	_	Number=Sing|PronType=Dem	_	_	_	_
@@ -12773,7 +12773,7 @@
 21	première	_	ADJ	_	NumType=Ord|Number=Sing	_	_	_	_
 22	revue	_	NOUN	_	Number=Sing	_	_	_	_
 23	rapide	_	ADJ	_	Number=Sing	_	_	_	_
-24	des	_	ADP	_	Definite=Def|Number=Plur|PronType=Art	_	_	_
+24	des	_	ADP	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
 25	faits	_	NOUN	_	Number=Plur	_	_	_	_
 26	,	_	PUNCT	_	_	_	_	_	_
 27	dont	_	PRON	_	PronType=Rel	_	_	_	_
@@ -12867,7 +12867,7 @@
 2	d'	_	ADP	_	_	_	_	_	_
 3	idées	_	NOUN	_	Number=Plur	_	_	_	_
 4	encore	_	ADV	_	_	_	_	_	_
-5	usitées	_	ADJ	_	Number=Plur	_	_	_
+5	usitées	_	ADJ	_	Number=Plur	_	_	_	_
 6	dans	_	ADP	_	_	_	_	_	_
 7	bien	_	ADV	_	_	_	_	_	_
 8	des	_	DET	_	Definite=Ind|Number=Plur|PronType=Art	_	_	_	_
@@ -12899,7 +12899,7 @@
 34	de	_	ADP	_	_	_	_	_	_
 35	paganisme	_	NOUN	_	Number=Sing	_	_	_	_
 36	et	_	CCONJ	_	_	_	_	_	_
-37	même	_	ADV	_	_	_	_	_
+37	même	_	ADV	_	_	_	_	_	_
 38	celle	_	PRON	_	Number=Sing|Person=3|PronType=Dem	_	_	_	_
 39	de	_	ADP	_	_	_	_	_	_
 40	fétichisme	_	NOUN	_	Number=Sing	_	_	_	_
@@ -12922,13 +12922,13 @@
 5	une	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
 6	recherche	_	NOUN	_	Number=Sing	_	_	_	_
 7	sérieuse	_	ADJ	_	Number=Sing	_	_	_	_
-8	conduit	_	VERB	_	Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_
+8	conduit	_	VERB	_	Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
 9	à	_	ADP	_	_	_	_	_	_
 10	réunir	_	VERB	_	VerbForm=Inf	_	_	_	_
 11	ce	_	PRON	_	Number=Sing|Person=3|PronType=Dem	_	_	_	_
 12	que	_	PRON	_	PronType=Rel	_	_	_	_
 13	le	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
-14	vulgaire	_	NOUN	_	Number=Sing	_	_	_
+14	vulgaire	_	NOUN	_	Number=Sing	_	_	_	_
 15	sépare	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 16	,	_	PUNCT	_	_	_	_	_	_
 17	ou	_	CCONJ	_	_	_	_	_	_
@@ -13072,10 +13072,10 @@
 9	plus	_	ADV	_	_	_	_	_	_
 10	ou	_	CCONJ	_	_	_	_	_	_
 11	moins	_	ADV	_	_	_	_	_	_
-12	raisonnée	_	VERB	_	Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_
+12	raisonnée	_	VERB	_	Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
 13	du	_	ADP	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 14	sacrifice	_	NOUN	_	Number=Sing	_	_	_	_
-15	que	_	PRON	_	PronType=Rel	_	_	_
+15	que	_	PRON	_	PronType=Rel	_	_	_	_
 16	nous	_	PRON	_	Number=Plur|Person=1|PronType=Prs	_	_	_	_
 17	devons	_	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres	_	_	_	_
 18	définir	_	VERB	_	VerbForm=Inf	_	_	_	_
@@ -13095,12 +13095,12 @@
 32	en	_	ADP	_	_	_	_	_	_
 33	tant	_	ADV	_	_	_	_	_	_
 34	que	_	SCONJ	_	_	_	_	_	_
-35	fait	_	NOUN	_	Number=Sing	_	_	_
+35	fait	_	NOUN	_	Number=Sing	_	_	_	_
 36	social	_	ADJ	_	Number=Sing	_	_	_	_
 37	et	_	CCONJ	_	_	_	_	_	_
 38	religieux	_	ADJ	_	Number=Sing	_	_	_	_
 39	,	_	PUNCT	_	_	_	_	_	_
-40	extérieur	_	ADJ	_	Number=Sing	_	_	_
+40	extérieur	_	ADJ	_	Number=Sing	_	_	_	_
 41	à	_	ADP	_	_	_	_	_	_
 42	nous	_	PRON	_	Number=Plur|Person=1|PronType=Prs	_	_	_	_
 43	,	_	PUNCT	_	_	_	_	_	_
@@ -13147,7 +13147,7 @@
 12	,	_	PUNCT	_	_	_	_	_	_
 13	bien	_	ADV	_	_	_	_	_	_
 14	qu'	_	SCONJ	_	_	_	_	_	_
-15	extérieurs	_	ADJ	_	Number=Plur	_	_	_
+15	extérieurs	_	ADJ	_	Number=Plur	_	_	_	_
 16	,	_	PUNCT	_	_	_	_	_	_
 17	n'	_	ADV	_	Polarity=Neg	_	_	_	_
 18	en	_	PRON	_	Person=3	_	_	_	_
@@ -13206,7 +13206,7 @@
 18	les	_	DET	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
 19	actes	_	NOUN	_	Number=Plur	_	_	_	_
 20	actuellement	_	ADV	_	_	_	_	_	_
-21	réputés	_	VERB	_	Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_
+21	réputés	_	VERB	_	Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
 23	:	_	PUNCT	_	_	_	_	_	_
 24	l'	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 25	homicide	_	NOUN	_	Number=Sing	_	_	_	_
@@ -13290,7 +13290,7 @@
 5	elles	_	PRON	_	Number=Plur|Person=3|PronType=Prs	_	_	_	_
 6	obligent	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_	_
 7	et	_	CCONJ	_	_	_	_	_	_
-8	lient	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_
+8	lient	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_	_
 9	le	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 10	sociologue	_	NOUN	_	Number=Sing	_	_	_	_
 11	.	_	PUNCT	_	_	_	_	_	_
@@ -13398,7 +13398,7 @@
 5	évite	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 6	une	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
 7	faute	_	NOUN	_	Number=Sing	_	_	_	_
-8	que	_	PRON	_	PronType=Rel	_	_	_
+8	que	_	PRON	_	PronType=Rel	_	_	_	_
 9	commettent	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_	_
 10	encore	_	ADV	_	_	_	_	_	_
 11	les	_	DET	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
@@ -13425,7 +13425,7 @@
 2	faute	_	NOUN	_	Number=Sing	_	_	_	_
 3	,	_	PUNCT	_	_	_	_	_	_
 4	c'	_	PRON	_	Number=Sing|Person=3|PronType=Dem	_	_	_	_
-5	est	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_
+5	est	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 6	de	_	ADP	_	_	_	_	_	_
 7	n'	_	ADV	_	Polarity=Neg	_	_	_	_
 8	avoir	_	AUX	_	VerbForm=Inf	_	_	_	_
@@ -13440,7 +13440,7 @@
 17	et	_	CCONJ	_	_	_	_	_	_
 18	de	_	ADP	_	_	_	_	_	_
 19	n'	_	ADV	_	Polarity=Neg	_	_	_	_
-20	avoir	_	AUX	_	VerbForm=Inf	_	_	_
+20	avoir	_	AUX	_	VerbForm=Inf	_	_	_	_
 21	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 22	suffisamment	_	ADV	_	_	_	_	_	_
 23	recherché	_	VERB	_	Tense=Past|VerbForm=Part	_	_	_	_
@@ -13490,7 +13490,7 @@
 1	Or	_	CCONJ	_	_	_	_	_	_
 2	,	_	PUNCT	_	_	_	_	_	_
 3	avec	_	ADP	_	_	_	_	_	_
-4	de	_	DET	_	Number=Sing|PronType=Art|Definite=Ind	_	_	_
+4	de	_	DET	_	Number=Sing|PronType=Art|Definite=Ind	_	_	_	_
 5	bonnes	_	ADJ	_	Number=Plur	_	_	_	_
 6	définitions	_	NOUN	_	Number=Plur	_	_	_	_
 7	initiales	_	ADJ	_	Number=Plur	_	_	_	_
@@ -13603,7 +13603,7 @@
 4	phénomènes	_	NOUN	_	Number=Plur	_	_	_	_
 5	sociaux	_	ADJ	_	Number=Plur	_	_	_	_
 6	n'	_	ADV	_	Polarity=Neg	_	_	_	_
-7	est	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_
+7	est	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 8	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 9	,	_	PUNCT	_	_	_	_	_	_
 10	comme	_	SCONJ	_	_	_	_	_	_
@@ -13688,20 +13688,20 @@
 1	Toute	_	DET	_	Definite=Ind|Number=Sing|Person=3	_	_	_	_
 2	observation	_	NOUN	_	Number=Sing	_	_	_	_
 3	scientifique	_	ADJ	_	Number=Sing	_	_	_	_
-4	porte	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_
+4	porte	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 5	sur	_	ADP	_	_	_	_	_	_
 6	des	_	DET	_	Definite=Ind|Number=Plur|PronType=Art	_	_	_	_
 7	phénomènes	_	NOUN	_	Number=Plur	_	_	_	_
 8	méthodiquement	_	ADV	_	_	_	_	_	_
-9	choisis	_	VERB	_	Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_
+9	choisis	_	VERB	_	Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
 10	et	_	CCONJ	_	_	_	_	_	_
-11	isolés	_	VERB	_	Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_
-12	des	_	ADP	_	Definite=Def|PronType=Art|Number=Plur	_	_	_
+11	isolés	_	VERB	_	Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
+12	des	_	ADP	_	Definite=Def|PronType=Art|Number=Plur	_	_	_	_
 13	autres	_	PRON	_	Number=Plur|Person=3	_	_	_	_
 14	,	_	PUNCT	_	_	_	_	_	_
 15	c'	_	PRON	_	Number=Sing|Person=3|PronType=Dem	_	_	_	_
 16	est-à-dire	_	VERB	_	VerbForm=Inf	_	_	_	_
-17	abstraits	_	VERB	_	Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_
+17	abstraits	_	VERB	_	Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
 18	.	_	PUNCT	_	_	_	_	_	_
 
 
@@ -13718,7 +13718,7 @@
 8	autres	_	PRON	_	Number=Plur|Person=3	_	_	_	_
 9	,	_	PUNCT	_	_	_	_	_	_
 10	ne	_	ADV	_	Polarity=Neg	_	_	_	_
-11	peuvent	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_
+11	peuvent	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_	_
 12	être	_	AUX	_	VerbForm=Inf	_	_	_	_
 13	étudiés	_	VERB	_	Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
 14	en	_	ADP	_	_	_	_	_	_
@@ -13769,7 +13769,7 @@
 5	,	_	PUNCT	_	_	_	_	_	_
 6	si	_	SCONJ	_	_	_	_	_	_
 7	elle	_	PRON	_	Number=Sing|Person=3|PronType=Prs	_	_	_	_
-8	abstrait	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_
+8	abstrait	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 9	les	_	DET	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
 10	faits	_	NOUN	_	Number=Plur	_	_	_	_
 11	,	_	PUNCT	_	_	_	_	_	_
@@ -13832,7 +13832,7 @@
 16	d'	_	ADP	_	_	_	_	_	_
 17	en	_	PRON	_	Person=3	_	_	_	_
 18	donner	_	VERB	_	VerbForm=Inf	_	_	_	_
-19	d'	_	ADP	_	_	_	_	_
+19	d'	_	ADP	_	_	_	_	_	_
 20	approximatives	_	ADJ	_	Number=Plur	_	_	_	_
 21	mensurations	_	NOUN	_	Number=Plur	_	_	_	_
 22	.	_	PUNCT	_	_	_	_	_	_
@@ -13892,7 +13892,7 @@
 # sent_id = marcel_mauss_sociologie_ojets_methodes.361
 # text = C' est ainsi qu' il existe des moyens différents pour analyser un rite religieux et pour décrire la formation d' une ville .
 1	C'	_	PRON	_	Number=Sing|Person=3|PronType=Dem	_	_	_	_
-2	est	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_
+2	est	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 3	ainsi	_	ADV	_	_	_	_	_	_
 4	qu'	_	SCONJ	_	_	_	_	_	_
 5	il	_	PRON	_	Number=Sing|Person=3|PronType=Prs	_	_	_	_
@@ -13958,8 +13958,8 @@
 37	statistiques	_	ADJ	_	Number=Plur	_	_	_	_
 38	,	_	PUNCT	_	_	_	_	_	_
 39	presque	_	ADV	_	_	_	_	_	_
-9	tous	_	PRON	_	Definite=Ind|Number=Plur|Person=3	_	_
-41	modernes	_	ADJ	_	Number=Plur	_	_	_
+9	tous	_	PRON	_	Definite=Ind|Number=Plur|Person=3	_	_	_	_
+41	modernes	_	ADJ	_	Number=Plur	_	_	_	_
 42	,	_	PUNCT	_	_	_	_	_	_
 43	récents	_	ADJ	_	Number=Plur	_	_	_	_
 44	,	_	PUNCT	_	_	_	_	_	_
@@ -13992,7 +13992,7 @@
 15	en	_	ADP	_	_	_	_	_	_
 16	même	_	ADJ	_	Number=Sing	_	_	_	_
 17	temps	_	NOUN	_	Number=Sing	_	_	_	_
-18	qu'	_	SCONJ	_	_	_	_	_
+18	qu'	_	SCONJ	_	_	_	_	_	_
 19	assez	_	ADV	_	_	_	_	_	_
 20	analogues	_	ADJ	_	Number=Plur	_	_	_	_
 21	.	_	PUNCT	_	_	_	_	_	_
@@ -14013,7 +14013,7 @@
 10	statistiques	_	ADJ	_	Number=Plur	_	_	_	_
 11	,	_	PUNCT	_	_	_	_	_	_
 12	il	_	PRON	_	Number=Sing|Person=3|PronType=Prs	_	_	_	_
-13	est	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_
+13	est	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 14	important	_	ADJ	_	Number=Sing	_	_	_	_
 15	,	_	PUNCT	_	_	_	_	_	_
 16	indispensable	_	ADJ	_	Number=Sing	_	_	_	_
@@ -14226,9 +14226,9 @@
 # text = Faute d' avoir ainsi procédé , beaucoup de travaux de sociologie morale , par exemple , contiennent de graves erreurs .
 1	Faute	_	NOUN	_	Number=Sing	_	_	_	_
 2	d'	_	ADP	_	_	_	_	_	_
-3	avoir	_	AUX	_	VerbForm=Inf	_	_	_
+3	avoir	_	AUX	_	VerbForm=Inf	_	_	_	_
 4	ainsi	_	ADV	_	_	_	_	_	_
-5	procédé	_	VERB	_	Tense=Past|VerbForm=Part	_	_	_
+5	procédé	_	VERB	_	Tense=Past|VerbForm=Part	_	_	_	_
 6	,	_	PUNCT	_	_	_	_	_	_
 7	beaucoup	_	ADV	_	_	_	_	_	_
 8	de	_	ADP	_	_	_	_	_	_
@@ -14337,7 +14337,7 @@
 10	observation	_	NOUN	_	Number=Sing	_	_	_	_
 11	statistique	_	ADJ	_	Number=Sing	_	_	_	_
 12	doit	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
-13	tendre	_	VERB	_	VerbForm=Inf	_	_	_
+13	tendre	_	VERB	_	VerbForm=Inf	_	_	_	_
 14	à	_	ADP	_	_	_	_	_	_
 15	être	_	VERB	_	VerbForm=Inf	_	_	_	_
 16	la	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
@@ -14597,7 +14597,7 @@
 # text = La sociologie a tout à espérer des progrès de ces deux disciplines .
 1	La	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 2	sociologie	_	NOUN	_	Number=Sing	_	_	_	_
-3	a	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_
+3	a	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 4	tout	_	ADV	_	_	_	_	_	_
 5	à	_	ADP	_	_	_	_	_	_
 6	espérer	_	VERB	_	VerbForm=Inf	_	_	_	_
@@ -14648,8 +14648,8 @@
 33	conduire	_	VERB	_	VerbForm=Inf	_	_	_	_
 34	sa	_	DET	_	Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes	_	_	_	_
 35	critique	_	NOUN	_	Number=Sing	_	_	_	_
-36	suivant	_	VERB	_	Tense=Pres|VerbForm=Part	_	_	_
-37	des	_	DET	_	Definite=Ind|Number=Plur|PronType=Art	_	_	_
+36	suivant	_	VERB	_	Tense=Pres|VerbForm=Part	_	_	_	_
+37	des	_	DET	_	Definite=Ind|Number=Plur|PronType=Art	_	_	_	_
 38	principes	_	NOUN	_	Number=Plur	_	_	_	_
 39	différents	_	ADJ	_	Number=Plur	_	_	_	_
 40	.	_	PUNCT	_	_	_	_	_	_
@@ -14683,7 +14683,7 @@
 23	on	_	PRON	_	Number=Sing|Person=3|PronType=Prs	_	_	_	_
 24	sait	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 25	combien	_	ADV	_	_	_	_	_	_
-26	des	_	DET	_	Definite=Ind|Number=Plur|PronType=Art	_	_	_
+26	des	_	DET	_	Definite=Ind|Number=Plur|PronType=Art	_	_	_	_
 27	préoccupations	_	NOUN	_	Number=Plur	_	_	_	_
 28	de	_	ADP	_	_	_	_	_	_
 29	ce	_	DET	_	Number=Sing|PronType=Dem	_	_	_	_
@@ -14824,10 +14824,10 @@
 33	antécédents	_	NOUN	_	Number=Plur	_	_	_	_
 34	,	_	PUNCT	_	_	_	_	_	_
 35	ses	_	DET	_	Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes	_	_	_	_
-36	concomitants	_	NOUN	_	Number=Plur	_	_	_
+36	concomitants	_	NOUN	_	Number=Plur	_	_	_	_
 37	,	_	PUNCT	_	_	_	_	_	_
 38	ses	_	DET	_	Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes	_	_	_	_
-39	conséquences	_	NOUN	_	Number=Plur	_	_	_
+39	conséquences	_	NOUN	_	Number=Plur	_	_	_	_
 40	,	_	PUNCT	_	_	_	_	_	_
 41	en	_	ADP	_	_	_	_	_	_
 42	un	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
@@ -14849,7 +14849,7 @@
 2	le·a	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 3	sociologue	_	NOUN	_	Number=Sing	_	_	_	_
 4	ne	_	ADV	_	Polarity=Neg	_	_	_	_
-5	recherche	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_
+5	recherche	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 6	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 7	exclusivement	_	ADV	_	_	_	_	_	_
 8	le	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
@@ -14901,7 +14901,7 @@
 4	aux	_	ADP	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
 5	nuances	_	NOUN	_	Number=Plur	_	_	_	_
 6	particulières	_	ADJ	_	Number=Plur	_	_	_	_
-7	des	_	ADP	_	Definite=Def|Number=Plur|PronType=Art	_	_	_
+7	des	_	ADP	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
 8	moeurs	_	NOUN	_	Number=Plur	_	_	_	_
 9	,	_	PUNCT	_	_	_	_	_	_
 10	des	_	ADP	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
@@ -15021,7 +15021,7 @@
 17	adéquate	_	ADJ	_	Number=Sing	_	_	_	_
 18	du	_	ADP	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 19	fait	_	NOUN	_	Number=Sing	_	_	_	_
-20	observé	_	VERB	_	Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_
+20	observé	_	VERB	_	Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
 21	.	_	PUNCT	_	_	_	_	_	_
 
 
@@ -15100,7 +15100,7 @@
 5	,	_	PUNCT	_	_	_	_	_	_
 6	dans	_	ADP	_	_	_	_	_	_
 7	de	_	ADP	_	_	_	_	_	_
-8	nombreux	_	ADJ	_	Number=Plur	_	_	_
+8	nombreux	_	ADJ	_	Number=Plur	_	_	_	_
 9	cas	_	NOUN	_	Number=Sing	_	_	_	_
 10	,	_	PUNCT	_	_	_	_	_	_
 11	il	_	PRON	_	Number=Sing|Person=3|PronType=Prs	_	_	_	_
@@ -15149,7 +15149,7 @@
 1	La	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 2	sociologie	_	NOUN	_	Number=Sing	_	_	_	_
 3	demande	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
-4	des	_	DET	_	Definite=Ind|Number=Plur|PronType=Art	_	_	_
+4	des	_	DET	_	Definite=Ind|Number=Plur|PronType=Art	_	_	_	_
 5	observations	_	NOUN	_	Number=Plur	_	_	_	_
 6	sûres	_	ADJ	_	Number=Plur	_	_	_	_
 7	,	_	PUNCT	_	_	_	_	_	_
@@ -15159,7 +15159,7 @@
 11	pour	_	ADP	_	_	_	_	_	_
 12	quiconque	_	PRON	_	Definite=Ind|Number=Sing|Person=3|PronType=Ind	_	_	_	_
 13	étudiera	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut	_	_	_	_
-14	des	_	DET	_	Definite=Ind|Number=Plur|PronType=Art	_	_	_
+14	des	_	DET	_	Definite=Ind|Number=Plur|PronType=Art	_	_	_	_
 15	faits	_	NOUN	_	Number=Plur	_	_	_	_
 16	du	_	ADP	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 17	même	_	ADJ	_	Number=Sing	_	_	_	_
@@ -15174,7 +15174,7 @@
 2	détail	_	NOUN	_	Number=Sing	_	_	_	_
 3	et	_	CCONJ	_	_	_	_	_	_
 4	l'	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
-5	alentour	_	NOUN	_	Number=Sing	_	_	_
+5	alentour	_	NOUN	_	Number=Sing	_	_	_	_
 6	de	_	ADP	_	_	_	_	_	_
 7	tous	_	ADJ	_	Number=Plur	_	_	_	_
 8	les	_	DET	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
@@ -15214,7 +15214,7 @@
 45	un	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
 46	fait	_	NOUN	_	Number=Sing	_	_	_	_
 47	bien	_	ADV	_	_	_	_	_	_
-48	étudié	_	VERB	_	Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_
+48	étudié	_	VERB	_	Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
 49	,	_	PUNCT	_	_	_	_	_	_
 50	analysé	_	VERB	_	Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
 51	dans	_	ADP	_	_	_	_	_	_
@@ -15249,7 +15249,7 @@
 3	social	_	ADJ	_	Number=Sing	_	_	_	_
 4	,	_	PUNCT	_	_	_	_	_	_
 5	scientifiquement	_	ADV	_	_	_	_	_	_
-6	décrit	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_
+6	décrit	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 7	,	_	PUNCT	_	_	_	_	_	_
 8	devient	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 9	un	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
@@ -15258,7 +15258,7 @@
 12	science	_	NOUN	_	Number=Sing	_	_	_	_
 13	,	_	PUNCT	_	_	_	_	_	_
 14	et	_	CCONJ	_	_	_	_	_	_
-15	cesse	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_
+15	cesse	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 16	d'	_	ADP	_	_	_	_	_	_
 17	appartenir	_	VERB	_	VerbForm=Inf	_	_	_	_
 18	en	_	ADP	_	_	_	_	_	_
@@ -15281,11 +15281,11 @@
 # sent_id = marcel_mauss_sociologie_ojets_methodes.398
 # text = Il est pour ainsi dire placé , par la force de l' observation scientifique , hors du temps et hors de l' espace .
 1	Il	_	PRON	_	Number=Sing|Person=3|PronType=Prs	_	_	_	_
-2	est	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_
+2	est	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 3	pour	_	ADP	_	_	_	_	_	_
 4	ainsi	_	ADV	_	_	_	_	_	_
 5	dire	_	VERB	_	VerbForm=Inf	_	_	_	_
-6	placé	_	VERB	_	Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_
+6	placé	_	VERB	_	Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
 7	,	_	PUNCT	_	_	_	_	_	_
 8	par	_	ADP	_	_	_	_	_	_
 9	la	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
@@ -15409,7 +15409,7 @@
 11	pour	_	ADP	_	_	_	_	_	_
 12	ainsi	_	ADV	_	_	_	_	_	_
 13	dire	_	VERB	_	VerbForm=Inf	_	_	_	_
-15	établis	_	VERB	_	Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_
+15	établis	_	VERB	_	Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
 16	.	_	PUNCT	_	_	_	_	_	_
 
 
@@ -15536,7 +15536,7 @@
 8	de	_	ADP	_	_	_	_	_	_
 9	procédés	_	NOUN	_	Number=Plur	_	_	_	_
 10	méthodiques	_	ADJ	_	Number=Plur	_	_	_	_
-11	spéciaux	_	ADJ	_	Number=Plur	_	_	_
+11	spéciaux	_	ADJ	_	Number=Plur	_	_	_	_
 12	pour	_	ADP	_	_	_	_	_	_
 13	établir	_	VERB	_	VerbForm=Inf	_	_	_	_
 14	les	_	DET	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
@@ -15755,11 +15755,11 @@
 11	du	_	ADP	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 12	système	_	NOUN	_	Number=Sing	_	_	_	_
 13	familial	_	ADJ	_	Number=Sing	_	_	_	_
-14	iroquois	_	ADJ	_	Number=Plur	_	_	_
+14	iroquois	_	ADJ	_	Number=Plur	_	_	_	_
 15	,	_	PUNCT	_	_	_	_	_	_
 16	hawaïen	_	ADJ	_	Number=Sing	_	_	_	_
 17	,	_	PUNCT	_	_	_	_	_	_
-18	fijien	_	ADJ	_	Number=Sing	_	_	_
+18	fijien	_	ADJ	_	Number=Sing	_	_	_	_
 19	,	_	PUNCT	_	_	_	_	_	_
 20	etc	_	ADV	_	_	_	_	_	_
 21	.	_	PUNCT	_	_	_	_	_	_
@@ -15799,7 +15799,7 @@
 18	a	_	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 19	toujours	_	ADV	_	_	_	_	_	_
 20	donné	_	VERB	_	Tense=Past|VerbForm=Part	_	_	_	_
-21	de	_	DET	_	Definite=Ind|Number=Plur|PronType=Art	_	_	_
+21	de	_	DET	_	Definite=Ind|Number=Plur|PronType=Art	_	_	_	_
 22	bons	_	ADJ	_	Number=Plur	_	_	_	_
 23	résultats	_	NOUN	_	Number=Plur	_	_	_	_
 24	en	_	ADP	_	_	_	_	_	_
@@ -15897,7 +15897,7 @@
 11	même	_	ADV	_	_	_	_	_	_
 12	proposé	_	VERB	_	Tense=Past|VerbForm=Part	_	_	_	_
 13	et	_	CCONJ	_	_	_	_	_	_
-14	employé	_	VERB	_	Tense=Past|VerbForm=Part	_	_	_
+14	employé	_	VERB	_	Tense=Past|VerbForm=Part	_	_	_	_
 15	,	_	PUNCT	_	_	_	_	_	_
 16	l'	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 17	un	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
@@ -15916,7 +15916,7 @@
 30	et	_	CCONJ	_	_	_	_	_	_
 31	de	_	ADP	_	_	_	_	_	_
 32	l'	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
-33	endocannibalisme	_	NOUN	_	Number=Sing	_	_	_
+33	endocannibalisme	_	NOUN	_	Number=Sing	_	_	_	_
 34	,	_	PUNCT	_	_	_	_	_	_
 35	une	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
 36	méthode	_	NOUN	_	Number=Sing	_	_	_	_
@@ -15935,7 +15935,7 @@
 6	entre	_	ADP	_	_	_	_	_	_
 7	les	_	DET	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
 8	faits	_	NOUN	_	Number=Plur	_	_	_	_
-9	constatés	_	VERB	_	Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_
+9	constatés	_	VERB	_	Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
 10	s'	_	PRON	_	Person=3|PronType=Prs|Reflex=Yes	_	_	_	_
 11	y	_	PRON	_	Person=3	_	_	_	_
 12	expriment	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_	_
@@ -15963,9 +15963,9 @@
 14	on	_	PRON	_	Number=Sing|Person=3|PronType=Prs	_	_	_	_
 15	y	_	PRON	_	Person=3	_	_	_	_
 16	nomme	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
-17	des	_	DET	_	Number=Plur|PronType=Art|Definite=Ind	_	_	_
+17	des	_	DET	_	Number=Plur|PronType=Art|Definite=Ind	_	_	_	_
 18	faits	_	NOUN	_	Number=Plur	_	_	_	_
-19	empruntés	_	VERB	_	Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_
+19	empruntés	_	VERB	_	Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
 20	aux	_	ADP	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
 21	sociétés	_	NOUN	_	Number=Plur	_	_	_	_
 22	les	_	DET	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
@@ -16069,7 +16069,7 @@
 20	tenir	_	VERB	_	VerbForm=Inf	_	_	_	_
 21	à	_	ADP	_	_	_	_	_	_
 22	d'	_	ADP	_	_	_	_	_	_
-23	élémentaires	_	ADJ	_	Number=Plur	_	_	_
+23	élémentaires	_	ADJ	_	Number=Plur	_	_	_	_
 24	mais	_	CCONJ	_	_	_	_	_	_
 25	sévères	_	ADJ	_	Number=Plur	_	_	_	_
 26	comparaisons	_	NOUN	_	Number=Plur	_	_	_	_
@@ -16084,7 +16084,7 @@
 3	lieu	_	NOUN	_	Number=Sing	_	_	_	_
 4	,	_	PUNCT	_	_	_	_	_	_
 5	il	_	PRON	_	Number=Sing|Person=3|PronType=Prs	_	_	_	_
-6	est	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_
+6	est	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 56	important	_	ADJ	_	Number=Sing	_	_	_	_
 8	de	_	ADP	_	_	_	_	_	_
 9	ne	_	ADV	_	Polarity=Neg	_	_	_	_
@@ -16103,7 +16103,7 @@
 22	dans	_	ADP	_	_	_	_	_	_
 23	la	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 24	définition	_	NOUN	_	Number=Sing	_	_	_	_
-25	posée	_	VERB	_	Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_
+25	posée	_	VERB	_	Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
 26	au	_	ADP	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 27	début	_	NOUN	_	Number=Sing	_	_	_	_
 28	du	_	ADP	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
@@ -16146,7 +16146,7 @@
 30	réunir	_	VERB	_	VerbForm=Inf	_	_	_	_
 31	avec	_	ADP	_	_	_	_	_	_
 32	eux	_	PRON	_	Number=Plur|Person=3|PronType=Prs	_	_	_	_
-33	des	_	ADP	_	Definite=Def|Number=Plur|PronType=Art	_	_	_
+33	des	_	ADP	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
 34	renseignements	_	NOUN	_	Number=Plur	_	_	_	_
 35	ethnographiques	_	ADJ	_	Number=Plur	_	_	_	_
 36	qui	_	PRON	_	PronType=Rel	_	_	_	_
@@ -16207,7 +16207,7 @@
 14	ordre	_	NOUN	_	Number=Sing	_	_	_	_
 15	déterminé	_	ADJ	_	Number=Sing	_	_	_	_
 16	,	_	PUNCT	_	_	_	_	_	_
-28	soit	_	ADV	_	_	_	_	_
+28	soit	_	ADV	_	_	_	_	_	_
 18	un	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
 19	ordre	_	NOUN	_	Number=Sing	_	_	_	_
 20	de	_	ADP	_	_	_	_	_	_
@@ -16216,7 +16216,7 @@
 23	ou	_	CCONJ	_	_	_	_	_	_
 24	décroissante	_	ADJ	_	Number=Sing	_	_	_	_
 25	,	_	PUNCT	_	_	_	_	_	_
-28	soit	_	ADV	_	_	_	_	_
+28	soit	_	ADV	_	_	_	_	_	_
 27	un	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
 28	ordre	_	NOUN	_	Number=Sing	_	_	_	_
 29	quelconque	_	ADJ	_	Number=Sing	_	_	_	_
@@ -16285,7 +16285,7 @@
 21	manière	_	NOUN	_	Number=Sing	_	_	_	_
 22	,	_	PUNCT	_	_	_	_	_	_
 23	composées	_	VERB	_	Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
-24	d'	_	DET	_	Definite=Ind|Number=Plur|PronType=Art	_	_	_
+24	d'	_	DET	_	Definite=Ind|Number=Plur|PronType=Art	_	_	_	_
 25	autres	_	ADJ	_	Number=Plur	_	_	_	_
 26	faits	_	NOUN	_	Number=Plur	_	_	_	_
 27	sociaux	_	ADJ	_	Number=Plur	_	_	_	_
@@ -16349,7 +16349,7 @@
 25	Grecs	_	NOUN	_	Number=Plur	_	_	_	_
 26	,	_	PUNCT	_	_	_	_	_	_
 27	de	_	ADP	_	_	_	_	_	_
-28	ceux-ci	_	PRON	_	Number=Plur|Person=3|PronType=Dem	_	_	_
+28	ceux-ci	_	PRON	_	Number=Plur|Person=3|PronType=Dem	_	_	_	_
 29	aux	_	ADP	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
 30	Romains	_	PROPN	_	_	_	_	_	_
 31	,	_	PUNCT	_	_	_	_	_	_
@@ -16416,7 +16416,7 @@
 22	un	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
 23	problème	_	NOUN	_	Number=Sing	_	_	_	_
 24	bien	_	ADV	_	_	_	_	_	_
-25	défini	_	VERB	_	Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_
+25	défini	_	VERB	_	Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
 26	.	_	PUNCT	_	_	_	_	_	_
 
 
@@ -16496,7 +16496,7 @@
 14	et	_	CCONJ	_	_	_	_	_	_
 15	le	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 16	comment	_	ADV	_	_	_	_	_	INVARIANT
-17	des	_	ADP	_	Definite=Def|Number=Plur|PronType=Art	_	_	_
+17	des	_	ADP	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
 18	choses	_	NOUN	_	Number=Plur	_	_	_	_
 19	.	_	PUNCT	_	_	_	_	_	_
 
@@ -16533,7 +16533,7 @@
 27	«	_	PUNCT	_	_	_	_	_	_
 28	vertus	_	NOUN	_	Number=Plur	_	_	_	_
 29	»	_	PUNCT	_	_	_	_	_	_
-30	générales	_	ADJ	_	Number=Plur	_	_	_
+30	générales	_	ADJ	_	Number=Plur	_	_	_	_
 31	de	_	ADP	_	_	_	_	_	_
 32	la	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 33	nature	_	NOUN	_	Number=Sing	_	_	_	_
@@ -16741,7 +16741,7 @@
 43	ni	_	CCONJ	_	_	_	_	_	_
 44	étude	_	NOUN	_	Number=Sing	_	_	_	_
 45	serrée	_	ADJ	_	Number=Sing	_	_	_	_
-46	des	_	ADP	_	Definite=Def|Number=Plur|PronType=Art	_	_	_
+46	des	_	ADP	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
 47	faits	_	NOUN	_	Number=Plur	_	_	_	_
 48	.	_	PUNCT	_	_	_	_	_	_
 
@@ -16814,7 +16814,7 @@
 # text = On serait tenté de dire que la sociologie , avant de s' édifier , doit faire un inventaire total de tous les faits sociaux .
 1	On	_	PRON	_	Number=Sing|Person=3|PronType=Prs	_	_	_	_
 2	serait	_	AUX	_	Mood=Cnd|Number=Sing|Person=3|Tense=Pres	_	_	_	_
-3	tenté	_	VERB	_	Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_
+3	tenté	_	VERB	_	Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
 4	de	_	ADP	_	_	_	_	_	_
 5	dire	_	VERB	_	VerbForm=Inf	_	_	_	_
 6	que	_	SCONJ	_	_	_	_	_	_
@@ -16864,7 +16864,7 @@
 20	,	_	PUNCT	_	_	_	_	_	_
 21	historiques	_	ADJ	_	Number=Plur	_	_	_	_
 22	,	_	PUNCT	_	_	_	_	_	_
-23	statistiques	_	ADJ	_	Number=Plur	_	_	_
+23	statistiques	_	ADJ	_	Number=Plur	_	_	_	_
 24	,	_	PUNCT	_	_	_	_	_	_
 25	relatifs	_	ADJ	_	Number=Plur	_	_	_	_
 26	à	_	ADP	_	_	_	_	_	_
@@ -16881,7 +16881,7 @@
 3	de	_	ADP	_	_	_	_	_	_
 4	ce	_	DET	_	Number=Sing|PronType=Dem	_	_	_	_
 5	genre	_	NOUN	_	Number=Sing	_	_	_	_
-6	sont	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_
+6	sont	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_	_
 7	à	_	ADP	_	_	_	_	_	_
 8	craindre	_	VERB	_	VerbForm=Inf	_	_	_	_
 9	dans	_	ADP	_	_	_	_	_	_
@@ -17057,10 +17057,10 @@
 7	soigneusement	_	ADV	_	_	_	_	_	_
 8	énumérées	_	VERB	_	Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
 9	et	_	CCONJ	_	_	_	_	_	_
-10	précisées	_	VERB	_	Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_
+10	précisées	_	VERB	_	Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
 11	,	_	PUNCT	_	_	_	_	_	_
 12	correspondent	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_	_
-13	des	_	DET	_	Number=Plur|PronType=Art|Definite=Ind	_	_	_
+13	des	_	DET	_	Number=Plur|PronType=Art|Definite=Ind	_	_	_	_
 14	hypothèses	_	NOUN	_	Number=Plur	_	_	_	_
 15	provisoires	_	ADJ	_	Number=Plur	_	_	_	_
 16	.	_	PUNCT	_	_	_	_	_	_
@@ -17071,7 +17071,7 @@
 # text = Les généralisations faites , les systèmes proposés , valent momentanément pour tous les faits connus ou inconnus du même ordre que les faits expliqués .
 1	Les	_	DET	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
 2	généralisations	_	NOUN	_	Number=Plur	_	_	_	_
-3	faites	_	VERB	_	Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_
+3	faites	_	VERB	_	Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
 4	,	_	PUNCT	_	_	_	_	_	_
 5	les	_	DET	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
 6	systèmes	_	NOUN	_	Number=Plur	_	_	_	_
@@ -17083,7 +17083,7 @@
 12	tous	_	ADJ	_	Number=Plur	_	_	_	_
 13	les	_	DET	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
 14	faits	_	NOUN	_	Number=Plur	_	_	_	_
-15	connus	_	ADJ	_	Number=Plur	_	_	_
+15	connus	_	ADJ	_	Number=Plur	_	_	_	_
 16	ou	_	CCONJ	_	_	_	_	_	_
 17	inconnus	_	ADJ	_	Number=Plur	_	_	_	_
 18	du	_	ADP	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
@@ -17101,8 +17101,8 @@
 # text = On en est quitte pour modifier les théories à mesure que de nouveaux faits arrivent à être connus ou à mesure que la science , tous les jours plus exacte , découvre de nouveaux aspects dans les faits connus .
 1	On	_	PRON	_	Number=Sing|Person=3|PronType=Prs	_	_	_	_
 2	en	_	PRON	_	Person=3	_	_	_	_
-3	est	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_
-4	quitte	_	ADJ	_	Number=Sing	_	_	_
+3	est	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+4	quitte	_	ADJ	_	Number=Sing	_	_	_	_
 5	pour	_	ADP	_	_	_	_	_	_
 6	modifier	_	VERB	_	VerbForm=Inf	_	_	_	_
 7	les	_	DET	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
@@ -17137,7 +17137,7 @@
 36	dans	_	ADP	_	_	_	_	_	_
 37	les	_	DET	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
 38	faits	_	NOUN	_	Number=Plur	_	_	_	_
-15	connus	_	ADJ	_	Number=Plur	_	_	_
+15	connus	_	ADJ	_	Number=Plur	_	_	_	_
 40	.	_	PUNCT	_	_	_	_	_	_
 
 
@@ -17152,8 +17152,8 @@
 6	plus	_	ADV	_	_	_	_	_	_
 7	en	_	ADP	_	_	_	_	_	_
 8	plus	_	ADV	_	_	_	_	_	_
-9	serrées	_	ADJ	_	Number=Plur	_	_	_
-10	des	_	DET	_	Definite=Ind|Number=Plur|PronType=Art	_	_	_
+9	serrées	_	ADJ	_	Number=Plur	_	_	_	_
+10	des	_	DET	_	Definite=Ind|Number=Plur|PronType=Art	_	_	_	_
 11	phénomènes	_	NOUN	_	Number=Plur	_	_	_	_
 12	,	_	PUNCT	_	_	_	_	_	_
 13	il	_	PRON	_	Number=Sing|Person=3|PronType=Prs	_	_	_	_
@@ -17306,7 +17306,7 @@
 7	moins	_	ADV	_	_	_	_	_	_
 8	libre	_	ADJ	_	Number=Sing	_	_	_	_
 9	vis-à-vis	_	ADP	_	_	_	_	_	_
-10	des	_	ADP	_	Definite=Def|PronType=Art|Number=Plur	_	_	_
+10	des	_	ADP	_	Definite=Def|PronType=Art|Number=Plur	_	_	_	_
 11	classifications	_	NOUN	_	Number=Plur	_	_	_	_
 12	existantes	_	ADJ	_	Number=Plur	_	_	_	_
 13	.	_	PUNCT	_	_	_	_	_	_
@@ -17402,7 +17402,7 @@
 # sent_id = marcel_mauss_sociologie_ojets_methodes.466
 # text = C' est ainsi que la géographie traitait jusqu' ici des questions de frontières , de voies de communication , de densité sociale , etc .
 1	C'	_	PRON	_	Number=Sing|Person=3|PronType=Dem	_	_	_	_
-2	est	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_
+2	est	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 3	ainsi	_	ADV	_	_	_	_	_	_
 4	que	_	SCONJ	_	_	_	_	_	_
 5	la	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
@@ -17454,7 +17454,7 @@
 21	s'	_	PRON	_	Person=3|PronType=Prs|Reflex=Yes	_	_	_	_
 22	agit	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	_	_	_	_
 23	pas	_	ADV	_	Polarity=Neg	_	_	_	_
-29	de	_	ADP	_	_	_	_	_
+29	de	_	ADP	_	_	_	_	_	_
 25	phénomènes	_	NOUN	_	Number=Plur	_	_	_	_
 26	cosmiques	_	ADJ	_	Number=Plur	_	_	_	_
 27	,	_	PUNCT	_	_	_	_	_	_
@@ -17484,7 +17484,7 @@
 8	les	_	DET	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
 9	résultats	_	NOUN	_	Number=Plur	_	_	_	_
 10	déjà	_	ADV	_	_	_	_	_	_
-11	acquis	_	VERB	_	Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_
+11	acquis	_	VERB	_	Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
 12	par	_	ADP	_	_	_	_	_	_
 13	l'	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 14	anthropologie	_	NOUN	_	Number=Sing	_	_	_	_
@@ -17536,7 +17536,7 @@
 20	il	_	PRON	_	Number=Sing|Person=3|PronType=Prs	_	_	_	_
 21	y	_	PRON	_	Person=3	_	_	_	_
 22	en	_	PRON	_	Person=3	_	_	_	_
-23	a	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_
+23	a	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 24	qui	_	PRON	_	PronType=Rel	_	_	_	_
 25	ne	_	ADV	_	Polarity=Neg	_	_	_	_
 26	sont	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_	_
@@ -17671,7 +17671,7 @@
 13	aujourd'hui	_	ADV	_	_	_	_	_	_
 14	,	_	PUNCT	_	_	_	_	_	_
 15	étudie	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
-30	tout	_	PRON	_	Definite=Ind|Number=Sing|Person=3	_	_	_
+30	tout	_	PRON	_	Definite=Ind|Number=Sing|Person=3	_	_	_	_
 17	indifféremment	_	ADV	_	_	_	_	_	_
 18	.	_	PUNCT	_	_	_	_	_	_
 
@@ -17688,11 +17688,11 @@
 7	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 8	y	_	PRON	_	Person=3	_	_	_	_
 9	avoir	_	VERB	_	VerbForm=Inf	_	_	_	_
-10	de	_	DET	_	Number=Sing|PronType=Art|Definite=Ind	_	_	_
-11	statisticien·nes	_	NOUN	_	Number=Plur	_	_	_
+10	de	_	DET	_	Number=Sing|PronType=Art|Definite=Ind	_	_	_	_
+11	statisticien·nes	_	NOUN	_	Number=Plur	_	_	_	_
 12	,	_	PUNCT	_	_	_	_	_	_
 13	mais	_	CCONJ	_	_	_	_	_	_
-14	des	_	DET	_	Definite=Ind|Number=Plur|PronType=Art	_	_	_
+14	des	_	DET	_	Definite=Ind|Number=Plur|PronType=Art	_	_	_	_
 15	sociologues	_	NOUN	_	Number=Plur	_	_	_	_
 16	qui	_	PRON	_	PronType=Rel	_	_	_	_
 17	,	_	PUNCT	_	_	_	_	_	_
@@ -17712,8 +17712,8 @@
 31	font	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_	_
 32	de	_	ADP	_	_	_	_	_	_
 33	la	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
-34	statistique	_	NOUN	_	Number=Sing	_	_	_
-35	morale	_	ADJ	_	Number=Sing	_	_	_
+34	statistique	_	NOUN	_	Number=Sing	_	_	_	_
+35	morale	_	ADJ	_	Number=Sing	_	_	_	_
 36	,	_	PUNCT	_	_	_	_	_	_
 37	économique	_	ADJ	_	Number=Sing	_	_	_	_
 38	,	_	PUNCT	_	_	_	_	_	_
@@ -17746,7 +17746,7 @@
 4	seule	_	ADJ	_	Number=Sing	_	_	_	_
 5	raison	_	NOUN	_	Number=Sing	_	_	_	_
 6	d'	_	ADP	_	_	_	_	_	_
-7	être	_	VERB	_	VerbForm=Inf	_	_	_
+7	être	_	VERB	_	VerbForm=Inf	_	_	_	_
 8	de	_	ADP	_	_	_	_	_	_
 9	se	_	PRON	_	Person=3|PronType=Prs|Reflex=Yes	_	_	_	_
 10	consacrer	_	VERB	_	VerbForm=Inf	_	_	_	_
@@ -17800,7 +17800,7 @@
 5	contraire	_	NOUN	_	Number=Sing	_	_	_	_
 6	,	_	PUNCT	_	_	_	_	_	_
 7	ne	_	ADV	_	Polarity=Neg	_	_	_	_
-8	distingue	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_
+8	distingue	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 9	naturellement	_	ADV	_	_	_	_	_	_
 10	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 11	entre	_	ADP	_	_	_	_	_	_
@@ -17816,11 +17816,11 @@
 21	des	_	ADP	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
 22	nations	_	NOUN	_	Number=Plur	_	_	_	_
 23	«	_	PUNCT	_	_	_	_	_	_
-24	barbares	_	ADJ	_	Number=Plur	_	_	_
+24	barbares	_	ADJ	_	Number=Plur	_	_	_	_
 25	»	_	PUNCT	_	_	_	_	_	_
 26	ou	_	CCONJ	_	_	_	_	_	_
 27	«	_	PUNCT	_	_	_	_	_	_
-28	civilisées	_	ADJ	_	Number=Plur	_	_	_
+28	civilisées	_	ADJ	_	Number=Plur	_	_	_	_
 29	»	_	PUNCT	_	_	_	_	_	_
 30	.	_	PUNCT	_	_	_	_	_	_
 
@@ -17883,7 +17883,7 @@
 30	les	_	DET	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
 31	faits	_	NOUN	_	Number=Plur	_	_	_	_
 32	«	_	PUNCT	_	_	_	_	_	_
-33	historiques	_	ADJ	_	Number=Plur	_	_	_
+33	historiques	_	ADJ	_	Number=Plur	_	_	_	_
 34	»	_	PUNCT	_	_	_	_	_	_
 35	,	_	PUNCT	_	_	_	_	_	_
 36	qui	_	PRON	_	PronType=Rel	_	_	_	_
@@ -17892,7 +17892,7 @@
 39	au	_	ADP	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 40	même	_	ADJ	_	Number=Sing	_	_	_	_
 41	titre	_	NOUN	_	Number=Sing	_	_	_	_
-42	des	_	DET	_	Definite=Ind|Number=Plur|PronType=Art	_	_	_
+42	des	_	DET	_	Definite=Ind|Number=Plur|PronType=Art	_	_	_	_
 43	faits	_	NOUN	_	Number=Plur	_	_	_	_
 44	sociaux	_	ADJ	_	Number=Plur	_	_	_	_
 45	et	_	CCONJ	_	_	_	_	_	_
@@ -17920,8 +17920,8 @@
 5	sociologie	_	NOUN	_	Number=Sing	_	_	_	_
 6	adopte	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 7	et	_	CCONJ	_	_	_	_	_	_
-8	fait	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_
-9	siennes	_	ADJ	_	Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes	_	_	_
+8	fait	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+9	siennes	_	ADJ	_	Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes	_	_	_	_
 10	les	_	DET	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
 11	grandes	_	ADJ	_	Number=Plur	_	_	_	_
 12	divisions	_	NOUN	_	Number=Plur	_	_	_	_
@@ -17932,7 +17932,7 @@
 17	les	_	DET	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
 18	diverses	_	ADJ	_	Number=Plur	_	_	_	_
 19	sciences	_	NOUN	_	Number=Plur	_	_	_	_
-20	comparées	_	VERB	_	Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_
+20	comparées	_	VERB	_	Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
 21	des	_	ADP	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
 22	institutions	_	NOUN	_	Number=Plur	_	_	_	_
 23	dont	_	PRON	_	PronType=Rel	_	_	_	_
@@ -18002,7 +18002,7 @@
 21	origine	_	NOUN	_	Number=Sing	_	_	_	_
 22	empirique	_	ADJ	_	Number=Sing	_	_	_	_
 23	ou	_	CCONJ	_	_	_	_	_	_
-24	pratique	_	ADJ	_	Number=Sing	_	_	_
+24	pratique	_	ADJ	_	Number=Sing	_	_	_	_
 25	,	_	PUNCT	_	_	_	_	_	_
 26	comme	_	SCONJ	_	_	_	_	_	_
 27	par	_	ADP	_	_	_	_	_	_
@@ -18022,7 +18022,7 @@
 1	Surtout	_	ADV	_	_	_	_	_	_
 2	elle	_	PRON	_	Number=Sing|Person=3|PronType=Prs	_	_	_	_
 3	n'	_	ADV	_	Polarity=Neg	_	_	_	_
-4	établit	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_
+4	établit	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 5	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 6	entre	_	ADP	_	_	_	_	_	_
 7	les	_	DET	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
@@ -18147,7 +18147,7 @@
 # sent_id = marcel_mauss_sociologie_ojets_methodes.488
 # text = Il est à remarquer d' ailleurs que les diverses sciences sociales ont tendu , dans les dernières années , à se rapprocher progressivement de la sociologie ; de plus en plus elles deviennent des parties spéciales d' une science unique .
 1	Il	_	PRON	_	Number=Sing|Person=3|PronType=Prs	_	_	_	_
-2	est	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_
+2	est	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 3	à	_	ADP	_	_	_	_	_	_
 4	remarquer	_	VERB	_	VerbForm=Inf	_	_	_	_
 5	d'	_	ADP	_	_	_	_	_	_
@@ -18158,7 +18158,7 @@
 10	sciences	_	NOUN	_	Number=Plur	_	_	_	_
 11	sociales	_	ADJ	_	Number=Plur	_	_	_	_
 12	ont	_	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_	_
-14	tendu	_	VERB	_	Tense=Past|VerbForm=Part	_	_	_
+14	tendu	_	VERB	_	Tense=Past|VerbForm=Part	_	_	_	_
 15	,	_	PUNCT	_	_	_	_	_	_
 16	dans	_	ADP	_	_	_	_	_	_
 17	les	_	DET	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
@@ -18241,8 +18241,8 @@
 6	nombreux	_	ADJ	_	Number=Plur	_	_	_	_
 7	résultats	_	NOUN	_	Number=Plur	_	_	_	_
 8	puissent	_	VERB	_	Mood=Sub|Number=Plur|Person=3|Tense=Pres	_	_	_	_
-9	être	_	AUX	_	VerbForm=Inf	_	_	_
-10	conservés	_	VERB	_	Tense=Past|VerbForm=Part	_	_	_
+9	être	_	AUX	_	VerbForm=Inf	_	_	_	_
+10	conservés	_	VERB	_	Tense=Past|VerbForm=Part	_	_	_	_
 11	,	_	PUNCT	_	_	_	_	_	_
 12	chaque	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
 13	partie	_	NOUN	_	Number=Sing	_	_	_	_
@@ -18282,7 +18282,7 @@
 14	sociologique	_	ADJ	_	Number=Sing	_	_	_	_
 15	a	_	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 16	déjà	_	ADV	_	_	_	_	_	_
-17	changé	_	VERB	_	Tense=Past|VerbForm=Part	_	_	_
+17	changé	_	VERB	_	Tense=Past|VerbForm=Part	_	_	_	_
 18	et	_	CCONJ	_	_	_	_	_	_
 19	changera	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut	_	_	_	_
 20	la	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
@@ -18437,7 +18437,7 @@
 9	,	_	PUNCT	_	_	_	_	_	_
 10	économique	_	ADJ	_	Number=Sing	_	_	_	_
 11	,	_	PUNCT	_	_	_	_	_	_
-12	esthétique	_	ADJ	_	Number=Sing	_	_	_
+12	esthétique	_	ADJ	_	Number=Sing	_	_	_	_
 13	,	_	PUNCT	_	_	_	_	_	_
 14	etc	_	ADV	_	_	_	_	_	_
 15	.	_	PUNCT	_	_	_	_	_	_
@@ -18500,7 +18500,7 @@
 1	Ensuite	_	ADV	_	_	_	_	_	_
 2	,	_	PUNCT	_	_	_	_	_	_
 3	étant	_	AUX	_	Tense=Pres|VerbForm=Part	_	_	_	_
-4	données	_	VERB	_	Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_
+4	données	_	VERB	_	Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
 5	toutes	_	ADJ	_	Number=Plur	_	_	_	_
 6	ces	_	DET	_	Number=Plur|PronType=Dem	_	_	_	_
 7	études	_	NOUN	_	Number=Plur	_	_	_	_

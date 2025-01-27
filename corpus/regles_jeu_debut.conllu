@@ -10,7 +10,7 @@
 7	groupes	_	NOUN	_	Number=Plur	_	_	_	_
 8	variables	_	ADJ	_	Number=Plur	_	_	_	_
 9	de	_	ADP	_	_	_	_	_	_
-10	baristas	_	NOUN	_	Number=Plur	_	_	noun.personne.métier=joueur·euses	_
+10	baristas	_	NOUN	_	Number=Plur	_	_	_	_
 11	(	_	PUNCT	_	_	_	_	_	_
 12	un	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
 13	nombre	_	NOUN	_	Number=Sing	_	_	_	_
@@ -52,7 +52,7 @@
 49	.	_	PUNCT	_	_	_	_	_	_
 50	pour	_	ADP	_	_	_	_	_	_
 51	les	_	DET	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
-52	événements	_	NOUN	_	Number=Plur	_	_	noun.événement=événements	_
+52	événements	_	NOUN	_	Number=Plur	_	_	_	_
 53	internationaux	_	ADJ	_	Number=Plur	_	_	_	_
 54	(	_	PUNCT	_	_	_	_	_	_
 55	les	_	DET	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
@@ -100,7 +100,7 @@
 97	large	_	ADJ	_	Number=Sing	_	_	_	_
 98	(	_	PUNCT	_	_	_	_	_	_
 99	les	_	DET	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
-100	barmaids	_	NOUN	_	Number=Plur	_	_	noun.personne.métier=joueur·euses	_
+100	barmaids	_	NOUN	_	Number=Plur	_	_	_	_
 101	ont	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_	_
 102	des	_	DET	_	Definite=Ind|Number=Plur|PronType=Art	_	_	_	_
 103	longues	_	ADJ	_	Number=Plur	_	_	_	_
@@ -110,7 +110,7 @@
 107	longue	_	ADJ	_	Number=Sing	_	_	_	_
 108	que	_	SCONJ	_	_	_	_	_	_
 109	les	_	DET	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
-110	miennes	_	NOUN	_	Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes	_	_	_
+110	miennes	_	NOUN	_	Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes	_	_	_	_
 111	que	_	SCONJ	_	_	_	_	_	_
 112	je	_	PRON	_	Number=Sing|Person=1|PronType=Prs	_	_	_	_
 120	frotte	_	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	_	_	_	_
@@ -126,8 +126,8 @@
 123	les	_	PRON	_	Definite=Def|Number=Plur|Person=3|PronType=Art	_	_	_	_
 124	frotte	_	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	_	_	_	_
 125	et	_	CCONJ	_	_	_	_	_	_
-126	les	_	PRON	_	Definite=Def|Number=Plur|Person=3|PronType=Art	_	_	_
-127	nettoie	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_
+126	les	_	PRON	_	Definite=Def|Number=Plur|Person=3|PronType=Art	_	_	_	_
+127	nettoie	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 128	avec	_	ADP	_	_	_	_	_	_
 129	vigueur	_	NOUN	_	Number=Sing	_	_	_	_
 130	)	_	PUNCT	_	_	_	_	_	_
@@ -145,7 +145,7 @@
 142	68	_	NUM	_	NumType=Card	_	_	_	_
 143	à	_	ADP	_	_	_	_	_	_
 144	70	_	NUM	_	NumType=Card	_	_	_	_
-145	cm	_	NOUN	_	Number=Plur	_	_	_
+145	cm	_	NOUN	_	Number=Plur	_	_	_	_
 146	de	_	ADP	_	_	_	_	_	_
 147	circonférence	_	NOUN	_	Number=Sing	_	_	_	_
 148	pour	_	ADP	_	_	_	_	_	_
@@ -174,7 +174,7 @@
 171	hauteur	_	NOUN	_	Number=Sing	_	_	_	_
 172	.	_	PUNCT	_	_	_	_	_	_
 173	l'	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
-174	événement	_	NOUN	_	Number=Sing	_	_	noun.événement=événement	_
+174	événement	_	NOUN	_	Number=Sing	_	_	_	_
 175	est	_	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 176	considéré	_	VERB	_	Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
 177	beau	_	ADJ	_	Number=Sing	_	_	_	_
@@ -189,7 +189,7 @@
 186	de	_	ADP	_	_	_	_	_	_
 187	l'	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 188	objet	_	NOUN	_	Number=Sing	_	_	_	_
-189	tracée	_	VERB	_	Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_
+189	tracée	_	VERB	_	Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
 190	au	_	ADP	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 191	sol	_	NOUN	_	Number=Sing	_	_	_	_
 192	entre	_	ADP	_	_	_	_	_	_
@@ -230,22 +230,22 @@
 227	du	_	ADP	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 228	ciel	_	NOUN	_	Number=Sing	_	_	_	_
 229	,	_	PUNCT	_	_	_	_	_	_
-230	aime	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_
+230	aime	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	_
 231	-le	_	PRON	_	Definite=Def|Number=Sing|Person=3|PronType=Art	_	_	_	_
 232	et	_	CCONJ	_	_	_	_	_	_
-233	amène	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_
+233	amène	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	_
 234	-le	_	PRON	_	Definite=Def|Number=Sing|Person=3|PronType=Art	_	_	_	_
 235	et	_	CCONJ	_	_	_	_	_	_
-236	amène	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_
+236	amène	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	_
 237	-la	_	PRON	_	Definite=Def|Number=Sing|Person=3|PronType=Art	_	_	_	_
 238	et	_	CCONJ	_	_	_	_	_	_
-239	amène	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_
-240	-les	_	PRON	_	Definite=Def|Number=Plur|Person=3|PronType=Art	_	_	_
+239	amène	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	_
+240	-les	_	PRON	_	Definite=Def|Number=Plur|Person=3|PronType=Art	_	_	_	_
 241	nous	_	PRON	_	Number=Plur|Person=1|PronType=Prs	_	_	_	_
 242	,	_	PUNCT	_	_	_	_	_	_
 243	et	_	CCONJ	_	_	_	_	_	_
 244	nous	_	PRON	_	Number=Plur|Person=1|PronType=Prs	_	_	_	_
-245	t'	_	PRON	_	Number=Sing|Person=2|PronType=Prs	_	_	_
+245	t'	_	PRON	_	Number=Sing|Person=2|PronType=Prs	_	_	_	_
 246	aimerons	_	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Fut	_	_	_	_
 247	.	_	PUNCT	_	_	_	_	_	_
 
@@ -255,7 +255,7 @@
 # text = le·a seul barman autorisé·e à utiliser ses mains lorsque l' objet est en jeu est celui qui se trouve dans la surface de réparation , c' est dans cette surface que nous réparons les vaisseaux avec lesquels nous sommes arrivés dans ce monde ( avons atterris sur cette planète ) et avec lesquels nous repartirons , quand leurs propulseurs soniques seront réajustés , quand les réservoirs seront remplis , quand le vent derrière nous nous sifflera de partir ( écoute -le . écoute le vent et dis -moi ce que tu entends ) . dans cette même surface ( n' y entre jamais ) , une faute habituellement sanctionnée par un coup franc direct , l' est par un coup de marteau de réparation . ce dernier s' exécute sur un point situé loin de la ligne de l' objet , aussi loin que tu peux ( sauve -toi ) . outre les fautes de mains , les erreurs oculaires , les maux de tête , les pieds brûlés , les épaules froides et les légères gènes qui parcourent les corps épuisés , les autres fautes concernent essentiellement les comportements antisportifs et les contacts entre les bibliothécaires . le tacle est autorisé , mais réglementé ( très strictement ) . un tacle par derrière ( malhonnête ) est ainsi souvent sanctionné d' un carton rouge synonyme d' expulsion ( coup dur ! ) . en cas de faute moins grave , une fiche jaune peut être tendue par l' encadreur au encadreur·euse fautif·ve , qui s' avance lentement vers l' encadreuse , les yeux fermés , tendant ses mains jointes tournées vers le ciel , et il avance , avance ( écoute sa respiration saccadée , elle fait partie du jeu ) . si ce facteur reçoit d' autres documents et ne les parcourt qu' attentivement ( au lieu de les décortiquer proprement sans faire de tache ) au cours d' une même partie , il est condamné ( à nouveau : coup dur ! ) .
 1	le·a	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 2	seul	_	ADJ	_	Number=Sing	_	_	_	_
-3	barman	_	NOUN	_	Number=Sing	_	_	noun.personne.métier=joueur·euse	_
+3	barman	_	NOUN	_	Number=Sing	_	_	_	_
 4	autorisé·e	_	VERB	_	Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
 5	à	_	ADP	_	_	_	_	_	_
 6	utiliser	_	VERB	_	VerbForm=Inf	_	_	_	_
@@ -267,7 +267,7 @@
 12	est	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 13	en	_	ADP	_	_	_	_	_	_
 14	jeu	_	NOUN	_	Number=Sing	_	_	_	_
-15	est	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_
+15	est	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 16	celui	_	PRON	_	Number=Sing|Person=3|PronType=Dem	_	_	_	_
 17	qui	_	PRON	_	PronType=Rel	_	_	_	_
 18	se	_	PRON	_	Person=3|PronType=Prs|Reflex=Yes	_	_	_	_
@@ -291,7 +291,7 @@
 36	avec	_	ADP	_	_	_	_	_	_
 37	lesquels	_	PRON	_	Number=Plur|Person=3|PronType=Rel	_	_	_	INVARIANT
 38	nous	_	PRON	_	Number=Plur|Person=1|PronType=Prs	_	_	_	_
-39	sommes	_	AUX	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres	_	_	_
+39	sommes	_	AUX	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres	_	_	_	_
 40	arrivés	_	VERB	_	Tense=Past|VerbForm=Part	_	_	_	_
 41	dans	_	ADP	_	_	_	_	_	_
 42	ce	_	DET	_	Number=Sing|PronType=Dem	_	_	_	_
@@ -320,7 +320,7 @@
 65	les	_	DET	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
 66	réservoirs	_	NOUN	_	Number=Plur	_	_	_	_
 67	seront	_	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Fut	_	_	_	_
-68	remplis	_	VERB	_	Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_
+68	remplis	_	VERB	_	Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
 69	,	_	PUNCT	_	_	_	_	_	_
 70	quand	_	SCONJ	_	_	_	_	_	_
 71	le	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
@@ -333,9 +333,9 @@
 78	partir	_	VERB	_	VerbForm=Inf	_	_	_	_
 79	(	_	PUNCT	_	_	_	_	_	_
 80	écoute	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	_
-81	-le	_	PRON	_	Definite=Def|Number=Sing|Person=3|PronType=Art	_	_	_
+81	-le	_	PRON	_	Definite=Def|Number=Sing|Person=3|PronType=Art	_	_	_	_
 82	.	_	PUNCT	_	_	_	_	_	_
-83	écoute	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_
+83	écoute	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	_
 84	le	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 85	vent	_	NOUN	_	Number=Sing	_	_	_	_
 86	et	_	CCONJ	_	_	_	_	_	_
@@ -449,7 +449,7 @@
 194	contacts	_	NOUN	_	Number=Plur	_	_	_	_
 195	entre	_	ADP	_	_	_	_	_	_
 196	les	_	DET	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
-197	bibliothécaires	_	NOUN	_	Number=Plur	_	_	noun.personne.métier=joueur·euses	_
+197	bibliothécaires	_	NOUN	_	Number=Plur	_	_	_	_
 198	.	_	PUNCT	_	_	_	_	_	_
 199	le	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 200	tacle	_	NOUN	_	Number=Sing	_	_	_	_
@@ -457,7 +457,7 @@
 202	autorisé	_	VERB	_	Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
 203	,	_	PUNCT	_	_	_	_	_	_
 204	mais	_	CCONJ	_	_	_	_	_	_
-205	réglementé	_	VERB	_	Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_
+205	réglementé	_	VERB	_	Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
 206	(	_	PUNCT	_	_	_	_	_	_
 207	très	_	ADV	_	_	_	_	_	_
 208	strictement	_	ADV	_	_	_	_	_	_
@@ -502,9 +502,9 @@
 247	tendue	_	VERB	_	Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
 248	par	_	ADP	_	_	_	_	_	_
 249	l'	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
-250	encadreur	_	NOUN	_	Number=Sing	_	_	noun.personne.métier=arbitre	_
+250	encadreur	_	NOUN	_	Number=Sing	_	_	_	_
 251	au	_	ADP	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
-252	encadreur·euse	_	NOUN	_	Number=Sing	_	_	noun.personne.métier=joueur·euse	_
+252	encadreur·euse	_	NOUN	_	Number=Sing	_	_	_	_
 253	fautif·ve	_	ADJ	_	Number=Sing	_	_	_	_
 254	,	_	PUNCT	_	_	_	_	_	_
 255	qui	_	PRON	_	PronType=Rel	_	_	_	_
@@ -513,7 +513,7 @@
 258	lentement	_	ADV	_	_	_	_	_	_
 259	vers	_	ADP	_	_	_	_	_	_
 260	l'	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
-261	encadreuse	_	NOUN	_	Number=Sing	_	_	noun.personne.métier=arbitre	_
+261	encadreuse	_	NOUN	_	Number=Sing	_	_	_	_
 262	,	_	PUNCT	_	_	_	_	_	_
 263	les	_	DET	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
 264	yeux	_	NOUN	_	Number=Plur	_	_	_	_
@@ -522,7 +522,7 @@
 267	tendant	_	VERB	_	Tense=Pres|VerbForm=Part	_	_	_	_
 268	ses	_	DET	_	Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes	_	_	_	_
 269	mains	_	NOUN	_	Number=Plur	_	_	_	_
-270	jointes	_	ADJ	_	Number=Plur	_	_	_
+270	jointes	_	ADJ	_	Number=Plur	_	_	_	_
 271	tournées	_	VERB	_	Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
 272	vers	_	ADP	_	_	_	_	_	_
 273	le	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
@@ -532,9 +532,9 @@
 277	il	_	PRON	_	Number=Sing|Person=3|PronType=Prs	_	_	_	_
 278	avance	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 279	,	_	PUNCT	_	_	_	_	_	_
-280	avance	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_
+280	avance	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 281	(	_	PUNCT	_	_	_	_	_	_
-282	écoute	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_
+282	écoute	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	_
 283	sa	_	DET	_	Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes	_	_	_	_
 284	respiration	_	NOUN	_	Number=Sing	_	_	_	_
 285	saccadée	_	ADJ	_	Number=Sing	_	_	_	_
@@ -548,7 +548,7 @@
 293	.	_	PUNCT	_	_	_	_	_	_
 294	si	_	SCONJ	_	_	_	_	_	_
 295	ce	_	DET	_	Number=Sing|PronType=Dem	_	_	_	_
-296	facteur	_	NOUN	_	Number=Sing	_	_	noun.personne.métier=joueur·euse	_
+296	facteur	_	NOUN	_	Number=Sing	_	_	_	_
 297	reçoit	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 298	d'	_	DET	_	Definite=Ind|Number=Plur|PronType=Art	_	_	_	_
 299	autres	_	ADJ	_	Number=Plur	_	_	_	_
@@ -599,9 +599,9 @@
 2	règle	_	NOUN	_	Number=Sing	_	_	_	_
 3	du	_	ADP	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 4	jeu	_	NOUN	_	Number=Sing	_	_	_	_
-5	force	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_
+5	force	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 6	les	_	DET	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
-7	facteur·rices	_	NOUN	_	Number=Plur	_	_	noun.personne.métier=joueur·euses	_
+7	facteur·rices	_	NOUN	_	Number=Plur	_	_	_	_
 8	à	_	ADP	_	_	_	_	_	_
 9	ne	_	ADV	_	Polarity=Neg	_	_	_	_
 10	pas	_	ADV	_	Polarity=Neg	_	_	_	_
@@ -618,7 +618,7 @@
 21	pour	_	ADP	_	_	_	_	_	_
 22	qu'	_	SCONJ	_	_	_	_	_	_
 23	un·e	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
-24	factrice	_	NOUN	_	Number=Sing	_	_	noun.personne.métier=joueur·euse	_
+24	factrice	_	NOUN	_	Number=Sing	_	_	_	_
 25	soit	_	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 26	en	_	ADP	_	_	_	_	_	_
 27	jeu	_	NOUN	_	Number=Sing	_	_	_	_
@@ -632,7 +632,7 @@
 35	le	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 36	petit	_	ADJ	_	Number=Sing	_	_	_	_
 37	buisson	_	NOUN	_	Number=Sing	_	_	_	_
-38	juste	_	ADV	_	_	_	_	_
+38	juste	_	ADV	_	_	_	_	_	_
 39	là	_	ADV	_	_	_	_	_	INVARIANT
 40	.	_	PUNCT	_	_	_	_	_	_
 41	l'	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
@@ -705,8 +705,8 @@
 2	-tu	_	PRON	_	Number=Sing|Person=2|PronType=Prs	_	_	_	_
 3	que	_	SCONJ	_	_	_	_	_	_
 4	l'	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
-5	événement	_	NOUN	_	Number=Sing	_	_	noun.événement=événement	_
-6	dure	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_
+5	événement	_	NOUN	_	Number=Sing	_	_	_	_
+6	dure	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 7	90	_	NUM	_	NumType=Card	_	_	_	_
 8	minutes	_	NOUN	_	Number=Plur	_	_	_	_
 9	?	_	PUNCT	_	_	_	_	_	_
@@ -734,7 +734,7 @@
 31	lors	_	ADV	_	_	_	_	_	INVARIANT
 32	de	_	ADP	_	_	_	_	_	_
 33	certains	_	DET	_	Definite=Ind|Number=Plur|PronType=Art	_	_	_	_
-34	événements	_	NOUN	_	Number=Plur	_	_	noun.événement=événements	_
+34	événements	_	NOUN	_	Number=Plur	_	_	_	_
 35	extrêmement	_	ADV	_	_	_	_	_	_
 36	importants	_	ADJ	_	Number=Plur	_	_	_	_
 37	,	_	PUNCT	_	_	_	_	_	_
@@ -848,7 +848,7 @@
 56	consignes	_	NOUN	_	Number=Plur	_	_	_	_
 57	de	_	ADP	_	_	_	_	_	_
 58	déplacement	_	NOUN	_	Number=Sing	_	_	_	_
-59	que	_	SCONJ	_	_	_	_	_
+59	que	_	SCONJ	_	_	_	_	_	_
 60	doivent	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 61	respecter	_	VERB	_	VerbForm=Inf	_	_	_	_
 62	avec	_	ADP	_	_	_	_	_	_
@@ -896,7 +896,7 @@
 104	souligner	_	VERB	_	VerbForm=Inf	_	_	_	_
 105	qu'	_	SCONJ	_	_	_	_	_	_
 106	un·e	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
-107	façadier	_	NOUN	_	Number=Sing	_	_	noun.personne.métier=arbitre	_
+107	façadier	_	NOUN	_	Number=Sing	_	_	_	_
 108	doit	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 109	interpréter	_	VERB	_	VerbForm=Inf	_	_	_	_
 110	les	_	DET	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
@@ -912,7 +912,7 @@
 120	jeu	_	NOUN	_	Number=Sing	_	_	_	_
 121	,	_	PUNCT	_	_	_	_	_	_
 122	celui-ci	_	PRON	_	Number=Sing|Person=3|PronType=Dem	_	_	_	_
-123	étant	_	VERB	_	Tense=Pres|VerbForm=Part	_	_	_
+123	étant	_	VERB	_	Tense=Pres|VerbForm=Part	_	_	_	_
 124	plus	_	ADV	_	_	_	_	_	_
 56	important	_	ADJ	_	Number=Sing	_	_	_	_
 126	que	_	SCONJ	_	_	_	_	_	_
@@ -962,7 +962,7 @@
 170	formelle	_	ADJ	_	Number=Sing	_	_	_	_
 171	dans	_	ADP	_	_	_	_	_	_
 172	des	_	DET	_	Definite=Ind|Number=Plur|PronType=Art	_	_	_	_
-173	assemblée	_	NOUN	_	Number=Sing	_	_	_
+173	assemblée	_	NOUN	_	Number=Sing	_	_	_	_
 174	.	_	PUNCT	_	_	_	_	_	_
 175	dans	_	ADP	_	_	_	_	_	_
 176	ces	_	DET	_	Number=Plur|PronType=Dem	_	_	_	_
@@ -978,7 +978,7 @@
 186	façon	_	NOUN	_	Number=Sing	_	_	_	_
 187	complexe	_	ADJ	_	Number=Sing	_	_	_	_
 188	,	_	PUNCT	_	_	_	_	_	_
-189	quasi-scientifique	_	ADJ	_	Number=Sing	_	_	_
+189	quasi-scientifique	_	ADJ	_	Number=Sing	_	_	_	_
 190	et	_	CCONJ	_	_	_	_	_	_
 191	l'	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 192	on	_	PRON	_	Number=Sing|Person=3|PronType=Prs	_	_	_	_
@@ -1019,7 +1019,7 @@
 227	de	_	ADP	_	_	_	_	_	_
 228	pensée	_	NOUN	_	Number=Sing	_	_	_	_
 229	)	_	PUNCT	_	_	_	_	_	_
-230	abstraite	_	ADJ	_	Number=Sing	_	_	_
+230	abstraite	_	ADJ	_	Number=Sing	_	_	_	_
 231	que	_	SCONJ	_	_	_	_	_	_
 232	l'	_	PRON	_	Definite=Def|Number=Sing|Person=3|PronType=Art	_	_	_	_
 233	on	_	PRON	_	Number=Sing|Person=3|PronType=Prs	_	_	_	_
@@ -1041,7 +1041,7 @@
 249	d'	_	ADP	_	_	_	_	_	_
 250	actions	_	NOUN	_	Number=Plur	_	_	_	_
 251	ou	_	CCONJ	_	_	_	_	_	_
-252	sanctions	_	NOUN	_	Number=Plur	_	_	_
+252	sanctions	_	NOUN	_	Number=Plur	_	_	_	_
 253	sont	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_	_
 254	communément	_	ADV	_	_	_	_	_	_
 255	considérées	_	VERB	_	Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
@@ -1100,8 +1100,8 @@
 31	ronde	_	NOUN	_	Number=Sing	_	_	_	_
 32	,	_	PUNCT	_	_	_	_	_	_
 33	les	_	DET	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
-34	façadier·ères	_	NOUN	_	Number=Plur	_	_	noun.personne.métier=joueur·euses	_
-35	d'	_	ADP	_	_	_	_	_
+34	façadier·ères	_	NOUN	_	Number=Plur	_	_	_	_
+35	d'	_	ADP	_	_	_	_	_	_
 36	autres	_	ADJ	_	Number=Plur	_	_	_	_
 37	jeux	_	NOUN	_	Number=Plur	_	_	_	_
 38	aiment	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_	_
@@ -1136,14 +1136,14 @@
 67	un	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
 68	tel	_	ADJ	_	Number=Sing	_	_	_	_
 69	terrain	_	NOUN	_	Number=Sing	_	_	_	_
-70	en	_	ADP	_	_	_	_	_
-71	reste	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_
+70	en	_	ADP	_	_	_	_	_	_
+71	reste	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 72	longtemps	_	ADV	_	_	_	_	_	_
 73	ébahi	_	ADJ	_	Number=Sing	_	_	_	_
 74	.	_	PUNCT	_	_	_	_	_	_
 75	pour	_	ADP	_	_	_	_	_	_
 76	un	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
-77	événement	_	NOUN	_	Number=Sing	_	_	noun.événement=événement	_
+77	événement	_	NOUN	_	Number=Sing	_	_	_	_
 78	de	_	ADP	_	_	_	_	_	_
 79	grande	_	ADJ	_	Number=Sing	_	_	_	_
 80	ampleur	_	NOUN	_	Number=Sing	_	_	_	_
@@ -1259,7 +1259,7 @@
 24	poli	_	ADJ	_	Number=Sing	_	_	_	_
 25	,	_	PUNCT	_	_	_	_	_	_
 26	le	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
-27	tout	_	PRON	_	Definite=Ind|Number=Sing|Person=3	_	_	_
+27	tout	_	PRON	_	Definite=Ind|Number=Sing|Person=3	_	_	_	_
 28	formant	_	VERB	_	Tense=Pres|VerbForm=Part	_	_	_	_
 29	comme	_	SCONJ	_	_	_	_	_	_
 30	un	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
@@ -1269,8 +1269,8 @@
 34	ce	_	PRON	_	Number=Sing|Person=3|PronType=Dem	_	_	_	_
 35	sont	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_	_
 36	les	_	DET	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
-37	méga	_	ADJ	_	Number=Plur	_	_	_
-38	façadières	_	NOUN	_	Number=Plur	_	_	noun.personne.métier=joueur·euses
+37	méga	_	ADJ	_	Number=Plur	_	_	_	_
+38	façadières	_	NOUN	_	Number=Plur	_	_	_	_
 39	qui	_	PRON	_	PronType=Rel	_	_	_	_
 40	les	_	PRON	_	Definite=Def|Number=Plur|Person=3|PronType=Art	_	_	_	_
 41	ont	_	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_	_
@@ -1284,9 +1284,9 @@
 49	le	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 50	plus	_	ADV	_	_	_	_	_	_
 51	sont	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_	_
-52	récompensé·es	_	ADJ	_	Number=Plur	_	_	_
+52	récompensé·es	_	ADJ	_	Number=Plur	_	_	_	_
 53	,	_	PUNCT	_	_	_	_	_	_
-54	loué·es	_	ADJ	_	Number=Plur	_	_	_
+54	loué·es	_	ADJ	_	Number=Plur	_	_	_	_
 55	,	_	PUNCT	_	_	_	_	_	_
 56	on	_	PRON	_	Number=Sing|Person=3|PronType=Prs	_	_	_	_
 57	chante	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
@@ -1329,7 +1329,7 @@
 94	et	_	CCONJ	_	_	_	_	_	_
 95	le	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 96	bord	_	NOUN	_	Number=Sing	_	_	_	_
-97	inférieur	_	ADJ	_	Number=Sing	_	_	_
+97	inférieur	_	ADJ	_	Number=Sing	_	_	_	_
 98	de	_	ADP	_	_	_	_	_	_
 99	la	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 100	barre	_	NOUN	_	Number=Sing	_	_	_	_
@@ -1436,28 +1436,28 @@
 19	ou	_	CCONJ	_	_	_	_	_	_
 20	le	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 21	métal	_	NOUN	_	Number=Sing	_	_	_	_
-22	sont	_	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_
-38	proscris	_	VERB	_	Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_
+22	sont	_	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_	_
+38	proscris	_	VERB	_	Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
 24	)	_	PUNCT	_	_	_	_	_	_
 25	,	_	PUNCT	_	_	_	_	_	_
 26	a	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 27	une	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
 28	circonférence	_	NOUN	_	Number=Sing	_	_	_	_
-29	comprise	_	VERB	_	Tense=Past|VerbForm=Part	_	_	_
+29	comprise	_	VERB	_	Tense=Past|VerbForm=Part	_	_	_	_
 30	entre	_	ADP	_	_	_	_	_	_
 31	68	_	NUM	_	NumType=Card	_	_	_	_
 32	et	_	CCONJ	_	_	_	_	_	_
 33	70	_	NUM	_	NumType=Card	_	_	_	_
-34	cm	_	NOUN	_	Number=Plur	_	_	_
+34	cm	_	NOUN	_	Number=Plur	_	_	_	_
 35	et	_	CCONJ	_	_	_	_	_	_
 36	une	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
 37	masse	_	NOUN	_	Number=Sing	_	_	_	_
-38	comprise	_	VERB	_	Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_
+38	comprise	_	VERB	_	Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
 39	entre	_	ADP	_	_	_	_	_	_
 40	410	_	NUM	_	NumType=Card	_	_	_	_
 41	et	_	CCONJ	_	_	_	_	_	_
 42	450	_	NUM	_	NumType=Card	_	_	_	_
-43	grammes	_	NOUN	_	Number=Plur	_	_	_
+43	grammes	_	NOUN	_	Number=Plur	_	_	_	_
 44	ces	_	DET	_	Number=Plur|PronType=Dem	_	_	_	_
 45	dimensions	_	NOUN	_	Number=Plur	_	_	_	_
 46	ont	_	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_	_
@@ -1488,12 +1488,12 @@
 11	,	_	PUNCT	_	_	_	_	_	_
 12	pour	_	ADP	_	_	_	_	_	_
 13	les	_	DET	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
-14	événements	_	NOUN	_	Number=Plur	_	_	noun.événement=événements	_
+14	événements	_	NOUN	_	Number=Plur	_	_	_	_
 15	opposant	_	VERB	_	Tense=Pres|VerbForm=Part	_	_	_	_
-16	des	_	DET	_	Number=Plur|PronType=Art|Definite=Ind	_	_	_
+16	des	_	DET	_	Number=Plur|PronType=Art|Definite=Ind	_	_	_	_
 17	groupes	_	NOUN	_	Number=Plur	_	_	_	_
 18	de	_	ADP	_	_	_	_	_	_
-19	figurants	_	NOUN	_	Number=Plur	_	_	noun.personne.métier=joueur·euses	_
+19	figurants	_	NOUN	_	Number=Plur	_	_	_	_
 20	dans	_	ADP	_	_	_	_	_	_
 21	des	_	DET	_	Definite=Ind|Number=Plur|PronType=Art	_	_	_	_
 22	contextes	_	NOUN	_	Number=Plur	_	_	_	_
@@ -1530,7 +1530,7 @@
 53	.	_	PUNCT	_	_	_	_	_	_
 54	mais	_	CCONJ	_	_	_	_	_	_
 55	...	_	PUNCT	_	_	_	_	_	_
-56	chut	_	INTJ	_	_	_	_	_
+56	chut	_	INTJ	_	_	_	_	_	_
 57	...	_	PUNCT	_	_	_	_	_	_
 58	la	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 59	cime	_	NOUN	_	Number=Sing	_	_	_	_
@@ -1554,8 +1554,8 @@
 77	...	_	PUNCT	_	_	_	_	_	_
 78	quelque	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
 79	chose	_	NOUN	_	Number=Sing	_	_	_	_
-80	la	_	PRON	_	Definite=Def|Number=Sing|Person=3|PronType=Art	_	_	_
-81	perce	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_
+80	la	_	PRON	_	Definite=Def|Number=Sing|Person=3|PronType=Art	_	_	_	_
+81	perce	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 82	.	_	PUNCT	_	_	_	_	_	_
 
 
@@ -1566,17 +1566,17 @@
 2	groupe	_	NOUN	_	Number=Sing	_	_	_	_
 3	commence	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 4	l'	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
-5	événement	_	NOUN	_	Number=Sing	_	_	noun.événement=événement	_
+5	événement	_	NOUN	_	Number=Sing	_	_	_	_
 6	avec	_	ADP	_	_	_	_	_	_
 7	un	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
 8	maximum	_	NOUN	_	Number=Sing	_	_	_	_
 9	de	_	ADP	_	_	_	_	_	_
 10	onze	_	NUM	_	NumType=Card	_	_	_	_
-11	figurantes	_	NOUN	_	Number=Plur	_	_	noun.personne.métier=joueur·euses	_
+11	figurantes	_	NOUN	_	Number=Plur	_	_	_	_
 12	,	_	PUNCT	_	_	_	_	_	_
 13	dont	_	PRON	_	PronType=Rel	_	_	_	_
 14	un·e	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
-15	figurant·e	_	NOUN	_	Number=Sing	_	_	noun.personne.métier=joueur·euse	_
+15	figurant·e	_	NOUN	_	Number=Sing	_	_	_	_
 16	,	_	PUNCT	_	_	_	_	_	_
 17	et	_	CCONJ	_	_	_	_	_	_
 18	doit	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
@@ -1586,7 +1586,7 @@
 22	au	_	ADP	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 23	moins	_	ADV	_	_	_	_	_	_
 24	sept	_	NUM	_	NumType=Card	_	_	_	_
-25	fiscalistes	_	NOUN	_	Number=Plur	_	_	noun.personne.métier=joueur·euses	_
+25	fiscalistes	_	NOUN	_	Number=Plur	_	_	_	_
 26	sur	_	ADP	_	_	_	_	_	_
 27	le	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 28	terrain	_	NOUN	_	Number=Sing	_	_	_	_
@@ -1663,7 +1663,7 @@
 99	depuis	_	ADP	_	_	_	_	_	INVARIANT
 100	1967,	_	NUM	_	NumType=Card	_	_	_	_
 101	les	_	DET	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
-102	forgerons	_	NOUN	_	Number=Plur	_	_	noun.personne.métier=joueur·euses	_
+102	forgerons	_	NOUN	_	Number=Plur	_	_	_	_
 103	peuvent	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_	_
 104	être	_	AUX	_	VerbForm=Inf	_	_	_	_
 105	remplacés	_	VERB	_	Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
@@ -1678,7 +1678,7 @@
 114	de	_	ADP	_	_	_	_	_	_
 115	remplacements	_	NOUN	_	Number=Plur	_	_	_	_
 116	en	_	ADP	_	_	_	_	_	_
-117	événement	_	NOUN	_	Number=Sing	_	_	noun.événement=événement	_
+117	événement	_	NOUN	_	Number=Sing	_	_	_	_
 118	officiel	_	ADJ	_	Number=Sing	_	_	_	_
 119	est	_	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 120	passé	_	VERB	_	Tense=Past|VerbForm=Part	_	_	_	_
@@ -1713,13 +1713,13 @@
 149	la	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 150	pandémie	_	NOUN	_	Number=Sing	_	_	_	_
 151	de	_	ADP	_	_	_	_	_	_
-152	covid-19	_	NOUN	_	Number=Sing	_	_	_
+152	covid-19	_	NOUN	_	Number=Sing	_	_	_	_
 153	depuis	_	ADP	_	_	_	_	_	INVARIANT
 154	mai	_	NOUN	_	Number=Sing	_	_	_	_
 155	2020.	_	NUM	_	NumType=Card	_	_	_	_
 156	lors	_	ADV	_	_	_	_	_	INVARIANT
 157	des	_	ADP	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
-158	événements	_	NOUN	_	Number=Plur	_	_	noun.événement=événements	_
+158	événements	_	NOUN	_	Number=Plur	_	_	_	_
 159	amicaux	_	ADJ	_	Number=Plur	_	_	_	_
 160	,	_	PUNCT	_	_	_	_	_	_
 161	il	_	PRON	_	Number=Sing|Person=3|PronType=Prs	_	_	_	_
@@ -1747,7 +1747,7 @@
 3	de	_	ADP	_	_	_	_	_	_
 4	base	_	NOUN	_	Number=Sing	_	_	_	_
 5	du	_	ADP	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
-6	forgeronne	_	NOUN	_	Number=Sing	_	_	noun.personne.métier=joueur·euse	_
+6	forgeronne	_	NOUN	_	Number=Sing	_	_	_	_
 7	de	_	ADP	_	_	_	_	_	_
 8	champ	_	NOUN	_	Number=Sing	_	_	_	_
 9	comprend	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
@@ -1760,7 +1760,7 @@
 16	short	_	NOUN	_	Number=Sing	_	_	_	_
 17	,	_	PUNCT	_	_	_	_	_	_
 18	des	_	ADP	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
-19	bas	_	NOUN	_	Number=Plur	_	_	_
+19	bas	_	NOUN	_	Number=Plur	_	_	_	_
 20	(	_	PUNCT	_	_	_	_	_	_
 21	tout	_	ADJ	_	Number=Sing	_	_	_	_
 22	le	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
@@ -1774,16 +1774,16 @@
 30	équipement	_	NOUN	_	Number=Sing	_	_	_	_
 31	sauf	_	ADP	_	_	_	_	_	_
 32	un·e	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
-33	forgeron·ne	_	NOUN	_	Number=Sing	_	_	noun.personne.métier=joueur·euse	_
+33	forgeron·ne	_	NOUN	_	Number=Sing	_	_	_	_
 34	,	_	PUNCT	_	_	_	_	_	_
-35	qu'	_	PRON	_	PronType=Rel	_	_	_
+35	qu'	_	PRON	_	PronType=Rel	_	_	_	_
 36	on	_	PRON	_	Number=Sing|Person=3|PronType=Prs	_	_	_	_
 37	sélectionne	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 38	en	_	ADP	_	_	_	_	_	_
 39	dehors	_	ADV	_	_	_	_	_	_
 40	de	_	ADP	_	_	_	_	_	_
 41	l'	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
-42	événement	_	NOUN	_	Number=Sing	_	_	noun.événement=événement	_
+42	événement	_	NOUN	_	Number=Sing	_	_	_	_
 43	,	_	PUNCT	_	_	_	_	_	_
 44	lors	_	ADV	_	_	_	_	_	INVARIANT
 45	de	_	ADP	_	_	_	_	_	_
@@ -1824,12 +1824,12 @@
 80	couleurs	_	NOUN	_	Number=Plur	_	_	_	_
 81	le	_	PRON	_	Definite=Def|Number=Sing|Person=3|PronType=Art	_	_	_	_
 82	distinguant	_	VERB	_	Tense=Pres|VerbForm=Part	_	_	_	_
-83	des	_	ADP	_	Definite=Def|Number=Plur|PronType=Art	_	_	_
+83	des	_	ADP	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
 84	autres	_	ADJ	_	Number=Plur	_	_	_	_
-85	formateurs	_	NOUN	_	Number=Plur	_	_	noun.personne.métier=joueur·euses	_
+85	formateurs	_	NOUN	_	Number=Plur	_	_	_	_
 86	et	_	CCONJ	_	_	_	_	_	_
 87	des	_	ADP	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
-88	formateur·rices	_	NOUN	_	Number=Plur	_	_	noun.personne.métier=arbitres	_
+88	formateur·rices	_	NOUN	_	Number=Plur	_	_	_	_
 89	.	_	PUNCT	_	_	_	_	_	_
 90	iel	_	PRON	_	Number=Sing|Person=3|PronType=Prs	_	_	_	_
 91	peut	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
@@ -1841,16 +1841,16 @@
 97	aussi	_	ADV	_	_	_	_	_	_
 98	toutes	_	DET	_	Definite=Ind|Number=Plur|Person=3	_	_	_	_
 99	sortes	_	NOUN	_	Number=Plur	_	_	_	_
-109	de	_	DET	_	Definite=Ind|Number=Plur|PronType=Art	_	_	_
+109	de	_	DET	_	Definite=Ind|Number=Plur|PronType=Art	_	_	_	_
 101	choses	_	NOUN	_	Number=Plur	_	_	_	_
 102	comme	_	SCONJ	_	_	_	_	_	_
 103	des	_	DET	_	Definite=Ind|Number=Plur|PronType=Art	_	_	_	_
 104	abat-jours	_	NOUN	_	Number=Plur	_	_	_	_
 105	,	_	PUNCT	_	_	_	_	_	_
-109	des	_	DET	_	Definite=Ind|Number=Plur|PronType=Art	_	_	_
+109	des	_	DET	_	Definite=Ind|Number=Plur|PronType=Art	_	_	_	_
 107	télécommandes	_	NOUN	_	Number=Plur	_	_	_	_
 108	,	_	PUNCT	_	_	_	_	_	_
-109	des	_	DET	_	Definite=Ind|Number=Plur|PronType=Art	_	_	_
+109	des	_	DET	_	Definite=Ind|Number=Plur|PronType=Art	_	_	_	_
 110	petites	_	ADJ	_	Number=Plur	_	_	_	_
 111	pièces	_	NOUN	_	Number=Plur	_	_	_	_
 112	de	_	ADP	_	_	_	_	_	_
@@ -1873,7 +1873,7 @@
 129	la	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 130	sécurité	_	NOUN	_	Number=Sing	_	_	_	_
 131	des	_	ADP	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
-132	formatrices	_	NOUN	_	Number=Plur	_	_	noun.personne.métier=joueur·euses	_
+132	formatrices	_	NOUN	_	Number=Plur	_	_	_	_
 133	:	_	PUNCT	_	_	_	_	_	_
 134	les	_	DET	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
 135	lunettes	_	NOUN	_	Number=Plur	_	_	_	_
@@ -1883,7 +1883,7 @@
 139	de	_	ADP	_	_	_	_	_	_
 140	protection	_	NOUN	_	Number=Sing	_	_	_	_
 141	sont	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_	_
-142	autorisés	_	ADJ	_	Number=Plur	_	_	_
+142	autorisés	_	ADJ	_	Number=Plur	_	_	_	_
 143	,	_	PUNCT	_	_	_	_	_	_
 144	mais	_	CCONJ	_	_	_	_	_	_
 145	pas	_	ADV	_	Polarity=Neg	_	_	_	_
@@ -1895,7 +1895,7 @@
 151	crampons	_	NOUN	_	Number=Plur	_	_	_	_
 152	doivent	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 153	être	_	AUX	_	VerbForm=Inf	_	_	_	_
-154	adaptés	_	VERB	_	Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_
+154	adaptés	_	VERB	_	Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
 155	.	_	PUNCT	_	_	_	_	_	_
 156	iels	_	PRON	_	Number=Plur|Person=3|PronType=Prs	_	_	_	_
 157	contrôlent	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_	_
@@ -1905,7 +1905,7 @@
 161	le	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 162	début	_	NOUN	_	Number=Sing	_	_	_	_
 163	du	_	ADP	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
-164	événement	_	NOUN	_	Number=Sing	_	_	noun.événement=événement	_
+164	événement	_	NOUN	_	Number=Sing	_	_	_	_
 165	,	_	PUNCT	_	_	_	_	_	_
 166	et	_	CCONJ	_	_	_	_	_	_
 167	iels	_	PRON	_	Number=Plur|Person=3|PronType=Prs	_	_	_	_
@@ -1923,7 +1923,7 @@
 179	professionnalisme	_	NOUN	_	Number=Sing	_	_	_	_
 180	"	_	PUNCT	_	_	_	_	_	_
 181	mais	_	CCONJ	_	_	_	_	_	_
-182	que	_	PRON	_	PronType=Rel	_	_	_
+182	que	_	PRON	_	PronType=Rel	_	_	_	_
 183	nous	_	PRON	_	Number=Plur|Person=1|PronType=Prs	_	_	_	_
 184	préférons	_	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres	_	_	_	_
 185	voir	_	VERB	_	VerbForm=Inf	_	_	_	_
@@ -1947,9 +1947,9 @@
 7	jeu	_	NOUN	_	Number=Sing	_	_	_	_
 8	:	_	PUNCT	_	_	_	_	_	_
 9	les	_	DET	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
-10	trio	_	NOUN	_	Number=Plur	_	_	_
+10	trio	_	NOUN	_	Number=Plur	_	_	_	_
 11	d'	_	ADP	_	_	_	_	_	_
-12	illustrateurs	_	NOUN	_	Number=Plur	_	_	noun.personne.métier=arbitres	_
+12	illustrateurs	_	NOUN	_	Number=Plur	_	_	_	_
 13	portent	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_	_
 14	un	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
 15	objet	_	NOUN	_	Number=Sing	_	_	_	_
@@ -1962,7 +1962,7 @@
 # sent_id = regles_jeu_debut.13
 # text = chaque événement de jeu se dispute sous le contrôle d' un·e illustrateur·rice disposant de toute l' autorité nécessaire pour veiller à l' application des lois dans le cadre de l' événement qu' il est appelé à diriger , et il peut en faire une véritable fête , ou au contraire une séance d' ennui ( comme nous les appelons ici , c' est une locution que tu apprendras à utiliser ) . que dis -tu ? une locution ? une locution est ... si tu veux ... une suite de mots qui sont souvent comme groupées ( collés ensemble ) et qu' on utilise dans certains contextes particuliers . les décisions de l' illustratrice sur les faits en relation avec le jeu sont sans appel . cependant , sous réserve que le jeu n' ait pas repris , l' imitateur peut revenir sur sa décision , ce qu' il fait , en réalité , assez rarement .
 1	chaque	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
-2	événement	_	NOUN	_	Number=Sing	_	_	noun.événement=événement	_
+2	événement	_	NOUN	_	Number=Sing	_	_	_	_
 3	de	_	ADP	_	_	_	_	_	_
 4	jeu	_	NOUN	_	Number=Sing	_	_	_	_
 5	se	_	PRON	_	Person=3|PronType=Prs|Reflex=Yes	_	_	_	_
@@ -1972,7 +1972,7 @@
 9	contrôle	_	NOUN	_	Number=Sing	_	_	_	_
 10	d'	_	ADP	_	_	_	_	_	_
 11	un·e	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
-12	illustrateur·rice	_	NOUN	_	Number=Sing	_	_	noun.personne.métier=arbitre	_
+12	illustrateur·rice	_	NOUN	_	Number=Sing	_	_	_	_
 13	disposant	_	VERB	_	Tense=Pres|VerbForm=Part	_	_	_	_
 14	de	_	ADP	_	_	_	_	_	_
 15	toute	_	ADJ	_	Number=Sing	_	_	_	_
@@ -1991,8 +1991,8 @@
 28	cadre	_	NOUN	_	Number=Sing	_	_	_	_
 29	de	_	ADP	_	_	_	_	_	_
 30	l'	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
-31	événement	_	NOUN	_	Number=Sing	_	_	noun.événement=événement	_
-102	qu'	_	PRON	_	PronType=Rel	_	_	_
+31	événement	_	NOUN	_	Number=Sing	_	_	_	_
+102	qu'	_	PRON	_	PronType=Rel	_	_	_	_
 33	il	_	PRON	_	Number=Sing|Person=3|PronType=Prs	_	_	_	_
 34	est	_	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 35	appelé	_	VERB	_	Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
@@ -2019,7 +2019,7 @@
 56	comme	_	SCONJ	_	_	_	_	_	_
 57	nous	_	PRON	_	Number=Plur|Person=1|PronType=Prs	_	_	_	_
 58	les	_	PRON	_	Definite=Def|Number=Plur|Person=3|PronType=Art	_	_	_	_
-59	appelons	_	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres	_	_	_
+59	appelons	_	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres	_	_	_	_
 60	ici	_	ADV	_	_	_	_	_	INVARIANT
 61	,	_	PUNCT	_	_	_	_	_	_
 62	c'	_	PRON	_	Number=Sing|Person=3|PronType=Dem	_	_	_	_
@@ -2028,12 +2028,12 @@
 65	locution	_	NOUN	_	Number=Sing	_	_	_	_
 66	que	_	SCONJ	_	_	_	_	_	_
 67	tu	_	PRON	_	Number=Sing|Person=2|PronType=Prs	_	_	_	_
-68	apprendras	_	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Fut	_	_	_
+68	apprendras	_	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Fut	_	_	_	_
 69	à	_	ADP	_	_	_	_	_	_
 70	utiliser	_	VERB	_	VerbForm=Inf	_	_	_	_
 71	)	_	PUNCT	_	_	_	_	_	_
 72	.	_	PUNCT	_	_	_	_	_	_
-73	que	_	SCONJ	_	_	_	_	_
+73	que	_	SCONJ	_	_	_	_	_	_
 74	dis	_	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres	_	_	_	_
 75	-tu	_	PRON	_	Number=Sing|Person=2|PronType=Prs	_	_	_	_
 76	?	_	PUNCT	_	_	_	_	_	_
@@ -2056,7 +2056,7 @@
 93	sont	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_	_
 94	souvent	_	ADV	_	_	_	_	_	_
 95	comme	_	SCONJ	_	_	_	_	_	_
-96	groupées	_	VERB	_	Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_
+96	groupées	_	VERB	_	Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
 97	(	_	PUNCT	_	_	_	_	_	_
 98	collés	_	VERB	_	Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
 99	ensemble	_	ADV	_	_	_	_	_	_
@@ -2074,7 +2074,7 @@
 111	décisions	_	NOUN	_	Number=Plur	_	_	_	_
 112	de	_	ADP	_	_	_	_	_	_
 113	l'	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
-114	illustratrice	_	NOUN	_	Number=Sing	_	_	noun.personne.métier=arbitre	_
+114	illustratrice	_	NOUN	_	Number=Sing	_	_	_	_
 115	sur	_	ADP	_	_	_	_	_	_
 116	les	_	DET	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
 117	faits	_	NOUN	_	Number=Plur	_	_	_	_
@@ -2100,7 +2100,7 @@
 137	repris	_	VERB	_	Tense=Past|VerbForm=Part	_	_	_	_
 138	,	_	PUNCT	_	_	_	_	_	_
 139	l'	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
-140	imitateur	_	NOUN	_	Number=Sing	_	_	noun.personne.métier=arbitre	_
+140	imitateur	_	NOUN	_	Number=Sing	_	_	_	_
 141	peut	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 142	revenir	_	VERB	_	VerbForm=Inf	_	_	_	_
 143	sur	_	ADP	_	_	_	_	_	_

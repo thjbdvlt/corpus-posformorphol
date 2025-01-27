@@ -8,7 +8,7 @@
 5	les	_	DET	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
 6	journaux	_	NOUN	_	Number=Plur	_	_	_	_
 7	et	_	CCONJ	_	_	_	_	_	_
-8	était	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp	_	_	_
+8	était	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp	_	_	_	_
 9	loin	_	ADV	_	_	_	_	_	_
 10	de	_	ADP	_	_	_	_	_	_
 11	savoir	_	VERB	_	VerbForm=Inf	_	_	_	_
@@ -51,7 +51,7 @@
 48	la	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 49	baie	_	NOUN	_	Number=Sing	_	_	_	_
 50	de	_	ADP	_	_	_	_	_	_
-51	San-Diégo	_	PROPN	_	_	_	_	_
+51	San-Diégo	_	PROPN	_	_	_	_	_	_
 52	on	_	PRON	_	Number=Sing|Person=3|PronType=Prs	_	_	_	_
 53	traquait	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp	_	_	_	_
 54	les	_	DET	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
@@ -103,7 +103,7 @@
 19	le	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 20	sol	_	NOUN	_	Number=Sing	_	_	_	_
 21	glacé	_	ADJ	_	Number=Sing	_	_	_	_
-22	des	_	ADP	_	Definite=Def|Number=Plur|PronType=Art	_	_	_
+22	des	_	ADP	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
 23	régions	_	NOUN	_	Number=Plur	_	_	_	_
 24	arctiques	_	ADJ	_	Number=Plur	_	_	_	_
 25	,	_	PUNCT	_	_	_	_	_	_
@@ -112,7 +112,7 @@
 28	compagnies	_	NOUN	_	Number=Plur	_	_	_	_
 29	de	_	ADP	_	_	_	_	_	_
 30	transport	_	NOUN	_	Number=Sing	_	_	_	_
-31	ayant	_	AUX	_	Tense=Pres|VerbForm=Part	_	_	_
+31	ayant	_	AUX	_	Tense=Pres|VerbForm=Part	_	_	_	_
 32	répandu	_	VERB	_	Tense=Past|VerbForm=Part	_	_	_	_
 33	la	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 34	nouvelle	_	NOUN	_	Number=Sing	_	_	_	_
@@ -120,7 +120,7 @@
 36	grand	_	ADJ	_	Number=Sing	_	_	_	_
 37	renfort	_	NOUN	_	Number=Sing	_	_	_	_
 38	de	_	ADP	_	_	_	_	_	_
-39	réclame	_	NOUN	_	Number=Sing	_	_	_
+39	réclame	_	NOUN	_	Number=Sing	_	_	_	_
 40	,	_	PUNCT	_	_	_	_	_	_
 41	les	_	DET	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
 42	gens	_	NOUN	_	Number=Plur	_	_	_	_
@@ -136,7 +136,7 @@
 52	il	_	PRON	_	Number=Sing|Person=3|PronType=Prs	_	_	_	_
 53	leur	_	PRON	_	Number=Plur|Person=3|PronType=Prs	_	_	_	_
 54	fallait	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp	_	_	_	_
-55	des	_	ADP	_	Definite=Def|Number=Plur|PronType=Art	_	_	_
+55	des	_	ADP	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
 56	chiens	_	NOUN	_	Number=Plur	_	_	_	_
 57	,	_	PUNCT	_	_	_	_	_	_
 58	de	_	ADP	_	_	_	_	_	_
@@ -177,11 +177,11 @@
 8	dans	_	ADP	_	_	_	_	_	_
 9	la	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 10	vallée	_	NOUN	_	Number=Sing	_	_	_	_
-11	ensoleillée	_	ADJ	_	Number=Sing	_	_	_
+11	ensoleillée	_	ADJ	_	Number=Sing	_	_	_	_
 12	de	_	ADP	_	_	_	_	_	_
 13	Santa-Clara	_	PROPN	_	_	_	_	_	_
 14	,	_	PUNCT	_	_	_	_	_	_
-15	qu'	_	PRON	_	PronType=Rel	_	_	_
+15	qu'	_	PRON	_	PronType=Rel	_	_	_	_
 16	on	_	PRON	_	Number=Sing|Person=3|PronType=Prs	_	_	_	_
 17	appelle	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 18	«	_	PUNCT	_	_	_	_	_	_
@@ -208,20 +208,20 @@
 9	l'	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 10	habitation	_	NOUN	_	Number=Sing	_	_	_	_
 11	à	_	ADP	_	_	_	_	_	_
-12	demi-cachée	_	VERB	_	Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_
+12	demi-cachée	_	VERB	_	Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
 13	par	_	ADP	_	_	_	_	_	_
 14	les	_	DET	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
 15	grands	_	ADJ	_	Number=Plur	_	_	_	_
 16	arbres	_	NOUN	_	Number=Plur	_	_	_	_
 17	,	_	PUNCT	_	_	_	_	_	_
 18	qui	_	PRON	_	PronType=Rel	_	_	_	_
-19	laissent	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_
+19	laissent	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_	_
 20	entrevoir	_	VERB	_	VerbForm=Inf	_	_	_	_
 21	la	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
-22	large	_	ADJ	_	Number=Sing	_	_	_
+22	large	_	ADJ	_	Number=Sing	_	_	_	_
 23	et	_	CCONJ	_	_	_	_	_	_
 24	fraîche	_	ADJ	_	Number=Sing	_	_	_	_
-25	véranda	_	NOUN	_	Number=Sing	_	_	_
+25	véranda	_	NOUN	_	Number=Sing	_	_	_	_
 26	,	_	PUNCT	_	_	_	_	_	_
 27	régnant	_	VERB	_	Tense=Pres|VerbForm=Part	_	_	_	_
 28	sur	_	ADP	_	_	_	_	_	_
@@ -232,9 +232,9 @@
 33	la	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 34	maison	_	NOUN	_	Number=Sing	_	_	_	_
 35	.	_	PUNCT	_	_	_	_	_	_
-36	Des	_	DET	_	Definite=Ind|Number=Plur|PronType=Art	_	_	_
+36	Des	_	DET	_	Definite=Ind|Number=Plur|PronType=Art	_	_	_	_
 37	allées	_	NOUN	_	Number=Plur	_	_	_	_
-39	sablées	_	ADJ	_	Number=Plur	_	_	_
+39	sablées	_	ADJ	_	Number=Plur	_	_	_	_
 40	mènent	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_	_
 41	au	_	ADP	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 42	perron	_	NOUN	_	Number=Sing	_	_	_	_
@@ -249,8 +249,8 @@
 51	,	_	PUNCT	_	_	_	_	_	_
 52	parmi	_	ADV	_	_	_	_	_	_
 53	les	_	DET	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
-54	vertes	_	ADJ	_	Number=Plur	_	_	_
-55	pelouses	_	NOUN	_	Number=Plur	_	_	_
+54	vertes	_	ADJ	_	Number=Plur	_	_	_	_
+55	pelouses	_	NOUN	_	Number=Plur	_	_	_	_
 56	.	_	PUNCT	_	_	_	_	_	_
 57	Un	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
 58	jardin	_	NOUN	_	Number=Sing	_	_	_	_
@@ -284,7 +284,7 @@
 86	bavards	_	ADJ	_	Number=Plur	_	_	_	_
 87	,	_	PUNCT	_	_	_	_	_	_
 88	cottages	_	NOUN	_	Number=Plur	_	_	_	_
-89	couvert·es	_	VERB	_	Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_
+89	couvert·es	_	VERB	_	Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
 90	de	_	ADP	_	_	_	_	_	_
 91	plantes	_	NOUN	_	Number=Plur	_	_	_	_
 92	grimpantes	_	ADJ	_	Number=Plur	_	_	_	_
@@ -300,7 +300,7 @@
 102	l'	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 103	interminable	_	ADJ	_	Number=Sing	_	_	_	_
 104	rangée	_	NOUN	_	Number=Sing	_	_	_	_
-105	des	_	ADP	_	Definite=Def|Number=Plur|PronType=Art	_	_	_
+105	des	_	ADP	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
 106	serres	_	NOUN	_	Number=Plur	_	_	_	_
 107	,	_	PUNCT	_	_	_	_	_	_
 108	treilles	_	NOUN	_	Number=Plur	_	_	_	_
@@ -310,7 +310,7 @@
 112	suivi·es	_	VERB	_	Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
 113	de	_	ADP	_	_	_	_	_	_
 114	vergers	_	NOUN	_	Number=Plur	_	_	_	_
-115	plantureux	_	ADJ	_	Number=Plur	_	_	_
+115	plantureux	_	ADJ	_	Number=Plur	_	_	_	_
 116	,	_	PUNCT	_	_	_	_	_	_
 117	de	_	ADP	_	_	_	_	_	_
 118	gras	_	ADJ	_	Number=Plur	_	_	_	_
@@ -321,7 +321,7 @@
 123	fertiles	_	ADJ	_	Number=Plur	_	_	_	_
 124	et	_	CCONJ	_	_	_	_	_	_
 125	de	_	ADP	_	_	_	_	_	_
-126	ruisseaux	_	NOUN	_	Number=Plur	_	_	_
+126	ruisseaux	_	NOUN	_	Number=Plur	_	_	_	_
 127	jaseurs	_	ADJ	_	Number=Plur	_	_	_	_
 128	.	_	PUNCT	_	_	_	_	_	_
 
@@ -369,8 +369,8 @@
 38	Sheps	_	PROPN	_	_	_	_	_	_
 39	,	_	PUNCT	_	_	_	_	_	_
 40	fine	_	ADJ	_	Number=Sing	_	_	_	_
-41	chienne	_	NOUN	_	Number=Sing	_	_	_
-42	colley	_	PROPN	_	_	_	_	_
+41	chienne	_	NOUN	_	Number=Sing	_	_	_	_
+42	colley	_	PROPN	_	_	_	_	_	_
 43	de	_	ADP	_	_	_	_	_	_
 44	pure	_	ADJ	_	Number=Sing	_	_	_	_
 45	race	_	NOUN	_	Number=Sing	_	_	_	_
@@ -396,7 +396,7 @@
 65	de	_	ADP	_	_	_	_	_	_
 66	Buck	_	PROPN	_	_	_	_	_	_
 67	était	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp	_	_	_	_
-68	indiscutable	_	ADJ	_	Number=Sing	_	_	_
+68	indiscutable	_	ADJ	_	Number=Sing	_	_	_	_
 69	.	_	PUNCT	_	_	_	_	_	_
 70	Il	_	PRON	_	Number=Sing|Person=3|PronType=Prs	_	_	_	_
 71	régnait	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp	_	_	_	_
@@ -416,12 +416,12 @@
 85	sur	_	ADP	_	_	_	_	_	_
 86	le	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 87	carlin	_	NOUN	_	Number=Sing	_	_	_	_
-88	japonais	_	ADJ	_	Number=Sing	_	_	_
+88	japonais	_	ADJ	_	Number=Sing	_	_	_	_
 89	Toots	_	PROPN	_	_	_	_	_	_
 90	,	_	PUNCT	_	_	_	_	_	_
 91	sur	_	ADP	_	_	_	_	_	_
 92	le	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
-93	mexicain	_	NOUN	_	Number=Sing	_	_	_
+93	mexicain	_	NOUN	_	Number=Sing	_	_	_	_
 95	,	_	PUNCT	_	_	_	_	_	_
 96	étrange	_	ADJ	_	Number=Sing	_	_	_	_
 97	créature	_	NOUN	_	Number=Sing	_	_	_	_
@@ -458,7 +458,7 @@
 128	du	_	ADP	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 129	juge	_	NOUN	_	Number=Sing	_	_	_	_
 130	,	_	PUNCT	_	_	_	_	_	_
-131	qu'	_	PRON	_	PronType=Rel	_	_	_
+131	qu'	_	PRON	_	PronType=Rel	_	_	_	_
 132	il	_	PRON	_	Number=Sing|Person=3|PronType=Prs	_	_	_	_
 133	suivait	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp	_	_	_	_
 134	dans	_	ADP	_	_	_	_	_	_
@@ -618,7 +618,7 @@
 289	du	_	ADP	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 290	juge	_	NOUN	_	Number=Sing	_	_	_	_
 291	,	_	PUNCT	_	_	_	_	_	_
-292	les	_	PRON	_	Definite=Def|Number=Plur|Person=3|PronType=Art	_	_	_
+292	les	_	PRON	_	Definite=Def|Number=Plur|Person=3|PronType=Art	_	_	_	_
 293	roulant	_	VERB	_	Tense=Pres|VerbForm=Part	_	_	_	_
 294	sur	_	ADP	_	_	_	_	_	_
 295	le	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
@@ -639,7 +639,7 @@
 310	étincelantes	_	ADJ	_	Number=Plur	_	_	_	_
 311	.	_	PUNCT	_	_	_	_	_	_
 312	Les	_	DET	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
-313	petits	_	NOUN	_	Number=Plur	_	_	_
+313	petits	_	NOUN	_	Number=Plur	_	_	_	_
 314	l'	_	PRON	_	Definite=Def|Number=Sing|Person=3|PronType=Art	_	_	_	_
 315	adoraient	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp	_	_	_	_
 316	,	_	PUNCT	_	_	_	_	_	_
@@ -721,7 +721,7 @@
 12	blasé	_	ADJ	_	Number=Sing	_	_	_	_
 13	,	_	PUNCT	_	_	_	_	_	_
 14	parfaitement	_	ADV	_	_	_	_	_	_
-15	satisfait	_	ADJ	_	Number=Sing	_	_	_
+15	satisfait	_	ADJ	_	Number=Sing	_	_	_	_
 16	de	_	ADP	_	_	_	_	_	_
 17	soi-même	_	PRON	_	Number=Sing|Person=3|PronType=Prs|Reflex=Yes	_	_	_	_
 18	et	_	CCONJ	_	_	_	_	_	_
@@ -742,7 +742,7 @@
 33	trop	_	ADV	_	_	_	_	_	_
 34	souvent	_	ADV	_	_	_	_	_	_
 35	les	_	DET	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
-36	grands	_	NOUN	_	Number=Plur	_	_	_
+36	grands	_	NOUN	_	Number=Plur	_	_	_	_
 37	de	_	ADP	_	_	_	_	_	_
 38	ce	_	DET	_	Number=Sing|PronType=Dem	_	_	_	_
 39	monde	_	NOUN	_	Number=Sing	_	_	_	_
@@ -879,7 +879,7 @@
 31	régions	_	NOUN	_	Number=Plur	_	_	_	_
 32	neuves	_	ADJ	_	Number=Plur	_	_	_	_
 33	et	_	CCONJ	_	_	_	_	_	_
-34	désolées	_	ADJ	_	Number=Plur	_	_	_
+34	désolées	_	ADJ	_	Number=Plur	_	_	_	_
 35	;	_	PUNCT	_	_	_	_	_	_
 36	et	_	CCONJ	_	_	_	_	_	_
 37	pour	_	ADP	_	_	_	_	_	_
@@ -896,10 +896,10 @@
 48	on	_	PRON	_	Number=Sing|Person=3|PronType=Prs	_	_	_	_
 49	dut	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	_	_	_	_
 50	avoir	_	VERB	_	VerbForm=Inf	_	_	_	_
-51	recours	_	NOUN	_	Number=Plur	_	_	_
+51	recours	_	NOUN	_	Number=Plur	_	_	_	_
 52	aux	_	ADP	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
 53	traîneaux	_	NOUN	_	Number=Plur	_	_	_	_
-54	attelé·es	_	VERB	_	Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_
+54	attelé·es	_	VERB	_	Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
 55	de	_	ADP	_	_	_	_	_	_
 56	chiens	_	NOUN	_	Number=Plur	_	_	_	_
 57	,	_	PUNCT	_	_	_	_	_	_
@@ -920,8 +920,8 @@
 # sent_id = jack_london_appel_foret.8
 # text = Buck semblait créé·e pour jouer un rôle dans les solitudes glacées de l' Alaska ; et c' est précisément ce qui advint , grâce à la trahison d' un aide jardinier . Le misérable Manoël avait pour la loterie chinoise une passion effrénée ; et ses gages étant à peine suffisants pour assurer l' existence de sa femme et de ses enfants , il ne recula pas devant un crime pour se procurer les moyens de satisfaire son vice .
 1	Buck	_	PROPN	_	_	_	_	_	_
-2	semblait	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp	_	_	_
-3	créé·e	_	VERB	_	Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_
+2	semblait	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp	_	_	_	_
+3	créé·e	_	VERB	_	Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
 4	pour	_	ADP	_	_	_	_	_	_
 5	jouer	_	VERB	_	VerbForm=Inf	_	_	_	_
 6	un	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
@@ -929,9 +929,9 @@
 8	dans	_	ADP	_	_	_	_	_	_
 9	les	_	DET	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
 10	solitudes	_	NOUN	_	Number=Plur	_	_	_	_
-11	glacées	_	ADJ	_	Number=Plur	_	_	_
+11	glacées	_	ADJ	_	Number=Plur	_	_	_	_
 12	de	_	ADP	_	_	_	_	_	_
-13	l'	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_
+13	l'	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 14	Alaska	_	PROPN	_	_	_	_	_	_
 15	;	_	PUNCT	_	_	_	_	_	_
 16	et	_	CCONJ	_	_	_	_	_	_
@@ -958,7 +958,7 @@
 37	pour	_	ADP	_	_	_	_	_	_
 38	la	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 39	loterie	_	NOUN	_	Number=Sing	_	_	_	_
-40	chinoise	_	ADJ	_	Number=Sing	_	_	_
+40	chinoise	_	ADJ	_	Number=Sing	_	_	_	_
 41	une	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
 42	passion	_	NOUN	_	Number=Sing	_	_	_	_
 43	effrénée	_	ADJ	_	Number=Sing	_	_	_	_
@@ -1016,7 +1016,7 @@
 10	et	_	CCONJ	_	_	_	_	_	_
 11	que	_	SCONJ	_	_	_	_	_	_
 12	ses	_	DET	_	Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes	_	_	_	_
-13	fils	_	NOUN	_	Number=Plur	_	_	_
+13	fils	_	NOUN	_	Number=Plur	_	_	_	_
 14	étaient	_	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp	_	_	_	_
 15	absorbé·es	_	VERB	_	Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
 16	par	_	ADP	_	_	_	_	_	_
@@ -1040,7 +1040,7 @@
 34	sans	_	ADP	_	Polarity=Neg	_	_	_	_
 35	défiance	_	NOUN	_	Number=Sing	_	_	_	_
 36	,	_	PUNCT	_	_	_	_	_	_
-37	convaincu	_	VERB	_	Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_
+37	convaincu	_	VERB	_	Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
 38	qu'	_	SCONJ	_	_	_	_	_	_
 39	il	_	PRON	_	Number=Sing|Person=3|PronType=Prs	_	_	_	_
 40	s'	_	PRON	_	Person=3|PronType=Prs|Reflex=Yes	_	_	_	_
@@ -1073,14 +1073,14 @@
 67	petite	_	ADJ	_	Number=Sing	_	_	_	_
 68	gare	_	NOUN	_	Number=Sing	_	_	_	_
 69	de	_	ADP	_	_	_	_	_	_
-70	College-Park	_	PROPN	_	_	_	_	_
+70	College-Park	_	PROPN	_	_	_	_	_	_
 71	.	_	PUNCT	_	_	_	_	_	_
 72	Là	_	ADV	_	_	_	_	_	INVARIANT
 73	,	_	PUNCT	_	_	_	_	_	_
 74	un	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
 75	homme	_	NOUN	_	Number=Sing	_	_	_	_
 76	inconnu	_	ADJ	_	Number=Sing	_	_	_	_
-77	place	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_
+77	place	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 78	dans	_	ADP	_	_	_	_	_	_
 79	la	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 80	main	_	NOUN	_	Number=Sing	_	_	_	_
@@ -1122,11 +1122,11 @@
 116	résistance	_	NOUN	_	Number=Sing	_	_	_	_
 117	.	_	PUNCT	_	_	_	_	_	_
 118	Buck	_	PROPN	_	_	_	_	_	_
-119	supporte	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_
+119	supporte	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 120	cet	_	DET	_	Number=Sing|PronType=Dem	_	_	_	_
 121	affront	_	NOUN	_	Number=Sing	_	_	_	_
 122	avec	_	ADP	_	_	_	_	_	_
-123	calme	_	NOUN	_	Number=Sing	_	_	_
+123	calme	_	NOUN	_	Number=Sing	_	_	_	_
 124	et	_	CCONJ	_	_	_	_	_	_
 125	dignité	_	NOUN	_	Number=Sing	_	_	_	_
 126	;	_	PUNCT	_	_	_	_	_	_
@@ -1135,8 +1135,8 @@
 129	ce	_	DET	_	Number=Sing|PronType=Dem	_	_	_	_
 130	procédé	_	NOUN	_	Number=Sing	_	_	_	_
 131	inusité	_	ADJ	_	Number=Sing	_	_	_	_
-132	le	_	PRON	_	Definite=Def|Number=Sing|Person=3|PronType=Art	_	_	_
-133	surprenne	_	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres	_	_	_
+132	le	_	PRON	_	Definite=Def|Number=Sing|Person=3|PronType=Art	_	_	_	_
+133	surprenne	_	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 134	,	_	PUNCT	_	_	_	_	_	_
 135	il	_	PRON	_	Number=Sing|Person=3|PronType=Prs	_	_	_	_
 136	a	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
@@ -1180,14 +1180,14 @@
 174	corde	_	NOUN	_	Number=Sing	_	_	_	_
 175	,	_	PUNCT	_	_	_	_	_	_
 176	Buck	_	PROPN	_	_	_	_	_	_
-177	manifeste	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_
+177	manifeste	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 178	par	_	ADP	_	_	_	_	_	_
 179	un	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
 180	profond	_	ADJ	_	Number=Sing	_	_	_	_
 181	grondement	_	NOUN	_	Number=Sing	_	_	_	_
 182	le	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 183	déplaisir	_	NOUN	_	Number=Sing	_	_	_	_
-184	qu'	_	PRON	_	PronType=Rel	_	_	_
+184	qu'	_	PRON	_	PronType=Rel	_	_	_	_
 185	il	_	PRON	_	Number=Sing|Person=3|PronType=Prs	_	_	_	_
 186	éprouve	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 187	.	_	PUNCT	_	_	_	_	_	_
@@ -1235,7 +1235,7 @@
 229	;	_	PUNCT	_	_	_	_	_	_
 230	furieux	_	ADJ	_	Number=Sing	_	_	_	_
 231	,	_	PUNCT	_	_	_	_	_	_
-232	surpris	_	ADJ	_	Number=Sing	_	_	_
+232	surpris	_	ADJ	_	Number=Sing	_	_	_	_
 233	,	_	PUNCT	_	_	_	_	_	_
 234	la	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 235	langue	_	NOUN	_	Number=Sing	_	_	_	_
@@ -1272,13 +1272,13 @@
 266	nuage	_	NOUN	_	Number=Sing	_	_	_	_
 267	,	_	PUNCT	_	_	_	_	_	_
 268	deviennent	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_	_
-269	vitreux	_	ADJ	_	Number=Plur	_	_	_
+269	vitreux	_	ADJ	_	Number=Plur	_	_	_	_
 270	…	_	PUNCT	_	_	_	_	_	_
 271	et	_	CCONJ	_	_	_	_	_	_
 272	c'	_	PRON	_	Number=Sing|Person=3|PronType=Dem	_	_	_	_
-273	est	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_
+273	est	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 274	à	_	ADP	_	_	_	_	_	_
-275	demi-mort	_	ADJ	_	Number=Sing	_	_	_
+275	demi-mort	_	ADJ	_	Number=Sing	_	_	_	_
 276	qu'	_	SCONJ	_	_	_	_	_	_
 277	il	_	PRON	_	Number=Sing|Person=3|PronType=Prs	_	_	_	_
 278	est	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
@@ -1288,7 +1288,7 @@
 282	un	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
 283	fourgon	_	NOUN	_	Number=Sing	_	_	_	_
 284	à	_	ADP	_	_	_	_	_	_
-285	bagages	_	NOUN	_	Number=Plur	_	_	_
+285	bagages	_	NOUN	_	Number=Plur	_	_	_	_
 286	par	_	ADP	_	_	_	_	_	_
 287	les	_	DET	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
 288	deux	_	NUM	_	NumType=Card	_	_	_	_
@@ -1465,7 +1465,7 @@
 14	dissimulant	_	VERB	_	Tense=Pres|VerbForm=Part	_	_	_	_
 15	sa	_	DET	_	Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes	_	_	_	_
 16	main	_	NOUN	_	Number=Sing	_	_	_	_
-17	ensanglantée	_	VERB	_	Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_
+17	ensanglantée	_	VERB	_	Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
 18	sous	_	ADP	_	_	_	_	_	_
 19	sa	_	DET	_	Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes	_	_	_	_
 20	veste	_	NOUN	_	Number=Sing	_	_	_	_
@@ -1514,7 +1514,7 @@
 5	se	_	PRON	_	Person=3|PronType=Prs|Reflex=Yes	_	_	_	_
 6	retire	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 7	,	_	PUNCT	_	_	_	_	_	_
-8	satisfait	_	ADJ	_	Number=Sing	_	_	_
+8	satisfait	_	ADJ	_	Number=Sing	_	_	_	_
 9	de	_	ADP	_	_	_	_	_	_
 10	l'	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 11	explication	_	NOUN	_	Number=Sing	_	_	_	_
@@ -1542,7 +1542,7 @@
 16	son	_	DET	_	Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes	_	_	_	_
 17	pantalon	_	NOUN	_	Number=Sing	_	_	_	_
 18	pend	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
-19	déchiré	_	ADJ	_	Number=Sing	_	_	_
+19	déchiré	_	ADJ	_	Number=Sing	_	_	_	_
 20	à	_	ADP	_	_	_	_	_	_
 21	partir	_	VERB	_	VerbForm=Inf	_	_	_	_
 22	du	_	ADP	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
@@ -1569,7 +1569,7 @@
 43	,	_	PUNCT	_	_	_	_	_	_
 44	a	_	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 45	été	_	VERB	_	Tense=Past|VerbForm=Part	_	_	_	_
-46	mouvementé·e	_	ADJ	_	Number=Sing	_	_	_
+46	mouvementé·e	_	ADJ	_	Number=Sing	_	_	_	_
 47	.	_	PUNCT	_	_	_	_	_	_
 
 
@@ -1613,7 +1613,7 @@
 # text = - Sacré animal ! … En voilà un enragé ! … grommelle -t -il en avalant une copieuse rasade de gin ; cinquante dollars pour cette besogne -là ! … Par ma foi , je ne recommencerais pas pour mille !
 1	-	_	PUNCT	_	_	_	_	_	_
 2	Sacré	_	ADJ	_	Number=Sing	_	_	_	_
-3	animal	_	NOUN	_	Number=Sing	_	_	_
+3	animal	_	NOUN	_	Number=Sing	_	_	_	_
 4	!	_	PUNCT	_	_	_	_	_	_
 5	…	_	PUNCT	_	_	_	_	_	_
 6	En	_	ADP	_	_	_	_	_	_
@@ -1710,7 +1710,7 @@
 3	cinquante	_	NUM	_	NumType=Card	_	_	_	_
 4	?	_	PUNCT	_	_	_	_	_	_
 5	…	_	PUNCT	_	_	_	_	_	_
-6	Pardieu	_	INTJ	_	_	_	_	_
+6	Pardieu	_	INTJ	_	_	_	_	_	_
 7	,	_	PUNCT	_	_	_	_	_	_
 8	il	_	PRON	_	Number=Sing|Person=3|PronType=Prs	_	_	_	_
 9	les	_	PRON	_	Definite=Def|Number=Plur|Person=3|PronType=Art	_	_	_	_
@@ -1740,7 +1740,7 @@
 2	le	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 3	voleur	_	NOUN	_	Number=Sing	_	_	_	_
 4	a	_	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
-5	défait	_	VERB	_	Tense=Past|VerbForm=Part	_	_	_
+5	défait	_	VERB	_	Tense=Past|VerbForm=Part	_	_	_	_
 6	le	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 7	bandage	_	NOUN	_	Number=Sing	_	_	_	_
 8	grossier	_	ADJ	_	Number=Sing	_	_	_	_
@@ -1822,7 +1822,7 @@
 9	de	_	ADP	_	_	_	_	_	_
 10	sa	_	DET	_	Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes	_	_	_	_
 11	langue	_	NOUN	_	Number=Sing	_	_	_	_
-12	meurtries	_	ADJ	_	Number=Plur	_	_	_
+12	meurtries	_	ADJ	_	Number=Plur	_	_	_	_
 13	,	_	PUNCT	_	_	_	_	_	_
 14	à	_	ADP	_	_	_	_	_	_
 15	moitié	_	NOUN	_	Number=Sing	_	_	_	_
@@ -1831,7 +1831,7 @@
 18	Buck	_	PROPN	_	_	_	_	_	_
 19	voulut	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	_	_	_	_
 20	faire	_	VERB	_	VerbForm=Inf	_	_	_	_
-21	face	_	NOUN	_	Number=Sing	_	_	_
+21	face	_	NOUN	_	Number=Sing	_	_	_	_
 22	à	_	ADP	_	_	_	_	_	_
 23	ses	_	DET	_	Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes	_	_	_	_
 24	tourmenteurs	_	NOUN	_	Number=Plur	_	_	_	_
@@ -1875,9 +1875,9 @@
 62	dans	_	ADP	_	_	_	_	_	_
 63	une	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
 64	caisse	_	NOUN	_	Number=Sing	_	_	_	_
-65	renforcé·e	_	VERB	_	Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_
+65	renforcé·e	_	VERB	_	Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
 66	de	_	ADP	_	_	_	_	_	_
-67	barreaux	_	NOUN	_	Number=Plur	_	_	_
+67	barreaux	_	NOUN	_	Number=Plur	_	_	_	_
 68	de	_	ADP	_	_	_	_	_	_
 69	fer	_	NOUN	_	Number=Sing	_	_	_	_
 70	.	_	PUNCT	_	_	_	_	_	_
@@ -1940,7 +1940,7 @@
 52	un	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
 53	de	_	ADP	_	_	_	_	_	_
 54	ses	_	DET	_	Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes	_	_	_	_
-55	fils	_	NOUN	_	Number=Plur	_	_	_
+55	fils	_	NOUN	_	Number=Plur	_	_	_	_
 56	.	_	PUNCT	_	_	_	_	_	_
 57	Mais	_	CCONJ	_	_	_	_	_	_
 58	lorsqu'	_	SCONJ	_	_	_	_	_	_
@@ -2070,7 +2070,7 @@
 3	fut	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	_	_	_	_
 4	long	_	ADJ	_	Number=Sing	_	_	_	_
 5	.	_	PUNCT	_	_	_	_	_	_
-6	Transbordé	_	VERB	_	Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_
+6	Transbordé	_	VERB	_	Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
 7	d'	_	ADP	_	_	_	_	_	_
 8	une	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
 9	gare	_	NOUN	_	Number=Sing	_	_	_	_
@@ -2120,7 +2120,7 @@
 8	ni	_	CCONJ	_	_	_	_	_	_
 9	bu	_	VERB	_	Tense=Past|VerbForm=Part	_	_	_	_
 10	ni	_	CCONJ	_	_	_	_	_	_
-11	mangé	_	VERB	_	Tense=Past|VerbForm=Part	_	_	_
+11	mangé	_	VERB	_	Tense=Past|VerbForm=Part	_	_	_	_
 12	.	_	PUNCT	_	_	_	_	_	_
 13	Comme	_	SCONJ	_	_	_	_	_	_
 14	il	_	PRON	_	Number=Sing|Person=3|PronType=Prs	_	_	_	_
@@ -2130,7 +2130,7 @@
 18	par	_	ADP	_	_	_	_	_	_
 19	un	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
 20	grognement	_	NOUN	_	Number=Sing	_	_	_	_
-21	sourd	_	ADJ	_	Number=Sing	_	_	_
+21	sourd	_	ADJ	_	Number=Sing	_	_	_	_
 22	aux	_	ADP	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
 23	avances	_	NOUN	_	Number=Plur	_	_	_	_
 24	des	_	ADP	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
@@ -2138,7 +2138,7 @@
 26	du	_	ADP	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 27	train	_	NOUN	_	Number=Sing	_	_	_	INVARIANT
 28	,	_	PUNCT	_	_	_	_	_	_
-29	ceux-ci	_	PRON	_	Number=Plur|Person=3|PronType=Dem	_	_	_
+29	ceux-ci	_	PRON	_	Number=Plur|Person=3|PronType=Dem	_	_	_	_
 30	,	_	PUNCT	_	_	_	_	_	_
 31	se	_	PRON	_	Person=3|PronType=Prs|Reflex=Yes	_	_	_	_
 32	vengèrent	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	_	_	_	_
@@ -2194,7 +2194,7 @@
 82	de	_	ADP	_	_	_	_	_	_
 83	sa	_	DET	_	Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes	_	_	_	_
 84	vie	_	NOUN	_	Number=Sing	_	_	_	_
-85	passée	_	ADJ	_	Number=Sing	_	_	_
+85	passée	_	ADJ	_	Number=Sing	_	_	_	_
 86	rendait	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp	_	_	_	_
 87	plus	_	ADV	_	_	_	_	_	_
 88	douloureuse	_	ADJ	_	Number=Sing	_	_	_	_
@@ -2331,7 +2331,7 @@
 12	cour	_	NOUN	_	Number=Sing	_	_	_	_
 13	étroite	_	ADJ	_	Number=Sing	_	_	_	_
 14	et	_	CCONJ	_	_	_	_	_	_
-15	noire	_	ADJ	_	Number=Sing	_	_	_
+15	noire	_	ADJ	_	Number=Sing	_	_	_	_
 16	,	_	PUNCT	_	_	_	_	_	_
 17	entouré·e	_	VERB	_	Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
 18	de	_	ADP	_	_	_	_	_	_
@@ -2366,7 +2366,7 @@
 47	aux	_	ADP	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
 48	manches	_	NOUN	_	Number=Plur	_	_	_	_
 49	roulé·es	_	VERB	_	Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
-50	au-dessus	_	ADP	_	_	_	_	_
+50	au-dessus	_	ADP	_	_	_	_	_	_
 51	du	_	ADP	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 52	coude	_	NOUN	_	Number=Sing	_	_	_	_
 53	.	_	PUNCT	_	_	_	_	_	_
@@ -2423,8 +2423,8 @@
 2	homme	_	NOUN	_	Number=Sing	_	_	_	_
 3	eut	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	_	_	_	_
 4	un	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
-5	mauvais	_	ADJ	_	Number=Sing	_	_	_
-6	sourire	_	NOUN	_	Number=Sing	_	_	_
+5	mauvais	_	ADJ	_	Number=Sing	_	_	_	_
+6	sourire	_	NOUN	_	Number=Sing	_	_	_	_
 7	:	_	PUNCT	_	_	_	_	_	_
 8	il	_	PRON	_	Number=Sing|Person=3|PronType=Prs	_	_	_	_
 9	posa	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	_	_	_	_
@@ -2433,8 +2433,8 @@
 12	,	_	PUNCT	_	_	_	_	_	_
 13	et	_	CCONJ	_	_	_	_	_	_
 14	s'	_	PRON	_	Person=3|PronType=Prs|Reflex=Yes	_	_	_	_
-15	étant	_	AUX	_	Tense=Pres|VerbForm=Part	_	_	_
-16	muni	_	VERB	_	Tense=Past|VerbForm=Part	_	_	_
+15	étant	_	AUX	_	Tense=Pres|VerbForm=Part	_	_	_	_
+16	muni	_	VERB	_	Tense=Past|VerbForm=Part	_	_	_	_
 17	d'	_	ADP	_	_	_	_	_	_
 18	une	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
 19	hache	_	NOUN	_	Number=Sing	_	_	_	_
@@ -2525,7 +2525,7 @@
 7	retirer	_	VERB	_	VerbForm=Inf	_	_	_	_
 8	,	_	PUNCT	_	_	_	_	_	_
 9	et	_	CCONJ	_	_	_	_	_	_
-10	reparurent	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	_	_	_
+10	reparurent	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	_	_	_	_
 11	au	_	ADP	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 12	bout	_	NOUN	_	Number=Sing	_	_	_	_
 13	de	_	ADP	_	_	_	_	_	_
@@ -2696,8 +2696,8 @@
 28	pareil	_	ADJ	_	Number=Sing	_	_	_	_
 29	à	_	ADP	_	_	_	_	_	_
 30	une	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
-31	bête	_	NOUN	_	Number=Sing	_	_	_
-32	enragée	_	ADJ	_	Number=Sing	_	_	_
+31	bête	_	NOUN	_	Number=Sing	_	_	_	_
+32	enragée	_	ADJ	_	Number=Sing	_	_	_	_
 33	…	_	PUNCT	_	_	_	_	_	_
 34	Mais	_	CCONJ	_	_	_	_	_	_
 35	au	_	ADP	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
@@ -2769,7 +2769,7 @@
 101	fois	_	NOUN	_	Number=Plur	_	_	_	_
 102	,	_	PUNCT	_	_	_	_	_	_
 103	il	_	PRON	_	Number=Sing|Person=3|PronType=Prs	_	_	_	_
-104	revient	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_
+104	revient	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 105	à	_	ADP	_	_	_	_	_	_
 106	la	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 107	charge	_	NOUN	_	Number=Sing	_	_	_	_
@@ -2795,7 +2795,7 @@
 127	.	_	PUNCT	_	_	_	_	_	_
 128	Enfin	_	ADV	_	_	_	_	_	_
 129	,	_	PUNCT	_	_	_	_	_	_
-130	étourdi	_	ADJ	_	Number=Sing	_	_	_
+130	étourdi	_	ADJ	_	Number=Sing	_	_	_	_
 131	,	_	PUNCT	_	_	_	_	_	_
 132	hébété	_	ADJ	_	Number=Sing	_	_	_	_
 133	,	_	PUNCT	_	_	_	_	_	_
@@ -2804,11 +2804,11 @@
 136	à	_	ADP	_	_	_	_	_	_
 137	terre	_	NOUN	_	Number=Sing	_	_	_	_
 138	,	_	PUNCT	_	_	_	_	_	_
-139	haletant	_	VERB	_	Tense=Pres|VerbForm=Part	_	_	_
+139	haletant	_	VERB	_	Tense=Pres|VerbForm=Part	_	_	_	_
 140	;	_	PUNCT	_	_	_	_	_	_
 141	le	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 142	sang	_	NOUN	_	Number=Sing	_	_	_	_
-143	dégoutte	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_
+143	dégoutte	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 144	de	_	ADP	_	_	_	_	_	_
 145	ses	_	DET	_	Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes	_	_	_	_
 146	narines	_	NOUN	_	Number=Plur	_	_	_	_
@@ -2889,14 +2889,14 @@
 33	L'	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 34	atroce	_	ADJ	_	Number=Sing	_	_	_	_
 35	souffrance	_	NOUN	_	Number=Sing	_	_	_	_
-57	réveille	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_
+57	réveille	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 37	Buck	_	PROPN	_	_	_	_	_	_
 38	de	_	ADP	_	_	_	_	_	_
 39	sa	_	DET	_	Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes	_	_	_	_
 40	torpeur	_	NOUN	_	Number=Sing	_	_	_	_
 41	:	_	PUNCT	_	_	_	_	_	_
 42	aucun	_	DET	_	Definite=Ind|Number=Sing|Polarity=Neg	_	_	_	_
-43	des	_	ADP	_	Definite=Def|PronType=Art|Number=Plur	_	_	_
+43	des	_	ADP	_	Definite=Def|PronType=Art|Number=Plur	_	_	_	_
 44	autres	_	ADJ	_	Number=Plur	_	_	_	_
 45	coups	_	NOUN	_	Number=Plur	_	_	_	_
 46	n'	_	ADV	_	Polarity=Neg	_	_	_	_
@@ -2921,7 +2921,7 @@
 65	émouvoir	_	VERB	_	VerbForm=Inf	_	_	_	_
 66	,	_	PUNCT	_	_	_	_	_	_
 67	celui-ci	_	PRON	_	Number=Sing|Person=3|PronType=Dem	_	_	_	_
-68	empoigne	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_
+68	empoigne	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 69	la	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 70	gueule	_	NOUN	_	Number=Sing	_	_	_	_
 71	ouverte	_	ADJ	_	Number=Sing	_	_	_	_
@@ -2967,8 +2967,8 @@
 111	cercle	_	NOUN	_	Number=Sing	_	_	_	_
 112	complet	_	ADJ	_	Number=Sing	_	_	_	_
 113	et	_	CCONJ	_	_	_	_	_	_
-114	le	_	PRON	_	Definite=Def|Number=Sing|Person=3|PronType=Art	_	_	_
-10	lance	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_
+114	le	_	PRON	_	Definite=Def|Number=Sing|Person=3|PronType=Art	_	_	_	_
+10	lance	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 116	à	_	ADP	_	_	_	_	_	_
 29	toute	_	DET	_	Definite=Ind|Number=Sing|Person=3	_	_	_	_
 118	volée	_	NOUN	_	Number=Sing	_	_	_	_
@@ -3043,7 +3043,7 @@
 2	Ma	_	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes	_	_	_	_
 3	foi	_	NOUN	_	Number=Sing	_	_	_	_
 4	,	_	PUNCT	_	_	_	_	_	_
-5	dit	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	_	_	_
+5	dit	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	_	_	_	_
 6	l'	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 7	un	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
 8	d'	_	ADP	_	_	_	_	_	_
@@ -3057,7 +3057,7 @@
 16	aimerais	_	VERB	_	Mood=Cnd|Number=Sing|Person=1|Tense=Pres	_	_	_	_
 17	mieux	_	ADV	_	_	_	_	_	_
 18	casser	_	VERB	_	VerbForm=Inf	_	_	_	_
-19	des	_	DET	_	Number=Plur|PronType=Art|Definite=Ind	_	_	_
+19	des	_	DET	_	Number=Plur|PronType=Art|Definite=Ind	_	_	_	_
 20	cailloux	_	NOUN	_	Number=Plur	_	_	_	_
 21	tous	_	ADJ	_	Number=Plur	_	_	_	_
 22	les	_	DET	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
@@ -3190,7 +3190,7 @@
 42	consultant	_	VERB	_	Tense=Pres|VerbForm=Part	_	_	_	_
 43	la	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 44	pancarte	_	NOUN	_	Number=Sing	_	_	_	_
-45	appendue	_	VERB	_	Tense=Past|VerbForm=Part	_	_	_
+45	appendue	_	VERB	_	Tense=Past|VerbForm=Part	_	_	_	_
 46	aux	_	ADP	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
 47	barreaux	_	NOUN	_	Number=Plur	_	_	_	_
 48	de	_	ADP	_	_	_	_	_	_
@@ -3210,7 +3210,7 @@
 62	ce	_	PRON	_	Number=Sing|Person=3|PronType=Dem	_	_	_	_
 63	que	_	PRON	_	PronType=Rel	_	_	_	_
 64	j'	_	PRON	_	Number=Sing|Person=1|PronType=Prs	_	_	_	_
-65	ai	_	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	_	_	_
+65	ai	_	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	_	_	_	_
 66	à	_	ADP	_	_	_	_	_	_
 67	vous	_	PRON	_	Number=Plur|Person=2|PronType=Prs	_	_	_	_
 68	dire	_	VERB	_	VerbForm=Inf	_	_	_	_
@@ -3253,7 +3253,7 @@
 105	vous	_	PRON	_	Number=Plur|Person=2|PronType=Prs	_	_	_	_
 106	faites	_	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres	_	_	_	_
 107	le	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
-108	méchant	_	NOUN	_	Number=Sing	_	_	_
+108	méchant	_	NOUN	_	Number=Sing	_	_	_	_
 109	,	_	PUNCT	_	_	_	_	_	_
 110	voici	_	ADP	_	_	_	_	_	_
 111	un	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
@@ -3264,7 +3264,7 @@
 116	la	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 117	sagesse	_	NOUN	_	Number=Sing	_	_	_	_
 118	.	_	PUNCT	_	_	_	_	_	_
-119	Compris	_	VERB	_	Tense=Past|VerbForm=Part	_	_	_
+119	Compris	_	VERB	_	Tense=Past|VerbForm=Part	_	_	_	_
 120	,	_	PUNCT	_	_	_	_	_	_
 121	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 122	vrai	_	ADJ	_	Number=Sing	_	_	_	_
@@ -3330,7 +3330,7 @@
 50	fraîche	_	ADJ	_	Number=Sing	_	_	_	_
 51	,	_	PUNCT	_	_	_	_	_	_
 52	il	_	PRON	_	Number=Sing|Person=3|PronType=Prs	_	_	_	_
-53	but	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	_	_	_
+53	but	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	_	_	_	_
 54	avidement	_	ADV	_	_	_	_	_	_
 55	;	_	PUNCT	_	_	_	_	_	_
 56	ensuite	_	ADV	_	_	_	_	_	_
@@ -3340,15 +3340,15 @@
 60	morceau	_	NOUN	_	Number=Sing	_	_	_	_
 61	de	_	ADP	_	_	_	_	_	_
 62	viande	_	NOUN	_	Number=Sing	_	_	_	_
-63	crue	_	ADJ	_	Number=Sing	_	_	_
+63	crue	_	ADJ	_	Number=Sing	_	_	_	_
 64	que	_	SCONJ	_	_	_	_	_	_
 65	l'	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 69	Homme	_	NOUN	_	Number=Sing	_	_	_	_
 67	lui	_	PRON	_	Number=Sing|Person=3|PronType=Prs	_	_	_	_
 68	donna	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	_	_	_	_
-69	bouchée	_	NOUN	_	Number=Sing	_	_	_
+69	bouchée	_	NOUN	_	Number=Sing	_	_	_	_
 70	par	_	ADP	_	_	_	_	_	_
-71	bouchée	_	NOUN	_	Number=Sing	_	_	_
+71	bouchée	_	NOUN	_	Number=Sing	_	_	_	_
 72	.	_	PUNCT	_	_	_	_	_	_
 
 
@@ -3359,11 +3359,11 @@
 60	morceau	_	NOUN	_	Number=Sing	_	_	_	_
 61	de	_	ADP	_	_	_	_	_	_
 62	viande	_	NOUN	_	Number=Sing	_	_	_	_
-63	crue	_	ADJ	_	Number=Sing	_	_	_
+63	crue	_	ADJ	_	Number=Sing	_	_	_	_
 72	,	_	PUNCT	_	_	_	_	_	_
-69	bouchée	_	NOUN	_	Number=Sing	_	_	_
+69	bouchée	_	NOUN	_	Number=Sing	_	_	_	_
 70	par	_	ADP	_	_	_	_	_	_
-71	bouchée	_	NOUN	_	Number=Sing	_	_	_
+71	bouchée	_	NOUN	_	Number=Sing	_	_	_	_
 
 
 
@@ -3387,7 +3387,7 @@
 16	vie	_	NOUN	_	Number=Sing	_	_	_	_
 17	:	_	PUNCT	_	_	_	_	_	_
 18	c'	_	PRON	_	Number=Sing|Person=3|PronType=Dem	_	_	_	_
-19	est	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_
+19	est	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 20	qu'	_	SCONJ	_	_	_	_	_	_
 21	il	_	PRON	_	Number=Sing|Person=3|PronType=Prs	_	_	_	_
 22	ne	_	ADV	_	Polarity=Neg	_	_	_	_
@@ -3397,7 +3397,7 @@
 26	un	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
 27	être	_	NOUN	_	Number=Sing	_	_	_	_
 28	humain	_	ADJ	_	Number=Sing	_	_	_	_
-29	armé	_	VERB	_	Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_
+29	armé	_	VERB	_	Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
 30	d'	_	ADP	_	_	_	_	_	_
 31	une	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
 32	massue	_	NOUN	_	Number=Sing	_	_	_	_
@@ -3461,7 +3461,7 @@
 10	uns	_	NOUN	_	Number=Plur	_	_	_	_
 11	dociles	_	ADJ	_	Number=Plur	_	_	_	_
 12	et	_	CCONJ	_	_	_	_	_	_
-13	joyeux	_	ADJ	_	Number=Plur	_	_	_
+13	joyeux	_	ADJ	_	Number=Plur	_	_	_	_
 14	,	_	PUNCT	_	_	_	_	_	_
 15	les	_	DET	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
 16	autres	_	PRON	_	Number=Plur|Person=3	_	_	_	_
@@ -3481,7 +3481,7 @@
 30	Et	_	CCONJ	_	_	_	_	_	_
 31	chaque	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
 32	fois	_	NOUN	_	Number=Sing	_	_	_	_
-33	que	_	SCONJ	_	_	_	_	_
+33	que	_	SCONJ	_	_	_	_	_	_
 34	se	_	PRON	_	Person=3|PronType=Prs|Reflex=Yes	_	_	_	_
 35	renouvelait	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp	_	_	_	_
 36	sous	_	ADP	_	_	_	_	_	_
@@ -3517,7 +3517,7 @@
 66	loi	_	NOUN	_	Number=Sing	_	_	_	_
 67	du	_	ADP	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 68	plus	_	ADV	_	_	_	_	_	_
-69	fort	_	ADJ	_	Number=Sing	_	_	_
+69	fort	_	ADJ	_	Number=Sing	_	_	_	_
 70	…	_	PUNCT	_	_	_	_	_	_
 
 
@@ -3527,7 +3527,7 @@
 1	Mais	_	CCONJ	_	_	_	_	_	_
 2	,	_	PUNCT	_	_	_	_	_	_
 3	quelque	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
-4	convaincu	_	ADJ	_	Number=Sing	_	_	_
+4	convaincu	_	ADJ	_	Number=Sing	_	_	_	_
 5	qu'	_	SCONJ	_	_	_	_	_	_
 6	il	_	PRON	_	Number=Sing|Person=3|PronType=Prs	_	_	_	_
 7	fût	_	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Imp	_	_	_	_
@@ -3595,7 +3595,7 @@
 1	Souvent	_	ADV	_	_	_	_	_	_
 2	il	_	PRON	_	Number=Sing|Person=3|PronType=Prs	_	_	_	_
 3	venait	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp	_	_	_	_
-4	des	_	ADP	_	Definite=Def|Number=Plur|PronType=Art	_	_	_
+4	des	_	ADP	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
 5	étrangers	_	NOUN	_	Number=Plur	_	_	_	_
 6	qui	_	PRON	_	PronType=Rel	_	_	_	_
 7	,	_	PUNCT	_	_	_	_	_	_
@@ -3673,7 +3673,7 @@
 22	bizarre	_	ADJ	_	Number=Sing	_	_	_	_
 23	panaché	_	VERB	_	Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
 24	d'	_	ADP	_	_	_	_	_	_
-25	expressions	_	NOUN	_	Number=Plur	_	_	_
+25	expressions	_	NOUN	_	Number=Plur	_	_	_	_
 26	inconnues	_	ADJ	_	Number=Plur	_	_	_	_
 27	à	_	ADP	_	_	_	_	_	_
 28	Buck	_	PROPN	_	_	_	_	_	_
@@ -3729,12 +3729,12 @@
 11	un	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
 12	vrai	_	ADJ	_	Number=Sing	_	_	_	_
 13	cadeau	_	NOUN	_	Number=Sing	_	_	_	_
-14	qu'	_	PRON	_	PronType=Rel	_	_	_
+14	qu'	_	PRON	_	PronType=Rel	_	_	_	_
 15	on	_	PRON	_	Number=Sing|Person=3|PronType=Prs	_	_	_	_
 16	vous	_	PRON	_	Number=Plur|Person=2|PronType=Prs	_	_	_	_
 17	fait	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 18	,	_	PUNCT	_	_	_	_	_	_
-19	répliqua	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	_	_	_
+19	répliqua	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	_	_	_	_
 20	promptement	_	ADV	_	_	_	_	_	_
 21	le	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 22	vendeur	_	NOUN	_	Number=Sing	_	_	_	_
@@ -3749,7 +3749,7 @@
 31	du	_	ADP	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 32	gouvernement	_	NOUN	_	Number=Sing	_	_	_	_
 33	qui	_	PRON	_	PronType=Rel	_	_	_	_
-34	danse	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_
+34	danse	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 35	,	_	PUNCT	_	_	_	_	_	_
 36	hein	_	INTJ	_	_	_	_	_	_
 37	,	_	PUNCT	_	_	_	_	_	_
@@ -3781,7 +3781,7 @@
 13	,	_	PUNCT	_	_	_	_	_	_
 14	ce	_	PRON	_	Number=Sing|Person=3|PronType=Dem	_	_	_	_
 15	n'	_	ADV	_	Polarity=Neg	_	_	_	_
-16	était	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp	_	_	_
+16	était	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp	_	_	_	_
 17	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 18	trop	_	ADV	_	_	_	_	_	_
 19	payer	_	VERB	_	VerbForm=Inf	_	_	_	_
@@ -3812,7 +3812,7 @@
 44	.	_	PUNCT	_	_	_	_	_	_
 45	Perrault	_	PROPN	_	_	_	_	_	_
 46	était	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp	_	_	_	_
-47	connaisseur	_	ADJ	_	Number=Sing	_	_	_
+47	connaisseur	_	ADJ	_	Number=Sing	_	_	_	_
 48	.	_	PUNCT	_	_	_	_	_	_
 49	Et	_	CCONJ	_	_	_	_	_	_
 50	dès	_	ADP	_	_	_	_	_	_
@@ -3863,7 +3863,7 @@
 24	et	_	CCONJ	_	_	_	_	_	_
 25	Curly	_	PROPN	_	_	_	_	_	_
 26	,	_	PUNCT	_	_	_	_	_	_
-27	terre-neuve	_	NOUN	_	Number=Sing	_	_	_
+27	terre-neuve	_	NOUN	_	Number=Sing	_	_	_	_
 28	d'	_	ADP	_	_	_	_	_	_
 29	un	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
 30	excellent	_	ADJ	_	Number=Sing	_	_	_	_
@@ -3943,7 +3943,7 @@
 49	fois	_	NOUN	_	Number=Sing	_	_	_	_
 50	les	_	DET	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
 51	terres	_	NOUN	_	Number=Plur	_	_	_	_
-52	ensoleillées	_	ADJ	_	Number=Plur	_	_	_
+52	ensoleillées	_	ADJ	_	Number=Plur	_	_	_	_
 53	du	_	ADP	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 54	Sud	_	NOUN	_	Number=Sing	_	_	_	_
 55	.	_	PUNCT	_	_	_	_	_	_
@@ -3965,10 +3965,10 @@
 11	confia	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	_	_	_	_
 12	à	_	ADP	_	_	_	_	_	_
 13	un	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
-14	géant	_	NOUN	_	Number=Sing	_	_	_
+14	géant	_	NOUN	_	Number=Sing	_	_	_	_
 15	à	_	ADP	_	_	_	_	_	_
 16	face	_	NOUN	_	Number=Sing	_	_	_	_
-17	basanée	_	ADJ	_	Number=Sing	_	_	_
+17	basanée	_	ADJ	_	Number=Sing	_	_	_	_
 18	qui	_	PRON	_	PronType=Rel	_	_	_	_
 19	répondait	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp	_	_	_	_
 20	au	_	ADP	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
@@ -3979,7 +3979,7 @@
 25	Perrault	_	PROPN	_	_	_	_	_	_
 26	était	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp	_	_	_	_
 27	un	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
-28	Franco-Canadien	_	NOUN	_	Number=Sing	_	_	_
+28	Franco-Canadien	_	NOUN	_	Number=Sing	_	_	_	_
 29	suffisamment	_	ADV	_	_	_	_	_	_
 30	bronzé	_	ADJ	_	Number=Sing	_	_	_	_
 31	;	_	PUNCT	_	_	_	_	_	_
@@ -3991,7 +3991,7 @@
 37	indien	_	ADJ	_	Number=Sing	_	_	_	_
 39	beaucoup	_	ADV	_	_	_	_	_	_
 40	plus	_	ADV	_	_	_	_	_	_
-41	bronzé	_	ADJ	_	Number=Sing	_	_	_
+41	bronzé	_	ADJ	_	Number=Sing	_	_	_	_
 42	encore	_	ADV	_	_	_	_	_	_
 43	.	_	PUNCT	_	_	_	_	_	_
 
@@ -4009,7 +4009,7 @@
 8	du	_	ADP	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 9	type	_	NOUN	_	Number=Sing	_	_	_	_
 10	de	_	ADP	_	_	_	_	_	_
-11	ceux-ci	_	PRON	_	Number=Plur|Person=3|PronType=Dem	_	_	_
+11	ceux-ci	_	PRON	_	Number=Plur|Person=3|PronType=Dem	_	_	_	_
 12	;	_	PUNCT	_	_	_	_	_	_
 13	il	_	PRON	_	Number=Sing|Person=3|PronType=Prs	_	_	_	_
 14	ne	_	ADV	_	Polarity=Neg	_	_	_	_
@@ -4019,13 +4019,13 @@
 18	ressentir	_	VERB	_	VerbForm=Inf	_	_	_	_
 19	pour	_	ADP	_	_	_	_	_	_
 20	eux	_	PRON	_	Number=Plur|Person=3|PronType=Prs	_	_	_	_
-21	une	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_
-22	estime	_	NOUN	_	Number=Sing	_	_	_
+21	une	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
+22	estime	_	NOUN	_	Number=Sing	_	_	_	_
 23	sincère	_	ADJ	_	Number=Sing	_	_	_	_
 24	,	_	PUNCT	_	_	_	_	_	_
 25	bien	_	ADV	_	_	_	_	_	_
 26	que	_	SCONJ	_	_	_	_	_	_
-27	dénuée	_	VERB	_	Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_
+27	dénuée	_	VERB	_	Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
 28	de	_	ADP	_	_	_	_	_	_
 29	toute	_	DET	_	Definite=Ind|Number=Sing|Person=3	_	_	_	_
 30	tendresse	_	NOUN	_	Number=Sing	_	_	_	_
@@ -4089,10 +4089,10 @@
 15	un	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
 16	,	_	PUNCT	_	_	_	_	_	_
 17	fort	_	ADJ	_	Number=Sing	_	_	_	_
-18	mâtin	_	NOUN	_	Number=Sing	_	_	_
+18	mâtin	_	NOUN	_	Number=Sing	_	_	_	_
 19	d'	_	ADP	_	_	_	_	_	_
 20	un	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
-21	blanc	_	NOUN	_	Number=Sing	_	_	_
+21	blanc	_	NOUN	_	Number=Sing	_	_	_	_
 22	de	_	ADP	_	_	_	_	_	_
 23	neige	_	NOUN	_	Number=Sing	_	_	_	_
 24	,	_	PUNCT	_	_	_	_	_	_
@@ -4167,7 +4167,7 @@
 93	le	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 94	butin	_	NOUN	_	Number=Sing	_	_	_	_
 95	mal	_	ADV	_	_	_	_	_	_
-96	acquis	_	VERB	_	Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_
+96	acquis	_	VERB	_	Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
 97	.	_	PUNCT	_	_	_	_	_	_
 98	Buck	_	PROPN	_	_	_	_	_	_
 99	jugea	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	_	_	_	_
@@ -4181,7 +4181,7 @@
 107	lui	_	PRON	_	Number=Sing|Person=3|PronType=Prs	_	_	_	_
 108	accorda	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	_	_	_	_
 109	son	_	DET	_	Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes	_	_	_	_
-110	estime	_	NOUN	_	Number=Sing	_	_	_
+110	estime	_	NOUN	_	Number=Sing	_	_	_	_
 111	.	_	PUNCT	_	_	_	_	_	_
 
 
@@ -4232,7 +4232,7 @@
 42	la	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 43	part	_	NOUN	_	Number=Sing	_	_	_	_
 44	de	_	ADP	_	_	_	_	_	_
-45	personne	_	PRON	_	Number=Sing|Polarity=Neg|PronType=Ind	_	_	_
+45	personne	_	PRON	_	Number=Sing|Polarity=Neg|PronType=Ind	_	_	_	_
 46	.	_	PUNCT	_	_	_	_	_	_
 47	Dave	_	PROPN	_	_	_	_	_	_
 48	semblait	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp	_	_	_	_
@@ -4269,14 +4269,14 @@
 7	baie	_	NOUN	_	Number=Sing	_	_	_	_
 8	de	_	ADP	_	_	_	_	_	_
 9	la	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
-10	Reine-Charlotte	_	NOUN	_	Number=Sing	_	_	_
+10	Reine-Charlotte	_	NOUN	_	Number=Sing	_	_	_	_
 11	,	_	PUNCT	_	_	_	_	_	_
 12	Buck	_	PROPN	_	_	_	_	_	_
 13	et	_	CCONJ	_	_	_	_	_	_
 14	Curly	_	PROPN	_	_	_	_	_	_
 15	pensèrent	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	_	_	_	_
 16	devenir	_	VERB	_	VerbForm=Inf	_	_	_	_
-17	fous	_	ADJ	_	Number=Plur	_	_	_
+17	fous	_	ADJ	_	Number=Plur	_	_	_	_
 18	de	_	ADP	_	_	_	_	_	_
 19	terreur	_	NOUN	_	Number=Sing	_	_	_	_
 20	en	_	ADP	_	_	_	_	_	_
@@ -4341,7 +4341,7 @@
 2	jours	_	NOUN	_	Number=Plur	_	_	_	_
 3	passèrent	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	_	_	_	_
 4	,	_	PUNCT	_	_	_	_	_	_
-5	longs	_	ADJ	_	Number=Plur	_	_	_
+5	longs	_	ADJ	_	Number=Plur	_	_	_	_
 6	et	_	CCONJ	_	_	_	_	_	_
 7	monotones	_	ADJ	_	Number=Plur	_	_	_	_
 8	.	_	PUNCT	_	_	_	_	_	_
@@ -4464,7 +4464,7 @@
 95	passage	_	NOUN	_	Number=Sing	_	_	_	_
 96	et	_	CCONJ	_	_	_	_	_	_
 97	demeura	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	_	_	_	_
-98	surpris	_	ADJ	_	Number=Sing	_	_	_
+98	surpris	_	ADJ	_	Number=Sing	_	_	_	_
 99	:	_	PUNCT	_	_	_	_	_	_
 100	cette	_	DET	_	Number=Sing|PronType=Dem	_	_	_	_
 101	substance	_	NOUN	_	Number=Sing	_	_	_	_
@@ -4488,7 +4488,7 @@
 2	les	_	DET	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
 3	spectateurs	_	NOUN	_	Number=Plur	_	_	_	_
 4	de	_	ADP	_	_	_	_	_	_
-5	rire	_	VERB	_	VerbForm=Inf	_	_	_
+5	rire	_	VERB	_	VerbForm=Inf	_	_	_	_
 6	.	_	PUNCT	_	_	_	_	_	_
 
 
@@ -4635,7 +4635,7 @@
 99	la	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 100	dent	_	NOUN	_	Number=Sing	_	_	_	_
 101	.	_	PUNCT	_	_	_	_	_	_
-102	Des	_	DET	_	Definite=Ind|Number=Plur|PronType=Art	_	_	_
+102	Des	_	DET	_	Definite=Ind|Number=Plur|PronType=Art	_	_	_	_
 103	chiens	_	NOUN	_	Number=Plur	_	_	_	_
 104	innombrables	_	ADJ	_	Number=Plur	_	_	_	_
 105	couvraient	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp	_	_	_	_
@@ -4654,7 +4654,7 @@
 118	semblable	_	ADJ	_	Number=Sing	_	_	_	_
 119	aux	_	ADP	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
 120	batailles	_	NOUN	_	Number=Plur	_	_	_	_
-121	que	_	PRON	_	PronType=Rel	_	_	_
+121	que	_	PRON	_	PronType=Rel	_	_	_	_
 122	se	_	PRON	_	Person=3|PronType=Prs|Reflex=Yes	_	_	_	_
 123	livraient	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp	_	_	_	_
 124	ces	_	DET	_	Number=Plur|PronType=Dem	_	_	_	_
@@ -4744,13 +4744,13 @@
 208	bond	_	NOUN	_	Number=Sing	_	_	_	_
 209	rapide	_	ADJ	_	Number=Sing	_	_	_	_
 210	comme	_	SCONJ	_	_	_	_	_	_
-211	l'	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_
+211	l'	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 212	éclair	_	NOUN	_	Number=Sing	_	_	_	_
 213	,	_	PUNCT	_	_	_	_	_	_
 214	un	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
 215	claquement	_	NOUN	_	Number=Sing	_	_	_	_
 216	métallique	_	ADJ	_	Number=Sing	_	_	_	_
-217	des	_	ADP	_	Definite=Def|PronType=Art|Number=Plur	_	_	_
+217	des	_	ADP	_	Definite=Def|PronType=Art|Number=Plur	_	_	_	_
 218	dents	_	NOUN	_	Number=Plur	_	_	_	_
 219	,	_	PUNCT	_	_	_	_	_	_
 220	un	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
@@ -4767,7 +4767,7 @@
 231	de	_	ADP	_	_	_	_	_	_
 232	Curly	_	PROPN	_	_	_	_	_	_
 233	était	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp	_	_	_	_
-234	ouverte	_	ADJ	_	Number=Sing	_	_	_
+234	ouverte	_	ADJ	_	Number=Sing	_	_	_	_
 235	de	_	ADP	_	_	_	_	_	_
 236	l'	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 237	oeil	_	NOUN	_	Number=Sing	_	_	_	_
@@ -4882,7 +4882,7 @@
 100	relever	_	VERB	_	VerbForm=Inf	_	_	_	_
 101	.	_	PUNCT	_	_	_	_	_	_
 102	C'	_	PRON	_	Number=Sing|Person=3|PronType=Dem	_	_	_	_
-103	était	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp	_	_	_
+103	était	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp	_	_	_	_
 104	ce	_	PRON	_	Number=Sing|Person=3|PronType=Dem	_	_	_	_
 105	qu'	_	PRON	_	PronType=Rel	_	_	_	_
 106	attendait	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp	_	_	_	_
@@ -4902,7 +4902,7 @@
 120	et	_	CCONJ	_	_	_	_	_	_
 121	elle	_	PRON	_	Number=Sing|Person=3|PronType=Prs	_	_	_	_
 122	fut	_	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	_	_	_	_
-123	ensevelie	_	VERB	_	Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_
+123	ensevelie	_	VERB	_	Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
 124	avec	_	ADP	_	_	_	_	_	_
 125	des	_	DET	_	Definite=Ind|Number=Plur|PronType=Art	_	_	_	_
 126	cris	_	NOUN	_	Number=Plur	_	_	_	_
@@ -4926,7 +4926,7 @@
 144	Buck	_	PROPN	_	_	_	_	_	_
 145	en	_	PRON	_	Person=3	_	_	_	_
 146	resta	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	_	_	_	_
-147	tout	_	ADV	_	_	_	_	_
+147	tout	_	ADV	_	_	_	_	_	_
 148	interdit	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	_	_	_	_
 149	.	_	PUNCT	_	_	_	_	_	_
 150	Il	_	PRON	_	Number=Sing|Person=3|PronType=Prs	_	_	_	_
@@ -5029,8 +5029,8 @@
 # text = Avant d' être remis de la mort tragique de Curly , il eut à supporter une nouvelle épreuve . François lui mit sur le corps un attirail de courroies et de boucles ; c' était un harnais , semblable à ceux qu' il avait vu tant de fois mettre aux chevaux ; et , comme eux , il lui fallut tirer un traîneau portant son maître jusqu' à la forêt qui bordait la vallée , pour en revenir avec une charge de bois . Mais quoique sa dignité fût profondément blessée de se voir ainsi transformé en bête de trait , il était devenu trop prudent pour se révolter ; il se mit résolument au travail et fit de son mieux , malgré la nouveauté , et l' étrangeté de cet exercice . François était sévère , exigeant une obéissance absolue que lui obtenait d' ailleurs la puissance de son fouet . Tandis que Dave , limonier expérimenté , plantait la dent , à chaque erreur , dans l' arrière-train de Buck , Spitz en tête , très au courant de son affaire , ne pouvant atteindre le débutant , lui grognait des reproches sévères , ou pesait adroitement de tout son poids dans les traits pour lui faire prendre la direction voulue . Buck apprit vite et fit en quelques heures de remarquables progrès , grâce aux leçons combinées de ses deux camarades et de François . Avant de revenir au camp , il en savait assez pour s' arrêter à « Ho ! » , repartir à « Mush ! » , s' écarter du traîneau dans les tournants , et l' éviter dans les descentes .
 1	Avant	_	ADP	_	_	_	_	_	_
 2	d'	_	ADP	_	_	_	_	_	_
-3	être	_	AUX	_	VerbForm=Inf	_	_	_
-4	remis	_	VERB	_	Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_
+3	être	_	AUX	_	VerbForm=Inf	_	_	_	_
+4	remis	_	VERB	_	Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
 5	de	_	ADP	_	_	_	_	_	_
 6	la	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 7	mort	_	NOUN	_	Number=Sing	_	_	_	_
@@ -5039,7 +5039,7 @@
 10	Curly	_	PROPN	_	_	_	_	_	_
 11	,	_	PUNCT	_	_	_	_	_	_
 12	il	_	PRON	_	Number=Sing|Person=3|PronType=Prs	_	_	_	_
-13	eut	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	_	_	_
+13	eut	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	_	_	_	_
 14	à	_	ADP	_	_	_	_	_	_
 15	supporter	_	VERB	_	VerbForm=Inf	_	_	_	_
 16	une	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
@@ -5074,7 +5074,7 @@
 45	vu	_	VERB	_	Tense=Past|VerbForm=Part	_	_	_	_
 46	tant	_	ADV	_	_	_	_	_	_
 47	de	_	ADP	_	_	_	_	_	_
-48	fois	_	NOUN	_	Number=Plur	_	_	_
+48	fois	_	NOUN	_	Number=Plur	_	_	_	_
 49	mettre	_	VERB	_	VerbForm=Inf	_	_	_	_
 50	aux	_	ADP	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
 51	chevaux	_	NOUN	_	Number=Plur	_	_	_	_
@@ -5117,7 +5117,7 @@
 88	dignité	_	NOUN	_	Number=Sing	_	_	_	_
 89	fût	_	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Imp	_	_	_	_
 90	profondément	_	ADV	_	_	_	_	_	_
-91	blessée	_	VERB	_	Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_
+91	blessée	_	VERB	_	Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
 92	de	_	ADP	_	_	_	_	_	_
 93	se	_	PRON	_	Person=3|PronType=Prs|Reflex=Yes	_	_	_	_
 94	voir	_	VERB	_	VerbForm=Inf	_	_	_	_
@@ -5183,7 +5183,7 @@
 154	que	_	SCONJ	_	_	_	_	_	_
 155	Dave	_	PROPN	_	_	_	_	_	_
 156	,	_	PUNCT	_	_	_	_	_	_
-157	limonier	_	NOUN	_	Number=Sing	_	_	_
+157	limonier	_	NOUN	_	Number=Sing	_	_	_	_
 158	expérimenté	_	ADJ	_	Number=Sing	_	_	_	_
 159	,	_	PUNCT	_	_	_	_	_	_
 160	plantait	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp	_	_	_	_
@@ -5214,8 +5214,8 @@
 185	ne	_	ADV	_	Polarity=Neg	_	_	_	_
 186	pouvant	_	VERB	_	Tense=Pres|VerbForm=Part	_	_	_	_
 187	atteindre	_	VERB	_	VerbForm=Inf	_	_	_	_
-188	le	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_
-189	débutant	_	NOUN	_	Number=Sing	_	_	_
+188	le	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
+189	débutant	_	NOUN	_	Number=Sing	_	_	_	_
 190	,	_	PUNCT	_	_	_	_	_	_
 191	lui	_	PRON	_	Number=Sing|Person=3|PronType=Prs	_	_	_	_
 192	grognait	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp	_	_	_	_
@@ -5256,7 +5256,7 @@
 227	grâce	_	NOUN	_	Number=Sing	_	_	_	_
 228	aux	_	ADP	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
 229	leçons	_	NOUN	_	Number=Plur	_	_	_	_
-230	combinées	_	VERB	_	Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_
+230	combinées	_	VERB	_	Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
 231	de	_	ADP	_	_	_	_	_	_
 232	ses	_	DET	_	Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes	_	_	_	_
 233	deux	_	NUM	_	NumType=Card	_	_	_	_
@@ -5319,7 +5319,7 @@
 6	bons	_	ADJ	_	Number=Plur	_	_	_	_
 7	chiens	_	NOUN	_	Number=Plur	_	_	_	_
 8	,	_	PUNCT	_	_	_	_	_	_
-9	dit	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	_	_	_
+9	dit	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	_	_	_	_
 10	François	_	PROPN	_	_	_	_	_	_
 11	à	_	ADP	_	_	_	_	_	_
 12	Perrault	_	PROPN	_	_	_	_	_	_
@@ -5336,9 +5336,9 @@
 23	appris	_	VERB	_	Tense=Past|VerbForm=Part	_	_	_	_
 24	en	_	ADP	_	_	_	_	_	_
 25	un	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
-26	rien	_	NOUN	_	Number=Sing	_	_	_
+26	rien	_	NOUN	_	Number=Sing	_	_	_	_
 27	de	_	ADP	_	_	_	_	_	_
-28	temps	_	NOUN	_	Number=Sing	_	_	_
+28	temps	_	NOUN	_	Number=Sing	_	_	_	_
 29	.	_	PUNCT	_	_	_	_	_	_
 
 
@@ -5346,9 +5346,9 @@
 # sent_id = jack_london_appel_foret.73
 # text = un rien de temps !
 25	un	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
-26	rien	_	NOUN	_	Number=Sing	_	_	_
+26	rien	_	NOUN	_	Number=Sing	_	_	_	_
 27	de	_	ADP	_	_	_	_	_	_
-28	temps	_	NOUN	_	Number=Sing	_	_	_
+28	temps	_	NOUN	_	Number=Sing	_	_	_	_
 29	!	_	PUNCT	_	_	_	_	_	_
 
 
@@ -5362,8 +5362,8 @@
 5	Perrault	_	PROPN	_	_	_	_	_	_
 6	,	_	PUNCT	_	_	_	_	_	_
 7	qui	_	PRON	_	PronType=Rel	_	_	_	_
-8	était	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp	_	_	_
-9	pressé	_	ADJ	_	Number=Sing	_	_	_
+8	était	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp	_	_	_	_
+9	pressé	_	ADJ	_	Number=Sing	_	_	_	_
 10	de	_	ADP	_	_	_	_	_	_
 11	partir	_	VERB	_	VerbForm=Inf	_	_	_	_
 12	avec	_	ADP	_	_	_	_	_	_
@@ -5453,7 +5453,7 @@
 96	Spitz	_	PROPN	_	_	_	_	_	_
 97	se	_	PRON	_	Person=3|PronType=Prs|Reflex=Yes	_	_	_	_
 98	mit	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	_	_	_	_
-99	en	_	ADP	_	_	_	_	_
+99	en	_	ADP	_	_	_	_	_	_
 100	devoir	_	NOUN	_	Number=Sing	_	_	_	_
 101	de	_	ADP	_	_	_	_	_	_
 102	les	_	PRON	_	Definite=Def|Number=Plur|Person=3|PronType=Art	_	_	_	_
@@ -5518,11 +5518,11 @@
 161	à	_	ADP	_	_	_	_	_	_
 162	lui	_	PRON	_	Number=Sing|Person=3|PronType=Prs	_	_	_	_
 163	faire	_	VERB	_	VerbForm=Inf	_	_	_	_
-164	face	_	NOUN	_	Number=Sing	_	_	_
+164	face	_	NOUN	_	Number=Sing	_	_	_	_
 165	.	_	PUNCT	_	_	_	_	_	_
 166	Les	_	DET	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
 167	oreilles	_	NOUN	_	Number=Plur	_	_	_	_
-168	couchées	_	VERB	_	Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_
+168	couchées	_	VERB	_	Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
 169	en	_	ADP	_	_	_	_	_	_
 170	arrière	_	NOUN	_	Number=Sing	_	_	_	_
 171	,	_	PUNCT	_	_	_	_	_	_
@@ -5585,7 +5585,7 @@
 228	retourna	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	_	_	_	_
 229	sur	_	ADP	_	_	_	_	_	_
 230	le	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
-231	pauvre	_	ADJ	_	Number=Sing	_	_	_
+231	pauvre	_	ADJ	_	Number=Sing	_	_	_	_
 232	et	_	CCONJ	_	_	_	_	_	_
 233	inoffensif	_	ADJ	_	Number=Sing	_	_	_	_
 234	Billee	_	PROPN	_	_	_	_	_	_
@@ -5605,7 +5605,7 @@
 # text = Le soir venu , Perrault ramena encore un autre chien , un vieux husky , long , maigre , décharné , couvert de glorieuses cicatrices récoltées en maint combat , et possesseur d' un oeil unique , mais cet oeil brillait d' une telle vaillance qu' il inspirait aussitôt le respect . Il s' appelait Sol-leck , ce qui veut dire le Mal-Content . Semblable à Dave , il ne demandait rien , ne donnait rien , n' attendait rien , et , quand il s' avança lentement et délibérément au milieu des autres , Spitz lui-même le laissa tranquille . On put bientôt remarquer qu' il ne tolérait pas qu' on l' approchât du côté de son oeil aveugle . Buck eut la malchance de faire cette découverte et de l' expier rudement , car Sol-leck , d' un coup de dent , lui fendit l' épaule sur une longueur de trois centimètres . Buck évita avec soin à l' avenir de répéter l' offense , et tous deux restèrent bons camarades jusqu' à la fin . Sol-leck semblait , comme Dave , n' avoir d' autre désir que la tranquillité , et pourtant Buck découvrit plus tard que l' un et l' autre nourrissaient au fond du coeur une passion ardente dont il sera parlé plus loin .
 1	Le	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 2	soir	_	NOUN	_	Number=Sing	_	_	_	_
-4	venu	_	VERB	_	Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_
+4	venu	_	VERB	_	Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
 4	,	_	PUNCT	_	_	_	_	_	_
 5	Perrault	_	PROPN	_	_	_	_	_	_
 6	ramena	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	_	_	_	_
@@ -5624,11 +5624,11 @@
 19	,	_	PUNCT	_	_	_	_	_	_
 20	décharné	_	ADJ	_	Number=Sing	_	_	_	_
 21	,	_	PUNCT	_	_	_	_	_	_
-22	couvert	_	VERB	_	Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_
+22	couvert	_	VERB	_	Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
 23	de	_	ADP	_	_	_	_	_	_
 24	glorieuses	_	ADJ	_	Number=Plur	_	_	_	_
 25	cicatrices	_	NOUN	_	Number=Plur	_	_	_	_
-26	récoltées	_	VERB	_	Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_
+26	récoltées	_	VERB	_	Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
 27	en	_	ADP	_	_	_	_	_	_
 112	maint	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
 29	combat	_	NOUN	_	Number=Sing	_	_	_	_
@@ -5665,7 +5665,7 @@
 60	veut	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 61	dire	_	VERB	_	VerbForm=Inf	_	_	_	_
 62	le	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
-63	Mal-Content	_	NOUN	_	Number=Sing	_	_	_
+63	Mal-Content	_	NOUN	_	Number=Sing	_	_	_	_
 64	.	_	PUNCT	_	_	_	_	_	_
 65	Semblable	_	ADJ	_	Number=Sing	_	_	_	_
 66	à	_	ADP	_	_	_	_	_	_
@@ -5789,7 +5789,7 @@
 184	,	_	PUNCT	_	_	_	_	_	_
 185	n'	_	ADV	_	Polarity=Neg	_	_	_	_
 186	avoir	_	VERB	_	VerbForm=Inf	_	_	_	_
-121	d'	_	DET	_	Number=Sing|PronType=Art|Definite=Ind	_	_	_
+121	d'	_	DET	_	Number=Sing|PronType=Art|Definite=Ind	_	_	_	_
 188	autre	_	ADJ	_	Number=Sing	_	_	_	_
 189	désir	_	NOUN	_	Number=Sing	_	_	_	_
 190	que	_	SCONJ	_	_	_	_	_	_
@@ -5870,7 +5870,7 @@
 40	et	_	CCONJ	_	_	_	_	_	_
 41	François	_	PROPN	_	_	_	_	_	_
 42	le	_	PRON	_	Definite=Def|Number=Sing|Person=3|PronType=Art	_	_	_	_
-43	bombardèrent	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	_	_	_
+43	bombardèrent	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	_	_	_	_
 44	de	_	ADP	_	_	_	_	_	_
 45	jurons	_	NOUN	_	Number=Plur	_	_	_	_
 46	,	_	PUNCT	_	_	_	_	_	_
@@ -5952,7 +5952,7 @@
 122	chaleur	_	NOUN	_	Number=Sing	_	_	_	_
 123	.	_	PUNCT	_	_	_	_	_	_
 124	De	_	ADP	_	_	_	_	_	_
-125	temps	_	NOUN	_	Number=Sing	_	_	_
+125	temps	_	NOUN	_	Number=Sing	_	_	_	_
 126	à	_	ADP	_	_	_	_	_	_
 127	autre	_	PRON	_	Number=Sing|Person=3	_	_	_	_
 128	,	_	PUNCT	_	_	_	_	_	_
@@ -5976,9 +5976,9 @@
 146	cou	_	NOUN	_	Number=Sing	_	_	_	_
 147	(	_	PUNCT	_	_	_	_	_	_
 148	défense	_	NOUN	_	Number=Sing	_	_	_	_
-149	qu'	_	PRON	_	PronType=Rel	_	_	_
+149	qu'	_	PRON	_	PronType=Rel	_	_	_	_
 150	il	_	PRON	_	Number=Sing|Person=3|PronType=Prs	_	_	_	_
-151	avait	_	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp	_	_	_
+151	avait	_	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp	_	_	_	_
 152	vite	_	ADV	_	_	_	_	_	_
 153	apprise	_	VERB	_	Tense=Past|VerbForm=Part	_	_	_	_
 154	)	_	PUNCT	_	_	_	_	_	_
@@ -6058,7 +6058,7 @@
 47	les	_	PRON	_	Definite=Def|Number=Plur|Person=3|PronType=Art	_	_	_	_
 48	trouver	_	VERB	_	VerbForm=Inf	_	_	_	_
 49	.	_	PUNCT	_	_	_	_	_	_
-64	Convaincu	_	VERB	_	Tense=Past|VerbForm=Part	_	_	_
+64	Convaincu	_	VERB	_	Tense=Past|VerbForm=Part	_	_	_	_
 51	qu'	_	SCONJ	_	_	_	_	_	_
 52	ils	_	PRON	_	Number=Plur|Person=3|PronType=Prs	_	_	_	_
 53	ne	_	ADV	_	Polarity=Neg	_	_	_	_
@@ -6082,7 +6082,7 @@
 71	le	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 72	tour	_	NOUN	_	Number=Sing	_	_	_	_
 73	,	_	PUNCT	_	_	_	_	_	_
-74	grelottant	_	VERB	_	Tense=Pres|VerbForm=Part	_	_	_
+74	grelottant	_	VERB	_	Tense=Pres|VerbForm=Part	_	_	_	_
 75	,	_	PUNCT	_	_	_	_	_	_
 76	la	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 77	queue	_	NOUN	_	Number=Sing	_	_	_	_
@@ -6091,7 +6091,7 @@
 80	se	_	PRON	_	Person=3|PronType=Prs|Reflex=Yes	_	_	_	_
 81	sentant	_	VERB	_	Tense=Pres|VerbForm=Part	_	_	_	_
 82	très	_	ADV	_	_	_	_	_	_
-83	malheureux	_	ADJ	_	Number=Sing	_	_	_
+83	malheureux	_	ADJ	_	Number=Sing	_	_	_	_
 84	.	_	PUNCT	_	_	_	_	_	_
 85	Tout	_	ADV	_	_	_	_	_	_
 86	à	_	ADP	_	_	_	_	_	_
@@ -6121,7 +6121,7 @@
 110	invisible	_	ADJ	_	Number=Sing	_	_	_	_
 111	et	_	CCONJ	_	_	_	_	_	_
 112	l'	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
-113	inconnu	_	NOUN	_	Number=Sing	_	_	_
+113	inconnu	_	NOUN	_	Number=Sing	_	_	_	_
 114	,	_	PUNCT	_	_	_	_	_	_
 115	il	_	PRON	_	Number=Sing|Person=3|PronType=Prs	_	_	_	_
 116	gronda	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	_	_	_	_
@@ -6230,7 +6230,7 @@
 4	Buck	_	PROPN	_	_	_	_	_	_
 5	,	_	PUNCT	_	_	_	_	_	_
 6	qui	_	PRON	_	PronType=Rel	_	_	_	_
-7	choisit	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	_	_	_
+7	choisit	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	_	_	_	_
 8	immédiatement	_	ADV	_	_	_	_	_	_
 9	un	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
 10	emplacement	_	NOUN	_	Number=Sing	_	_	_	_
@@ -6268,7 +6268,7 @@
 42	un	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
 43	repos	_	NOUN	_	Number=Sing	_	_	_	_
 44	bien	_	ADV	_	_	_	_	_	_
-45	gagné	_	VERB	_	Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_
+45	gagné	_	VERB	_	Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
 46	.	_	PUNCT	_	_	_	_	_	_
 
 
@@ -6342,7 +6342,7 @@
 32	l'	_	PRON	_	Definite=Def|Number=Sing|Person=3|PronType=Art	_	_	_	_
 33	avait	_	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp	_	_	_	_
 34	complètement	_	ADV	_	_	_	_	_	_
-35	enseveli	_	VERB	_	Tense=Past|VerbForm=Part	_	_	_
+35	enseveli	_	VERB	_	Tense=Past|VerbForm=Part	_	_	_	_
 36	et	_	CCONJ	_	_	_	_	_	_
 37	ce	_	DET	_	Number=Sing|PronType=Dem	_	_	_	_
 38	mur	_	NOUN	_	Number=Sing	_	_	_	_
@@ -6363,7 +6363,7 @@
 53	la	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 54	bête	_	NOUN	_	Number=Sing	_	_	_	_
 55	sauvage	_	ADJ	_	Number=Sing	_	_	_	_
-56	prise	_	VERB	_	Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_
+56	prise	_	VERB	_	Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
 57	au	_	ADP	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 58	piège	_	NOUN	_	Number=Sing	_	_	_	_
 59	:	_	PUNCT	_	_	_	_	_	_
@@ -6461,7 +6461,7 @@
 15	,	_	PUNCT	_	_	_	_	_	_
 16	et	_	CCONJ	_	_	_	_	_	_
 17	s'	_	PRON	_	Person=3|PronType=Prs|Reflex=Yes	_	_	_	_
-18	était	_	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp	_	_	_
+18	était	_	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp	_	_	_	_
 19	,	_	PUNCT	_	_	_	_	_	_
 20	rappelé	_	VERB	_	Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
 21	dans	_	ADP	_	_	_	_	_	_
@@ -6483,7 +6483,7 @@
 37	jusqu'	_	ADP	_	_	_	_	_	INVARIANT
 38	au	_	ADP	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 39	trou	_	NOUN	_	Number=Sing	_	_	_	_
-40	qu'	_	PRON	_	PronType=Rel	_	_	_
+40	qu'	_	PRON	_	PronType=Rel	_	_	_	_
 41	il	_	PRON	_	Number=Sing|Person=3|PronType=Prs	_	_	_	_
 42	s'	_	PRON	_	Person=3|PronType=Prs|Reflex=Yes	_	_	_	_
 43	était	_	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp	_	_	_	_
@@ -6507,9 +6507,9 @@
 # text = - Qu' est -ce que je disais ? criait -il à Perrault . Ce Buck est plus malin qu' un singe ! Il apprend avec une rapidité surprenante .
 1	-	_	PUNCT	_	_	_	_	_	_
 2	Qu'	_	PRON	_	PronType=Int	_	_	_	_
-3	est	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_
+3	est	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 4	-ce	_	PRON	_	Number=Sing|Person=3|PronType=Dem	_	_	_	_
-5	que	_	SCONJ	_	_	_	_	_
+5	que	_	SCONJ	_	_	_	_	_	_
 6	je	_	PRON	_	Number=Sing|Person=1|PronType=Prs	_	_	_	_
 7	disais	_	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Imp	_	_	_	_
 8	?	_	PUNCT	_	_	_	_	_	_
@@ -6605,7 +6605,7 @@
 18	un	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
 19	total	_	NOUN	_	Number=Sing	_	_	_	_
 20	de	_	ADP	_	_	_	_	_	_
-21	neuf	_	NUM	_	NumType=Card	_	_	_
+21	neuf	_	NUM	_	NumType=Card	_	_	_	_
 22	animaux	_	NOUN	_	Number=Plur	_	_	_	_
 23	;	_	PUNCT	_	_	_	_	_	_
 24	et	_	CCONJ	_	_	_	_	_	_
@@ -6618,7 +6618,7 @@
 31	,	_	PUNCT	_	_	_	_	_	_
 32	tous	_	PRON	_	Definite=Ind|Number=Plur|Person=3	_	_	_	_
 33	étant	_	AUX	_	Tense=Pres|VerbForm=Part	_	_	_	_
-34	attelés	_	VERB	_	Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_
+34	attelés	_	VERB	_	Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
 35	,	_	PUNCT	_	_	_	_	_	_
 36	filaient	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp	_	_	_	_
 37	dans	_	ADP	_	_	_	_	_	_
@@ -6648,7 +6648,7 @@
 61	méprisable	_	ADJ	_	Number=Sing	_	_	_	_
 62	.	_	PUNCT	_	_	_	_	_	_
 63	Il	_	PRON	_	Number=Sing|Person=3|PronType=Prs	_	_	_	_
-64	fut	_	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	_	_	_
+64	fut	_	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	_	_	_	_
 65	frappé	_	VERB	_	Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
 66	de	_	ADP	_	_	_	_	_	_
 67	l'	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
@@ -6677,7 +6677,7 @@
 90	de	_	ADP	_	_	_	_	_	_
 91	Sol-leck	_	PROPN	_	_	_	_	_	_
 92	que	_	SCONJ	_	_	_	_	_	_
-93	le	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_
+93	le	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 94	harnais	_	NOUN	_	Number=Sing	_	_	_	_
 100	transformait	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp	_	_	_	_
 96	.	_	PUNCT	_	_	_	_	_	_
@@ -6687,11 +6687,11 @@
 100	avait	_	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp	_	_	_	_
 101	disparu	_	VERB	_	Tense=Past|VerbForm=Part	_	_	_	_
 102	;	_	PUNCT	_	_	_	_	_	_
-103	alertes	_	ADJ	_	Number=Plur	_	_	_
+103	alertes	_	ADJ	_	Number=Plur	_	_	_	_
 104	,	_	PUNCT	_	_	_	_	_	_
 105	actifs	_	ADJ	_	Number=Plur	_	_	_	_
 106	,	_	PUNCT	_	_	_	_	_	_
-107	désireux	_	ADJ	_	Number=Plur	_	_	_
+107	désireux	_	ADJ	_	Number=Plur	_	_	_	_
 108	que	_	SCONJ	_	_	_	_	_	_
 109	l'	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 110	ouvrage	_	NOUN	_	Number=Sing	_	_	_	_
