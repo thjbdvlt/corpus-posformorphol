@@ -6,10 +6,24 @@
 
 
 # sent_id = paris_de_ma_fenetre_colette.spacy.4
+# text = Nous fûmes
+180	Nous	_	PRON	_	Number=Plur|Person=1|PronType=Prs	_	_	_	_
+181	fûmes	_	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Past	_	_	_	_
+
+
+
+# sent_id = paris_de_ma_fenetre_colette.spacy.4
 # text = Nous fûmes mis
 180	Nous	_	PRON	_	Number=Plur|Person=1|PronType=Prs	_	_	_	_
 181	fûmes	_	AUX	_	Mood=Ind|Number=Plur|Person=1|Tense=Past	_	_	_	_
 29	mis	_	VERB	_	Tense=Past|VerbForm=Part	_	_	_	_
+
+
+
+# sent_id = paris_de_ma_fenetre_colette.spacy.4
+# text = Nous fûmes
+180	Nous	_	PRON	_	Number=Plur|Person=1|PronType=Prs	_	_	_	_
+181	fûmes	_	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Past	_	_	_	_
 
 
 
