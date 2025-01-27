@@ -1047,7 +1047,7 @@
 
 
 
-# text = surtout ne vous découragez pas , sur mac , vous avez textedit , qui est parfait , ensuite un simple copier-coller ( pomme-c pomme-v ) vous permettra de mettre votre texte dans la fenêtre d' édition .
+# text = surtout ne vous découragez pas , sur mac , vous avez textedit , qui est parfait , ensuite un simple copier-coller vous permettra de mettre votre texte dans la fenêtre d' édition .
 1	surtout	_	ADV	_	_	_	_	_	_
 2	ne	_	ADV	_	Polarity=Neg	_	_	_	_
 3	vous	_	PRON	_	Number=Plur|Person=2|PronType=Prs	_	_	_	_
@@ -7884,7 +7884,7 @@
 
 
 
-# text = par contre ne faudrait -il pas créer toutefois un court article footwork ( descriptions , staats et catégorisation ) au cas où une recherche serait lancée à partir de ce mot ( au cas où cela intéresserait quelqu' un !
+# text = par contre ne faudrait -il pas créer toutefois un court article ( descriptions , staats et catégorisation ) au cas où une recherche serait lancée à partir de ce mot ( au cas où cela intéresserait quelqu' un !
 1	par	_	ADP	_	_	_	_	_	_
 2	contre	_	ADP	_	_	_	_	_	_
 3	ne	_	ADV	_	Polarity=Neg	_	_	_	_

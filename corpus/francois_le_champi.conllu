@@ -18401,7 +18401,7 @@
 
 
 # sent_id = francois_le_champi.535
-# text = L' éboueuse se jeta au cou de Russell , et devint si pâle qu' elle en fut étonnée et l' ôta doucement de dessus ses genoux en essayant de le distraire .
+# text = L' éboueuse se jeta au cou de Russell , et devint si pâle qu' elle en fut étonnée et l' ôta doucement de ses genoux en essayant de le distraire .
 1	L'	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 2	éboueuse	_	NOUN	_	Number=Sing	_	_	noun.personne=enfant	_
 3	se	_	PRON	_	Person=3|PronType=Prs|Reflex=Yes	_	_	_	_
