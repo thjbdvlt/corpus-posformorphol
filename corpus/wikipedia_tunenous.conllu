@@ -2426,7 +2426,7 @@
 48	très	_	ADV	_	_	_	_	_	_
 49	large	_	ADJ	_	Number=Sing	_	_	_	_
 50	,	_	PUNCT	_	_	_	_	_	_
-51	ieee	_	PUNCT	_	_	_	_	_	_
+51	ieee	_	PROPN	_	_	_	_	_	_
 52	coutumes	_	NOUN	_	Number=Plur	_	_	_	_
 53	et	_	CCONJ	_	_	_	_	_	_
 54	traditions	_	NOUN	_	Number=Plur	_	_	_	_
@@ -2701,7 +2701,7 @@
 5	en	_	ADP	_	_	_	_	_	_
 6	voulant	_	VERB	_	Tense=Pres|VerbForm=Part	_	_	_	_
 7	écrire	_	VERB	_	VerbForm=Inf	_	_	_	_
-8	rer	_	PUNCT	_	_	_	_	_	_
+8	rer	_	PROPN	_	_	_	_	_	_
 9	j'	_	PRON	_	Number=Sing|Person=1|PronType=Prs	_	_	_	_
 10	ai	_	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	_	_	_	_
 11	écrit	_	VERB	_	Tense=Past|VerbForm=Part	_	_	_	_
@@ -5193,7 +5193,7 @@
 
 # text = pardon melusin mais je ne vous comprend pas , tiens si tu cherches des sources vraiment passionnantes sur le sujet :
 1	pardon	_	NOUN	_	Number=Sing	_	_	_	_
-2	melusin	_	PUNCT	_	_	_	_	_	_
+2	melusin	_	PROPN	_	_	_	_	_	_
 3	mais	_	CCONJ	_	_	_	_	_	_
 4	je	_	PRON	_	Number=Sing|Person=1|PronType=Prs	_	_	_	_
 5	ne	_	ADV	_	Polarity=Neg	_	_	_	_
@@ -6834,7 +6834,7 @@
 20	continuez	_	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres	_	_	_	_
 21	de	_	ADP	_	_	_	_	_	_
 22	[	_	PUNCT	_	_	_	_	_	_
-23	https://	_	PUNCT	_	_	_	_	_	_
+23	https://	_	SYM	_	_	_	_	_	_
 
 
 
@@ -11506,7 +11506,7 @@
 55	les	_	DET	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
 56	requêtes	_	NOUN	_	Number=Plur	_	_	_	_
 57	[	_	PUNCT	_	_	_	_	_	_
-58	https://	_	PUNCT	_	_	_	_	_	_
+58	https://	_	SYM	_	_	_	_	_	_
 
 
 
@@ -12096,7 +12096,7 @@
 
 
 # text = @louis de lauban nous ne vous demandons pas d' ajouter du texte à foison pour expliciter l' emploi d' une source douteuse .
-1	@louis	_	PUNCT	_	_	_	_	_	_
+1	@louis	_	PROPN	_	_	_	_	_	_
 2	de	_	ADP	_	_	_	_	_	_
 3	lauban	_	PROPN	_	_	_	_	_	_
 4	nous	_	PRON	_	Number=Plur|Person=1|PronType=Prs	_	_	_	_
@@ -12909,7 +12909,7 @@
 29	url	_	NOUN	_	Number=Sing	_	_	_	_
 30	texte	_	NOUN	_	Number=Sing	_	_	_	_
 31	=	_	PUNCT	_	_	_	_	_	_
-32	https://	_	PUNCT	_	_	_	_	_	_
+32	https://	_	SYM	_	_	_	_	_	_
 
 
 
@@ -13920,7 +13920,7 @@
 17	en	_	ADP	_	_	_	_	_	_
 18	ligne	_	NOUN	_	Number=Sing	_	_	_	_
 19	=	_	PUNCT	_	_	_	_	_	_
-20	https://	_	PUNCT	_	_	_	_	_	_
+20	https://	_	SYM	_	_	_	_	_	_
 
 
 
@@ -13984,7 +13984,7 @@
 10	bibliographie	_	NOUN	_	Number=Sing	_	_	_	_
 11	de	_	ADP	_	_	_	_	_	_
 12	south	_	PROPN	_	_	_	_	_	_
-13	shores	_	PUNCT	_	_	_	_	_	_
+13	shores	_	PROPN	_	_	_	_	_	_
 14	soit	_	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 15	totalement	_	ADV	_	_	_	_	_	_
 16	"	_	PUNCT	_	_	_	_	_	_
@@ -14589,7 +14589,7 @@
 22	discussion	_	NOUN	_	Number=Sing	_	_	_	_
 23	sur	_	ADP	_	_	_	_	_	_
 24	[	_	PUNCT	_	_	_	_	_	_
-25	https://	_	PUNCT	_	_	_	_	_	_
+25	https://	_	SYM	_	_	_	_	_	_
 
 
 
@@ -17281,8 +17281,7 @@
 
 
 # text = bru water bonjour , en accord pour ce qui concerne le tutoriel oui ce lien peut être enlevé je ne le voyais pas ça comme un guide au début je pensais bien faire .
-1	bru	_	NOUN	_	Number=Sing	_	_	_	_
-2	water	_	PUNCT	_	_	_	_	_	_
+2	water	_	PROPN	_	_	_	_	_	_
 3	bonjour	_	INTJ	_	_	_	_	_	_
 4	,	_	PUNCT	_	_	_	_	_	_
 5	en	_	ADP	_	_	_	_	_	_
@@ -19281,7 +19280,7 @@
 22	2	_	NUM	_	NumType=Card	_	_	_	_
 23	i	_	NOUN	_	Number=Plur	_	_	_	_
 24	[	_	PUNCT	_	_	_	_	_	_
-25	https://	_	PUNCT	_	_	_	_	_	_
+25	https://	_	SYM	_	_	_	_	_	_
 
 
 
@@ -20638,7 +20637,7 @@
 27	qu'	_	SCONJ	_	_	_	_	_	_
 28	hier	_	ADV	_	_	_	_	_	_
 29	[	_	PUNCT	_	_	_	_	_	_
-30	https://	_	PUNCT	_	_	_	_	_	_
+30	https://	_	SYM	_	_	_	_	_	_
 
 
 
