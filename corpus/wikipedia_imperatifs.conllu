@@ -809,14 +809,14 @@
 6	ne	_	ADV	_	Polarity=Neg	_	_	_	_
 7	perds	_	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	_	_	_	_
 8	pas	_	ADV	_	Polarity=Neg	_	_	_	_
-9	de	_	ADP	_	_	_	_	_	_
+9	de	_	ADP	_	_	_	_	_	TOCHANGE|POS=DET|Definite=Ind|Number=Sing|PronType=Art
 10	temps	_	NOUN	_	Number=Sing	_	_	_	_
 11	à	_	ADP	_	_	_	_	_	_
 12	aller	_	VERB	_	VerbForm=Inf	_	_	_	_
 13	lui	_	PRON	_	Number=Sing|Person=3|PronType=Prs	_	_	_	_
 14	annoncer	_	VERB	_	VerbForm=Inf	_	_	_	_
 15	ton	_	DET	_	Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes	_	_	_	_
-16	arrivée	_	VERB	_	Tense=Past|VerbForm=Part	_	_	_	_
+16	arrivée	_	VERB	_	Tense=Past|VerbForm=Part	_	_	_	TOCHANGE|POS=NOUN|Number=Sing
 17	et	_	CCONJ	_	_	_	_	_	_
 18	à	_	ADP	_	_	_	_	_	_
 19	lui	_	PRON	_	Number=Sing|Person=3|PronType=Prs	_	_	_	_
@@ -1084,7 +1084,7 @@
 10	que	_	SCONJ	_	_	_	_	_	_
 11	tu	_	PRON	_	Number=Sing|Person=2|PronType=Prs	_	_	_	_
 12	es	_	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres	_	_	_	_
-13	apprécidé	_	ADJ	_	Number=Plur	_	_	_	_
+13	apprécié	_	ADJ	_	Number=Sing	_	_	_	_
 14	de	_	ADP	_	_	_	_	_	_
 15	très	_	ADV	_	_	_	_	_	_
 16	nombreux	_	ADJ	_	Number=Plur	_	_	_	_
@@ -1145,7 +1145,7 @@
 2	une	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
 3	recherche	_	NOUN	_	Number=Sing	_	_	_	_
 4	sur	_	ADP	_	_	_	_	_	_
-7	intel	_	PROPN	_	_	_	_	_	_
+7	intel	_	PROPN	_	_	_	_	_	OK
 8	et	_	CCONJ	_	_	_	_	_	_
 9	tu	_	PRON	_	Number=Sing|Person=2|PronType=Prs	_	_	_	_
 10	ne	_	ADV	_	Polarity=Neg	_	_	_	_
@@ -1945,7 +1945,7 @@
 12	ce	_	DET	_	Number=Sing|PronType=Dem	_	_	_	_
 13	type	_	NOUN	_	Number=Sing	_	_	_	_
 14	d'	_	ADP	_	_	_	_	_	_
-15	artice	_	NOUN	_	Number=Sing	_	_	_	_
+15	article	_	NOUN	_	Number=Sing	_	_	_	OK
 16	à	_	ADP	_	_	_	_	_	_
 17	chaud	_	ADJ	_	Number=Sing	_	_	_	_
 18	,	_	PUNCT	_	_	_	_	_	_
@@ -2085,7 +2085,7 @@
 12	qu'	_	SCONJ	_	_	_	_	_	_
 13	elle	_	PRON	_	Number=Sing|Person=3|PronType=Prs	_	_	_	_
 14	risque	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
-15	fort	_	ADJ	_	Number=Sing	_	_	_	_
+15	fort	_	ADJ	_	Number=Sing	_	_	_	TOCHANGE|POS=ADV|
 16	de	_	ADP	_	_	_	_	_	_
 17	se	_	PRON	_	Person=3|PronType=Prs|Reflex=Yes	_	_	_	_
 18	développer	_	VERB	_	VerbForm=Inf	_	_	_	_
@@ -2572,7 +2572,7 @@
 17	quel	_	DET	_	Number=Sing|Person=3|PronType=Int	_	_	_	_
 18	type	_	NOUN	_	Number=Sing	_	_	_	_
 19	de	_	ADP	_	_	_	_	_	_
-20	personne	_	PRON	_	Number=Sing|Polarity=Neg|PronType=Ind	_	_	_	_
+20	personne	_	PRON	_	Number=Sing|Polarity=Neg|PronType=Ind	_	_	_	TOCHANGE|POS=NOUN|Number=Sing
 21	tu	_	PRON	_	Number=Sing|Person=2|PronType=Prs	_	_	_	_
 22	t'	_	PRON	_	Number=Sing|Person=2|PronType=Prs|Reflex=Yes	_	_	_	_
 23	adresse	_	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres	_	_	_	_
@@ -3021,7 +3021,7 @@
 5	dire	_	VERB	_	VerbForm=Inf	_	_	_	_
 6	à	_	ADP	_	_	_	_	_	_
 7	cette	_	DET	_	Number=Sing|PronType=Dem	_	_	_	_
-8	guideline	_	NOUN	_	Number=Sing	_	_	_	_
+8	guideline	_	NOUN	_	Number=Sing	_	_	_	OK
 9	ce	_	PRON	_	Number=Sing|Person=3|PronType=Dem	_	_	_	_
 10	qu'	_	PRON	_	PronType=Rel	_	_	_	_
 11	elle	_	PRON	_	Number=Sing|Person=3|PronType=Prs	_	_	_	_
@@ -3309,7 +3309,7 @@
 11	ne	_	ADV	_	Polarity=Neg	_	_	_	_
 12	viendrait	_	VERB	_	Mood=Cnd|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 13	à	_	ADP	_	_	_	_	_	_
-14	personne	_	PRON	_	Number=Sing|Polarity=Neg|PronType=Ind	_	_	_	_
+14	personne	_	PRON	_	Number=Sing|Polarity=Neg|PronType=Ind	_	_	_	OK
 15	de	_	ADP	_	_	_	_	_	_
 16	mettre	_	VERB	_	VerbForm=Inf	_	_	_	_
 17	ds	_	ADP	_	_	_	_	_	_
@@ -3370,7 +3370,7 @@
 # text = fais -moi sig si tu as des canetons frais pour l' altesse .
 1	fais	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	_
 2	-moi	_	PRON	_	Number=Sing|Person=1|PronType=Prs	_	_	_	_
-3	sig	_	ADJ	_	Number=Sing	_	_	_	_
+3	signe	_	ADJ	_	Number=Sing	_	_	_	TOCHANGE|POS=NOUN|Number=Sing
 4	si	_	SCONJ	_	_	_	_	_	_
 5	tu	_	PRON	_	Number=Sing|Person=2|PronType=Prs	_	_	_	_
 6	as	_	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres	_	_	_	_
@@ -3543,7 +3543,7 @@
 7	tes	_	DET	_	Number=Plur|Number[psor]=Sing|Person=2|Poss=Yes	_	_	_	_
 8	message	_	NOUN	_	Number=Sing	_	_	_	_
 9	et	_	CCONJ	_	_	_	_	_	_
-10	stp	_	ADJ	_	Number=Sing	_	_	_	_
+10	stp	_	ADV	_	_	_	_	_	OK
 11	,	_	PUNCT	_	_	_	_	_	_
 12	signe	_	NOUN	_	Number=Sing	_	_	_	_
 13	les	_	DET	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
@@ -3715,7 +3715,7 @@
 17	considérera	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut	_	_	_	_
 18	petit	_	ADJ	_	Number=Sing	_	_	_	_
 19	,	_	PUNCT	_	_	_	_	_	_
-20	mesquin	_	ADJ	_	Number=Sing	_	_	_	_
+20	mesquin	_	ADJ	_	Number=Sing	_	_	_	OK
 21	,	_	PUNCT	_	_	_	_	_	_
 22	faible	_	ADJ	_	Number=Sing	_	_	_	_
 23	,	_	PUNCT	_	_	_	_	_	_
@@ -4083,7 +4083,7 @@
 
 
 # text = et surtout fais ce que tu peux , mais je sais que tu peux beaucoup 2 ( cet )
-1	et	_	ADV	_	_	_	_	_	_
+1	et	_	ADV	_	_	_	_	_	TOCHANGE|POS=CCONJ|
 1	surtout	_	ADV	_	_	_	_	_	_
 1	fais	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	_
 2	ce	_	PRON	_	Number=Sing|Person=3|PronType=Dem	_	_	_	_
@@ -4171,7 +4171,7 @@
 
 
 # text = et fais l' expérience , pars de algorithme , va à la section complexité algorithmique , et suis le lien complexité algorithmique .
-1	et	_	ADV	_	_	_	_	_	_
+1	et	_	ADV	_	_	_	_	_	TOCHANGE|POS=CCONJ|
 1	fais	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	_
 2	l'	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 3	expérience	_	NOUN	_	Number=Sing	_	_	_	_
@@ -4284,7 +4284,7 @@
 3	un	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
 4	contributeur	_	NOUN	_	Number=Sing	_	_	_	_
 5	moyennement	_	ADV	_	_	_	_	_	_
-6	expérimenté	_	VERB	_	Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
+6	expérimenté	_	VERB	_	Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	TOCHANGE|POS=ADJ|Number=Sing
 7	de	_	ADP	_	_	_	_	_	_
 8	circuler	_	VERB	_	VerbForm=Inf	_	_	_	_
 9	entre	_	ADP	_	_	_	_	_	_
@@ -4292,7 +4292,7 @@
 11	ces	_	DET	_	Number=Plur|PronType=Dem	_	_	_	_
 12	pages	_	NOUN	_	Number=Plur	_	_	_	_
 13	et	_	CCONJ	_	_	_	_	_	_
-14	demande	_	NOUN	_	Number=Sing	_	_	_	_
+14	demande	_	NOUN	_	Number=Sing	_	_	_	TOCHANGE|POS=VERB|Mood=Imp|Number=Sing|Person=2|Tense=Pres
 15	lui	_	PRON	_	Number=Sing|Person=3|PronType=Prs	_	_	_	_
 16	ce	_	PRON	_	Number=Sing|Person=3|PronType=Dem	_	_	_	_
 17	qu'	_	PRON	_	PronType=Rel	_	_	_	_
@@ -4798,28 +4798,6 @@
 
 
 
-# text = demande _ de _ restauration _ de _ page / archives 2 # camille _ lou _ .
-1	demande	_	NOUN	_	Number=Sing	_	_	_	_
-2	_	_	PUNCT	_	_	_	_	_	_
-3	de	_	ADP	_	_	_	_	_	_
-4	_	_	PUNCT	_	_	_	_	_	_
-5	restauration	_	NOUN	_	Number=Sing	_	_	_	_
-6	_	_	PUNCT	_	_	_	_	_	_
-7	de	_	ADP	_	_	_	_	_	_
-8	_	_	PUNCT	_	_	_	_	_	_
-9	page	_	NOUN	_	Number=Sing	_	_	_	_
-10	/	_	PUNCT	_	_	_	_	_	_
-11	archives	_	NOUN	_	Number=Plur	_	_	_	_
-12	2	_	NUM	_	NumType=Card	_	_	_	_
-13	#	_	PUNCT	_	_	_	_	_	_
-14	camille	_	NOUN	_	Number=Sing	_	_	_	_
-15	_	_	PUNCT	_	_	_	_	_	_
-16	lou	_	PROPN	_	_	_	_	_	_
-17	_	_	PUNCT	_	_	_	_	_	_
-18	.	_	PUNCT	_	_	_	_	_	_
-
-
-
 # text = benedetti , se disant excité par germana , demande à son assistant de lui promettre un contrat dans une maison de disques , pour s' attirer ses faveurs .
 2	benedetti	_	PROPN	_	_	_	_	_	_
 3	,	_	PUNCT	_	_	_	_	_	_
@@ -5199,11 +5177,6 @@
 2	avant	_	ADP	_	_	_	_	_	_
 3	de	_	ADP	_	_	_	_	_	_
 4	crier	_	VERB	_	VerbForm=Inf	_	_	_	_
-5	au	_	ADP	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
-6	"	_	PUNCT	_	_	_	_	_	_
-7	pov	_	NOUN	_	Number=Sing	_	_	_	_
-8	pusshing	_	ADJ	_	Number=Plur	_	_	_	_
-9	"	_	PUNCT	_	_	_	_	_	_
 10	,	_	PUNCT	_	_	_	_	_	_
 11	demande	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	_
 12	-toi	_	PRON	_	Number=Sing|Person=2|PronType=Prs	_	_	_	_
@@ -6002,7 +5975,7 @@
 
 
 # text = demande éventuellement au " jeune " punx si je suis un affreux .
-1	demande	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	_
+1	demande	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	OK
 2	éventuellement	_	ADV	_	_	_	_	_	_
 3	au	_	ADP	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 4	"	_	PUNCT	_	_	_	_	_	_
@@ -6644,7 +6617,7 @@
 15	avec	_	ADP	_	_	_	_	_	_
 16	juste	_	ADJ	_	Number=Sing	_	_	_	_
 17	la	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
-18	listré	_	NOUN	_	Number=Sing	_	_	_	_
+18	liste	_	NOUN	_	Number=Sing	_	_	_	_
 19	des	_	ADP	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
 20	titres	_	NOUN	_	Number=Plur	_	_	_	_
 21	.	_	PUNCT	_	_	_	_	_	_
@@ -7174,7 +7147,7 @@
 48	modifié	_	VERB	_	Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
 49	(	_	PUNCT	_	_	_	_	_	_
 50	en	_	ADP	_	_	_	_	_	_
-51	bien	_	ADV	_	_	_	_	_	_
+51	bien	_	ADV	_	_	_	_	_	OK
 52	ou	_	CCONJ	_	_	_	_	_	_
 53	mal	_	ADV	_	_	_	_	_	_
 54	,	_	PUNCT	_	_	_	_	_	_
@@ -7234,7 +7207,7 @@
 11	mais	_	CCONJ	_	_	_	_	_	_
 12	essaie	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	_
 13	de	_	ADP	_	_	_	_	_	_
-14	les	_	DET	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
+14	les	_	DET	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	TOCHANGE|POS=PRON|Definite=Def|Number=Plur|Person=3|PronType=Art
 15	wikifiier	_	VERB	_	VerbForm=Inf	_	_	_	_
 16	un	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
 17	peut	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
@@ -7797,7 +7770,7 @@
 # text = bon départ hamelin , et sache que tu n' es pas le seul à penser comme ça .
 1	bon	_	ADJ	_	Number=Sing	_	_	_	_
 2	départ	_	NOUN	_	Number=Sing	_	_	_	_
-3	hamelin	_	ADJ	_	Number=Sing	_	_	_	_
+3	hamelin	_	ADJ	_	Number=Sing	_	_	_	TOCHANGE|POS=PROPN|
 4	,	_	PUNCT	_	_	_	_	_	_
 5	et	_	CCONJ	_	_	_	_	_	_
 6	sache	_	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres	_	_	_	_
@@ -8273,7 +8246,7 @@
 17	préviens	_	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	_	_	_	_
 18	,	_	PUNCT	_	_	_	_	_	_
 19	je	_	PRON	_	Number=Sing|Person=1|PronType=Prs	_	_	_	_
-20	suis	_	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	_	_	_	_
+20	suis	_	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	_	_	_	TOCHANGE|POS=VERB|Mood=Ind|Number=Sing|Person=1|Tense=Pres
 21	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 22	calé	_	VERB	_	Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
 23	en	_	ADP	_	_	_	_	_	_
