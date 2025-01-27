@@ -48,7 +48,7 @@
 22	tu	_	PRON	_	Number=Sing|Person=2|PronType=Prs	_	_	_	_
 23	ne	_	ADV	_	Polarity=Neg	_	_	_	_
 24	nous	_	PRON	_	Number=Plur|Person=1|PronType=Prs	_	_	_	_
-25	avais	_	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Imp	_	_	_	_
+25	avais	_	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Imp	_	_	_
 26	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 27	,	_	PUNCT	_	_	_	_	_	_
 28	pour	_	ADP	_	_	_	_	_	_
@@ -113,7 +113,7 @@
 50	tu	_	PRON	_	Number=Sing|Person=2|PronType=Prs	_	_	_	_
 51	ne	_	ADV	_	Polarity=Neg	_	_	_	_
 52	nous	_	PRON	_	Number=Plur|Person=1|PronType=Prs	_	_	_	_
-53	poserais	_	VERB	_	Mood=Cnd|Number=Sing|Person=1|Tense=Pres	_	_	_	_
+53	poserais	_	VERB	_	Mood=Cnd|Number=Sing|Person=2|Tense=Pres	_	_	_
 54	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 55	la	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 56	question	_	NOUN	_	Number=Sing	_	_	_	_
@@ -132,7 +132,7 @@
 7	tu	_	PRON	_	Number=Sing|Person=2|PronType=Prs	_	_	_	_
 8	ne	_	ADV	_	Polarity=Neg	_	_	_	_
 9	nous	_	PRON	_	Number=Plur|Person=1|PronType=Prs	_	_	_	_
-10	dit	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+10	dis	_	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres	_	_	_
 11	même	_	ADV	_	_	_	_	_	_
 12	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 13	l'	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
@@ -222,7 +222,7 @@
 2	tu	_	PRON	_	Number=Sing|Person=2|PronType=Prs	_	_	_	_
 3	ne	_	ADV	_	Polarity=Neg	_	_	_	_
 4	nous	_	PRON	_	Number=Plur|Person=1|PronType=Prs	_	_	_	_
-5	donne	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+5	donnes	_	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres	_	_	_
 6	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 7	le	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 8	nom	_	NOUN	_	Number=Sing	_	_	_	_
@@ -243,7 +243,7 @@
 3	tu	_	PRON	_	Number=Sing|Person=2|PronType=Prs	_	_	_	_
 4	ne	_	ADV	_	Polarity=Neg	_	_	_	_
 5	nous	_	PRON	_	Number=Plur|Person=1|PronType=Prs	_	_	_	_
-6	reconnais	_	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	_	_	_	_
+6	reconnais	_	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres	_	_	_
 7	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 8	.	_	PUNCT	_	_	_	_	_	_
 
@@ -269,7 +269,7 @@
 3	tu	_	PRON	_	Number=Sing|Person=2|PronType=Prs	_	_	_	_
 4	ne	_	ADV	_	Polarity=Neg	_	_	_	_
 5	nous	_	PRON	_	Number=Plur|Person=1|PronType=Prs	_	_	_	_
-6	a	_	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+6	as	_	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres	_	_	_
 7	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 8	donné	_	VERB	_	Tense=Past|VerbForm=Part	_	_	_	_
 9	d'	_	ADP	_	_	_	_	_	_
@@ -621,7 +621,7 @@
 1	tu	_	PRON	_	Number=Sing|Person=2|PronType=Prs	_	_	_	_
 2	ne	_	ADV	_	Polarity=Neg	_	_	_	_
 3	nous	_	PRON	_	Number=Plur|Person=1|PronType=Prs	_	_	_	_
-4	a	_	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+4	as	_	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres	_	_	_
 5	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 6	averti	_	VERB	_	Tense=Past|VerbForm=Part	_	_	_	_
 7	que	_	SCONJ	_	_	_	_	_	_
@@ -693,7 +693,7 @@
 3	tu	_	PRON	_	Number=Sing|Person=2|PronType=Prs	_	_	_	_
 4	ne	_	ADV	_	Polarity=Neg	_	_	_	_
 5	nous	_	PRON	_	Number=Plur|Person=1|PronType=Prs	_	_	_	_
-6	a	_	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+6	as	_	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres	_	_	_
 7	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 8	encore	_	ADV	_	_	_	_	_	_
 9	expliqué	_	VERB	_	Tense=Past|VerbForm=Part	_	_	_	_
@@ -988,7 +988,7 @@
 46	tu	_	PRON	_	Number=Sing|Person=2|PronType=Prs	_	_	_	_
 47	ne	_	ADV	_	Polarity=Neg	_	_	_	_
 48	nous	_	PRON	_	Number=Plur|Person=1|PronType=Prs	_	_	_	_
-49	a	_	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+49	as	_	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres	_	_	_
 50	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 51	gratifiés	_	VERB	_	Tense=Past|VerbForm=Part	_	_	_	_
 52	d'	_	ADP	_	_	_	_	_	_
@@ -1040,7 +1040,7 @@
 1	tu	_	PRON	_	Number=Sing|Person=2|PronType=Prs	_	_	_	_
 2	ne	_	ADV	_	Polarity=Neg	_	_	_	_
 3	nous	_	PRON	_	Number=Plur|Person=1|PronType=Prs	_	_	_	_
-4	a	_	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+4	as	_	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres	_	_	_
 5	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 6	donné	_	VERB	_	Tense=Past|VerbForm=Part	_	_	_	_
 7	d'	_	ADP	_	_	_	_	_	_
@@ -1220,7 +1220,7 @@
 4	tu	_	PRON	_	Number=Sing|Person=2|PronType=Prs	_	_	_	_
 5	ne	_	ADV	_	Polarity=Neg	_	_	_	_
 6	nous	_	PRON	_	Number=Plur|Person=1|PronType=Prs|Reflex=Yes	_	_	_	_
-7	écoute	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+7	écoutes	_	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres	_	_	_
 8	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 9	,	_	PUNCT	_	_	_	_	_	_
 10	le	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
@@ -1395,7 +1395,7 @@
 9	tu	_	PRON	_	Number=Sing|Person=2|PronType=Prs	_	_	_	_
 10	ne	_	ADV	_	Polarity=Neg	_	_	_	_
 11	nous	_	PRON	_	Number=Plur|Person=1|PronType=Prs	_	_	_	_
-12	invente	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+12	inventes	_	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres	_	_	_
 13	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 14	un	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
 15	point	_	NOUN	_	Number=Sing	_	_	_	_
@@ -1710,7 +1710,7 @@
 16	tu	_	PRON	_	Number=Sing|Person=2|PronType=Prs	_	_	_	_
 17	ne	_	ADV	_	Polarity=Neg	_	_	_	_
 18	nous	_	PRON	_	Number=Plur|Person=1|PronType=Prs	_	_	_	_
-19	a	_	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+19	as	_	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres	_	_	_
 20	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 21	dit	_	VERB	_	Tense=Past|VerbForm=Part	_	_	_	_
 22	ce	_	PRON	_	Number=Sing|Person=3|PronType=Dem	_	_	_	_
@@ -1783,7 +1783,7 @@
 11	tu	_	PRON	_	Number=Sing|Person=2|PronType=Prs	_	_	_	_
 12	ne	_	ADV	_	Polarity=Neg	_	_	_	_
 13	nous	_	PRON	_	Number=Plur|Person=1|PronType=Prs	_	_	_	_
-14	a	_	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+14	as	_	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres	_	_	_
 15	montré	_	VERB	_	Tense=Past|VerbForm=Part	_	_	_	_
 16	qu'	_	SCONJ	_	_	_	_	_	_
 17	une	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
@@ -1869,7 +1869,7 @@
 7	tu	_	PRON	_	Number=Sing|Person=2|PronType=Prs	_	_	_	_
 8	ne	_	ADV	_	Polarity=Neg	_	_	_	_
 9	nous	_	PRON	_	Number=Plur|Person=1|PronType=Prs	_	_	_	_
-10	connaissais	_	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Imp	_	_	_	_
+10	connaissais	_	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Imp	_	_	_
 11	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 12	.	_	PUNCT	_	_	_	_	_	_
 
@@ -1944,7 +1944,7 @@
 10	tu	_	PRON	_	Number=Sing|Person=2|PronType=Prs	_	_	_	_
 11	ne	_	ADV	_	Polarity=Neg	_	_	_	_
 12	nous	_	PRON	_	Number=Plur|Person=1|PronType=Prs	_	_	_	_
-13	aurais	_	AUX	_	Mood=Cnd|Number=Sing|Person=1|Tense=Pres	_	_	_	_
+13	aurais	_	AUX	_	Mood=Cnd|Number=Sing|Person=2|Tense=Pres	_	_	_
 14	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 15	fait	_	VERB	_	Tense=Past|VerbForm=Part	_	_	_	_
 16	perdre	_	VERB	_	VerbForm=Inf	_	_	_	_
@@ -1989,7 +1989,7 @@
 31	tu	_	PRON	_	Number=Sing|Person=2|PronType=Prs	_	_	_	_
 32	ne	_	ADV	_	Polarity=Neg	_	_	_	_
 33	nous	_	PRON	_	Number=Plur|Person=1|PronType=Prs	_	_	_	_
-34	apporte	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+34	apportes	_	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres	_	_	_
 35	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 36	malheureusement	_	ADV	_	_	_	_	_	_
 37	)	_	PUNCT	_	_	_	_	_	_
@@ -2077,7 +2077,7 @@
 33	tu	_	PRON	_	Number=Sing|Person=2|PronType=Prs	_	_	_	_
 34	ne	_	ADV	_	Polarity=Neg	_	_	_	_
 35	nous	_	PRON	_	Number=Plur|Person=1|PronType=Prs	_	_	_	_
-36	crois	_	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	_	_	_	_
+36	crois	_	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres	_	_	_
 37	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 38	capables	_	ADJ	_	Number=Plur	_	_	_	_
 39	de	_	ADP	_	_	_	_	_	_
@@ -2240,7 +2240,7 @@
 22	tu	_	PRON	_	Number=Sing|Person=2|PronType=Prs	_	_	_	_
 23	ne	_	ADV	_	Polarity=Neg	_	_	_	_
 24	nous	_	PRON	_	Number=Plur|Person=1|PronType=Prs	_	_	_	_
-25	avais	_	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Imp	_	_	_	_
+25	avais	_	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Imp	_	_	_
 26	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 27	effectivement	_	ADV	_	_	_	_	_	_
 28	forcé	_	VERB	_	Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
@@ -2447,7 +2447,7 @@
 7	tu	_	PRON	_	Number=Sing|Person=2|PronType=Prs	_	_	_	_
 8	ne	_	ADV	_	Polarity=Neg	_	_	_	_
 9	nous	_	PRON	_	Number=Plur|Person=1|PronType=Prs|Reflex=Yes	_	_	_	_
-10	embête	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+10	embêtes	_	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres	_	_	_
 11	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 12	.	_	PUNCT	_	_	_	_	_	_
 
@@ -2457,7 +2457,7 @@
 1	tu	_	PRON	_	Number=Sing|Person=2|PronType=Prs	_	_	_	_
 2	ne	_	ADV	_	Polarity=Neg	_	_	_	_
 3	nous	_	PRON	_	Number=Plur|Person=1|PronType=Prs	_	_	_	_
-4	prendrais	_	VERB	_	Mood=Cnd|Number=Sing|Person=1|Tense=Pres	_	_	_	_
+4	prendrais	_	VERB	_	Mood=Cnd|Number=Sing|Person=2|Tense=Pres	_	_	_
 5	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 6	pour	_	ADP	_	_	_	_	_	_
 7	joséphine	_	NOUN	_	Number=Sing	_	_	_	_
@@ -2568,7 +2568,7 @@
 10	je	_	PRON	_	Number=Sing|Person=1|PronType=Prs	_	_	_	_
 11	ne	_	ADV	_	Polarity=Neg	_	_	_	_
 12	nous	_	PRON	_	Number=Plur|Person=1|PronType=Prs|Reflex=Yes	_	_	_	_
-13	ait	_	AUX	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+13	ais	_	AUX	_	Mood=Sub|Number=Sing|Person=2|Tense=Pres	_	_	
 14	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 15	mis	_	VERB	_	Tense=Past|VerbForm=Part	_	_	_	_
 16	tout	_	ADJ	_	Number=Sing	_	_	_	_
@@ -2601,7 +2601,7 @@
 1	tu	_	PRON	_	Number=Sing|Person=2|PronType=Prs	_	_	_	_
 2	ne	_	ADV	_	Polarity=Neg	_	_	_	_
 3	nous	_	PRON	_	Number=Plur|Person=1|PronType=Prs	_	_	_	_
-4	prendrais	_	VERB	_	Mood=Cnd|Number=Sing|Person=1|Tense=Pres	_	_	_	_
+4	prendrais	_	VERB	_	Mood=Cnd|Number=Sing|Person=2|Tense=Pres	_	_	_
 5	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 6	pour	_	ADP	_	_	_	_	_	_
 7	joséphine	_	NOUN	_	Number=Sing	_	_	_	_
@@ -2734,7 +2734,7 @@
 4	tu	_	PRON	_	Number=Sing|Person=2|PronType=Prs	_	_	_	_
 5	ne	_	ADV	_	Polarity=Neg	_	_	_	_
 6	nous	_	PRON	_	Number=Plur|Person=1|PronType=Prs|Reflex=Yes	_	_	_	_
-7	empêchais	_	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Imp	_	_	_	_
+7	empêchais	_	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Imp	_	_	_
 8	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 9	de	_	ADP	_	_	_	_	_	_
 10	travailler	_	VERB	_	VerbForm=Inf	_	_	_	_
@@ -2773,7 +2773,7 @@
 2	tu	_	PRON	_	Number=Sing|Person=2|PronType=Prs	_	_	_	_
 3	ne	_	ADV	_	Polarity=Neg	_	_	_	_
 4	nous	_	PRON	_	Number=Plur|Person=1|PronType=Prs	_	_	_	_
-5	voyais	_	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Imp	_	_	_	_
+5	voyais	_	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Imp	_	_	_
 6	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 7	non	_	ADV	_	Polarity=Neg	_	_	_	_
 8	plus	_	ADV	_	_	_	_	_	_
@@ -2821,7 +2821,7 @@
 24	tu	_	PRON	_	Number=Sing|Person=2|PronType=Prs	_	_	_	_
 25	ne	_	ADV	_	Polarity=Neg	_	_	_	_
 26	nous	_	PRON	_	Number=Plur|Person=1|PronType=Prs	_	_	_	_
-27	dit	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+27	dis	_	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres	_	_	_
 28	toujours	_	ADV	_	_	_	_	_	_
 29	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 30	pourquoi	_	ADV	_	_	_	_	_	_
@@ -2949,7 +2949,7 @@
 5	tu	_	PRON	_	Number=Sing|Person=2|PronType=Prs	_	_	_	_
 6	ne	_	ADV	_	Polarity=Neg	_	_	_	_
 7	nous	_	PRON	_	Number=Plur|Person=1|PronType=Prs	_	_	_	_
-8	a	_	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+8	as	_	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres	_	_	_
 9	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 10	mis	_	VERB	_	Tense=Past|VerbForm=Part	_	_	_	_
 11	fascisme	_	NOUN	_	Number=Sing	_	_	_	_
@@ -3034,7 +3034,7 @@
 8	tu	_	PRON	_	Number=Sing|Person=2|PronType=Prs	_	_	_	_
 9	ne	_	ADV	_	Polarity=Neg	_	_	_	_
 10	nous	_	PRON	_	Number=Plur|Person=1|PronType=Prs	_	_	_	_
-11	avais	_	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Imp	_	_	_	_
+11	avais	_	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Imp	_	_	_
 12	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 13	trop	_	ADV	_	_	_	_	_	_
 14	habitué	_	VERB	_	Tense=Past|VerbForm=Part	_	_	_	_
@@ -3068,7 +3068,7 @@
 13	tu	_	PRON	_	Number=Sing|Person=2|PronType=Prs	_	_	_	_
 14	ne	_	ADV	_	Polarity=Neg	_	_	_	_
 15	nous	_	PRON	_	Number=Plur|Person=1|PronType=Prs	_	_	_	_
-16	indique	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+16	indiques	_	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres	_	_	_
 17	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 18	la	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 19	page	_	NOUN	_	Number=Sing	_	_	_	_
@@ -3797,7 +3797,7 @@
 27	je	_	PRON	_	Number=Sing|Person=1|PronType=Prs	_	_	_	_
 28	ne	_	ADV	_	Polarity=Neg	_	_	_	_
 29	vous	_	PRON	_	Number=Plur|Person=2|PronType=Prs	_	_	_	_
-30	importune	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+30	importune	_	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	_	_	
 31	plus	_	ADV	_	_	_	_	_	_
 32	de	_	ADP	_	_	_	_	_	_
 33	la	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
@@ -4635,7 +4635,7 @@
 23	je	_	PRON	_	Number=Sing|Person=1|PronType=Prs	_	_	_	_
 24	ne	_	ADV	_	Polarity=Neg	_	_	_	_
 25	vous	_	PRON	_	Number=Plur|Person=2|PronType=Prs	_	_	_	_
-26	permet	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+26	permets	_	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	_	_	_
 27	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 28	de	_	ADP	_	_	_	_	_	_
 29	dire	_	VERB	_	VerbForm=Inf	_	_	_	_
@@ -5198,7 +5198,7 @@
 4	je	_	PRON	_	Number=Sing|Person=1|PronType=Prs	_	_	_	_
 5	ne	_	ADV	_	Polarity=Neg	_	_	_	_
 6	vous	_	PRON	_	Number=Plur|Person=2|PronType=Prs	_	_	_	_
-7	comprend	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+7	comprends	_	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	_	_	_
 8	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 9	,	_	PUNCT	_	_	_	_	_	_
 10	tiens	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	_
@@ -9808,7 +9808,7 @@
 2	nous	_	PRON	_	Number=Plur|Person=1|PronType=Prs	_	_	_	_
 3	ne	_	ADV	_	Polarity=Neg	_	_	_	_
 4	vous	_	PRON	_	Number=Plur|Person=2|PronType=Prs	_	_	_	_
-5	verront	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Fut	_	_	_	_
+5	verrons	_	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Fut	_	_	_
 6	donc	_	CCONJ	_	_	_	_	_	_
 7	plus	_	ADV	_	_	_	_	_	_
 8	sur	_	ADP	_	_	_	_	_	_
@@ -12310,7 +12310,7 @@
 3	nous	_	PRON	_	Number=Plur|Person=1|PronType=Prs	_	_	_	_
 4	ne	_	ADV	_	Polarity=Neg	_	_	_	_
 5	vous	_	PRON	_	Number=Plur|Person=2|PronType=Prs	_	_	_	_
-6	laisseront	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Fut	_	_	_	_
+6	laisserons	_	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Fut	_	_	_
 7	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 8	utiliser	_	VERB	_	VerbForm=Inf	_	_	_	_
 9	wikipédia	_	NOUN	_	Number=Sing	_	_	_	_
@@ -16110,7 +16110,7 @@
 1	je	_	PRON	_	Number=Sing|Person=1|PronType=Prs	_	_	_	_
 2	ne	_	ADV	_	Polarity=Neg	_	_	_	_
 3	le	_	PRON	_	Definite=Def|Number=Sing|Person=3|PronType=Art	_	_	_	_
-4	fait	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+4	fais	_	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	_	_	_
 5	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 6	maintenant	_	ADV	_	_	_	_	_	_
 7	pour	_	ADP	_	_	_	_	_	_
@@ -16472,7 +16472,7 @@
 1	je	_	PRON	_	Number=Sing|Person=1|PronType=Prs	_	_	_	_
 2	ne	_	ADV	_	Polarity=Neg	_	_	_	_
 3	le	_	PRON	_	Definite=Def|Number=Sing|Person=3|PronType=Art	_	_	_	_
-4	fait	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+4	fais	_	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	_	_	_
 5	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 6	exprès	_	ADV	_	_	_	_	_	_
 7	et	_	CCONJ	_	_	_	_	_	_
@@ -16664,7 +16664,7 @@
 2	je	_	PRON	_	Number=Sing|Person=1|PronType=Prs	_	_	_	_
 3	ne	_	ADV	_	Polarity=Neg	_	_	_	_
 4	le	_	PRON	_	Definite=Def|Number=Sing|Person=3|PronType=Art	_	_	_	_
-5	blanchit	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+5	blanchis	_	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	_	_	_
 6	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 7	,	_	PUNCT	_	_	_	_	_	_
 8	c'	_	PRON	_	Number=Sing|Person=3|PronType=Dem	_	_	_	_
@@ -16875,7 +16875,7 @@
 24	je	_	PRON	_	Number=Sing|Person=1|PronType=Prs	_	_	_	_
 25	ne	_	ADV	_	Polarity=Neg	_	_	_	_
 26	la	_	PRON	_	Definite=Def|Number=Sing|Person=3|PronType=Art	_	_	_	_
-27	fait	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+27	fais	_	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	_	_	_
 28	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 29	intervenir	_	VERB	_	VerbForm=Inf	_	_	_	_
 30	dans	_	ADP	_	_	_	_	_	_
@@ -17428,7 +17428,7 @@
 14	je	_	PRON	_	Number=Sing|Person=1|PronType=Prs	_	_	_	_
 15	ne	_	ADV	_	Polarity=Neg	_	_	_	_
 16	le	_	PRON	_	Definite=Def|Number=Sing|Person=3|PronType=Art	_	_	_	_
-17	fait	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+17	fais	_	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	_	_	
 18	actuellement	_	ADV	_	_	_	_	_	_
 19	(	_	PUNCT	_	_	_	_	_	_
 20	à	_	ADP	_	_	_	_	_	_
@@ -17626,7 +17626,7 @@
 11	je	_	PRON	_	Number=Sing|Person=1|PronType=Prs	_	_	_	_
 12	ne	_	ADV	_	Polarity=Neg	_	_	_	_
 13	la	_	PRON	_	Definite=Def|Number=Sing|Person=3|PronType=Art	_	_	_	_
-14	remet	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+14	remets	_	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	_	_	
 15	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 16	en	_	ADP	_	_	_	_	_	_
 17	cause	_	NOUN	_	Number=Sing	_	_	_	_
@@ -17870,7 +17870,7 @@
 16	je	_	PRON	_	Number=Sing|Person=1|PronType=Prs	_	_	_	_
 17	ne	_	ADV	_	Polarity=Neg	_	_	_	_
 18	le	_	PRON	_	Definite=Def|Number=Sing|Person=3|PronType=Art	_	_	_	_
-19	fait	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+19	fais	_	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	_	_	
 20	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 21	parce	_	SCONJ	_	_	_	_	_	_
 22	que	_	SCONJ	_	_	_	_	_	_
@@ -18885,7 +18885,7 @@
 17	je	_	PRON	_	Number=Sing|Person=1|PronType=Prs	_	_	_	_
 18	ne	_	ADV	_	Polarity=Neg	_	_	_	_
 19	les	_	PRON	_	Definite=Def|Number=Plur|Person=3|PronType=Art	_	_	_	_
-20	connaît	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+20	connaîs	_	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	_	_	_
 21	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 22	vraiment	_	ADV	_	_	_	_	_	_
 23	,	_	PUNCT	_	_	_	_	_	_
@@ -19336,7 +19336,7 @@
 11	tu	_	PRON	_	Number=Sing|Person=2|PronType=Prs	_	_	_	_
 12	ne	_	ADV	_	Polarity=Neg	_	_	_	_
 13	les	_	PRON	_	Definite=Def|Number=Plur|Person=3|PronType=Art	_	_	_	_
-14	a	_	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+14	as	_	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres	_	_	
 15	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 16	lues	_	VERB	_	Tense=Past|VerbForm=Part	_	_	_	_
 17	.	_	PUNCT	_	_	_	_	_	_
@@ -19514,7 +19514,7 @@
 8	tu	_	PRON	_	Number=Sing|Person=2|PronType=Prs	_	_	_	_
 9	ne	_	ADV	_	Polarity=Neg	_	_	_	_
 10	leur	_	PRON	_	Number=Plur|Person=3|PronType=Prs	_	_	_	_
-11	donne	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+11	donnes	_	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres	_	_	_
 12	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 13	une	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
 14	catégorie	_	NOUN	_	Number=Sing	_	_	_	_
@@ -19615,7 +19615,7 @@
 7	tu	_	PRON	_	Number=Sing|Person=2|PronType=Prs	_	_	_	_
 8	ne	_	ADV	_	Polarity=Neg	_	_	_	_
 9	la	_	PRON	_	Definite=Def|Number=Sing|Person=3|PronType=Art	_	_	_	_
-10	faisait	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp	_	_	_	_
+10	faisais	_	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Imp	_	_	_
 11	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 12	en	_	ADP	_	_	_	_	_	_
 13	svg	_	NOUN	_	Number=Sing	_	_	_	_
@@ -20248,7 +20248,7 @@
 14	tu	_	PRON	_	Number=Sing|Person=2|PronType=Prs	_	_	_	_
 15	ne	_	ADV	_	Polarity=Neg	_	_	_	_
 16	lui	_	PRON	_	Number=Sing|Person=3|PronType=Prs	_	_	_	_
-17	explique	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+17	expliques	_	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres	_	_	_
 18	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 19	comment	_	ADV	_	_	_	_	_	_
 20	le	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
@@ -20412,7 +20412,7 @@
 31	tu	_	PRON	_	Number=Sing|Person=2|PronType=Prs	_	_	_	_
 32	ne	_	ADV	_	Polarity=Neg	_	_	_	_
 33	la	_	PRON	_	Definite=Def|Number=Sing|Person=3|PronType=Art	_	_	_	_
-34	respecte	_	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	_	_	_	_
+34	respectes	_	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres	_	_	_
 35	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 36	.	_	PUNCT	_	_	_	_	_	_
 
@@ -20744,7 +20744,7 @@
 3	tu	_	PRON	_	Number=Sing|Person=2|PronType=Prs	_	_	_	_
 4	ne	_	ADV	_	Polarity=Neg	_	_	_	_
 5	le	_	PRON	_	Definite=Def|Number=Sing|Person=3|PronType=Art	_	_	_	_
-6	sait	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+6	sais	_	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres	_	_	
 7	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 8	,	_	PUNCT	_	_	_	_	_	_
 9	ce	_	PRON	_	Number=Sing|Person=3|PronType=Dem	_	_	_	_
@@ -20787,7 +20787,7 @@
 46	tu	_	PRON	_	Number=Sing|Person=2|PronType=Prs	_	_	_	_
 47	ne	_	ADV	_	Polarity=Neg	_	_	_	_
 48	le	_	PRON	_	Definite=Def|Number=Sing|Person=3|PronType=Art	_	_	_	_
-49	découvre	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+49	découvres	_	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres	_	_	_
 50	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 51	,	_	PUNCT	_	_	_	_	_	_
 52	tu	_	PRON	_	Number=Sing|Person=2|PronType=Prs	_	_	_	_
@@ -20922,7 +20922,7 @@
 2	tu	_	PRON	_	Number=Sing|Person=2|PronType=Prs	_	_	_	_
 3	ne	_	ADV	_	Polarity=Neg	_	_	_	_
 4	le	_	PRON	_	Definite=Def|Number=Sing|Person=3|PronType=Art	_	_	_	_
-5	connaissais	_	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Imp	_	_	_	_
+5	connaissais	_	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Imp	_	_	_
 6	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 7	,	_	PUNCT	_	_	_	_	_	_
 8	je	_	PRON	_	Number=Sing|Person=1|PronType=Prs	_	_	_	_
@@ -20964,7 +20964,7 @@
 1	tu	_	PRON	_	Number=Sing|Person=2|PronType=Prs	_	_	_	_
 2	ne	_	ADV	_	Polarity=Neg	_	_	_	_
 3	les	_	PRON	_	Definite=Def|Number=Plur|Person=3|PronType=Art	_	_	_	_
-4	supprime	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+4	supprimes	_	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres	_	_	
 5	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 6	.	_	PUNCT	_	_	_	_	_	_
 
@@ -21100,7 +21100,7 @@
 13	tu	_	PRON	_	Number=Sing|Person=2|PronType=Prs	_	_	_	_
 14	ne	_	ADV	_	Polarity=Neg	_	_	_	_
 15	les	_	PRON	_	Definite=Def|Number=Plur|Person=3|PronType=Art	_	_	_	_
-16	couds	_	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	_	_	_	_
+16	couds	_	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres	_	_	_
 17	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 18	sur	_	ADP	_	_	_	_	_	_
 19	un	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
@@ -21199,7 +21199,7 @@
 30	tu	_	PRON	_	Number=Sing|Person=2|PronType=Prs	_	_	_	_
 31	ne	_	ADV	_	Polarity=Neg	_	_	_	_
 32	le	_	PRON	_	Definite=Def|Number=Sing|Person=3|PronType=Art	_	_	_	_
-33	proposais	_	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Imp	_	_	_	_
+33	proposais	_	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Imp	_	_	_
 34	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 35	comme	_	SCONJ	_	_	_	_	_	_
 36	canulard	_	NOUN	_	Number=Sing	_	_	_	_
@@ -21230,7 +21230,7 @@
 7	tu	_	PRON	_	Number=Sing|Person=2|PronType=Prs	_	_	_	_
 8	ne	_	ADV	_	Polarity=Neg	_	_	_	_
 9	les	_	PRON	_	Definite=Def|Number=Plur|Person=3|PronType=Art	_	_	_	_
-10	signale	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+10	signales	_	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres	_	_	_
 11	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 12	.	_	PUNCT	_	_	_	_	_	_
 
@@ -21298,7 +21298,7 @@
 24	tu	_	PRON	_	Number=Sing|Person=2|PronType=Prs	_	_	_	_
 25	ne	_	ADV	_	Polarity=Neg	_	_	_	_
 26	le	_	PRON	_	Definite=Def|Number=Sing|Person=3|PronType=Art	_	_	_	_
-27	sous-entends	_	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	_	_	_	_
+27	sous-entends	_	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres	_	_	_
 28	.	_	PUNCT	_	_	_	_	_	_
 
 
@@ -21307,7 +21307,7 @@
 1	tu	_	PRON	_	Number=Sing|Person=2|PronType=Prs	_	_	_	_
 2	ne	_	ADV	_	Polarity=Neg	_	_	_	_
 3	la	_	PRON	_	Definite=Def|Number=Sing|Person=3|PronType=Art	_	_	_	_
-4	croyais	_	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Imp	_	_	_	_
+4	croyais	_	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Imp	_	_	_
 5	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 6	fichue	_	ADJ	_	Number=Sing	_	_	_	_
 7	,	_	PUNCT	_	_	_	_	_	_
@@ -21678,7 +21678,7 @@
 56	tu	_	PRON	_	Number=Sing|Person=2|PronType=Prs	_	_	_	_
 57	ne	_	ADV	_	Polarity=Neg	_	_	_	_
 58	le	_	PRON	_	Definite=Def|Number=Sing|Person=3|PronType=Art	_	_	_	_
-59	mentionne	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+59	mentionnes	_	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres	_	_	_
 60	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 61	,	_	PUNCT	_	_	_	_	_	_
 62	ni	_	CCONJ	_	_	_	_	_	_
@@ -21812,7 +21812,7 @@
 13	tu	_	PRON	_	Number=Sing|Person=2|PronType=Prs	_	_	_	_
 14	ne	_	ADV	_	Polarity=Neg	_	_	_	_
 15	les	_	PRON	_	Definite=Def|Number=Plur|Person=3|PronType=Art	_	_	_	_
-16	relis	_	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	_	_	_	_
+16	relis	_	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres	_	_	_
 17	;	_	PUNCT	_	_	_	_	_	_
 
 
@@ -21845,7 +21845,7 @@
 8	tu	_	PRON	_	Number=Sing|Person=2|PronType=Prs	_	_	_	_
 9	ne	_	ADV	_	Polarity=Neg	_	_	_	_
 10	la	_	PRON	_	Definite=Def|Number=Sing|Person=3|PronType=Art	_	_	_	_
-11	transforme	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+11	transformes	_	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres	_	_	_
 12	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 13	en	_	ADP	_	_	_	_	_	_
 14	svg	_	NOUN	_	Number=Sing	_	_	_	_
@@ -21953,7 +21953,7 @@
 1	tu	_	PRON	_	Number=Sing|Person=2|PronType=Prs	_	_	_	_
 2	ne	_	ADV	_	Polarity=Neg	_	_	_	_
 3	la	_	PRON	_	Definite=Def|Number=Sing|Person=3|PronType=Art	_	_	_	_
-4	trouve	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+4	trouves	_	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres	_	_	_
 5	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 6	pertinante	_	ADJ	_	Number=Sing	_	_	_	_
 7	?	_	PUNCT	_	_	_	_	_	_

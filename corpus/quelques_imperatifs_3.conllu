@@ -2809,18 +2809,6 @@
 
 
 
-# text = mais ne te sens oblige , eh ?
-1	mais	_	CCONJ	_	_	_	_	_	_
-2	ne	_	ADV	_	Polarity=Neg	_	_	_	_
-3	te	_	PRON	_	Number=Sing|Person=2|PronType=Prs	_	_	_	_
-4	sens	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	TODO=_|Person=12
-5	oblige	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_
-6	,	_	PUNCT	_	_	_	_	_	_
-7	eh	_	INTJ	_	_	_	_	_	_
-8	?	_	PUNCT	_	_	_	_	_	_
-
-
-
 # text = mais ne manques -tu pas un peu d' audace ?
 1	mais	_	CCONJ	_	_	_	_	_	_
 2	ne	_	ADV	_	Polarity=Neg	_	_	_	_
@@ -5002,7 +4990,7 @@
 32	discussion	_	NOUN	_	Number=Sing	_	_	_	_
 33	ne	_	ADV	_	Polarity=Neg	_	_	_	_
 34	te	_	PRON	_	Number=Sing|Person=2|PronType=Prs	_	_	_	_
-35	sens	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	TODO=_|Person=12
+35	sens	_	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres	_	_	_
 36	surtout	_	ADV	_	_	_	_	_	_
 37	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 38	touché	_	VERB	_	Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
