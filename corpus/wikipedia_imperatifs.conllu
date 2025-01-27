@@ -276,7 +276,7 @@
 9	un	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
 10	plan	_	NOUN	_	Number=Sing	_	_	_	_
 11	,	_	PUNCT	_	_	_	_	_	_
-12	détermines	_	VERB	_	Mood=IMp|Number=Sing|Person=2|Tense=Pres	_	_	_	_
+12	détermine	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	_
 13	ce	_	PRON	_	Number=Sing|Person=3|PronType=Dem	_	_	_	_
 14	qui	_	PRON	_	PronType=Rel	_	_	_	_
 15	est	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
