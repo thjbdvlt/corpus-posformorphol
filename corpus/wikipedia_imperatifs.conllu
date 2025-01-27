@@ -1115,7 +1115,7 @@
 
 
 
-# text = prends ton temps smille .
+# text = prends ton temps .
 1	prends	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	_
 2	ton	_	DET	_	Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes	_	_	_	_
 3	temps	_	NOUN	_	Number=Sing	_	_	_	_
@@ -6085,7 +6085,7 @@
 
 
 
-# text = concevez maintenant , si vous voulez bien , que la pierre , tandis qu' elle continue de se mouvoir , pense et sache qu' elle fait effort , autant qu' elle peut , pour se mouvoir .
+# text = sache qu' elle fait effort , autant qu' elle peut , pour se mouvoir .
 23	sache	_	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 24	qu'	_	SCONJ	_	_	_	_	_	_
 25	elle	_	PRON	_	Number=Sing|Person=3|PronType=Prs	_	_	_	_
@@ -8277,1324 +8277,1448 @@
 36	.	_	PUNCT	_	_	_	_	_	_
 
 
+
 # text = n' oublie pas qu' il y a déjà un article sous forme de tableau ici .
-1	n'	ne	ADV		Polarity=Neg	2	_	advmod	_
-2	oublie	oublier	VERB		Mood=Imp|Number=Sing|Person=3|Tense=Pres	2	_	ROOT	_
-3	pas	pas	ADV		Polarity=Neg	2	_	advmod	_
-4	qu'	que	SCONJ			7	_	mark	_
-5	il	il	PRON		Number=Sing|Person=3|PronType=Prs	7	_	expl:subj	_
-6	y	y	PRON		Person=3	7	_	expl:comp	_
-7	a	avoir	VERB		Mood=Ind|Number=Sing|Person=3|Tense=Pres	2	_	ccomp	_
-8	déjà	déjà	ADV			7	_	advmod	_
-9	un	un·e	DET		Definite=Ind|Number=Sing|PronType=Art	10	_	det	_
-10	article	article	NOUN		Number=Sing	7	_	obj	_
-11	sous	sous	ADP			12	_	case	_
-12	forme	forme	NOUN		Number=Sing	10	_	nmod	_
-13	de	de	ADP			14	_	case	_
-14	tableau	tableau	NOUN		Number=Sing	12	_	nmod	_
-15	ici	ici	ADV			14	_	advmod	_
-16	.	.	PUNCT			2	_	punct	_
+1	n'	ne	ADV	_	Polarity=Neg	2	_	advmod	_
+2	oublie	oublier	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	2	_	ROOT	_
+3	pas	pas	ADV	_	Polarity=Neg	2	_	advmod	_
+4	qu'	que	SCONJ	_	_	7	_	mark	_
+5	il	il	PRON	_	Number=Sing|Person=3|PronType=Prs	7	_	expl:subj	_
+6	y	y	PRON	_	Person=3	7	_	expl:comp	_
+7	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	2	_	ccomp	_
+8	déjà	déjà	ADV	_	_	7	_	advmod	_
+9	un	un·e	DET	_	Definite=Ind|Number=Sing|PronType=Art	10	_	det	_
+10	article	article	NOUN	_	Number=Sing	7	_	obj	_
+11	sous	sous	ADP	_	_	12	_	case	_
+12	forme	forme	NOUN	_	Number=Sing	10	_	nmod	_
+13	de	de	ADP	_	_	14	_	case	_
+14	tableau	tableau	NOUN	_	Number=Sing	12	_	nmod	_
+15	ici	ici	ADV	_	_	14	_	advmod	_
+16	.	.	PUNCT	_	_	2	_	punct	_
+
+
 
 # text = et n' oublie pas de réintégrer carrasso à l' effectif monégasque à minuit , pusique c' est ta plus grande satisfaction anticipée depuis plusieurs jours !
-1	et	et	CCONJ			3	_	cc	_
-2	n'	ne	ADV		Polarity=Neg	3	_	advmod	_
-3	oublie	oublier	VERB		Mood=Imp|Number=Sing|Person=3|Tense=Pres	3	_	ROOT	_
-4	pas	pas	ADV		Polarity=Neg	3	_	advmod	_
-5	de	de	ADP			6	_	mark	_
-6	réintégrer	réintégrer	VERB		VerbForm=Inf	3	_	xcomp	_
-7	carrasso	carrasso	NOUN		Number=Plur	6	_	obj	_
-8	à	à	ADP			10	_	case	_
-9	l'	le·a	DET		Definite=Def|Number=Sing|PronType=Art	10	_	det	_
-10	effectif	effectif	NOUN		Number=Sing	6	_	obl:arg	_
-11	monégasque	monégasque	ADJ		Number=Sing	10	_	amod	_
-12	à	à	ADP			13	_	case	_
-13	minuit	minuit	NOUN		Number=Sing	6	_	obl:mod	_
-14	,	,	PUNCT			15	_	punct	_
-15	pusique	pusique	NOUN		Number=Sing	6	_	obl:mod	_
-16	c'	ce	PRON		Number=Sing|Person=3|PronType=Dem	21	_	nsubj	_
-17	est	être	VERB		Mood=Ind|Number=Sing|Person=3|Tense=Pres	21	_	cop	_
-18	ta	ta	DET		Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes	21	_	det	_
-19	plus	plus	ADV			20	_	advmod	_
-20	grande	grand·e	ADJ		Number=Sing	21	_	amod	_
-21	satisfaction	satisfaction	NOUN		Number=Sing	6	_	obj	_
-22	anticipée	anticiper	ADJ		Number=Sing	21	_	amod	_
-23	depuis	depuis	ADP			25	_	case	_
-24	plusieurs	plusieurs	DET		Definite=Ind|Number=Plur|PronType=Art	25	_	det	_
-25	jours	jour	NOUN		Number=Plur	6	_	obl:mod	_
-26	!	!	PUNCT			3	_	punct	_
+1	et	et	CCONJ	_	_	3	_	cc	_
+2	n'	ne	ADV	_	Polarity=Neg	3	_	advmod	_
+3	oublie	oublier	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	3	_	ROOT	_
+4	pas	pas	ADV	_	Polarity=Neg	3	_	advmod	_
+5	de	de	ADP	_	_	6	_	mark	_
+6	réintégrer	réintégrer	VERB	_	VerbForm=Inf	3	_	xcomp	_
+7	carrasso	carrasso	NOUN	_	Number=Plur	6	_	obj	_
+8	à	à	ADP	_	_	10	_	case	_
+9	l'	le·a	DET	_	Definite=Def|Number=Sing|PronType=Art	10	_	det	_
+10	effectif	effectif	NOUN	_	Number=Sing	6	_	obl:arg	_
+11	monégasque	monégasque	ADJ	_	Number=Sing	10	_	amod	_
+12	à	à	ADP	_	_	13	_	case	_
+13	minuit	minuit	NOUN	_	Number=Sing	6	_	obl:mod	_
+14	,	,	PUNCT	_	_	15	_	punct	_
+15	pusique	pusique	NOUN	_	Number=Sing	6	_	obl:mod	_
+16	c'	ce	PRON	_	Number=Sing|Person=3|PronType=Dem	21	_	nsubj	_
+17	est	être	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	21	_	cop	_
+18	ta	ta	DET	_	Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes	21	_	det	_
+19	plus	plus	ADV	_	_	20	_	advmod	_
+20	grande	grand·e	ADJ	_	Number=Sing	21	_	amod	_
+21	satisfaction	satisfaction	NOUN	_	Number=Sing	6	_	obj	_
+22	anticipée	anticiper	ADJ	_	Number=Sing	21	_	amod	_
+23	depuis	depuis	ADP	_	_	25	_	case	_
+24	plusieurs	plusieurs	DET	_	Definite=Ind|Number=Plur|PronType=Art	25	_	det	_
+25	jours	jour	NOUN	_	Number=Plur	6	_	obl:mod	_
+26	!	!	PUNCT	_	_	3	_	punct	_
+
+
 
 # text = n' oublie pas de t' inscrire .
-1	n'	ne	ADV		Polarity=Neg	2	_	advmod	_
-2	oublie	oublier	VERB		Mood=Imp|Number=Sing|Person=3|Tense=Pres	2	_	ROOT	_
-3	pas	pas	ADV		Polarity=Neg	2	_	advmod	_
-4	de	de	ADP			6	_	mark	_
-5	t'	te	PRON		Number=Sing|Person=2|PronType=Prs	6	_	obj	_
-6	inscrire	inscrire	VERB		VerbForm=Inf	2	_	xcomp	_
-7	.	.	PUNCT			2	_	punct	_
+1	n'	ne	ADV	_	Polarity=Neg	2	_	advmod	_
+2	oublie	oublier	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	2	_	ROOT	_
+3	pas	pas	ADV	_	Polarity=Neg	2	_	advmod	_
+4	de	de	ADP	_	_	6	_	mark	_
+5	t'	te	PRON	_	Number=Sing|Person=2|PronType=Prs	6	_	obj	_
+6	inscrire	inscrire	VERB	_	VerbForm=Inf	2	_	xcomp	_
+7	.	.	PUNCT	_	_	2	_	punct	_
+
+
 
 # text = oublie le " vie personnelle " , mais si tu veux mettre ça , ça a plus sa place dans " selles en dehors des courts " ou " selles dans la culture populaire " que dans " distinctions et récompenses " .
-1	oublie	oublier	VERB		Mood=Imp|Number=Sing|Person=3|Tense=Pres	1	_	ROOT	_
-2	le	le·la	DET		Definite=Def|Number=Sing|PronType=Art	4	_	det	_
-3	"	"	PUNCT			4	_	punct	_
-4	vie	vie	NOUN		Number=Sing	1	_	obj	_
-5	personnelle	personnel·le	ADJ		Number=Sing	4	_	amod	_
-6	"	"	PUNCT			4	_	punct	_
-7	,	,	PUNCT			11	_	punct	_
-8	mais	mais	CCONJ			11	_	cc	_
-9	si	si	SCONJ			11	_	mark	_
-10	tu	tu	PRON		Number=Sing|Person=2|PronType=Prs	11	_	nsubj	_
-11	veux	vouloir	VERB		Mood=Ind|Number=Sing|Person=2|Tense=Pres	16	_	advcl	_
-12	mettre	mettre	VERB		VerbForm=Inf	11	_	xcomp	_
-13	ça	ça	PRON		Number=Sing|Person=3|PronType=Dem	12	_	obj	_
-14	,	,	PUNCT			11	_	punct	_
-15	ça	ça	PRON		Number=Sing|Person=3|PronType=Dem	16	_	nsubj	_
-16	a	avoir	VERB		Mood=Ind|Number=Sing|Person=3|Tense=Pres	1	_	ccomp	_
-17	plus	plus	ADV			16	_	advmod	_
-18	sa	sa	DET		Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes	19	_	det	_
-19	place	place	NOUN		Number=Sing	16	_	obj	_
-20	dans	dans	ADP			22	_	case	_
-21	"	"	PUNCT			22	_	punct	_
-22	selles	selle	NOUN		Number=Plur	16	_	obl:mod	_
-23	en	en	ADP			24	_	case	_
-24	dehors	dehors	ADV			16	_	obl:mod	_
-25	des	de	DET		Definite=Ind|Number=Plur|PronType=Art	26	_	det	_
-26	courts	court·e	NOUN		Number=Plur	16	_	obj	_
-27	"	"	PUNCT			26	_	punct	_
-28	ou	ou	CCONJ			30	_	cc	_
-29	"	"	PUNCT			30	_	punct	_
-30	selles	selle	NOUN		Number=Plur	26	_	conj	_
-31	dans	dans	ADP			33	_	case	_
-32	la	le	DET		Definite=Def|Number=Sing|PronType=Art	33	_	det	_
-33	culture	culture	NOUN		Number=Sing	30	_	nmod	_
-34	populaire	populaire	ADJ		Number=Sing	33	_	amod	_
-35	"	"	PUNCT			30	_	punct	_
-36	que	que	SCONJ			30	_	punct	_
-37	dans	dans	ADP			39	_	case	_
-38	"	"	PUNCT			39	_	punct	_
-39	distinctions	distinction	NOUN		Number=Plur	16	_	obl:mod	_
-40	et	et	CCONJ			41	_	cc	_
-41	récompenses	récompense	NOUN		Number=Plur	39	_	conj	_
-42	"	"	PUNCT			39	_	punct	_
-43	.	.	PUNCT			1	_	punct	_
+1	oublie	oublier	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	1	_	ROOT	_
+2	le	le·la	DET	_	Definite=Def|Number=Sing|PronType=Art	4	_	det	_
+3	"	"	PUNCT	_	_	4	_	punct	_
+4	vie	vie	NOUN	_	Number=Sing	1	_	obj	_
+5	personnelle	personnel·le	ADJ	_	Number=Sing	4	_	amod	_
+6	"	"	PUNCT	_	_	4	_	punct	_
+7	,	,	PUNCT	_	_	11	_	punct	_
+8	mais	mais	CCONJ	_	_	11	_	cc	_
+9	si	si	SCONJ	_	_	11	_	mark	_
+10	tu	tu	PRON	_	Number=Sing|Person=2|PronType=Prs	11	_	nsubj	_
+11	veux	vouloir	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres	16	_	advcl	_
+12	mettre	mettre	VERB	_	VerbForm=Inf	11	_	xcomp	_
+13	ça	ça	PRON	_	Number=Sing|Person=3|PronType=Dem	12	_	obj	_
+14	,	,	PUNCT	_	_	11	_	punct	_
+15	ça	ça	PRON	_	Number=Sing|Person=3|PronType=Dem	16	_	nsubj	_
+16	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	1	_	ccomp	_
+17	plus	plus	ADV	_	_	16	_	advmod	_
+18	sa	sa	DET	_	Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes	19	_	det	_
+19	place	place	NOUN	_	Number=Sing	16	_	obj	_
+20	dans	dans	ADP	_	_	22	_	case	_
+21	"	"	PUNCT	_	_	22	_	punct	_
+22	selles	selle	NOUN	_	Number=Plur	16	_	obl:mod	_
+23	en	en	ADP	_	_	24	_	case	_
+24	dehors	dehors	ADV	_	_	16	_	obl:mod	_
+25	des	de	DET	_	Definite=Ind|Number=Plur|PronType=Art	26	_	det	_
+26	courts	court·e	NOUN	_	Number=Plur	16	_	obj	_
+27	"	"	PUNCT	_	_	26	_	punct	_
+28	ou	ou	CCONJ	_	_	30	_	cc	_
+29	"	"	PUNCT	_	_	30	_	punct	_
+30	selles	selle	NOUN	_	Number=Plur	26	_	conj	_
+31	dans	dans	ADP	_	_	33	_	case	_
+32	la	le	DET	_	Definite=Def|Number=Sing|PronType=Art	33	_	det	_
+33	culture	culture	NOUN	_	Number=Sing	30	_	nmod	_
+34	populaire	populaire	ADJ	_	Number=Sing	33	_	amod	_
+35	"	"	PUNCT	_	_	30	_	punct	_
+36	que	que	SCONJ	_	_	30	_	punct	_
+37	dans	dans	ADP	_	_	39	_	case	_
+38	"	"	PUNCT	_	_	39	_	punct	_
+39	distinctions	distinction	NOUN	_	Number=Plur	16	_	obl:mod	_
+40	et	et	CCONJ	_	_	41	_	cc	_
+41	récompenses	récompense	NOUN	_	Number=Plur	39	_	conj	_
+42	"	"	PUNCT	_	_	39	_	punct	_
+43	.	.	PUNCT	_	_	1	_	punct	_
+
+
 
 # text = n' oublie juste pas de signer tes messages par quatre ~ pour que ton message ne reste pas anonyme !
-1	n'	ne	ADV		Polarity=Neg	2	_	advmod	_
-2	oublie	oublier	VERB		Mood=Imp|Number=Sing|Person=3|Tense=Pres	2	_	ROOT	_
-3	juste	juste	ADJ		Number=Sing	2	_	advmod	_
-4	pas	pas	ADV		Polarity=Neg	2	_	advmod	_
-5	de	de	ADP			6	_	mark	_
-6	signer	signer	VERB		VerbForm=Inf	2	_	ccomp	_
-7	tes	tes	DET		Number=Plur|Number[psor]=Sing|Person=2|Poss=Yes	8	_	det	_
-8	messages	message	NOUN		Number=Plur	6	_	obj	_
-9	par	par	ADP			11	_	case	_
-10	quatre	quatre	NUM		NumType=Card	11	_	nummod	_
-11	~	~	PUNCT			6	_	obl:arg	_
-12	pour	pour	ADP			17	_	mark	_
-13	que	que	SCONJ			17	_	mark	_
-14	ton	ton	DET		Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes	15	_	det	_
-15	message	message	NOUN		Number=Sing	17	_	nsubj	_
-16	ne	ne	ADV		Polarity=Neg	17	_	advmod	_
-17	reste	rester	VERB		Mood=Ind|Number=Sing|Person=3|Tense=Pres	6	_	advcl	_
-18	pas	pas	ADV		Polarity=Neg	17	_	advmod	_
-19	anonyme	anonyme	ADJ		Number=Sing	17	_	amod	_
-20	!	!	PUNCT			2	_	punct	_
+1	n'	ne	ADV	_	Polarity=Neg	2	_	advmod	_
+2	oublie	oublier	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	2	_	ROOT	_
+3	juste	juste	ADJ	_	Number=Sing	2	_	advmod	_
+4	pas	pas	ADV	_	Polarity=Neg	2	_	advmod	_
+5	de	de	ADP	_	_	6	_	mark	_
+6	signer	signer	VERB	_	VerbForm=Inf	2	_	ccomp	_
+7	tes	tes	DET	_	Number=Plur|Number[psor]=Sing|Person=2|Poss=Yes	8	_	det	_
+8	messages	message	NOUN	_	Number=Plur	6	_	obj	_
+9	par	par	ADP	_	_	11	_	case	_
+10	quatre	quatre	NUM	_	NumType=Card	11	_	nummod	_
+11	~	~	PUNCT	_	_	6	_	obl:arg	_
+12	pour	pour	ADP	_	_	17	_	mark	_
+13	que	que	SCONJ	_	_	17	_	mark	_
+14	ton	ton	DET	_	Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes	15	_	det	_
+15	message	message	NOUN	_	Number=Sing	17	_	nsubj	_
+16	ne	ne	ADV	_	Polarity=Neg	17	_	advmod	_
+17	reste	rester	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	6	_	advcl	_
+18	pas	pas	ADV	_	Polarity=Neg	17	_	advmod	_
+19	anonyme	anonyme	ADJ	_	Number=Sing	17	_	amod	_
+20	!	!	PUNCT	_	_	2	_	punct	_
+
+
 
 # text = n' oublie pas signer aussi quand tu postes .
-1	n'	ne	ADV		Polarity=Neg	2	_	advmod	_
-2	oublie	oublier	VERB		Mood=Imp|Number=Sing|Person=3|Tense=Pres	2	_	ROOT	_
-3	pas	pas	ADV		Polarity=Neg	2	_	advmod	_
-4	signer	signer	VERB		VerbForm=Inf	2	_	ccomp	_
-5	aussi	aussi	ADV			4	_	advmod	_
-6	quand	quand	SCONJ			8	_	mark	_
-7	tu	tu	PRON		Number=Sing|Person=2|PronType=Prs	8	_	nsubj	_
-8	postes	poster	VERB		Mood=Ind|Number=Sing|Person=2|Tense=Pres	4	_	obl:arg	_
-9	.	.	PUNCT			2	_	punct	_
+1	n'	ne	ADV	_	Polarity=Neg	2	_	advmod	_
+2	oublie	oublier	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	2	_	ROOT	_
+3	pas	pas	ADV	_	Polarity=Neg	2	_	advmod	_
+4	signer	signer	VERB	_	VerbForm=Inf	2	_	ccomp	_
+5	aussi	aussi	ADV	_	_	4	_	advmod	_
+6	quand	quand	SCONJ	_	_	8	_	mark	_
+7	tu	tu	PRON	_	Number=Sing|Person=2|PronType=Prs	8	_	nsubj	_
+8	postes	poster	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres	4	_	obl:arg	_
+9	.	.	PUNCT	_	_	2	_	punct	_
+
+
 
 # text = n' oublie pas mes conseils quand tu crées de nouvelles pages .
-1	n'	ne	ADV		Polarity=Neg	2	_	advmod	_
-2	oublie	oublier	VERB		Mood=Imp|Number=Sing|Person=3|Tense=Pres	2	_	ROOT	_
-3	pas	pas	ADV		Polarity=Neg	2	_	advmod	_
-4	mes	mes	DET		Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes	5	_	det	_
-5	conseils	conseil	NOUN		Number=Plur	2	_	obj	_
-6	quand	quand	SCONJ			8	_	mark	_
-7	tu	tu	PRON		Number=Sing|Person=2|PronType=Prs	8	_	nsubj	_
-8	crées	créer	VERB		Mood=Ind|Number=Sing|Person=2|Tense=Pres	2	_	advcl	_
-9	de	de	ADP			11	_	det	_
-10	nouvelles	nouveau·elle	ADJ		Number=Plur	11	_	amod	_
-11	pages	page	NOUN		Number=Plur	8	_	obj	_
-12	.	.	PUNCT			2	_	punct	_
+1	n'	ne	ADV	_	Polarity=Neg	2	_	advmod	_
+2	oublie	oublier	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	2	_	ROOT	_
+3	pas	pas	ADV	_	Polarity=Neg	2	_	advmod	_
+4	mes	mes	DET	_	Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes	5	_	det	_
+5	conseils	conseil	NOUN	_	Number=Plur	2	_	obj	_
+6	quand	quand	SCONJ	_	_	8	_	mark	_
+7	tu	tu	PRON	_	Number=Sing|Person=2|PronType=Prs	8	_	nsubj	_
+8	crées	créer	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres	2	_	advcl	_
+9	de	de	ADP	_	_	11	_	det	_
+10	nouvelles	nouveau·elle	ADJ	_	Number=Plur	11	_	amod	_
+11	pages	page	NOUN	_	Number=Plur	8	_	obj	_
+12	.	.	PUNCT	_	_	2	_	punct	_
+
+
 
 # text = attention , si tu en fais une partie , n' oublie pas d' utiliser le modèle catégorie renommée .
-1	attention	attention	NOUN		Number=Sing	11	_	nsubj	_
-2	,	,	PUNCT			6	_	punct	_
-3	si	si	SCONJ			6	_	mark	_
-4	tu	tu	PRON		Number=Sing|Person=2|PronType=Prs	6	_	nsubj	_
-5	en	en	PRON		Person=3	6	_	iobj	_
-6	fais	faire	VERB		Mood=Ind|Number=Sing|Person=2|Tense=Pres	11	_	advcl	_
-7	une	un·e	DET		Definite=Ind|Number=Sing|PronType=Art	8	_	det	_
-8	partie	partie	NOUN		Number=Sing	6	_	obj	_
-9	,	,	PUNCT			11	_	punct	_
-10	n'	ne	ADV		Polarity=Neg	11	_	advmod	_
-11	oublie	oublier	VERB		Mood=Imp|Number=Sing|Person=3|Tense=Pres	11	_	ROOT	_
-12	pas	pas	ADV		Polarity=Neg	11	_	advmod	_
-13	d'	de	ADP			14	_	mark	_
-14	utiliser	utiliser	VERB		VerbForm=Inf	11	_	xcomp	_
-15	le	le·la	DET		Definite=Def|Number=Sing|PronType=Art	16	_	det	_
-16	modèle	modèle	NOUN		Number=Sing	14	_	obj	_
-17	catégorie	catégorie	NOUN		Number=Sing	16	_	nmod	_
-18	renommée	renommer	ADJ		Number=Sing	17	_	amod	_
-19	.	.	PUNCT			11	_	punct	_
+1	attention	attention	NOUN	_	Number=Sing	11	_	nsubj	_
+2	,	,	PUNCT	_	_	6	_	punct	_
+3	si	si	SCONJ	_	_	6	_	mark	_
+4	tu	tu	PRON	_	Number=Sing|Person=2|PronType=Prs	6	_	nsubj	_
+5	en	en	PRON	_	Person=3	6	_	iobj	_
+6	fais	faire	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres	11	_	advcl	_
+7	une	un·e	DET	_	Definite=Ind|Number=Sing|PronType=Art	8	_	det	_
+8	partie	partie	NOUN	_	Number=Sing	6	_	obj	_
+9	,	,	PUNCT	_	_	11	_	punct	_
+10	n'	ne	ADV	_	Polarity=Neg	11	_	advmod	_
+11	oublie	oublier	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	11	_	ROOT	_
+12	pas	pas	ADV	_	Polarity=Neg	11	_	advmod	_
+13	d'	de	ADP	_	_	14	_	mark	_
+14	utiliser	utiliser	VERB	_	VerbForm=Inf	11	_	xcomp	_
+15	le	le·la	DET	_	Definite=Def|Number=Sing|PronType=Art	16	_	det	_
+16	modèle	modèle	NOUN	_	Number=Sing	14	_	obj	_
+17	catégorie	catégorie	NOUN	_	Number=Sing	16	_	nmod	_
+18	renommée	renommer	ADJ	_	Number=Sing	17	_	amod	_
+19	.	.	PUNCT	_	_	11	_	punct	_
+
+
 
 # text = n' oublie pas de signer tes messages perso !
-1	n'	ne	ADV		Polarity=Neg	2	_	advmod	_
-2	oublie	oublier	VERB		Mood=Imp|Number=Sing|Person=3|Tense=Pres	2	_	ROOT	_
-3	pas	pas	ADV		Polarity=Neg	2	_	advmod	_
-4	de	de	ADP			5	_	mark	_
-5	signer	signer	VERB		VerbForm=Inf	2	_	xcomp	_
-6	tes	tes	DET		Number=Plur|Number[psor]=Sing|Person=2|Poss=Yes	7	_	det	_
-7	messages	message	NOUN		Number=Plur	5	_	obj	_
-8	perso	perso	ADJ		Number=Plur	7	_	amod	_
-9	!	!	PUNCT			2	_	punct	_
+1	n'	ne	ADV	_	Polarity=Neg	2	_	advmod	_
+2	oublie	oublier	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	2	_	ROOT	_
+3	pas	pas	ADV	_	Polarity=Neg	2	_	advmod	_
+4	de	de	ADP	_	_	5	_	mark	_
+5	signer	signer	VERB	_	VerbForm=Inf	2	_	xcomp	_
+6	tes	tes	DET	_	Number=Plur|Number[psor]=Sing|Person=2|Poss=Yes	7	_	det	_
+7	messages	message	NOUN	_	Number=Plur	5	_	obj	_
+8	perso	perso	ADJ	_	Number=Plur	7	_	amod	_
+9	!	!	PUNCT	_	_	2	_	punct	_
+
+
 
 # text = oublie ton ex ( féat .
-1	oublie	oublier	VERB		Mood=Imp|Number=Sing|Person=3|Tense=Pres	1	_	ROOT	_
-2	ton	ton	DET		Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes	3	_	det	_
-3	ex	ex	NOUN		Number=Plur	1	_	obj	_
-4	(	(	PUNCT			5	_	punct	_
-5	féat	féat	PROPN			3	_	appos	_
-6	.	.	PUNCT			5	_	punct	_
+1	oublie	oublier	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	1	_	ROOT	_
+2	ton	ton	DET	_	Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes	3	_	det	_
+3	ex	ex	NOUN	_	Number=Plur	1	_	obj	_
+4	(	(	PUNCT	_	_	5	_	punct	_
+5	féat	féat	PROPN	_	_	3	_	appos	_
+6	.	.	PUNCT	_	_	5	_	punct	_
+
+
 
 # text = n' oublie pas d' inscrire tes créations d' articles de musique classique au registre !
-1	n'	ne	ADV		Polarity=Neg	2	_	advmod	_
-2	oublie	oublier	VERB		Mood=Imp|Number=Sing|Person=3|Tense=Pres	2	_	ROOT	_
-3	pas	pas	ADV		Polarity=Neg	2	_	advmod	_
-4	d'	de	ADP			5	_	mark	_
-5	inscrire	inscrire	VERB		VerbForm=Inf	2	_	xcomp	_
-6	tes	tes	DET		Number=Plur|Number[psor]=Sing|Person=2|Poss=Yes	7	_	det	_
-7	créations	création	NOUN		Number=Plur	5	_	obj	_
-8	d'	de	ADP			9	_	case	_
-9	articles	article	NOUN		Number=Plur	7	_	nmod	_
-10	de	de	ADP			11	_	case	_
-11	musique	musique	NOUN		Number=Sing	9	_	nmod	_
-12	classique	classique	ADJ		Number=Sing	11	_	amod	_
-13	au	au	ADP		Definite=Def|Number=Sing|PronType=Art	14	_	case	_
-14	registre	registre	NOUN		Number=Sing	5	_	obl:mod	_
-15	!	!	PUNCT			2	_	punct	_
+1	n'	ne	ADV	_	Polarity=Neg	2	_	advmod	_
+2	oublie	oublier	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	2	_	ROOT	_
+3	pas	pas	ADV	_	Polarity=Neg	2	_	advmod	_
+4	d'	de	ADP	_	_	5	_	mark	_
+5	inscrire	inscrire	VERB	_	VerbForm=Inf	2	_	xcomp	_
+6	tes	tes	DET	_	Number=Plur|Number[psor]=Sing|Person=2|Poss=Yes	7	_	det	_
+7	créations	création	NOUN	_	Number=Plur	5	_	obj	_
+8	d'	de	ADP	_	_	9	_	case	_
+9	articles	article	NOUN	_	Number=Plur	7	_	nmod	_
+10	de	de	ADP	_	_	11	_	case	_
+11	musique	musique	NOUN	_	Number=Sing	9	_	nmod	_
+12	classique	classique	ADJ	_	Number=Sing	11	_	amod	_
+13	au	au	ADP	_	Definite=Def|Number=Sing|PronType=Art	14	_	case	_
+14	registre	registre	NOUN	_	Number=Sing	5	_	obl:mod	_
+15	!	!	PUNCT	_	_	2	_	punct	_
+
+
 
 # text = bonjour djt 2 f. n' oublie pas de signer tes messages sur les pages de discussion avec les caractères
-1	bonjour	bonjour	INTJ			6	_	nsubj	_
-2	djt	djt	NOUN		Number=Sing	1	_	punct	_
-3	2	2	NUM		NumType=Card	4	_	nummod	_
-4	f.	f.	NOUN		Number=Plur	6	_	nsubj	_
-5	n'	ne	ADV		Polarity=Neg	6	_	advmod	_
-6	oublie	oublier	VERB		Mood=Imp|Number=Sing|Person=3|Tense=Pres	6	_	ROOT	_
-7	pas	pas	ADV		Polarity=Neg	6	_	advmod	_
-8	de	de	ADP			9	_	mark	_
-9	signer	signer	VERB		VerbForm=Inf	6	_	xcomp	_
-10	tes	tes	DET		Number=Plur|Number[psor]=Sing|Person=2|Poss=Yes	11	_	det	_
-11	messages	message	NOUN		Number=Plur	9	_	obj	_
-12	sur	sur	ADP			14	_	case	_
-13	les	le·la	DET		Definite=Def|Number=Plur|PronType=Art	14	_	det	_
-14	pages	page	NOUN		Number=Plur	9	_	obl:arg	_
-15	de	de	ADP			16	_	case	_
-16	discussion	discussion	NOUN		Number=Sing	14	_	nmod	_
-17	avec	avec	ADP			19	_	case	_
-18	les	le·la	DET		Definite=Def|Number=Plur|PronType=Art	19	_	det	_
-19	caractères	caractère	NOUN		Number=Plur	14	_	nmod	_
+1	bonjour	bonjour	INTJ	_	_	6	_	nsubj	_
+2	djt	djt	NOUN	_	Number=Sing	1	_	punct	_
+3	2	2	NUM	_	NumType=Card	4	_	nummod	_
+4	f.	f.	NOUN	_	Number=Plur	6	_	nsubj	_
+5	n'	ne	ADV	_	Polarity=Neg	6	_	advmod	_
+6	oublie	oublier	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	6	_	ROOT	_
+7	pas	pas	ADV	_	Polarity=Neg	6	_	advmod	_
+8	de	de	ADP	_	_	9	_	mark	_
+9	signer	signer	VERB	_	VerbForm=Inf	6	_	xcomp	_
+10	tes	tes	DET	_	Number=Plur|Number[psor]=Sing|Person=2|Poss=Yes	11	_	det	_
+11	messages	message	NOUN	_	Number=Plur	9	_	obj	_
+12	sur	sur	ADP	_	_	14	_	case	_
+13	les	le·la	DET	_	Definite=Def|Number=Plur|PronType=Art	14	_	det	_
+14	pages	page	NOUN	_	Number=Plur	9	_	obl:arg	_
+15	de	de	ADP	_	_	16	_	case	_
+16	discussion	discussion	NOUN	_	Number=Sing	14	_	nmod	_
+17	avec	avec	ADP	_	_	19	_	case	_
+18	les	le·la	DET	_	Definite=Def|Number=Plur|PronType=Art	19	_	det	_
+19	caractères	caractère	NOUN	_	Number=Plur	14	_	nmod	_
+
+
 
 # text = n' oublie pas de signer quand tu avertis .
-1	n'	ne	ADV		Polarity=Neg	2	_	advmod	_
-2	oublie	oublier	VERB		Mood=Imp|Number=Sing|Person=3|Tense=Pres	2	_	ROOT	_
-3	pas	pas	ADV		Polarity=Neg	2	_	advmod	_
-4	de	de	ADP			5	_	mark	_
-5	signer	signer	VERB		VerbForm=Inf	2	_	xcomp	_
-6	quand	quand	SCONJ			8	_	mark	_
-7	tu	tu	PRON		Number=Sing|Person=2|PronType=Prs	8	_	nsubj	_
-8	avertis	avertir	VERB		Mood=Ind|Number=Sing|Person=2|Tense=Pres	2	_	advcl	_
-9	.	.	PUNCT			2	_	punct	_
+1	n'	ne	ADV	_	Polarity=Neg	2	_	advmod	_
+2	oublie	oublier	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	2	_	ROOT	_
+3	pas	pas	ADV	_	Polarity=Neg	2	_	advmod	_
+4	de	de	ADP	_	_	5	_	mark	_
+5	signer	signer	VERB	_	VerbForm=Inf	2	_	xcomp	_
+6	quand	quand	SCONJ	_	_	8	_	mark	_
+7	tu	tu	PRON	_	Number=Sing|Person=2|PronType=Prs	8	_	nsubj	_
+8	avertis	avertir	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres	2	_	advcl	_
+9	.	.	PUNCT	_	_	2	_	punct	_
+
+
 
 # text = n' oublie pas de sauvegarder la carte quelquefois à tout hasard .
-1	n'	ne	ADV		Polarity=Neg	2	_	advmod	_
-2	oublie	oublier	VERB		Mood=Imp|Number=Sing|Person=3|Tense=Pres	2	_	ROOT	_
-3	pas	pas	ADV		Polarity=Neg	2	_	advmod	_
-4	de	de	ADP			5	_	mark	_
-5	sauvegarder	sauvegarder	VERB		VerbForm=Inf	2	_	xcomp	_
-6	la	le	DET		Definite=Def|Number=Sing|PronType=Art	7	_	det	_
-7	carte	carte	NOUN		Number=Sing	5	_	obj	_
-8	quelquefois	quelquefois	ADV			5	_	advmod	_
-9	à	à	ADP			11	_	case	_
-10	tout	touste	DET		Definite=Ind|Number=Sing|Person=3	11	_	det	_
-11	hasard	hasard	NOUN		Number=Sing	5	_	obl:mod	_
-12	.	.	PUNCT			2	_	punct	_
+1	n'	ne	ADV	_	Polarity=Neg	2	_	advmod	_
+2	oublie	oublier	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	2	_	ROOT	_
+3	pas	pas	ADV	_	Polarity=Neg	2	_	advmod	_
+4	de	de	ADP	_	_	5	_	mark	_
+5	sauvegarder	sauvegarder	VERB	_	VerbForm=Inf	2	_	xcomp	_
+6	la	le	DET	_	Definite=Def|Number=Sing|PronType=Art	7	_	det	_
+7	carte	carte	NOUN	_	Number=Sing	5	_	obj	_
+8	quelquefois	quelquefois	ADV	_	_	5	_	advmod	_
+9	à	à	ADP	_	_	11	_	case	_
+10	tout	touste	DET	_	Definite=Ind|Number=Sing|Person=3	11	_	det	_
+11	hasard	hasard	NOUN	_	Number=Sing	5	_	obl:mod	_
+12	.	.	PUNCT	_	_	2	_	punct	_
+
+
 
 # text = le narrateur demande au seigneur de l' aider après avoir gaspillé de précieuses années , car sur cette terre ne sois pas trop défoncé , s' il te plait , n' oublie pas que tu es un homme .
-1	le	le·la	DET		Definite=Def|Number=Sing|PronType=Art	2	_	det	_
-2	narrateur	narrateur·rice	NOUN		Number=Sing	3	_	nsubj	_
-3	demande	demander	VERB		Mood=Ind|Number=Sing|Person=3|Tense=Pres	3	_	ROOT	_
-4	au	au	ADP		Definite=Def|Number=Sing|PronType=Art	5	_	det	_
-5	seigneur	seigneur	NOUN		Number=Sing	3	_	obj	_
-6	de	de	ADP			8	_	mark	_
-7	l'	le·a	PRON		Definite=Def|Number=Sing|Person=3|PronType=Art	8	_	obj	_
-8	aider	aider	VERB		VerbForm=Inf	5	_	acl	_
-9	après	après	ADP			11	_	mark	_
-10	avoir	avoir	AUX		VerbForm=Inf	11	_	aux:tense	_
-11	gaspillé	gaspiller	VERB		Tense=Past|VerbForm=Part	3	_	advcl	_
-12	de	de	ADP			14	_	det	_
-13	précieuses	précieux·euse	ADJ		Number=Plur	14	_	amod	_
-14	années	année	NOUN		Number=Plur	11	_	obj	_
-15	,	,	PUNCT			32	_	punct	_
-16	car	car	CCONJ			32	_	cc	_
-17	sur	sur	ADP			19	_	case	_
-18	cette	cette	DET		Number=Sing|PronType=Dem	19	_	det	_
-19	terre	terre	NOUN		Number=Sing	32	_	obl:mod	_
-20	ne	ne	ADV		Polarity=Neg	24	_	advmod	_
-21	sois	être	VERB		Mood=Imp|Number=Sing|Person=2|Tense=Pres	24	_	aux:pass	_
-22	pas	pas	ADV		Polarity=Neg	23	_	advmod	_
-23	trop	trop	ADV			24	_	advmod	_
-24	défoncé	défoncer	VERB		Tense=Past|VerbForm=Part	19	_	acl	_
-25	,	,	PUNCT			19	_	punct	_
-26	s'	se	SCONJ			29	_	mark	_
-27	il	il	PRON		Number=Sing|Person=3|PronType=Prs	29	_	nsubj	_
-28	te	te	PRON		Number=Sing|Person=2|PronType=Prs	29	_	iobj	_
-29	plait	plaire	VERB		Mood=Ind|Number=Sing|Person=3|Tense=Pres	32	_	advcl	_
-30	,	,	PUNCT			32	_	punct	_
-31	n'	ne	ADV		Polarity=Neg	32	_	advmod	_
-32	oublie	oublier	VERB		Mood=Imp|Number=Sing|Person=3|Tense=Pres	3	_	conj	_
-33	pas	pas	ADV		Polarity=Neg	32	_	advmod	_
-34	que	que	SCONJ			38	_	mark	_
-35	tu	tu	PRON		Number=Sing|Person=2|PronType=Prs	38	_	nsubj	_
-36	es	être	VERB		Mood=Ind|Number=Sing|Person=2|Tense=Pres	38	_	cop	_
-37	un	un·e	DET		Definite=Ind|Number=Sing|PronType=Art	38	_	det	_
-38	homme	homme	NOUN		Number=Sing	32	_	ccomp	_
-39	.	.	PUNCT			3	_	punct	_
+1	le	le·la	DET	_	Definite=Def|Number=Sing|PronType=Art	2	_	det	_
+2	narrateur	narrateur·rice	NOUN	_	Number=Sing	3	_	nsubj	_
+3	demande	demander	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	3	_	ROOT	_
+4	au	au	ADP	_	Definite=Def|Number=Sing|PronType=Art	5	_	det	_
+5	seigneur	seigneur	NOUN	_	Number=Sing	3	_	obj	_
+6	de	de	ADP	_	_	8	_	mark	_
+7	l'	le·a	PRON	_	Definite=Def|Number=Sing|Person=3|PronType=Art	8	_	obj	_
+8	aider	aider	VERB	_	VerbForm=Inf	5	_	acl	_
+9	après	après	ADP	_	_	11	_	mark	_
+10	avoir	avoir	AUX	_	VerbForm=Inf	11	_	aux:tense	_
+11	gaspillé	gaspiller	VERB	_	Tense=Past|VerbForm=Part	3	_	advcl	_
+12	de	de	ADP	_	_	14	_	det	_
+13	précieuses	précieux·euse	ADJ	_	Number=Plur	14	_	amod	_
+14	années	année	NOUN	_	Number=Plur	11	_	obj	_
+15	,	,	PUNCT	_	_	32	_	punct	_
+16	car	car	CCONJ	_	_	32	_	cc	_
+17	sur	sur	ADP	_	_	19	_	case	_
+18	cette	cette	DET	_	Number=Sing|PronType=Dem	19	_	det	_
+19	terre	terre	NOUN	_	Number=Sing	32	_	obl:mod	_
+20	ne	ne	ADV	_	Polarity=Neg	24	_	advmod	_
+21	sois	être	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	24	_	aux:pass	_
+22	pas	pas	ADV	_	Polarity=Neg	23	_	advmod	_
+23	trop	trop	ADV	_	_	24	_	advmod	_
+24	défoncé	défoncer	VERB	_	Tense=Past|VerbForm=Part	19	_	acl	_
+25	,	,	PUNCT	_	_	19	_	punct	_
+26	s'	se	SCONJ	_	_	29	_	mark	_
+27	il	il	PRON	_	Number=Sing|Person=3|PronType=Prs	29	_	nsubj	_
+28	te	te	PRON	_	Number=Sing|Person=2|PronType=Prs	29	_	iobj	_
+29	plait	plaire	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	32	_	advcl	_
+30	,	,	PUNCT	_	_	32	_	punct	_
+31	n'	ne	ADV	_	Polarity=Neg	32	_	advmod	_
+32	oublie	oublier	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	3	_	conj	_
+33	pas	pas	ADV	_	Polarity=Neg	32	_	advmod	_
+34	que	que	SCONJ	_	_	38	_	mark	_
+35	tu	tu	PRON	_	Number=Sing|Person=2|PronType=Prs	38	_	nsubj	_
+36	es	être	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres	38	_	cop	_
+37	un	un·e	DET	_	Definite=Ind|Number=Sing|PronType=Art	38	_	det	_
+38	homme	homme	NOUN	_	Number=Sing	32	_	ccomp	_
+39	.	.	PUNCT	_	_	3	_	punct	_
+
+
 
 # text = n' oublie pas également que cette abréviation est typiquement française et que de nombreux internautes suisses , belges , ou québécois consultent notre chère encyclopédie .
-1	n'	ne	ADV		Polarity=Neg	2	_	advmod	_
-2	oublie	oublier	VERB		Mood=Imp|Number=Sing|Person=3|Tense=Pres	2	_	ROOT	_
-3	pas	pas	ADV		Polarity=Neg	2	_	advmod	_
-4	également	également	ADV			2	_	advmod	_
-5	que	que	SCONJ			10	_	mark	_
-6	cette	cette	DET		Number=Sing|PronType=Dem	7	_	det	_
-7	abréviation	abréviation	NOUN		Number=Sing	10	_	nsubj	_
-8	est	être	VERB		Mood=Ind|Number=Sing|Person=3|Tense=Pres	10	_	cop	_
-9	typiquement	typiquement	ADV			10	_	advmod	_
-10	française	français·e	ADJ		Number=Sing	2	_	ccomp	_
-11	et	et	CCONJ			15	_	cc	_
-12	que	que	SCONJ			15	_	advmod	_
-13	de	de	ADP			15	_	det	_
-14	nombreux	nombreux·euse	ADJ		Number=Plur	15	_	amod	_
-15	internautes	internaute	NOUN		Number=Plur	10	_	conj	_
-16	suisses	suisse	ADJ		Number=Plur	15	_	amod	_
-17	,	,	PUNCT			18	_	punct	_
-18	belges	belge	ADJ		Number=Plur	16	_	conj	_
-19	,	,	PUNCT			15	_	punct	_
-20	ou	ou	CCONJ			22	_	cc	_
-21	québécois	québécois·e	ADJ		Number=Sing	22	_	iobj	_
-22	consultent	consulter	VERB		Mood=Ind|Number=Plur|Person=3|Tense=Pres	2	_	conj	_
-23	notre	notre	DET		Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes	25	_	det	_
-24	chère	cher·ère	ADJ		Number=Sing	25	_	amod	_
-25	encyclopédie	encyclopédie	NOUN		Number=Sing	22	_	obj	_
-26	.	.	PUNCT			2	_	punct	_
+1	n'	ne	ADV	_	Polarity=Neg	2	_	advmod	_
+2	oublie	oublier	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	2	_	ROOT	_
+3	pas	pas	ADV	_	Polarity=Neg	2	_	advmod	_
+4	également	également	ADV	_	_	2	_	advmod	_
+5	que	que	SCONJ	_	_	10	_	mark	_
+6	cette	cette	DET	_	Number=Sing|PronType=Dem	7	_	det	_
+7	abréviation	abréviation	NOUN	_	Number=Sing	10	_	nsubj	_
+8	est	être	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	10	_	cop	_
+9	typiquement	typiquement	ADV	_	_	10	_	advmod	_
+10	française	français·e	ADJ	_	Number=Sing	2	_	ccomp	_
+11	et	et	CCONJ	_	_	15	_	cc	_
+12	que	que	SCONJ	_	_	15	_	advmod	_
+13	de	de	ADP	_	_	15	_	det	_
+14	nombreux	nombreux·euse	ADJ	_	Number=Plur	15	_	amod	_
+15	internautes	internaute	NOUN	_	Number=Plur	10	_	conj	_
+16	suisses	suisse	ADJ	_	Number=Plur	15	_	amod	_
+17	,	,	PUNCT	_	_	18	_	punct	_
+18	belges	belge	ADJ	_	Number=Plur	16	_	conj	_
+19	,	,	PUNCT	_	_	15	_	punct	_
+20	ou	ou	CCONJ	_	_	22	_	cc	_
+21	québécois	québécois·e	ADJ	_	Number=Sing	22	_	iobj	_
+22	consultent	consulter	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	2	_	conj	_
+23	notre	notre	DET	_	Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes	25	_	det	_
+24	chère	cher·ère	ADJ	_	Number=Sing	25	_	amod	_
+25	encyclopédie	encyclopédie	NOUN	_	Number=Sing	22	_	obj	_
+26	.	.	PUNCT	_	_	2	_	punct	_
+
+
 
 # text = utilise des chapitres , une organisation , et n' oublie pas de sourcer .
-1	utilise	utiliser	VERB		Mood=Ind|Number=Sing|Person=3|Tense=Pres	1	_	ROOT	_
-2	des	de	DET		Definite=Ind|Number=Plur|PronType=Art	3	_	det	_
-3	chapitres	chapitre	NOUN		Number=Plur	1	_	obj	_
-4	,	,	PUNCT			6	_	punct	_
-5	une	un·e	DET		Definite=Ind|Number=Sing|PronType=Art	6	_	det	_
-6	organisation	organisation	NOUN		Number=Sing	3	_	conj	_
-7	,	,	PUNCT			10	_	punct	_
-8	et	et	CCONJ			10	_	cc	_
-9	n'	ne	ADV		Polarity=Neg	10	_	advmod	_
-10	oublie	oublier	VERB		Mood=Imp|Number=Sing|Person=3|Tense=Pres	1	_	conj	_
-11	pas	pas	ADV		Polarity=Neg	10	_	advmod	_
-12	de	de	ADP			13	_	mark	_
-13	sourcer	sourcer	VERB		VerbForm=Inf	10	_	xcomp	_
-14	.	.	PUNCT			1	_	punct	_
+1	utilise	utiliser	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	1	_	ROOT	_
+2	des	de	DET	_	Definite=Ind|Number=Plur|PronType=Art	3	_	det	_
+3	chapitres	chapitre	NOUN	_	Number=Plur	1	_	obj	_
+4	,	,	PUNCT	_	_	6	_	punct	_
+5	une	un·e	DET	_	Definite=Ind|Number=Sing|PronType=Art	6	_	det	_
+6	organisation	organisation	NOUN	_	Number=Sing	3	_	conj	_
+7	,	,	PUNCT	_	_	10	_	punct	_
+8	et	et	CCONJ	_	_	10	_	cc	_
+9	n'	ne	ADV	_	Polarity=Neg	10	_	advmod	_
+10	oublie	oublier	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	1	_	conj	_
+11	pas	pas	ADV	_	Polarity=Neg	10	_	advmod	_
+12	de	de	ADP	_	_	13	_	mark	_
+13	sourcer	sourcer	VERB	_	VerbForm=Inf	10	_	xcomp	_
+14	.	.	PUNCT	_	_	1	_	punct	_
+
+
 
 # text = n' oublie pas que google n' est pas exactement la bonne référence pour affirmer la justesse d' une donnée !
-1	n'	ne	ADV		Polarity=Neg	2	_	advmod	_
-2	oublie	oublier	VERB		Mood=Imp|Number=Sing|Person=3|Tense=Pres	2	_	ROOT	_
-3	pas	pas	ADV		Polarity=Neg	2	_	advmod	_
-4	que	que	SCONJ			12	_	mark	_
-5	google	googler	NOUN		Number=Sing	12	_	nsubj	_
-6	n'	ne	ADV		Polarity=Neg	12	_	advmod	_
-7	est	être	VERB		Mood=Ind|Number=Sing|Person=3|Tense=Pres	12	_	cop	_
-8	pas	pas	ADV		Polarity=Neg	7	_	advmod	_
-9	exactement	exactement	ADV			12	_	advmod	_
-10	la	le	DET		Definite=Def|Number=Sing|PronType=Art	12	_	det	_
-11	bonne	bon·ne	ADJ		Number=Sing	12	_	amod	_
-12	référence	référence	NOUN		Number=Sing	2	_	obj	_
-13	pour	pour	ADP			14	_	mark	_
-14	affirmer	affirmer	VERB		VerbForm=Inf	2	_	advcl	_
-15	la	le	DET		Definite=Def|Number=Sing|PronType=Art	16	_	det	_
-16	justesse	justesse	NOUN		Number=Sing	14	_	obj	_
-17	d'	de	ADP			19	_	case	_
-18	une	un·e	DET		Definite=Ind|Number=Sing|PronType=Art	19	_	det	_
-19	donnée	donnée	NOUN		Number=Sing	16	_	nmod	_
-20	!	!	PUNCT			2	_	punct	_
+1	n'	ne	ADV	_	Polarity=Neg	2	_	advmod	_
+2	oublie	oublier	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	2	_	ROOT	_
+3	pas	pas	ADV	_	Polarity=Neg	2	_	advmod	_
+4	que	que	SCONJ	_	_	12	_	mark	_
+5	google	googler	NOUN	_	Number=Sing	12	_	nsubj	_
+6	n'	ne	ADV	_	Polarity=Neg	12	_	advmod	_
+7	est	être	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	12	_	cop	_
+8	pas	pas	ADV	_	Polarity=Neg	7	_	advmod	_
+9	exactement	exactement	ADV	_	_	12	_	advmod	_
+10	la	le	DET	_	Definite=Def|Number=Sing|PronType=Art	12	_	det	_
+11	bonne	bon·ne	ADJ	_	Number=Sing	12	_	amod	_
+12	référence	référence	NOUN	_	Number=Sing	2	_	obj	_
+13	pour	pour	ADP	_	_	14	_	mark	_
+14	affirmer	affirmer	VERB	_	VerbForm=Inf	2	_	advcl	_
+15	la	le	DET	_	Definite=Def|Number=Sing|PronType=Art	16	_	det	_
+16	justesse	justesse	NOUN	_	Number=Sing	14	_	obj	_
+17	d'	de	ADP	_	_	19	_	case	_
+18	une	un·e	DET	_	Definite=Ind|Number=Sing|PronType=Art	19	_	det	_
+19	donnée	donnée	NOUN	_	Number=Sing	16	_	nmod	_
+20	!	!	PUNCT	_	_	2	_	punct	_
+
+
 
 # text = n' oublie pas que tu as le droit de virer les bandeaux en haut des articles si tu penses qu' ils n' ont plus leur place .
-1	n'	ne	ADV		Polarity=Neg	2	_	advmod	_
-2	oublie	oublier	VERB		Mood=Imp|Number=Sing|Person=3|Tense=Pres	2	_	ROOT	_
-3	pas	pas	ADV		Polarity=Neg	2	_	advmod	_
-4	que	que	SCONJ			6	_	mark	_
-5	tu	tu	PRON		Number=Sing|Person=2|PronType=Prs	6	_	nsubj	_
-6	as	avoir	VERB		Mood=Ind|Number=Sing|Person=2|Tense=Pres	2	_	ccomp	_
-7	le	le·la	DET		Definite=Def|Number=Sing|PronType=Art	8	_	det	_
-8	droit	droit·e	NOUN		Number=Sing	6	_	obj:lvc	_
-9	de	de	ADP			10	_	mark	_
-10	virer	virer	VERB		VerbForm=Inf	8	_	acl	_
-11	les	le·la	DET		Definite=Def|Number=Plur|PronType=Art	12	_	det	_
-12	bandeaux	bandeau	NOUN		Number=Plur	10	_	obj	_
-13	en	en	ADP			16	_	case	_
-14	haut	haut	ADV			13	_	fixed	_
-15	des	de	DET		Definite=Ind|Number=Plur|PronType=Art	16	_	det	_
-16	articles	article	NOUN		Number=Plur	10	_	obl:mod	_
-17	si	si	SCONJ			19	_	mark	_
-18	tu	tu	PRON		Number=Sing|Person=2|PronType=Prs	19	_	nsubj	_
-19	penses	penser	VERB		Mood=Ind|Number=Sing|Person=2|Tense=Pres	2	_	advcl	_
-20	qu'	que	SCONJ			23	_	mark	_
-21	ils	ils	PRON		Number=Plur|Person=3|PronType=Prs	23	_	nsubj	_
-22	n'	ne	ADV		Polarity=Neg	23	_	advmod	_
-23	ont	avoir	VERB		Mood=Ind|Number=Plur|Person=3|Tense=Pres	19	_	ccomp	_
-24	plus	plus	ADV			23	_	advmod	_
-25	leur	leur	DET		Number=Sing|Number[psor]=Plur|Person=3|Poss=Yes	26	_	det	_
-26	place	place	NOUN		Number=Sing	23	_	obj	_
-27	.	.	PUNCT			2	_	punct	_
+1	n'	ne	ADV	_	Polarity=Neg	2	_	advmod	_
+2	oublie	oublier	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	2	_	ROOT	_
+3	pas	pas	ADV	_	Polarity=Neg	2	_	advmod	_
+4	que	que	SCONJ	_	_	6	_	mark	_
+5	tu	tu	PRON	_	Number=Sing|Person=2|PronType=Prs	6	_	nsubj	_
+6	as	avoir	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres	2	_	ccomp	_
+7	le	le·la	DET	_	Definite=Def|Number=Sing|PronType=Art	8	_	det	_
+8	droit	droit·e	NOUN	_	Number=Sing	6	_	obj:lvc	_
+9	de	de	ADP	_	_	10	_	mark	_
+10	virer	virer	VERB	_	VerbForm=Inf	8	_	acl	_
+11	les	le·la	DET	_	Definite=Def|Number=Plur|PronType=Art	12	_	det	_
+12	bandeaux	bandeau	NOUN	_	Number=Plur	10	_	obj	_
+13	en	en	ADP	_	_	16	_	case	_
+14	haut	haut	ADV	_	_	13	_	fixed	_
+15	des	de	DET	_	Definite=Ind|Number=Plur|PronType=Art	16	_	det	_
+16	articles	article	NOUN	_	Number=Plur	10	_	obl:mod	_
+17	si	si	SCONJ	_	_	19	_	mark	_
+18	tu	tu	PRON	_	Number=Sing|Person=2|PronType=Prs	19	_	nsubj	_
+19	penses	penser	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres	2	_	advcl	_
+20	qu'	que	SCONJ	_	_	23	_	mark	_
+21	ils	ils	PRON	_	Number=Plur|Person=3|PronType=Prs	23	_	nsubj	_
+22	n'	ne	ADV	_	Polarity=Neg	23	_	advmod	_
+23	ont	avoir	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	19	_	ccomp	_
+24	plus	plus	ADV	_	_	23	_	advmod	_
+25	leur	leur	DET	_	Number=Sing|Number[psor]=Plur|Person=3|Poss=Yes	26	_	det	_
+26	place	place	NOUN	_	Number=Sing	23	_	obj	_
+27	.	.	PUNCT	_	_	2	_	punct	_
+
+
 
 # text = n' oublie pas que comme tu es administrateur , il faut masquer les copyvios .
-1	n'	ne	ADV		Polarity=Neg	2	_	advmod	_
-2	oublie	oublier	VERB		Mood=Imp|Number=Sing|Person=3|Tense=Pres	2	_	ROOT	_
-3	pas	pas	ADV		Polarity=Neg	2	_	advmod	_
-4	que	que	SCONJ			11	_	mark	_
-5	comme	comme	SCONJ			8	_	mark	_
-6	tu	tu	PRON		Number=Sing|Person=2|PronType=Prs	8	_	nsubj	_
-7	es	être	VERB		Mood=Ind|Number=Sing|Person=2|Tense=Pres	8	_	cop	_
-8	administrateur	administrateur·rice	NOUN		Number=Sing	11	_	advcl	_
-9	,	,	PUNCT			8	_	punct	_
-10	il	il	PRON		Number=Sing|Person=3|PronType=Prs	11	_	expl:subj	_
-11	faut	faillir	VERB		Mood=Ind|Number=Sing|Person=3|Tense=Pres	2	_	ccomp	_
-12	masquer	masquer	VERB		VerbForm=Inf	11	_	ccomp	_
-13	les	le·la	DET		Definite=Def|Number=Plur|PronType=Art	14	_	det	_
-14	copyvios	copyvio	NOUN		Number=Plur	12	_	obj	_
-15	.	.	PUNCT			2	_	punct	_
+1	n'	ne	ADV	_	Polarity=Neg	2	_	advmod	_
+2	oublie	oublier	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	2	_	ROOT	_
+3	pas	pas	ADV	_	Polarity=Neg	2	_	advmod	_
+4	que	que	SCONJ	_	_	11	_	mark	_
+5	comme	comme	SCONJ	_	_	8	_	mark	_
+6	tu	tu	PRON	_	Number=Sing|Person=2|PronType=Prs	8	_	nsubj	_
+7	es	être	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres	8	_	cop	_
+8	administrateur	administrateur·rice	NOUN	_	Number=Sing	11	_	advcl	_
+9	,	,	PUNCT	_	_	8	_	punct	_
+10	il	il	PRON	_	Number=Sing|Person=3|PronType=Prs	11	_	expl:subj	_
+11	faut	faillir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	2	_	ccomp	_
+12	masquer	masquer	VERB	_	VerbForm=Inf	11	_	ccomp	_
+13	les	le·la	DET	_	Definite=Def|Number=Plur|PronType=Art	14	_	det	_
+14	copyvios	copyvio	NOUN	_	Number=Plur	12	_	obj	_
+15	.	.	PUNCT	_	_	2	_	punct	_
+
+
 
 # text = si tu as eu le temps de le lire , n' oublie pas de venir voter .
-1	si	si	SCONJ			4	_	mark	_
-2	tu	tu	PRON		Number=Sing|Person=2|PronType=Prs	4	_	nsubj	_
-3	as	avoir	AUX		Mood=Ind|Number=Sing|Person=2|Tense=Pres	4	_	aux:tense	_
-4	eu	avoir	VERB		Tense=Past|VerbForm=Part	12	_	advcl	_
-5	le	le·la	DET		Definite=Def|Number=Sing|PronType=Art	6	_	det	_
-6	temps	temps	NOUN		Number=Sing	4	_	obj	_
-7	de	de	ADP			9	_	mark	_
-8	le	le·la	PRON		Definite=Def|Number=Sing|Person=3|PronType=Art	9	_	obj	_
-9	lire	lire	VERB		VerbForm=Inf	4	_	xcomp	_
-10	,	,	PUNCT			12	_	punct	_
-11	n'	ne	ADV		Polarity=Neg	12	_	advmod	_
-12	oublie	oublier	VERB		Mood=Imp|Number=Sing|Person=3|Tense=Pres	12	_	ROOT	_
-13	pas	pas	ADV		Polarity=Neg	12	_	advmod	_
-14	de	de	ADP			15	_	mark	_
-15	venir	venir	VERB		VerbForm=Inf	12	_	ccomp	_
-16	voter	voter	VERB		VerbForm=Inf	15	_	xcomp	_
-17	.	.	PUNCT			12	_	punct	_
+1	si	si	SCONJ	_	_	4	_	mark	_
+2	tu	tu	PRON	_	Number=Sing|Person=2|PronType=Prs	4	_	nsubj	_
+3	as	avoir	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres	4	_	aux:tense	_
+4	eu	avoir	VERB	_	Tense=Past|VerbForm=Part	12	_	advcl	_
+5	le	le·la	DET	_	Definite=Def|Number=Sing|PronType=Art	6	_	det	_
+6	temps	temps	NOUN	_	Number=Sing	4	_	obj	_
+7	de	de	ADP	_	_	9	_	mark	_
+8	le	le·la	PRON	_	Definite=Def|Number=Sing|Person=3|PronType=Art	9	_	obj	_
+9	lire	lire	VERB	_	VerbForm=Inf	4	_	xcomp	_
+10	,	,	PUNCT	_	_	12	_	punct	_
+11	n'	ne	ADV	_	Polarity=Neg	12	_	advmod	_
+12	oublie	oublier	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	12	_	ROOT	_
+13	pas	pas	ADV	_	Polarity=Neg	12	_	advmod	_
+14	de	de	ADP	_	_	15	_	mark	_
+15	venir	venir	VERB	_	VerbForm=Inf	12	_	ccomp	_
+16	voter	voter	VERB	_	VerbForm=Inf	15	_	xcomp	_
+17	.	.	PUNCT	_	_	12	_	punct	_
+
+
 
 # text = oublie les histoires de règles et tout et tout .
-1	oublie	oublier	VERB		Mood=Imp|Number=Sing|Person=3|Tense=Pres	1	_	ROOT	_
-2	les	le·la	DET		Definite=Def|Number=Plur|PronType=Art	3	_	det	_
-3	histoires	histoire	NOUN		Number=Plur	1	_	obj	_
-4	de	de	ADP			5	_	case	_
-5	règles	règle	NOUN		Number=Plur	3	_	nmod	_
-6	et	et	CCONJ			8	_	cc	_
-7	tout	tous·te	ADJ		Number=Sing	6	_	fixed	_
-8	et	et	CCONJ			5	_	conj	_
-9	tout	touste	PRON		Definite=Ind|Number=Sing|Person=3	8	_	fixed	_
-10	.	.	PUNCT			1	_	punct	_
+1	oublie	oublier	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	1	_	ROOT	_
+2	les	le·la	DET	_	Definite=Def|Number=Plur|PronType=Art	3	_	det	_
+3	histoires	histoire	NOUN	_	Number=Plur	1	_	obj	_
+4	de	de	ADP	_	_	5	_	case	_
+5	règles	règle	NOUN	_	Number=Plur	3	_	nmod	_
+6	et	et	CCONJ	_	_	8	_	cc	_
+7	tout	tous·te	ADJ	_	Number=Sing	6	_	fixed	_
+8	et	et	CCONJ	_	_	5	_	conj	_
+9	tout	touste	PRON	_	Definite=Ind|Number=Sing|Person=3	8	_	fixed	_
+10	.	.	PUNCT	_	_	1	_	punct	_
+
+
 
 # text = rien de grave dans mon cas , mais n' oublie pas d' avoir cela en tête une prochaine fois .
-1	rien	rien	PRON		Number=Sing|Polarity=Neg	10	_	dislocated	_
-2	de	de	ADP			3	_	case	_
-3	grave	grave	ADJ		Number=Sing	1	_	nmod	_
-4	dans	dans	ADP			6	_	case	_
-5	mon	mon	DET		Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes	6	_	det	_
-6	cas	cas	NOUN		Number=Sing	1	_	nmod	_
-7	,	,	PUNCT			10	_	punct	_
-8	mais	mais	CCONJ			10	_	cc	_
-9	n'	ne	ADV		Polarity=Neg	10	_	advmod	_
-10	oublie	oublier	VERB		Mood=Imp|Number=Sing|Person=3|Tense=Pres	10	_	ROOT	_
-11	pas	pas	ADV		Polarity=Neg	10	_	advmod	_
-12	d'	de	ADP			13	_	mark	_
-13	avoir	avoir	VERB		VerbForm=Inf	10	_	xcomp	_
-14	cela	cela	PRON		Number=Sing|Person=3|PronType=Dem	13	_	obj	_
-15	en	en	ADP			16	_	case	_
-16	tête	tête	NOUN		Number=Sing	13	_	obl:mod	_
-17	une	un·e	DET		Definite=Ind|Number=Sing|PronType=Art	19	_	det	_
-18	prochaine	prochain·e	ADJ		Number=Sing	19	_	amod	_
-19	fois	foi	NOUN		Number=Sing	13	_	obl:mod	_
-20	.	.	PUNCT			10	_	punct	_
+1	rien	rien	PRON	_	Number=Sing|Polarity=Neg	10	_	dislocated	_
+2	de	de	ADP	_	_	3	_	case	_
+3	grave	grave	ADJ	_	Number=Sing	1	_	nmod	_
+4	dans	dans	ADP	_	_	6	_	case	_
+5	mon	mon	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes	6	_	det	_
+6	cas	cas	NOUN	_	Number=Sing	1	_	nmod	_
+7	,	,	PUNCT	_	_	10	_	punct	_
+8	mais	mais	CCONJ	_	_	10	_	cc	_
+9	n'	ne	ADV	_	Polarity=Neg	10	_	advmod	_
+10	oublie	oublier	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	10	_	ROOT	_
+11	pas	pas	ADV	_	Polarity=Neg	10	_	advmod	_
+12	d'	de	ADP	_	_	13	_	mark	_
+13	avoir	avoir	VERB	_	VerbForm=Inf	10	_	xcomp	_
+14	cela	cela	PRON	_	Number=Sing|Person=3|PronType=Dem	13	_	obj	_
+15	en	en	ADP	_	_	16	_	case	_
+16	tête	tête	NOUN	_	Number=Sing	13	_	obl:mod	_
+17	une	un·e	DET	_	Definite=Ind|Number=Sing|PronType=Art	19	_	det	_
+18	prochaine	prochain·e	ADJ	_	Number=Sing	19	_	amod	_
+19	fois	foi	NOUN	_	Number=Sing	13	_	obl:mod	_
+20	.	.	PUNCT	_	_	10	_	punct	_
+
+
 
 # text = quand tu ouvres une balise , n' oublie pas de la fermer !
-1	quand	quand	SCONJ			3	_	mark	_
-2	tu	tu	PRON		Number=Sing|Person=2|PronType=Prs	3	_	nsubj	_
-3	ouvres	ouvrir	VERB		Mood=Ind|Number=Sing|Person=2|Tense=Pres	8	_	advcl	_
-4	une	un·e	DET		Definite=Ind|Number=Sing|PronType=Art	5	_	det	_
-5	balise	balise	NOUN		Number=Sing	3	_	obj	_
-6	,	,	PUNCT			3	_	punct	_
-7	n'	ne	ADV		Polarity=Neg	8	_	advmod	_
-8	oublie	oublier	VERB		Mood=Imp|Number=Sing|Person=3|Tense=Pres	8	_	ROOT	_
-9	pas	pas	ADV		Polarity=Neg	8	_	advmod	_
-10	de	de	ADP			12	_	mark	_
-11	la	le	PRON		Definite=Def|Number=Sing|Person=3|PronType=Art	12	_	obj	_
-12	fermer	fermer	VERB		VerbForm=Inf	8	_	xcomp	_
-13	!	!	PUNCT			8	_	punct	_
+1	quand	quand	SCONJ	_	_	3	_	mark	_
+2	tu	tu	PRON	_	Number=Sing|Person=2|PronType=Prs	3	_	nsubj	_
+3	ouvres	ouvrir	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres	8	_	advcl	_
+4	une	un·e	DET	_	Definite=Ind|Number=Sing|PronType=Art	5	_	det	_
+5	balise	balise	NOUN	_	Number=Sing	3	_	obj	_
+6	,	,	PUNCT	_	_	3	_	punct	_
+7	n'	ne	ADV	_	Polarity=Neg	8	_	advmod	_
+8	oublie	oublier	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	8	_	ROOT	_
+9	pas	pas	ADV	_	Polarity=Neg	8	_	advmod	_
+10	de	de	ADP	_	_	12	_	mark	_
+11	la	le	PRON	_	Definite=Def|Number=Sing|Person=3|PronType=Art	12	_	obj	_
+12	fermer	fermer	VERB	_	VerbForm=Inf	8	_	xcomp	_
+13	!	!	PUNCT	_	_	8	_	punct	_
+
+
 
 # text = n' oublie pas de venir voter pour valider ton propre travail rire
-1	n'	ne	ADV		Polarity=Neg	2	_	advmod	_
-2	oublie	oublier	VERB		Mood=Imp|Number=Sing|Person=3|Tense=Pres	2	_	ROOT	_
-3	pas	pas	ADV		Polarity=Neg	2	_	advmod	_
-4	de	de	ADP			5	_	mark	_
-5	venir	venir	VERB		VerbForm=Inf	2	_	ccomp	_
-6	voter	voter	VERB		VerbForm=Inf	5	_	xcomp	_
-7	pour	pour	ADP			8	_	mark	_
-8	valider	valider	VERB		VerbForm=Inf	6	_	advcl	_
-9	ton	ton	DET		Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes	11	_	det	_
-10	propre	propre	ADJ		Number=Sing	11	_	amod	_
-11	travail	travail	NOUN		Number=Sing	8	_	obj	_
-12	rire	rire	VERB		VerbForm=Inf	2	_	conj	_
+1	n'	ne	ADV	_	Polarity=Neg	2	_	advmod	_
+2	oublie	oublier	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	2	_	ROOT	_
+3	pas	pas	ADV	_	Polarity=Neg	2	_	advmod	_
+4	de	de	ADP	_	_	5	_	mark	_
+5	venir	venir	VERB	_	VerbForm=Inf	2	_	ccomp	_
+6	voter	voter	VERB	_	VerbForm=Inf	5	_	xcomp	_
+7	pour	pour	ADP	_	_	8	_	mark	_
+8	valider	valider	VERB	_	VerbForm=Inf	6	_	advcl	_
+9	ton	ton	DET	_	Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes	11	_	det	_
+10	propre	propre	ADJ	_	Number=Sing	11	_	amod	_
+11	travail	travail	NOUN	_	Number=Sing	8	_	obj	_
+12	rire	rire	VERB	_	VerbForm=Inf	2	_	conj	_
+
+
 
 # text = quand tu cites un ouvrage , n' oublie pas de citer la page exacte où tu as lu l' info
-1	quand	quand	SCONJ			3	_	mark	_
-2	tu	tu	PRON		Number=Sing|Person=2|PronType=Prs	3	_	nsubj	_
-3	cites	citer	VERB		Mood=Ind|Number=Sing|Person=2|Tense=Pres	8	_	advcl	_
-4	un	un·e	DET		Definite=Ind|Number=Sing|PronType=Art	5	_	det	_
-5	ouvrage	ouvrage	NOUN		Number=Sing	3	_	obj	_
-6	,	,	PUNCT			8	_	punct	_
-7	n'	ne	ADV		Polarity=Neg	8	_	advmod	_
-8	oublie	oublier	VERB		Mood=Imp|Number=Sing|Person=3|Tense=Pres	8	_	ROOT	_
-9	pas	pas	ADV		Polarity=Neg	8	_	advmod	_
-10	de	de	ADP			11	_	mark	_
-11	citer	citer	VERB		VerbForm=Inf	8	_	xcomp	_
-12	la	le	DET		Definite=Def|Number=Sing|PronType=Art	13	_	det	_
-13	page	page	NOUN		Number=Sing	11	_	obj	_
-14	exacte	exact·e	ADJ		Number=Sing	13	_	amod	_
-15	où	où	PRON		PronType=Rel	18	_	obl:mod	_
-16	tu	tu	PRON		Number=Sing|Person=2|PronType=Prs	18	_	nsubj	_
-17	as	avoir	AUX		Mood=Ind|Number=Sing|Person=2|Tense=Pres	18	_	aux:tense	_
-18	lu	lire	VERB		Tense=Past|VerbForm=Part	13	_	acl:relcl	_
-19	l'	le·a	DET		Definite=Def|Number=Sing|PronType=Art	20	_	det	_
-20	info	info	NOUN		Number=Sing	18	_	obj	_
+1	quand	quand	SCONJ	_	_	3	_	mark	_
+2	tu	tu	PRON	_	Number=Sing|Person=2|PronType=Prs	3	_	nsubj	_
+3	cites	citer	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres	8	_	advcl	_
+4	un	un·e	DET	_	Definite=Ind|Number=Sing|PronType=Art	5	_	det	_
+5	ouvrage	ouvrage	NOUN	_	Number=Sing	3	_	obj	_
+6	,	,	PUNCT	_	_	8	_	punct	_
+7	n'	ne	ADV	_	Polarity=Neg	8	_	advmod	_
+8	oublie	oublier	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	8	_	ROOT	_
+9	pas	pas	ADV	_	Polarity=Neg	8	_	advmod	_
+10	de	de	ADP	_	_	11	_	mark	_
+11	citer	citer	VERB	_	VerbForm=Inf	8	_	xcomp	_
+12	la	le	DET	_	Definite=Def|Number=Sing|PronType=Art	13	_	det	_
+13	page	page	NOUN	_	Number=Sing	11	_	obj	_
+14	exacte	exact·e	ADJ	_	Number=Sing	13	_	amod	_
+15	où	où	PRON	_	PronType=Rel	18	_	obl:mod	_
+16	tu	tu	PRON	_	Number=Sing|Person=2|PronType=Prs	18	_	nsubj	_
+17	as	avoir	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres	18	_	aux:tense	_
+18	lu	lire	VERB	_	Tense=Past|VerbForm=Part	13	_	acl:relcl	_
+19	l'	le·a	DET	_	Definite=Def|Number=Sing|PronType=Art	20	_	det	_
+20	info	info	NOUN	_	Number=Sing	18	_	obj	_
+
+
 
 # text = n' oublie pas que nous sommes tous bénévoles , que j' ai des tâches dans la vraie vie comme tout un chacun , et qu' en plus , en ce moment , une très grande partie de mon temps sur wp est consacré au prochain wc .
-1	n'	ne	ADV		Polarity=Neg	2	_	advmod	_
-2	oublie	oublier	VERB		Mood=Imp|Number=Sing|Person=3|Tense=Pres	2	_	ROOT	_
-3	pas	pas	ADV		Polarity=Neg	2	_	advmod	_
-4	que	que	SCONJ			8	_	mark	_
-5	nous	nous	PRON		Number=Plur|Person=1|PronType=Prs	8	_	nsubj	_
-6	sommes	être	VERB		Mood=Ind|Number=Plur|Person=1|Tense=Pres	8	_	cop	_
-7	tous	tous·te	PRON		Definite=Ind|Number=Plur|Person=3	8	_	obl:mod	_
-8	bénévoles	bénévole	ADJ		Number=Plur	2	_	ccomp	_
-9	,	,	PUNCT			12	_	punct	_
-10	que	que	PRON		PronType=Rel	12	_	mark	_
-11	j'	je	PRON		Number=Sing|Person=1|PronType=Prs	12	_	nsubj	_
-12	ai	avoir	VERB		Mood=Ind|Number=Sing|Person=1|Tense=Pres	8	_	conj	_
-13	des	de	DET		Definite=Ind|Number=Plur|PronType=Art	14	_	det	_
-14	tâches	tâche	NOUN		Number=Plur	12	_	obj	_
-15	dans	dans	ADP			18	_	case	_
-16	la	le	DET		Definite=Def|Number=Sing|PronType=Art	18	_	det	_
-17	vraie	vrai·e	ADJ		Number=Sing	18	_	amod	_
-18	vie	vie	NOUN		Number=Sing	14	_	nmod	_
-19	comme	comme	SCONJ			22	_	case	_
-20	tout	tous·te	ADJ		Number=Sing	22	_	amod	_
-21	un	un·e	DET		Definite=Ind|Number=Sing|PronType=Art	22	_	det	_
-22	chacun	chacun·e	PRON		Definite=Ind|Number=Sing|Person=3|PronType=Ind	14	_	nmod	_
-23	,	,	PUNCT			43	_	punct	_
-24	et	et	CCONJ			43	_	cc	_
-25	qu'	que	SCONJ			43	_	mark	_
-26	en	en	ADP			27	_	case	_
-27	plus	plus	ADV			43	_	advmod	_
-28	,	,	PUNCT			31	_	punct	_
-29	en	en	ADP			31	_	case	_
-30	ce	ce	DET		Number=Sing|PronType=Dem	31	_	det	_
-31	moment	moment	NOUN		Number=Sing	43	_	obl:mod	_
-32	,	,	PUNCT			31	_	punct	_
-33	une	un·e	DET		Definite=Ind|Number=Sing|PronType=Art	36	_	det	_
-34	très	très	ADV			35	_	advmod	_
-35	grande	grand·e	ADJ		Number=Sing	36	_	amod	_
-36	partie	partie	NOUN		Number=Sing	43	_	nsubj:pass	_
-37	de	de	ADP			39	_	case	_
-38	mon	mon	DET		Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes	39	_	det	_
-39	temps	temps	NOUN		Number=Sing	36	_	nmod	_
-40	sur	sur	ADP			41	_	case	_
-41	wp	wp	NOUN		Number=Sing	36	_	nmod	_
-42	est	être	AUX		Mood=Ind|Number=Sing|Person=3|Tense=Pres	43	_	aux:pass	_
-43	consacré	consacrer	VERB		Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	8	_	conj	_
-44	au	au	ADP		Definite=Def|Number=Sing|PronType=Art	46	_	det	_
-45	prochain	prochain·e	ADJ		Number=Sing	46	_	amod	_
-46	wc	wc	NOUN		Number=Sing	43	_	obl:mod	_
-47	.	.	PUNCT			2	_	punct	_
+1	n'	ne	ADV	_	Polarity=Neg	2	_	advmod	_
+2	oublie	oublier	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	2	_	ROOT	_
+3	pas	pas	ADV	_	Polarity=Neg	2	_	advmod	_
+4	que	que	SCONJ	_	_	8	_	mark	_
+5	nous	nous	PRON	_	Number=Plur|Person=1|PronType=Prs	8	_	nsubj	_
+6	sommes	être	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres	8	_	cop	_
+7	tous	tous·te	PRON	_	Definite=Ind|Number=Plur|Person=3	8	_	obl:mod	_
+8	bénévoles	bénévole	ADJ	_	Number=Plur	2	_	ccomp	_
+9	,	,	PUNCT	_	_	12	_	punct	_
+10	que	que	PRON	_	PronType=Rel	12	_	mark	_
+11	j'	je	PRON	_	Number=Sing|Person=1|PronType=Prs	12	_	nsubj	_
+12	ai	avoir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	8	_	conj	_
+13	des	de	DET	_	Definite=Ind|Number=Plur|PronType=Art	14	_	det	_
+14	tâches	tâche	NOUN	_	Number=Plur	12	_	obj	_
+15	dans	dans	ADP	_	_	18	_	case	_
+16	la	le	DET	_	Definite=Def|Number=Sing|PronType=Art	18	_	det	_
+17	vraie	vrai·e	ADJ	_	Number=Sing	18	_	amod	_
+18	vie	vie	NOUN	_	Number=Sing	14	_	nmod	_
+19	comme	comme	SCONJ	_	_	22	_	case	_
+20	tout	tous·te	ADJ	_	Number=Sing	22	_	amod	_
+21	un	un·e	DET	_	Definite=Ind|Number=Sing|PronType=Art	22	_	det	_
+22	chacun	chacun·e	PRON	_	Definite=Ind|Number=Sing|Person=3|PronType=Ind	14	_	nmod	_
+23	,	,	PUNCT	_	_	43	_	punct	_
+24	et	et	CCONJ	_	_	43	_	cc	_
+25	qu'	que	SCONJ	_	_	43	_	mark	_
+26	en	en	ADP	_	_	27	_	case	_
+27	plus	plus	ADV	_	_	43	_	advmod	_
+28	,	,	PUNCT	_	_	31	_	punct	_
+29	en	en	ADP	_	_	31	_	case	_
+30	ce	ce	DET	_	Number=Sing|PronType=Dem	31	_	det	_
+31	moment	moment	NOUN	_	Number=Sing	43	_	obl:mod	_
+32	,	,	PUNCT	_	_	31	_	punct	_
+33	une	un·e	DET	_	Definite=Ind|Number=Sing|PronType=Art	36	_	det	_
+34	très	très	ADV	_	_	35	_	advmod	_
+35	grande	grand·e	ADJ	_	Number=Sing	36	_	amod	_
+36	partie	partie	NOUN	_	Number=Sing	43	_	nsubj:pass	_
+37	de	de	ADP	_	_	39	_	case	_
+38	mon	mon	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes	39	_	det	_
+39	temps	temps	NOUN	_	Number=Sing	36	_	nmod	_
+40	sur	sur	ADP	_	_	41	_	case	_
+41	wp	wp	NOUN	_	Number=Sing	36	_	nmod	_
+42	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	43	_	aux:pass	_
+43	consacré	consacrer	VERB	_	Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	8	_	conj	_
+44	au	au	ADP	_	Definite=Def|Number=Sing|PronType=Art	46	_	det	_
+45	prochain	prochain·e	ADJ	_	Number=Sing	46	_	amod	_
+46	wc	wc	NOUN	_	Number=Sing	43	_	obl:mod	_
+47	.	.	PUNCT	_	_	2	_	punct	_
+
+
 
 # text = si tu ajoute les textes des cantates , n' oublie pas de les ajouter aussi ( et je dirais même prioritairement ) sur [ https://
-1	si	si	SCONJ			3	_	mark	_
-2	tu	tu	PRON		Number=Sing|Person=2|PronType=Prs	3	_	nsubj	_
-3	ajoute	ajouter	VERB		Mood=Ind|Number=Sing|Person=3|Tense=Pres	10	_	advcl	_
-4	les	le·la	DET		Definite=Def|Number=Plur|PronType=Art	5	_	det	_
-5	textes	texte	NOUN		Number=Plur	3	_	obj	_
-6	des	de	ADP		Definite=Def|Number=Plur|PronType=Art	7	_	det	_
-7	cantates	cantate	NOUN		Number=Plur	5	_	nmod	_
-8	,	,	PUNCT			3	_	punct	_
-9	n'	ne	ADV		Polarity=Neg	10	_	advmod	_
-10	oublie	oublier	VERB		Mood=Imp|Number=Sing|Person=3|Tense=Pres	10	_	ROOT	_
-11	pas	pas	ADV		Polarity=Neg	10	_	advmod	_
-12	de	de	ADP			14	_	mark	_
-13	les	les	PRON		Definite=Def|Number=Plur|Person=3|PronType=Art	14	_	obj	_
-14	ajouter	ajouter	VERB		VerbForm=Inf	10	_	xcomp	_
-15	aussi	aussi	ADV			14	_	advmod	_
-16	(	(	PUNCT			19	_	punct	_
-17	et	et	CCONJ			19	_	cc	_
-18	je	je	PRON		Number=Sing|Person=1|PronType=Prs	19	_	nsubj	_
-19	dirais	dire	VERB		Mood=Cnd|Number=Sing|Person=1|Tense=Pres	10	_	conj	_
-20	même	même	ADV			21	_	advmod	_
-21	prioritairement	prioritairement	ADV			19	_	advmod	_
-22	)	)	PUNCT			19	_	punct	_
-23	sur	sur	ADP			25	_	case	_
-24	[	[	PUNCT			25	_	punct	_
-25	https://	https://	PUNCT			10	_	punct	_
+1	si	si	SCONJ	_	_	3	_	mark	_
+2	tu	tu	PRON	_	Number=Sing|Person=2|PronType=Prs	3	_	nsubj	_
+3	ajoute	ajouter	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	10	_	advcl	_
+4	les	le·la	DET	_	Definite=Def|Number=Plur|PronType=Art	5	_	det	_
+5	textes	texte	NOUN	_	Number=Plur	3	_	obj	_
+6	des	de	ADP	_	Definite=Def|Number=Plur|PronType=Art	7	_	det	_
+7	cantates	cantate	NOUN	_	Number=Plur	5	_	nmod	_
+8	,	,	PUNCT	_	_	3	_	punct	_
+9	n'	ne	ADV	_	Polarity=Neg	10	_	advmod	_
+10	oublie	oublier	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	10	_	ROOT	_
+11	pas	pas	ADV	_	Polarity=Neg	10	_	advmod	_
+12	de	de	ADP	_	_	14	_	mark	_
+13	les	les	PRON	_	Definite=Def|Number=Plur|Person=3|PronType=Art	14	_	obj	_
+14	ajouter	ajouter	VERB	_	VerbForm=Inf	10	_	xcomp	_
+15	aussi	aussi	ADV	_	_	14	_	advmod	_
+16	(	(	PUNCT	_	_	19	_	punct	_
+17	et	et	CCONJ	_	_	19	_	cc	_
+18	je	je	PRON	_	Number=Sing|Person=1|PronType=Prs	19	_	nsubj	_
+19	dirais	dire	VERB	_	Mood=Cnd|Number=Sing|Person=1|Tense=Pres	10	_	conj	_
+20	même	même	ADV	_	_	21	_	advmod	_
+21	prioritairement	prioritairement	ADV	_	_	19	_	advmod	_
+22	)	)	PUNCT	_	_	19	_	punct	_
+23	sur	sur	ADP	_	_	25	_	case	_
+24	[	[	PUNCT	_	_	25	_	punct	_
+25	https://	https://	PUNCT	_	_	10	_	punct	_
+
+
 
 # text = quand tu est sur une page de discussion , n' oublie pas de finir en tapant
-1	quand	quand	SCONJ			3	_	mark	_
-2	tu	tu	PRON		Number=Sing|Person=2|PronType=Prs	3	_	nsubj	_
-3	est	être	VERB		Mood=Ind|Number=Sing|Person=3|Tense=Pres	6	_	cop	_
-4	sur	sur	ADP			6	_	case	_
-5	une	un·e	DET		Definite=Ind|Number=Sing|PronType=Art	6	_	det	_
-6	page	page	NOUN		Number=Sing	11	_	obl:mod	_
-7	de	de	ADP			8	_	case	_
-8	discussion	discussion	NOUN		Number=Sing	6	_	nmod	_
-9	,	,	PUNCT			6	_	punct	_
-10	n'	ne	ADV		Polarity=Neg	11	_	advmod	_
-11	oublie	oublier	VERB		Mood=Imp|Number=Sing|Person=3|Tense=Pres	11	_	ROOT	_
-12	pas	pas	ADV		Polarity=Neg	11	_	advmod	_
-13	de	de	ADP			14	_	mark	_
-14	finir	finir	VERB		VerbForm=Inf	11	_	ccomp	_
-15	en	en	ADP			16	_	mark	_
-16	tapant	taper	VERB		Tense=Pres|VerbForm=Part	14	_	advcl	_
+1	quand	quand	SCONJ	_	_	3	_	mark	_
+2	tu	tu	PRON	_	Number=Sing|Person=2|PronType=Prs	3	_	nsubj	_
+3	est	être	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	6	_	cop	_
+4	sur	sur	ADP	_	_	6	_	case	_
+5	une	un·e	DET	_	Definite=Ind|Number=Sing|PronType=Art	6	_	det	_
+6	page	page	NOUN	_	Number=Sing	11	_	obl:mod	_
+7	de	de	ADP	_	_	8	_	case	_
+8	discussion	discussion	NOUN	_	Number=Sing	6	_	nmod	_
+9	,	,	PUNCT	_	_	6	_	punct	_
+10	n'	ne	ADV	_	Polarity=Neg	11	_	advmod	_
+11	oublie	oublier	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	11	_	ROOT	_
+12	pas	pas	ADV	_	Polarity=Neg	11	_	advmod	_
+13	de	de	ADP	_	_	14	_	mark	_
+14	finir	finir	VERB	_	VerbForm=Inf	11	_	ccomp	_
+15	en	en	ADP	_	_	16	_	mark	_
+16	tapant	taper	VERB	_	Tense=Pres|VerbForm=Part	14	_	advcl	_
+
+
 
 # text = merci de ton vote sur anne elliot , mais n' oublie pas la petite dorrit !
-1	merci	merci	INTJ			1	_	ROOT	_
-2	de	de	ADP			4	_	case	_
-3	ton	ton	DET		Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes	4	_	det	_
-4	vote	vote	NOUN		Number=Sing	1	_	nmod	_
-5	sur	sur	ADP			6	_	case	_
-6	anne	an	PROPN			4	_	nmod	_
-7	elliot	elliot	PROPN			6	_	flat:name	_
-8	,	,	PUNCT			11	_	punct	_
-9	mais	mais	CCONJ			11	_	cc	_
-10	n'	ne	ADV		Polarity=Neg	11	_	advmod	_
-11	oublie	oublier	VERB		Mood=Imp|Number=Sing|Person=3|Tense=Pres	1	_	conj	_
-12	pas	pas	ADV		Polarity=Neg	11	_	advmod	_
-13	la	le	DET		Definite=Def|Number=Sing|PronType=Art	15	_	det	_
-14	petite	petit·e	ADJ		Number=Sing	15	_	amod	_
-15	dorrit	dorrit	NOUN		Number=Sing	11	_	obj	_
-16	!	!	PUNCT			1	_	punct	_
+1	merci	merci	INTJ	_	_	1	_	ROOT	_
+2	de	de	ADP	_	_	4	_	case	_
+3	ton	ton	DET	_	Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes	4	_	det	_
+4	vote	vote	NOUN	_	Number=Sing	1	_	nmod	_
+5	sur	sur	ADP	_	_	6	_	case	_
+6	anne	an	PROPN	_	_	4	_	nmod	_
+7	elliot	elliot	PROPN	_	_	6	_	flat:name	_
+8	,	,	PUNCT	_	_	11	_	punct	_
+9	mais	mais	CCONJ	_	_	11	_	cc	_
+10	n'	ne	ADV	_	Polarity=Neg	11	_	advmod	_
+11	oublie	oublier	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	1	_	conj	_
+12	pas	pas	ADV	_	Polarity=Neg	11	_	advmod	_
+13	la	le	DET	_	Definite=Def|Number=Sing|PronType=Art	15	_	det	_
+14	petite	petit·e	ADJ	_	Number=Sing	15	_	amod	_
+15	dorrit	dorrit	NOUN	_	Number=Sing	11	_	obj	_
+16	!	!	PUNCT	_	_	1	_	punct	_
+
+
 
 # text = et n' oublie pas nos amis québécois , sénégalais , guinéens , cambodgiens , libanais , maliens , malgache , etc .
-1	et	et	CCONJ			3	_	cc	_
-2	n'	ne	ADV		Polarity=Neg	3	_	advmod	_
-3	oublie	oublier	VERB		Mood=Imp|Number=Sing|Person=3|Tense=Pres	3	_	ROOT	_
-4	pas	pas	ADV		Polarity=Neg	3	_	advmod	_
-5	nos	nos	DET		Number=Plur|Number[psor]=Plur|Person=1|Poss=Yes	6	_	det	_
-6	amis	ami·e	NOUN		Number=Plur	3	_	obj	_
-7	québécois	québécois·e	ADJ		Number=Sing	6	_	amod	_
-8	,	,	PUNCT			9	_	punct	_
-9	sénégalais	sénégalais·e	ADJ		Number=Sing	7	_	conj	_
-10	,	,	PUNCT			11	_	punct	_
-11	guinéens	guinéen·ne	ADJ		Number=Plur	7	_	conj	_
-12	,	,	PUNCT			13	_	punct	_
-13	cambodgiens	cambodgien·ne	ADJ		Number=Plur	7	_	conj	_
-14	,	,	PUNCT			15	_	punct	_
-15	libanais	libanais·e	ADJ		Number=Plur	7	_	conj	_
-16	,	,	PUNCT			17	_	punct	_
-17	maliens	malien·ne	ADJ		Number=Plur	7	_	conj	_
-18	,	,	PUNCT			19	_	punct	_
-19	malgache	malgache	ADJ		Number=Sing	7	_	conj	_
-20	,	,	PUNCT			21	_	punct	_
-21	etc	etc	ADV			3	_	advmod	_
-22	.	.	PUNCT			3	_	punct	_
+1	et	et	CCONJ	_	_	3	_	cc	_
+2	n'	ne	ADV	_	Polarity=Neg	3	_	advmod	_
+3	oublie	oublier	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	3	_	ROOT	_
+4	pas	pas	ADV	_	Polarity=Neg	3	_	advmod	_
+5	nos	nos	DET	_	Number=Plur|Number[psor]=Plur|Person=1|Poss=Yes	6	_	det	_
+6	amis	ami·e	NOUN	_	Number=Plur	3	_	obj	_
+7	québécois	québécois·e	ADJ	_	Number=Sing	6	_	amod	_
+8	,	,	PUNCT	_	_	9	_	punct	_
+9	sénégalais	sénégalais·e	ADJ	_	Number=Sing	7	_	conj	_
+10	,	,	PUNCT	_	_	11	_	punct	_
+11	guinéens	guinéen·ne	ADJ	_	Number=Plur	7	_	conj	_
+12	,	,	PUNCT	_	_	13	_	punct	_
+13	cambodgiens	cambodgien·ne	ADJ	_	Number=Plur	7	_	conj	_
+14	,	,	PUNCT	_	_	15	_	punct	_
+15	libanais	libanais·e	ADJ	_	Number=Plur	7	_	conj	_
+16	,	,	PUNCT	_	_	17	_	punct	_
+17	maliens	malien·ne	ADJ	_	Number=Plur	7	_	conj	_
+18	,	,	PUNCT	_	_	19	_	punct	_
+19	malgache	malgache	ADJ	_	Number=Sing	7	_	conj	_
+20	,	,	PUNCT	_	_	21	_	punct	_
+21	etc	etc	ADV	_	_	3	_	advmod	_
+22	.	.	PUNCT	_	_	3	_	punct	_
+
+
 
 # text = cependant , n' oublie pas que
-1	cependant	cependant	ADV			4	_	advmod	_
-2	,	,	PUNCT			1	_	punct	_
-3	n'	ne	ADV		Polarity=Neg	4	_	advmod	_
-4	oublie	oublier	VERB		Mood=Imp|Number=Sing|Person=3|Tense=Pres	4	_	ROOT	_
-5	pas	pas	ADV		Polarity=Neg	4	_	advmod	_
-6	que	que	SCONJ			4	_	ccomp	_
+1	cependant	cependant	ADV	_	_	4	_	advmod	_
+2	,	,	PUNCT	_	_	1	_	punct	_
+3	n'	ne	ADV	_	Polarity=Neg	4	_	advmod	_
+4	oublie	oublier	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	4	_	ROOT	_
+5	pas	pas	ADV	_	Polarity=Neg	4	_	advmod	_
+6	que	que	SCONJ	_	_	4	_	ccomp	_
+
+
 
 # text = et n' oublie pas que le beffroi de béthune est celui qui est dessiné sur le logo de la région nord-pas-de-calais .
-1	et	et	CCONJ			3	_	cc	_
-2	n'	ne	ADV		Polarity=Neg	3	_	advmod	_
-3	oublie	oublier	VERB		Mood=Imp|Number=Sing|Person=3|Tense=Pres	3	_	ROOT	_
-4	pas	pas	ADV		Polarity=Neg	3	_	advmod	_
-5	que	que	SCONJ			11	_	mark	_
-6	le	le·la	DET		Definite=Def|Number=Sing|PronType=Art	7	_	det	_
-7	beffroi	beffroi	NOUN		Number=Sing	11	_	nsubj	_
-8	de	de	ADP			9	_	case	_
-9	béthune	béthune	NOUN		Number=Sing	7	_	nmod	_
-10	est	être	VERB		Mood=Ind|Number=Sing|Person=3|Tense=Pres	11	_	cop	_
-11	celui	celui	PRON		Number=Sing|Person=3|PronType=Dem	3	_	ccomp	_
-12	qui	qui	PRON		PronType=Rel	14	_	nsubj:pass	_
-13	est	être	AUX		Mood=Ind|Number=Sing|Person=3|Tense=Pres	14	_	aux:pass	_
-14	dessiné	dessiner	VERB		Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	11	_	acl:relcl	_
-15	sur	sur	ADP			17	_	case	_
-16	le	le·la	DET		Definite=Def|Number=Sing|PronType=Art	17	_	det	_
-17	logo	logo	NOUN		Number=Sing	14	_	obl:arg	_
-18	de	de	ADP			20	_	case	_
-19	la	le	DET		Definite=Def|Number=Sing|PronType=Art	20	_	det	_
-20	région	région	NOUN		Number=Sing	17	_	nmod	_
-21	nord-pas-de-calais	n-p-d-c	VERB		Mood=Ind|Number=Sing|Person=1|Tense=Imp	20	_	amod	_
-22	.	.	PUNCT			3	_	punct	_
+1	et	et	CCONJ	_	_	3	_	cc	_
+2	n'	ne	ADV	_	Polarity=Neg	3	_	advmod	_
+3	oublie	oublier	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	3	_	ROOT	_
+4	pas	pas	ADV	_	Polarity=Neg	3	_	advmod	_
+5	que	que	SCONJ	_	_	11	_	mark	_
+6	le	le·la	DET	_	Definite=Def|Number=Sing|PronType=Art	7	_	det	_
+7	beffroi	beffroi	NOUN	_	Number=Sing	11	_	nsubj	_
+8	de	de	ADP	_	_	9	_	case	_
+9	béthune	béthune	NOUN	_	Number=Sing	7	_	nmod	_
+10	est	être	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	11	_	cop	_
+11	celui	celui	PRON	_	Number=Sing|Person=3|PronType=Dem	3	_	ccomp	_
+12	qui	qui	PRON	_	PronType=Rel	14	_	nsubj:pass	_
+13	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	14	_	aux:pass	_
+14	dessiné	dessiner	VERB	_	Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	11	_	acl:relcl	_
+15	sur	sur	ADP	_	_	17	_	case	_
+16	le	le·la	DET	_	Definite=Def|Number=Sing|PronType=Art	17	_	det	_
+17	logo	logo	NOUN	_	Number=Sing	14	_	obl:arg	_
+18	de	de	ADP	_	_	20	_	case	_
+19	la	le	DET	_	Definite=Def|Number=Sing|PronType=Art	20	_	det	_
+20	région	région	NOUN	_	Number=Sing	17	_	nmod	_
+21	nord-pas-de-calais	n-p-d-c	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Imp	20	_	amod	_
+22	.	.	PUNCT	_	_	3	_	punct	_
+
+
 
 # text = une petite chose , n' oublie pas de signer tes interventions sur les pages de discussion ( des utilisateurs ou des articles , mais jamais sur les articles ) en mettant ~ ~ ~ ~ à la fin de ton intervention , cela permet de voir qui tu es , quand tu as posté , et de te répondre facilement .
-1	une	un·e	DET		Definite=Ind|Number=Sing|PronType=Art	3	_	det	_
-2	petite	petit·e	ADJ		Number=Sing	3	_	amod	_
-3	chose	chose	NOUN		Number=Sing	6	_	nsubj	_
-4	,	,	PUNCT			3	_	punct	_
-5	n'	ne	ADV		Polarity=Neg	6	_	advmod	_
-6	oublie	oublier	VERB		Mood=Imp|Number=Sing|Person=3|Tense=Pres	44	_	advcl	_
-7	pas	pas	ADV		Polarity=Neg	6	_	advmod	_
-8	de	de	ADP			9	_	mark	_
-9	signer	signer	VERB		VerbForm=Inf	6	_	xcomp	_
-10	tes	tes	DET		Number=Plur|Number[psor]=Sing|Person=2|Poss=Yes	11	_	det	_
-11	interventions	intervention	NOUN		Number=Plur	9	_	obj	_
-12	sur	sur	ADP			14	_	case	_
-13	les	le·la	DET		Definite=Def|Number=Plur|PronType=Art	14	_	det	_
-14	pages	page	NOUN		Number=Plur	11	_	nmod	_
-15	de	de	ADP			16	_	case	_
-16	discussion	discussion	NOUN		Number=Sing	14	_	nmod	_
-17	(	(	PUNCT			19	_	punct	_
-18	des	de	ADP		Definite=Def|Number=Plur|PronType=Art	19	_	det	_
-19	utilisateurs	utilisateur·rice	NOUN		Number=Plur	14	_	appos	_
-20	ou	ou	CCONJ			22	_	cc	_
-21	des	de	DET		Definite=Ind|Number=Plur|PronType=Art	22	_	det	_
-22	articles	article	NOUN		Number=Plur	19	_	conj	_
-23	,	,	PUNCT			28	_	punct	_
-24	mais	mais	CCONJ			28	_	cc	_
-25	jamais	jamais	ADV		Polarity=Neg	28	_	advmod	_
-26	sur	sur	ADP			28	_	case	_
-27	les	le·la	DET		Definite=Def|Number=Plur|PronType=Art	28	_	det	_
-28	articles	article	NOUN		Number=Plur	19	_	conj	_
-29	)	)	PUNCT			28	_	punct	_
-30	en	en	ADP			31	_	mark	_
-31	mettant	mettre	VERB		Tense=Pres|VerbForm=Part	44	_	dep	_
-32	~	~	PUNCT			31	_	obj	_
-33	~	~	PUNCT			31	_	obl:arg	_
-34	~	~	PUNCT			31	_	obj	_
-35	~	~	PUNCT			31	_	obj	_
-36	à	à	ADP			38	_	case	_
-37	la	le	DET		Definite=Def|Number=Sing|PronType=Art	38	_	det	_
-38	fin	fin·e	NOUN		Number=Sing	31	_	obl:arg	_
-39	de	de	ADP			41	_	case	_
-40	ton	ton	DET		Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes	41	_	det	_
-41	intervention	intervention	NOUN		Number=Sing	38	_	nmod	_
-42	,	,	PUNCT			31	_	punct	_
-43	cela	cela	PRON		Number=Sing|Person=3|PronType=Dem	44	_	nsubj	_
-44	permet	permettre	VERB		Mood=Ind|Number=Sing|Person=3|Tense=Pres	44	_	ROOT	_
-45	de	de	ADP			46	_	mark	_
-46	voir	voir	VERB		VerbForm=Inf	44	_	xcomp	_
-47	qui	qui	PRON		PronType=Rel	49	_	cc	_
-48	tu	tu	PRON		Number=Sing|Person=2|PronType=Prs	49	_	nsubj	_
-49	es	être	VERB		Mood=Ind|Number=Sing|Person=2|Tense=Pres	46	_	ccomp	_
-50	,	,	PUNCT			54	_	punct	_
-51	quand	quand	SCONJ			54	_	mark	_
-52	tu	tu	PRON		Number=Sing|Person=2|PronType=Prs	54	_	nsubj	_
-53	as	avoir	AUX		Mood=Ind|Number=Sing|Person=2|Tense=Pres	54	_	aux:tense	_
-54	posté	poster	VERB		Tense=Past|VerbForm=Part	49	_	advcl	_
-55	,	,	PUNCT			59	_	punct	_
-56	et	et	CCONJ			59	_	cc	_
-57	de	de	ADP			59	_	mark	_
-58	te	te	PRON		Number=Sing|Person=2|PronType=Prs	59	_	iobj	_
-59	répondre	répondre	VERB		VerbForm=Inf	54	_	conj	_
-60	facilement	facilement	ADV			59	_	advmod	_
-61	.	.	PUNCT			44	_	punct	_
+1	une	un·e	DET	_	Definite=Ind|Number=Sing|PronType=Art	3	_	det	_
+2	petite	petit·e	ADJ	_	Number=Sing	3	_	amod	_
+3	chose	chose	NOUN	_	Number=Sing	6	_	nsubj	_
+4	,	,	PUNCT	_	_	3	_	punct	_
+5	n'	ne	ADV	_	Polarity=Neg	6	_	advmod	_
+6	oublie	oublier	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	44	_	advcl	_
+7	pas	pas	ADV	_	Polarity=Neg	6	_	advmod	_
+8	de	de	ADP	_	_	9	_	mark	_
+9	signer	signer	VERB	_	VerbForm=Inf	6	_	xcomp	_
+10	tes	tes	DET	_	Number=Plur|Number[psor]=Sing|Person=2|Poss=Yes	11	_	det	_
+11	interventions	intervention	NOUN	_	Number=Plur	9	_	obj	_
+12	sur	sur	ADP	_	_	14	_	case	_
+13	les	le·la	DET	_	Definite=Def|Number=Plur|PronType=Art	14	_	det	_
+14	pages	page	NOUN	_	Number=Plur	11	_	nmod	_
+15	de	de	ADP	_	_	16	_	case	_
+16	discussion	discussion	NOUN	_	Number=Sing	14	_	nmod	_
+17	(	(	PUNCT	_	_	19	_	punct	_
+18	des	de	ADP	_	Definite=Def|Number=Plur|PronType=Art	19	_	det	_
+19	utilisateurs	utilisateur·rice	NOUN	_	Number=Plur	14	_	appos	_
+20	ou	ou	CCONJ	_	_	22	_	cc	_
+21	des	de	DET	_	Definite=Ind|Number=Plur|PronType=Art	22	_	det	_
+22	articles	article	NOUN	_	Number=Plur	19	_	conj	_
+23	,	,	PUNCT	_	_	28	_	punct	_
+24	mais	mais	CCONJ	_	_	28	_	cc	_
+25	jamais	jamais	ADV	_	Polarity=Neg	28	_	advmod	_
+26	sur	sur	ADP	_	_	28	_	case	_
+27	les	le·la	DET	_	Definite=Def|Number=Plur|PronType=Art	28	_	det	_
+28	articles	article	NOUN	_	Number=Plur	19	_	conj	_
+29	)	)	PUNCT	_	_	28	_	punct	_
+30	en	en	ADP	_	_	31	_	mark	_
+31	mettant	mettre	VERB	_	Tense=Pres|VerbForm=Part	44	_	dep	_
+32	~	~	PUNCT	_	_	31	_	obj	_
+33	~	~	PUNCT	_	_	31	_	obl:arg	_
+34	~	~	PUNCT	_	_	31	_	obj	_
+35	~	~	PUNCT	_	_	31	_	obj	_
+36	à	à	ADP	_	_	38	_	case	_
+37	la	le	DET	_	Definite=Def|Number=Sing|PronType=Art	38	_	det	_
+38	fin	fin·e	NOUN	_	Number=Sing	31	_	obl:arg	_
+39	de	de	ADP	_	_	41	_	case	_
+40	ton	ton	DET	_	Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes	41	_	det	_
+41	intervention	intervention	NOUN	_	Number=Sing	38	_	nmod	_
+42	,	,	PUNCT	_	_	31	_	punct	_
+43	cela	cela	PRON	_	Number=Sing|Person=3|PronType=Dem	44	_	nsubj	_
+44	permet	permettre	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	44	_	ROOT	_
+45	de	de	ADP	_	_	46	_	mark	_
+46	voir	voir	VERB	_	VerbForm=Inf	44	_	xcomp	_
+47	qui	qui	PRON	_	PronType=Rel	49	_	cc	_
+48	tu	tu	PRON	_	Number=Sing|Person=2|PronType=Prs	49	_	nsubj	_
+49	es	être	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres	46	_	ccomp	_
+50	,	,	PUNCT	_	_	54	_	punct	_
+51	quand	quand	SCONJ	_	_	54	_	mark	_
+52	tu	tu	PRON	_	Number=Sing|Person=2|PronType=Prs	54	_	nsubj	_
+53	as	avoir	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres	54	_	aux:tense	_
+54	posté	poster	VERB	_	Tense=Past|VerbForm=Part	49	_	advcl	_
+55	,	,	PUNCT	_	_	59	_	punct	_
+56	et	et	CCONJ	_	_	59	_	cc	_
+57	de	de	ADP	_	_	59	_	mark	_
+58	te	te	PRON	_	Number=Sing|Person=2|PronType=Prs	59	_	iobj	_
+59	répondre	répondre	VERB	_	VerbForm=Inf	54	_	conj	_
+60	facilement	facilement	ADV	_	_	59	_	advmod	_
+61	.	.	PUNCT	_	_	44	_	punct	_
+
+
 
 # text = passe de bonne vacances , oublie tout et fait toi plaisir 2 ( cest )
-1	passe	passer	VERB		Mood=Ind|Number=Sing|Person=3|Tense=Pres	1	_	ROOT	_
-2	de	de	ADP			4	_	case	_
-3	bonne	bon·ne	ADJ		Number=Plur	4	_	amod	_
-4	vacances	vacance	NOUN		Number=Plur	1	_	obl:arg	_
-5	,	,	PUNCT			6	_	punct	_
-6	oublie	oublier	VERB		Mood=Imp|Number=Sing|Person=3|Tense=Pres	1	_	parataxis	_
-7	tout	touste	PRON		Definite=Ind|Number=Sing|Person=3	6	_	advmod	_
-8	et	et	CCONJ			9	_	cc	_
-9	fait	fait	NOUN		Number=Sing	6	_	conj	_
-10	toi	toi	PRON		Number=Sing|Person=2|PronType=Prs	11	_	det	_
-11	plaisir	plaisir	NOUN		Number=Sing	6	_	obj	_
-12	2	2	NUM		NumType=Card	6	_	obl:mod	_
-13	(	(	PUNCT			14	_	punct	_
-14	cest	cest	NOUN		Number=Plur	1	_	discourse	_
-15	)	)	PUNCT			14	_	punct	_
+1	passe	passer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	1	_	ROOT	_
+2	de	de	ADP	_	_	4	_	case	_
+3	bonne	bon·ne	ADJ	_	Number=Plur	4	_	amod	_
+4	vacances	vacance	NOUN	_	Number=Plur	1	_	obl:arg	_
+5	,	,	PUNCT	_	_	6	_	punct	_
+6	oublie	oublier	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	1	_	parataxis	_
+7	tout	touste	PRON	_	Definite=Ind|Number=Sing|Person=3	6	_	advmod	_
+8	et	et	CCONJ	_	_	9	_	cc	_
+9	fait	fait	NOUN	_	Number=Sing	6	_	conj	_
+10	toi	toi	PRON	_	Number=Sing|Person=2|PronType=Prs	11	_	det	_
+11	plaisir	plaisir	NOUN	_	Number=Sing	6	_	obj	_
+12	2	2	NUM	_	NumType=Card	6	_	obl:mod	_
+13	(	(	PUNCT	_	_	14	_	punct	_
+14	cest	cest	NOUN	_	Number=Plur	1	_	discourse	_
+15	)	)	PUNCT	_	_	14	_	punct	_
+
+
 
 # text = j' ai répondu a ton message sur la pdd de l' emse , n' oublie pas de signer tes messages par quatre tilde argos 2
-1	j'	je	PRON		Number=Sing|Person=1|PronType=Prs	3	_	nsubj	_
-2	ai	avoir	AUX		Mood=Ind|Number=Sing|Person=1|Tense=Pres	3	_	aux:tense	_
-3	répondu	répondre	VERB		Tense=Past|VerbForm=Part	3	_	ROOT	_
-4	a	avoir	VERB		Mood=Ind|Number=Sing|Person=3|Tense=Pres	3	_	obj	_
-5	ton	ton	DET		Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes	6	_	det	_
-6	message	message	NOUN		Number=Sing	15	_	nsubj	_
-7	sur	sur	ADP			9	_	case	_
-8	la	le	DET		Definite=Def|Number=Sing|PronType=Art	9	_	det	_
-9	pdd	pdd	NOUN		Number=Sing	6	_	nmod	_
-10	de	de	ADP			12	_	case	_
-11	l'	le·a	DET		Definite=Def|Number=Sing|PronType=Art	12	_	det	_
-12	emse	em	NOUN		Number=Sing	9	_	nmod	_
-13	,	,	PUNCT			6	_	punct	_
-14	n'	ne	ADV		Polarity=Neg	15	_	advmod	_
-15	oublie	oublier	VERB		Mood=Imp|Number=Sing|Person=3|Tense=Pres	3	_	conj	_
-16	pas	pas	ADV		Polarity=Neg	15	_	advmod	_
-17	de	de	ADP			18	_	mark	_
-18	signer	signer	VERB		VerbForm=Inf	15	_	xcomp	_
-19	tes	tes	DET		Number=Plur|Number[psor]=Sing|Person=2|Poss=Yes	20	_	det	_
-20	messages	message	NOUN		Number=Plur	18	_	obj	_
-21	par	par	ADP			23	_	case	_
-22	quatre	quatre	NUM		NumType=Card	23	_	nummod	_
-23	tilde	tilde	NOUN		Number=Plur	18	_	obl:arg	_
-24	argos	argos	PROPN			23	_	nmod	_
-25	2	2	NUM		NumType=Card	23	_	nmod	_
+1	j'	je	PRON	_	Number=Sing|Person=1|PronType=Prs	3	_	nsubj	_
+2	ai	avoir	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	3	_	aux:tense	_
+3	répondu	répondre	VERB	_	Tense=Past|VerbForm=Part	3	_	ROOT	_
+4	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	3	_	obj	_
+5	ton	ton	DET	_	Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes	6	_	det	_
+6	message	message	NOUN	_	Number=Sing	15	_	nsubj	_
+7	sur	sur	ADP	_	_	9	_	case	_
+8	la	le	DET	_	Definite=Def|Number=Sing|PronType=Art	9	_	det	_
+9	pdd	pdd	NOUN	_	Number=Sing	6	_	nmod	_
+10	de	de	ADP	_	_	12	_	case	_
+11	l'	le·a	DET	_	Definite=Def|Number=Sing|PronType=Art	12	_	det	_
+12	emse	em	NOUN	_	Number=Sing	9	_	nmod	_
+13	,	,	PUNCT	_	_	6	_	punct	_
+14	n'	ne	ADV	_	Polarity=Neg	15	_	advmod	_
+15	oublie	oublier	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	3	_	conj	_
+16	pas	pas	ADV	_	Polarity=Neg	15	_	advmod	_
+17	de	de	ADP	_	_	18	_	mark	_
+18	signer	signer	VERB	_	VerbForm=Inf	15	_	xcomp	_
+19	tes	tes	DET	_	Number=Plur|Number[psor]=Sing|Person=2|Poss=Yes	20	_	det	_
+20	messages	message	NOUN	_	Number=Plur	18	_	obj	_
+21	par	par	ADP	_	_	23	_	case	_
+22	quatre	quatre	NUM	_	NumType=Card	23	_	nummod	_
+23	tilde	tilde	NOUN	_	Number=Plur	18	_	obl:arg	_
+24	argos	argos	PROPN	_	_	23	_	nmod	_
+25	2	2	NUM	_	NumType=Card	23	_	nmod	_
+
+
 
 # text = et n' oublie pas que le petit jeu de l' apposition des modèles pertinence détail est un couteau à double tranchant :
-1	et	et	CCONJ			3	_	cc	_
-2	n'	ne	ADV		Polarity=Neg	3	_	advmod	_
-3	oublie	oublier	VERB		Mood=Imp|Number=Sing|Person=3|Tense=Pres	3	_	ROOT	_
-4	pas	pas	ADV		Polarity=Neg	3	_	advmod	_
-5	que	que	SCONJ			18	_	mark	_
-6	le	le·la	DET		Definite=Def|Number=Sing|PronType=Art	8	_	det	_
-7	petit	petit·e	ADJ		Number=Sing	8	_	amod	_
-8	jeu	jeu	NOUN		Number=Sing	18	_	nsubj	_
-9	de	de	ADP			11	_	case	_
-10	l'	le·a	DET		Definite=Def|Number=Sing|PronType=Art	11	_	det	_
-11	apposition	apposition	NOUN		Number=Sing	8	_	nmod	_
-12	des	de	ADP		Definite=Def|Number=Plur|PronType=Art	13	_	det	_
-13	modèles	modèle	NOUN		Number=Plur	8	_	nmod	_
-14	pertinence	pertinence	NOUN		Number=Sing	13	_	amod	_
-15	détail	détail	NOUN		Number=Sing	13	_	amod	_
-16	est	être	VERB		Mood=Ind|Number=Sing|Person=3|Tense=Pres	18	_	cop	_
-17	un	un·e	DET		Definite=Ind|Number=Sing|PronType=Art	18	_	det	_
-18	couteau	couteau	NOUN		Number=Sing	3	_	ccomp	_
-19	à	à	ADP			20	_	case	_
-20	double	double	ADJ		Number=Sing	18	_	nmod	_
-21	tranchant	trancher	VERB		Tense=Pres|VerbForm=Part	18	_	amod	_
-22	:	:	PUNCT			3	_	punct	_
+1	et	et	CCONJ	_	_	3	_	cc	_
+2	n'	ne	ADV	_	Polarity=Neg	3	_	advmod	_
+3	oublie	oublier	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	3	_	ROOT	_
+4	pas	pas	ADV	_	Polarity=Neg	3	_	advmod	_
+5	que	que	SCONJ	_	_	18	_	mark	_
+6	le	le·la	DET	_	Definite=Def|Number=Sing|PronType=Art	8	_	det	_
+7	petit	petit·e	ADJ	_	Number=Sing	8	_	amod	_
+8	jeu	jeu	NOUN	_	Number=Sing	18	_	nsubj	_
+9	de	de	ADP	_	_	11	_	case	_
+10	l'	le·a	DET	_	Definite=Def|Number=Sing|PronType=Art	11	_	det	_
+11	apposition	apposition	NOUN	_	Number=Sing	8	_	nmod	_
+12	des	de	ADP	_	Definite=Def|Number=Plur|PronType=Art	13	_	det	_
+13	modèles	modèle	NOUN	_	Number=Plur	8	_	nmod	_
+14	pertinence	pertinence	NOUN	_	Number=Sing	13	_	amod	_
+15	détail	détail	NOUN	_	Number=Sing	13	_	amod	_
+16	est	être	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	18	_	cop	_
+17	un	un·e	DET	_	Definite=Ind|Number=Sing|PronType=Art	18	_	det	_
+18	couteau	couteau	NOUN	_	Number=Sing	3	_	ccomp	_
+19	à	à	ADP	_	_	20	_	case	_
+20	double	double	ADJ	_	Number=Sing	18	_	nmod	_
+21	tranchant	trancher	VERB	_	Tense=Pres|VerbForm=Part	18	_	amod	_
+22	:	:	PUNCT	_	_	3	_	punct	_
+
+
 
 # text = et entre les catégories , n' oublie pas de mettre le modèle " noinclude " comme ceci :
-1	et	et	CCONJ			7	_	cc	_
-2	entre	entre	ADP			4	_	case	_
-3	les	le·la	DET		Definite=Def|Number=Plur|PronType=Art	4	_	det	_
-4	catégories	catégorie	NOUN		Number=Plur	7	_	obl:mod	_
-5	,	,	PUNCT			4	_	punct	_
-6	n'	ne	ADV		Polarity=Neg	7	_	advmod	_
-7	oublie	oublier	VERB		Mood=Imp|Number=Sing|Person=3|Tense=Pres	7	_	ROOT	_
-8	pas	pas	ADV		Polarity=Neg	7	_	advmod	_
-9	de	de	ADP			10	_	mark	_
-10	mettre	mettre	VERB		VerbForm=Inf	7	_	xcomp	_
-11	le	le·la	DET		Definite=Def|Number=Sing|PronType=Art	12	_	det	_
-12	modèle	modèle	NOUN		Number=Sing	10	_	obj	_
-13	"	"	PUNCT			14	_	punct	_
-14	noinclude	noinclude	NOUN		Number=Sing	12	_	nmod	_
-15	"	"	PUNCT			14	_	punct	_
-16	comme	comme	SCONJ			17	_	case	_
-17	ceci	ceci	PRON		Number=Sing|Person=3|PronType=Dem	7	_	obl:mod	_
-18	:	:	PUNCT			7	_	punct	_
+1	et	et	CCONJ	_	_	7	_	cc	_
+2	entre	entre	ADP	_	_	4	_	case	_
+3	les	le·la	DET	_	Definite=Def|Number=Plur|PronType=Art	4	_	det	_
+4	catégories	catégorie	NOUN	_	Number=Plur	7	_	obl:mod	_
+5	,	,	PUNCT	_	_	4	_	punct	_
+6	n'	ne	ADV	_	Polarity=Neg	7	_	advmod	_
+7	oublie	oublier	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	7	_	ROOT	_
+8	pas	pas	ADV	_	Polarity=Neg	7	_	advmod	_
+9	de	de	ADP	_	_	10	_	mark	_
+10	mettre	mettre	VERB	_	VerbForm=Inf	7	_	xcomp	_
+11	le	le·la	DET	_	Definite=Def|Number=Sing|PronType=Art	12	_	det	_
+12	modèle	modèle	NOUN	_	Number=Sing	10	_	obj	_
+13	"	"	PUNCT	_	_	14	_	punct	_
+14	noinclude	noinclude	NOUN	_	Number=Sing	12	_	nmod	_
+15	"	"	PUNCT	_	_	14	_	punct	_
+16	comme	comme	SCONJ	_	_	17	_	case	_
+17	ceci	ceci	PRON	_	Number=Sing|Person=3|PronType=Dem	7	_	obl:mod	_
+18	:	:	PUNCT	_	_	7	_	punct	_
+
+
 
 # text = si tu restructure complètement un article , n' oublie pas d' ajouter le en travaux en début d' article pour le signaler aux autres contributeurs .
-1	si	si	SCONJ			3	_	mark	_
-2	tu	tu	PRON		Number=Sing|Person=2|PronType=Prs	3	_	nsubj	_
-3	restructure	restructurer	VERB		Mood=Ind|Number=Sing|Person=3|Tense=Pres	9	_	advcl	_
-4	complètement	complètement	ADV			3	_	advmod	_
-5	un	un·e	DET		Definite=Ind|Number=Sing|PronType=Art	6	_	det	_
-6	article	article	NOUN		Number=Sing	3	_	obj	_
-7	,	,	PUNCT			3	_	punct	_
-8	n'	ne	ADV		Polarity=Neg	9	_	advmod	_
-9	oublie	oublier	VERB		Mood=Imp|Number=Sing|Person=3|Tense=Pres	9	_	ROOT	_
-10	pas	pas	ADV		Polarity=Neg	9	_	advmod	_
-11	d'	de	ADP			12	_	mark	_
-12	ajouter	ajouter	VERB		VerbForm=Inf	9	_	ccomp	_
-13	le	le·la	DET		Definite=Def|Number=Sing|PronType=Art	15	_	det	_
-14	en	en	ADP			15	_	case	_
-15	travaux	travail	NOUN		Number=Plur	12	_	obj	_
-16	en	en	ADP			17	_	case	_
-17	début	début	NOUN		Number=Sing	12	_	obl:mod	_
-18	d'	de	ADP			19	_	case	_
-19	article	article	NOUN		Number=Sing	17	_	nmod	_
-20	pour	pour	ADP			22	_	mark	_
-21	le	le·la	PRON		Definite=Def|Number=Sing|Person=3|PronType=Art	22	_	obj	_
-22	signaler	signaler	VERB		VerbForm=Inf	12	_	advcl	_
-23	aux	au	ADP		Definite=Def|Number=Plur|PronType=Art	25	_	det	_
-24	autres	autre	ADJ		Number=Plur	25	_	amod	_
-25	contributeurs	contributeur·rice	NOUN		Number=Plur	22	_	obj	_
-26	.	.	PUNCT			9	_	punct	_
+1	si	si	SCONJ	_	_	3	_	mark	_
+2	tu	tu	PRON	_	Number=Sing|Person=2|PronType=Prs	3	_	nsubj	_
+3	restructure	restructurer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	9	_	advcl	_
+4	complètement	complètement	ADV	_	_	3	_	advmod	_
+5	un	un·e	DET	_	Definite=Ind|Number=Sing|PronType=Art	6	_	det	_
+6	article	article	NOUN	_	Number=Sing	3	_	obj	_
+7	,	,	PUNCT	_	_	3	_	punct	_
+8	n'	ne	ADV	_	Polarity=Neg	9	_	advmod	_
+9	oublie	oublier	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	9	_	ROOT	_
+10	pas	pas	ADV	_	Polarity=Neg	9	_	advmod	_
+11	d'	de	ADP	_	_	12	_	mark	_
+12	ajouter	ajouter	VERB	_	VerbForm=Inf	9	_	ccomp	_
+13	le	le·la	DET	_	Definite=Def|Number=Sing|PronType=Art	15	_	det	_
+14	en	en	ADP	_	_	15	_	case	_
+15	travaux	travail	NOUN	_	Number=Plur	12	_	obj	_
+16	en	en	ADP	_	_	17	_	case	_
+17	début	début	NOUN	_	Number=Sing	12	_	obl:mod	_
+18	d'	de	ADP	_	_	19	_	case	_
+19	article	article	NOUN	_	Number=Sing	17	_	nmod	_
+20	pour	pour	ADP	_	_	22	_	mark	_
+21	le	le·la	PRON	_	Definite=Def|Number=Sing|Person=3|PronType=Art	22	_	obj	_
+22	signaler	signaler	VERB	_	VerbForm=Inf	12	_	advcl	_
+23	aux	au	ADP	_	Definite=Def|Number=Plur|PronType=Art	25	_	det	_
+24	autres	autre	ADJ	_	Number=Plur	25	_	amod	_
+25	contributeurs	contributeur·rice	NOUN	_	Number=Plur	22	_	obj	_
+26	.	.	PUNCT	_	_	9	_	punct	_
+
+
 
 # text = oublie pas de signer avec 2 ~ dans les pages de discussion .
-1	oublie	oublier	VERB		Mood=Imp|Number=Sing|Person=2|Tense=Pres	1	_	ROOT	_
-2	pas	pas	ADV		Polarity=Neg	1	_	advmod	_
-3	de	de	ADP			4	_	mark	_
-4	signer	signer	VERB		VerbForm=Inf	1	_	xcomp	_
-5	avec	avec	ADP			7	_	case	_
-6	2	2	NUM		NumType=Card	7	_	nummod	_
-7	~	~	PUNCT			4	_	obl:arg	_
-8	dans	dans	ADP			10	_	case	_
-9	les	le·la	DET		Definite=Def|Number=Plur|PronType=Art	10	_	det	_
-10	pages	page	NOUN		Number=Plur	4	_	obl:arg	_
-11	de	de	ADP			12	_	case	_
-12	discussion	discussion	NOUN		Number=Sing	10	_	nmod	_
-13	.	.	PUNCT			1	_	punct	_
+1	oublie	oublier	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	1	_	ROOT	_
+2	pas	pas	ADV	_	Polarity=Neg	1	_	advmod	_
+3	de	de	ADP	_	_	4	_	mark	_
+4	signer	signer	VERB	_	VerbForm=Inf	1	_	xcomp	_
+5	avec	avec	ADP	_	_	7	_	case	_
+6	2	2	NUM	_	NumType=Card	7	_	nummod	_
+7	~	~	PUNCT	_	_	4	_	obl:arg	_
+8	dans	dans	ADP	_	_	10	_	case	_
+9	les	le·la	DET	_	Definite=Def|Number=Plur|PronType=Art	10	_	det	_
+10	pages	page	NOUN	_	Number=Plur	4	_	obl:arg	_
+11	de	de	ADP	_	_	12	_	case	_
+12	discussion	discussion	NOUN	_	Number=Sing	10	_	nmod	_
+13	.	.	PUNCT	_	_	1	_	punct	_
+
+
 
 # text = n' oublie pas - c' est le principal - les auteurs ( dans le cas présent les adaptateurs français ) .
-1	n'	ne	ADV		Polarity=Neg	2	_	advmod	_
-2	oublie	oublier	VERB		Mood=Imp|Number=Sing|Person=3|Tense=Pres	2	_	ROOT	_
-3	pas	pas	ADV		Polarity=Neg	2	_	advmod	_
-4	-	-	PUNCT			2	_	punct	_
-5	c'	ce	PRON		Number=Sing|Person=3|PronType=Dem	8	_	nsubj	_
-6	est	être	VERB		Mood=Ind|Number=Sing|Person=3|Tense=Pres	8	_	cop	_
-7	le	le·la	DET		Definite=Def|Number=Sing|PronType=Art	8	_	det	_
-8	principal	principal·e	NOUN		Number=Sing	2	_	conj	_
-9	-	-	PUNCT			11	_	punct	_
-10	les	le·la	DET		Definite=Def|Number=Plur|PronType=Art	11	_	det	_
-11	auteurs	auteur·rice	NOUN		Number=Plur	8	_	parataxis	_
-12	(	(	PUNCT			15	_	punct	_
-13	dans	dans	ADP			15	_	case	_
-14	le	le·la	DET		Definite=Def|Number=Sing|PronType=Art	15	_	det	_
-15	cas	cas	NOUN		Number=Sing	11	_	nmod	_
-16	présent	présent·e	ADJ		Number=Sing	18	_	amod	_
-17	les	le·la	DET		Definite=Def|Number=Plur|PronType=Art	18	_	det	_
-18	adaptateurs	adaptateur·rice	NOUN		Number=Plur	15	_	nmod	_
-19	français	français·e	ADJ		Number=Plur	18	_	amod	_
-20	)	)	PUNCT			15	_	punct	_
-21	.	.	PUNCT			2	_	punct	_
+1	n'	ne	ADV	_	Polarity=Neg	2	_	advmod	_
+2	oublie	oublier	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	2	_	ROOT	_
+3	pas	pas	ADV	_	Polarity=Neg	2	_	advmod	_
+4	-	-	PUNCT	_	_	2	_	punct	_
+5	c'	ce	PRON	_	Number=Sing|Person=3|PronType=Dem	8	_	nsubj	_
+6	est	être	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	8	_	cop	_
+7	le	le·la	DET	_	Definite=Def|Number=Sing|PronType=Art	8	_	det	_
+8	principal	principal·e	NOUN	_	Number=Sing	2	_	conj	_
+9	-	-	PUNCT	_	_	11	_	punct	_
+10	les	le·la	DET	_	Definite=Def|Number=Plur|PronType=Art	11	_	det	_
+11	auteurs	auteur·rice	NOUN	_	Number=Plur	8	_	parataxis	_
+12	(	(	PUNCT	_	_	15	_	punct	_
+13	dans	dans	ADP	_	_	15	_	case	_
+14	le	le·la	DET	_	Definite=Def|Number=Sing|PronType=Art	15	_	det	_
+15	cas	cas	NOUN	_	Number=Sing	11	_	nmod	_
+16	présent	présent·e	ADJ	_	Number=Sing	18	_	amod	_
+17	les	le·la	DET	_	Definite=Def|Number=Plur|PronType=Art	18	_	det	_
+18	adaptateurs	adaptateur·rice	NOUN	_	Number=Plur	15	_	nmod	_
+19	français	français·e	ADJ	_	Number=Plur	18	_	amod	_
+20	)	)	PUNCT	_	_	15	_	punct	_
+21	.	.	PUNCT	_	_	2	_	punct	_
+
+
 
 # text = n' oublie pas cependant de mettre des catégories a tes photos .
-1	n'	ne	ADV		Polarity=Neg	2	_	advmod	_
-2	oublie	oublier	VERB		Mood=Imp|Number=Sing|Person=3|Tense=Pres	2	_	ROOT	_
-3	pas	pas	ADV		Polarity=Neg	2	_	advmod	_
-4	cependant	cependant	ADV			2	_	advmod	_
-5	de	de	ADP			6	_	mark	_
-6	mettre	mettre	VERB		VerbForm=Inf	2	_	ccomp	_
-7	des	de	DET		Definite=Ind|Number=Plur|PronType=Art	8	_	det	_
-8	catégories	catégorie	NOUN		Number=Plur	6	_	obj	_
-9	a	avoir	VERB		Mood=Ind|Number=Sing|Person=3|Tense=Pres	2	_	conj	_
-10	tes	tes	DET		Number=Plur|Number[psor]=Sing|Person=2|Poss=Yes	11	_	det	_
-11	photos	photo	NOUN		Number=Plur	9	_	obj	_
-12	.	.	PUNCT			2	_	punct	_
+1	n'	ne	ADV	_	Polarity=Neg	2	_	advmod	_
+2	oublie	oublier	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	2	_	ROOT	_
+3	pas	pas	ADV	_	Polarity=Neg	2	_	advmod	_
+4	cependant	cependant	ADV	_	_	2	_	advmod	_
+5	de	de	ADP	_	_	6	_	mark	_
+6	mettre	mettre	VERB	_	VerbForm=Inf	2	_	ccomp	_
+7	des	de	DET	_	Definite=Ind|Number=Plur|PronType=Art	8	_	det	_
+8	catégories	catégorie	NOUN	_	Number=Plur	6	_	obj	_
+9	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	2	_	conj	_
+10	tes	tes	DET	_	Number=Plur|Number[psor]=Sing|Person=2|Poss=Yes	11	_	det	_
+11	photos	photo	NOUN	_	Number=Plur	9	_	obj	_
+12	.	.	PUNCT	_	_	2	_	punct	_
+
+
 
 # text = surtout n' oublie pas de demander à maître la hurière de ce petit vin d' anjou qui lui est arrivé ces jours -ci .
-1	surtout	surtout	ADV			3	_	advmod	_
-2	n'	ne	ADV		Polarity=Neg	3	_	advmod	_
-3	oublie	oublier	VERB		Mood=Imp|Number=Sing|Person=3|Tense=Pres	3	_	ROOT	_
-4	pas	pas	ADV		Polarity=Neg	3	_	advmod	_
-5	de	de	ADP			6	_	mark	_
-6	demander	demander	VERB		VerbForm=Inf	3	_	ccomp	_
-7	à	à	ADP			8	_	case	_
-8	maître	maître·sse	NOUN		Number=Sing	6	_	obl:arg	_
-9	la	le	DET		Definite=Def|Number=Sing|PronType=Art	10	_	det	_
-10	hurière	hurière	NOUN		Number=Sing	6	_	obj	_
-11	de	de	ADP			14	_	case	_
-12	ce	ce	DET		Number=Sing|PronType=Dem	14	_	det	_
-13	petit	petit·e	ADJ		Number=Sing	14	_	amod	_
-14	vin	vin	NOUN		Number=Sing	6	_	obl:arg	_
-15	d'	de	ADP			16	_	case	_
-16	anjou	anjou	NOUN		Number=Sing	14	_	nmod	_
-17	qui	qui	PRON		PronType=Rel	20	_	nsubj	_
-18	lui	lui	PRON		Number=Sing|Person=3|PronType=Prs	20	_	iobj	_
-19	est	être	AUX		Mood=Ind|Number=Sing|Person=3|Tense=Pres	20	_	aux:tense	_
-20	arrivé	arriver	VERB		Tense=Past|VerbForm=Part	14	_	acl:relcl	_
-21	ces	ces	DET		Number=Plur|PronType=Dem	22	_	det	_
-22	jours	jour	NOUN		Number=Plur	20	_	obl:mod	_
-23	-ci	c	PRON		Number=Sing|Person=3|PronType=Dem	22	_	amod	_
-24	.	.	PUNCT			3	_	punct	_
+1	surtout	surtout	ADV	_	_	3	_	advmod	_
+2	n'	ne	ADV	_	Polarity=Neg	3	_	advmod	_
+3	oublie	oublier	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	3	_	ROOT	_
+4	pas	pas	ADV	_	Polarity=Neg	3	_	advmod	_
+5	de	de	ADP	_	_	6	_	mark	_
+6	demander	demander	VERB	_	VerbForm=Inf	3	_	ccomp	_
+7	à	à	ADP	_	_	8	_	case	_
+8	maître	maître·sse	NOUN	_	Number=Sing	6	_	obl:arg	_
+9	la	le	DET	_	Definite=Def|Number=Sing|PronType=Art	10	_	det	_
+10	hurière	hurière	NOUN	_	Number=Sing	6	_	obj	_
+11	de	de	ADP	_	_	14	_	case	_
+12	ce	ce	DET	_	Number=Sing|PronType=Dem	14	_	det	_
+13	petit	petit·e	ADJ	_	Number=Sing	14	_	amod	_
+14	vin	vin	NOUN	_	Number=Sing	6	_	obl:arg	_
+15	d'	de	ADP	_	_	16	_	case	_
+16	anjou	anjou	NOUN	_	Number=Sing	14	_	nmod	_
+17	qui	qui	PRON	_	PronType=Rel	20	_	nsubj	_
+18	lui	lui	PRON	_	Number=Sing|Person=3|PronType=Prs	20	_	iobj	_
+19	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	20	_	aux:tense	_
+20	arrivé	arriver	VERB	_	Tense=Past|VerbForm=Part	14	_	acl:relcl	_
+21	ces	ces	DET	_	Number=Plur|PronType=Dem	22	_	det	_
+22	jours	jour	NOUN	_	Number=Plur	20	_	obl:mod	_
+23	-ci	c	PRON	_	Number=Sing|Person=3|PronType=Dem	22	_	amod	_
+24	.	.	PUNCT	_	_	3	_	punct	_
+
+
 
 # text = n' oublie pas que les titres ne prennent jamais de déterminant .
-1	n'	ne	ADV		Polarity=Neg	2	_	advmod	_
-2	oublie	oublier	VERB		Mood=Imp|Number=Sing|Person=3|Tense=Pres	2	_	ROOT	_
-3	pas	pas	ADV		Polarity=Neg	2	_	advmod	_
-4	que	que	SCONJ			8	_	mark	_
-5	les	le·la	DET		Definite=Def|Number=Plur|PronType=Art	6	_	det	_
-6	titres	titre	NOUN		Number=Plur	8	_	nsubj	_
-7	ne	ne	ADV		Polarity=Neg	8	_	advmod	_
-8	prennent	prendre	VERB		Mood=Ind|Number=Plur|Person=3|Tense=Pres	2	_	ccomp	_
-9	jamais	jamais	ADV		Polarity=Neg	8	_	advmod	_
-10	de	de	ADP			11	_	case	_
-11	déterminant	déterminant·e	NOUN		Number=Sing	8	_	obj	_
-12	.	.	PUNCT			2	_	punct	_
+1	n'	ne	ADV	_	Polarity=Neg	2	_	advmod	_
+2	oublie	oublier	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	2	_	ROOT	_
+3	pas	pas	ADV	_	Polarity=Neg	2	_	advmod	_
+4	que	que	SCONJ	_	_	8	_	mark	_
+5	les	le·la	DET	_	Definite=Def|Number=Plur|PronType=Art	6	_	det	_
+6	titres	titre	NOUN	_	Number=Plur	8	_	nsubj	_
+7	ne	ne	ADV	_	Polarity=Neg	8	_	advmod	_
+8	prennent	prendre	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	2	_	ccomp	_
+9	jamais	jamais	ADV	_	Polarity=Neg	8	_	advmod	_
+10	de	de	ADP	_	_	11	_	case	_
+11	déterminant	déterminant·e	NOUN	_	Number=Sing	8	_	obj	_
+12	.	.	PUNCT	_	_	2	_	punct	_
+
+
 
 # text = n' oublie seulement pas que le forum des nouveaux est là pour t' aider , toujours si besoin est .
-1	n'	ne	ADV		Polarity=Neg	2	_	advmod	_
-2	oublie	oublier	VERB		Mood=Imp|Number=Sing|Person=3|Tense=Pres	2	_	ROOT	_
-3	seulement	seulement	ADV			2	_	advmod	_
-4	pas	pas	ADV		Polarity=Neg	2	_	advmod	_
-5	que	que	SCONJ			10	_	mark	_
-6	le	le·la	DET		Definite=Def|Number=Sing|PronType=Art	7	_	det	_
-7	forum	forum	NOUN		Number=Sing	10	_	nsubj	_
-8	des	de	ADP		Definite=Def|Number=Plur|PronType=Art	9	_	det	_
-9	nouveaux	nouveau·elle	ADJ		Number=Plur	7	_	nmod	_
-10	est	être	VERB		Mood=Ind|Number=Sing|Person=3|Tense=Pres	11	_	cop	_
-11	là	là	ADV			2	_	ccomp	_
-12	pour	pour	ADP			14	_	mark	_
-13	t'	te	PRON		Number=Sing|Person=2|PronType=Prs	14	_	iobj	_
-14	aider	aider	VERB		VerbForm=Inf	11	_	advcl	_
-15	,	,	PUNCT			16	_	punct	_
-16	toujours	toujours	ADV			2	_	advmod	_
-17	si	si	SCONJ			19	_	mark	_
-18	besoin	besoin	NOUN		Number=Sing	19	_	nsubj	_
-19	est	être	VERB		Mood=Ind|Number=Sing|Person=3|Tense=Pres	2	_	advcl	_
-20	.	.	PUNCT			2	_	punct	_
+1	n'	ne	ADV	_	Polarity=Neg	2	_	advmod	_
+2	oublie	oublier	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	2	_	ROOT	_
+3	seulement	seulement	ADV	_	_	2	_	advmod	_
+4	pas	pas	ADV	_	Polarity=Neg	2	_	advmod	_
+5	que	que	SCONJ	_	_	10	_	mark	_
+6	le	le·la	DET	_	Definite=Def|Number=Sing|PronType=Art	7	_	det	_
+7	forum	forum	NOUN	_	Number=Sing	10	_	nsubj	_
+8	des	de	ADP	_	Definite=Def|Number=Plur|PronType=Art	9	_	det	_
+9	nouveaux	nouveau·elle	ADJ	_	Number=Plur	7	_	nmod	_
+10	est	être	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	11	_	cop	_
+11	là	là	ADV	_	_	2	_	ccomp	_
+12	pour	pour	ADP	_	_	14	_	mark	_
+13	t'	te	PRON	_	Number=Sing|Person=2|PronType=Prs	14	_	iobj	_
+14	aider	aider	VERB	_	VerbForm=Inf	11	_	advcl	_
+15	,	,	PUNCT	_	_	16	_	punct	_
+16	toujours	toujours	ADV	_	_	2	_	advmod	_
+17	si	si	SCONJ	_	_	19	_	mark	_
+18	besoin	besoin	NOUN	_	Number=Sing	19	_	nsubj	_
+19	est	être	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	2	_	advcl	_
+20	.	.	PUNCT	_	_	2	_	punct	_
+
+
 
 # text = oublie giantbomb , de très mauvaise qualité .
-1	oublie	oublier	VERB		Mood=Imp|Number=Sing|Person=3|Tense=Pres	1	_	ROOT	_
-2	giantbomb	giantbomb	ADJ		Number=Sing	1	_	xcomp	_
-3	,	,	PUNCT			7	_	punct	_
-4	de	de	ADP			7	_	case	_
-5	très	très	ADV			6	_	advmod	_
-6	mauvaise	mauvais·e	ADJ		Number=Sing	7	_	amod	_
-7	qualité	qualité	NOUN		Number=Sing	1	_	obl:mod	_
-8	.	.	PUNCT			1	_	punct	_
+1	oublie	oublier	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	1	_	ROOT	_
+2	giantbomb	giantbomb	ADJ	_	Number=Sing	1	_	xcomp	_
+3	,	,	PUNCT	_	_	7	_	punct	_
+4	de	de	ADP	_	_	7	_	case	_
+5	très	très	ADV	_	_	6	_	advmod	_
+6	mauvaise	mauvais·e	ADJ	_	Number=Sing	7	_	amod	_
+7	qualité	qualité	NOUN	_	Number=Sing	1	_	obl:mod	_
+8	.	.	PUNCT	_	_	1	_	punct	_
+
+
 
 # text = n' oublie pas que nous , nous avons des centaines de villes de chine avec juste marqué ville de plus de 2 habitants :)
-1	n'	ne	ADV		Polarity=Neg	2	_	advmod	_
-2	oublie	oublier	VERB		Mood=Imp|Number=Sing|Person=3|Tense=Pres	2	_	ROOT	_
-3	pas	pas	ADV		Polarity=Neg	2	_	advmod	_
-4	que	que	SCONJ			8	_	mark	_
-5	nous	nous	PRON		Number=Plur|Person=1|PronType=Prs	8	_	dislocated	_
-6	,	,	PUNCT			5	_	punct	_
-7	nous	nous	PRON		Number=Plur|Person=1|PronType=Prs	8	_	nsubj	_
-8	avons	avoir	VERB		Mood=Ind|Number=Plur|Person=1|Tense=Pres	2	_	ccomp	_
-9	des	de	DET		Definite=Ind|Number=Plur|PronType=Art	10	_	det	_
-10	centaines	centaine	NOUN		Number=Plur	8	_	obj	_
-11	de	de	ADP			12	_	case	_
-12	villes	ville	NOUN		Number=Plur	10	_	nmod	_
-13	de	de	ADP			14	_	case	_
-14	chine	chine	NOUN		Number=Sing	12	_	nmod	_
-15	avec	avec	ADP			17	_	mark	_
-16	juste	juste	ADJ		Number=Sing	17	_	advmod	_
-17	marqué	marquer	VERB		Tense=Past|VerbForm=Part	10	_	acl	_
-18	ville	ville	NOUN		Number=Sing	17	_	obj	_
-19	de	de	ADP			20	_	case	_
-20	plus	plus	ADV			18	_	nmod	_
-21	de	de	ADP			23	_	case	_
-22	2	2	NUM		NumType=Card	23	_	nummod	_
-23	habitants	habitant·e	NOUN		Number=Plur	20	_	obl:arg	_
-24	:)	:)	PUNCT			2	_	punct	_
+1	n'	ne	ADV	_	Polarity=Neg	2	_	advmod	_
+2	oublie	oublier	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	2	_	ROOT	_
+3	pas	pas	ADV	_	Polarity=Neg	2	_	advmod	_
+4	que	que	SCONJ	_	_	8	_	mark	_
+5	nous	nous	PRON	_	Number=Plur|Person=1|PronType=Prs	8	_	dislocated	_
+6	,	,	PUNCT	_	_	5	_	punct	_
+7	nous	nous	PRON	_	Number=Plur|Person=1|PronType=Prs	8	_	nsubj	_
+8	avons	avoir	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres	2	_	ccomp	_
+9	des	de	DET	_	Definite=Ind|Number=Plur|PronType=Art	10	_	det	_
+10	centaines	centaine	NOUN	_	Number=Plur	8	_	obj	_
+11	de	de	ADP	_	_	12	_	case	_
+12	villes	ville	NOUN	_	Number=Plur	10	_	nmod	_
+13	de	de	ADP	_	_	14	_	case	_
+14	chine	chine	NOUN	_	Number=Sing	12	_	nmod	_
+15	avec	avec	ADP	_	_	17	_	mark	_
+16	juste	juste	ADJ	_	Number=Sing	17	_	advmod	_
+17	marqué	marquer	VERB	_	Tense=Past|VerbForm=Part	10	_	acl	_
+18	ville	ville	NOUN	_	Number=Sing	17	_	obj	_
+19	de	de	ADP	_	_	20	_	case	_
+20	plus	plus	ADV	_	_	18	_	nmod	_
+21	de	de	ADP	_	_	23	_	case	_
+22	2	2	NUM	_	NumType=Card	23	_	nummod	_
+23	habitants	habitant·e	NOUN	_	Number=Plur	20	_	obl:arg	_
+24	:)	:)	PUNCT	_	_	2	_	punct	_
+
+
 
 # text = n' oublie pas que derrière un compte utilisateur se cache un être humain dont tu ignore plus que tu n' en sais .
-1	n'	ne	ADV		Polarity=Neg	2	_	advmod	_
-2	oublie	oublier	VERB		Mood=Imp|Number=Sing|Person=3|Tense=Pres	2	_	ROOT	_
-3	pas	pas	ADV		Polarity=Neg	2	_	advmod	_
-4	que	que	SCONJ			10	_	mark	_
-5	derrière	derrière	ADP			7	_	case	_
-6	un	un·e	DET		Definite=Ind|Number=Sing|PronType=Art	7	_	det	_
-7	compte	compte	NOUN		Number=Sing	10	_	obl:mod	_
-8	utilisateur	utilisateur·rice	NOUN		Number=Sing	10	_	nsubj	_
-9	se	se	PRON		Person=3|PronType=Prs|Reflex=Yes	10	_	expl:pv	_
-10	cache	cacher	VERB		Mood=Ind|Number=Sing|Person=3|Tense=Pres	2	_	ccomp	_
-11	un	un·e	DET		Definite=Ind|Number=Sing|PronType=Art	13	_	det	_
-12	être	être	NOUN		Number=Sing	13	_	cop	_
-13	humain	humain·e	ADJ		Number=Sing	10	_	obj	_
-14	dont	dont	PRON		PronType=Rel	16	_	iobj	_
-15	tu	tu	PRON		Number=Sing|Person=2|PronType=Prs	16	_	nsubj	_
-16	ignore	ignorer	VERB		Mood=Ind|Number=Sing|Person=3|Tense=Pres	13	_	acl:relcl	_
-17	plus	plus	ADV			16	_	advmod	_
-18	que	que	SCONJ			17	_	fixed	_
-19	tu	tu	PRON		Number=Sing|Person=2|PronType=Prs	20	_	nsubj	_
-20	n'	ne	ADV		Polarity=Neg	21	_	advmod	_
-21	en	en	PRON		Person=3	2	_	discourse	_
-22	sais	savoir	VERB		Mood=Ind|Number=Sing|Person=2|Tense=Pres	21	_	fixed	_
-23	.	.	PUNCT			2	_	punct	_
+1	n'	ne	ADV	_	Polarity=Neg	2	_	advmod	_
+2	oublie	oublier	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	2	_	ROOT	_
+3	pas	pas	ADV	_	Polarity=Neg	2	_	advmod	_
+4	que	que	SCONJ	_	_	10	_	mark	_
+5	derrière	derrière	ADP	_	_	7	_	case	_
+6	un	un·e	DET	_	Definite=Ind|Number=Sing|PronType=Art	7	_	det	_
+7	compte	compte	NOUN	_	Number=Sing	10	_	obl:mod	_
+8	utilisateur	utilisateur·rice	NOUN	_	Number=Sing	10	_	nsubj	_
+9	se	se	PRON	_	Person=3|PronType=Prs|Reflex=Yes	10	_	expl:pv	_
+10	cache	cacher	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	2	_	ccomp	_
+11	un	un·e	DET	_	Definite=Ind|Number=Sing|PronType=Art	13	_	det	_
+12	être	être	NOUN	_	Number=Sing	13	_	cop	_
+13	humain	humain·e	ADJ	_	Number=Sing	10	_	obj	_
+14	dont	dont	PRON	_	PronType=Rel	16	_	iobj	_
+15	tu	tu	PRON	_	Number=Sing|Person=2|PronType=Prs	16	_	nsubj	_
+16	ignore	ignorer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	13	_	acl:relcl	_
+17	plus	plus	ADV	_	_	16	_	advmod	_
+18	que	que	SCONJ	_	_	17	_	fixed	_
+19	tu	tu	PRON	_	Number=Sing|Person=2|PronType=Prs	20	_	nsubj	_
+20	n'	ne	ADV	_	Polarity=Neg	21	_	advmod	_
+21	en	en	PRON	_	Person=3	2	_	discourse	_
+22	sais	savoir	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres	21	_	fixed	_
+23	.	.	PUNCT	_	_	2	_	punct	_
+
+
 
 # text = a part ça , n' oublie pas de mettre des sources à l' affaire du petit mathias .
-1	a	avoir	VERB		Mood=Ind|Number=Sing|Person=3|Tense=Pres	1	_	ROOT	_
-2	part	part	NOUN		Number=Sing	1	_	obj	_
-3	ça	ça	PRON		Number=Sing|Person=3|PronType=Dem	6	_	nsubj	_
-4	,	,	PUNCT			3	_	punct	_
-5	n'	ne	ADV		Polarity=Neg	6	_	advmod	_
-6	oublie	oublier	VERB		Mood=Imp|Number=Sing|Person=3|Tense=Pres	1	_	conj	_
-7	pas	pas	ADV		Polarity=Neg	6	_	advmod	_
-8	de	de	ADP			9	_	mark	_
-9	mettre	mettre	VERB		VerbForm=Inf	6	_	xcomp	_
-10	des	de	DET		Definite=Ind|Number=Plur|PronType=Art	11	_	det	_
-11	sources	source	NOUN		Number=Plur	9	_	obj	_
-12	à	à	ADP			14	_	case	_
-13	l'	le·a	DET		Definite=Def|Number=Sing|PronType=Art	14	_	det	_
-14	affaire	affaire	NOUN		Number=Sing	11	_	nmod	_
-15	du	du	ADP		Definite=Def|Number=Sing|PronType=Art	17	_	det	_
-16	petit	petit·e	ADJ		Number=Sing	17	_	amod	_
-17	mathias	mathia	NOUN		Number=Sing	11	_	nmod	_
-18	.	.	PUNCT			1	_	punct	_
+1	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	1	_	ROOT	_
+2	part	part	NOUN	_	Number=Sing	1	_	obj	_
+3	ça	ça	PRON	_	Number=Sing|Person=3|PronType=Dem	6	_	nsubj	_
+4	,	,	PUNCT	_	_	3	_	punct	_
+5	n'	ne	ADV	_	Polarity=Neg	6	_	advmod	_
+6	oublie	oublier	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	1	_	conj	_
+7	pas	pas	ADV	_	Polarity=Neg	6	_	advmod	_
+8	de	de	ADP	_	_	9	_	mark	_
+9	mettre	mettre	VERB	_	VerbForm=Inf	6	_	xcomp	_
+10	des	de	DET	_	Definite=Ind|Number=Plur|PronType=Art	11	_	det	_
+11	sources	source	NOUN	_	Number=Plur	9	_	obj	_
+12	à	à	ADP	_	_	14	_	case	_
+13	l'	le·a	DET	_	Definite=Def|Number=Sing|PronType=Art	14	_	det	_
+14	affaire	affaire	NOUN	_	Number=Sing	11	_	nmod	_
+15	du	du	ADP	_	Definite=Def|Number=Sing|PronType=Art	17	_	det	_
+16	petit	petit·e	ADJ	_	Number=Sing	17	_	amod	_
+17	mathias	mathia	NOUN	_	Number=Sing	11	_	nmod	_
+18	.	.	PUNCT	_	_	1	_	punct	_
+
+
 
 # text = attention , n' oublie pas l' apostrophe devant le mot !
-1	attention	attention	NOUN		Number=Sing	4	_	nsubj	_
-2	,	,	PUNCT			1	_	punct	_
-3	n'	ne	ADV		Polarity=Neg	4	_	advmod	_
-4	oublie	oublier	VERB		Mood=Imp|Number=Sing|Person=3|Tense=Pres	4	_	ROOT	_
-5	pas	pas	ADV		Polarity=Neg	4	_	advmod	_
-6	l'	le·a	DET		Definite=Def|Number=Sing|PronType=Art	7	_	det	_
-7	apostrophe	apostrophe	NOUN		Number=Sing	4	_	obj	_
-8	devant	devant	ADP			10	_	case	_
-9	le	le·la	DET		Definite=Def|Number=Sing|PronType=Art	10	_	det	_
-10	mot	mot	NOUN		Number=Sing	7	_	nmod	_
-11	!	!	PUNCT			4	_	punct	_
+1	attention	attention	NOUN	_	Number=Sing	4	_	nsubj	_
+2	,	,	PUNCT	_	_	1	_	punct	_
+3	n'	ne	ADV	_	Polarity=Neg	4	_	advmod	_
+4	oublie	oublier	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	4	_	ROOT	_
+5	pas	pas	ADV	_	Polarity=Neg	4	_	advmod	_
+6	l'	le·a	DET	_	Definite=Def|Number=Sing|PronType=Art	7	_	det	_
+7	apostrophe	apostrophe	NOUN	_	Number=Sing	4	_	obj	_
+8	devant	devant	ADP	_	_	10	_	case	_
+9	le	le·la	DET	_	Definite=Def|Number=Sing|PronType=Art	10	_	det	_
+10	mot	mot	NOUN	_	Number=Sing	7	_	nmod	_
+11	!	!	PUNCT	_	_	4	_	punct	_
+
+
 
 # text = surtout , n' oublie pas tes chroniques [ https://
-1	surtout	surtout	ADV			4	_	advmod	_
-2	,	,	PUNCT			1	_	punct	_
-3	n'	ne	ADV		Polarity=Neg	4	_	advmod	_
-4	oublie	oublier	VERB		Mood=Imp|Number=Sing|Person=3|Tense=Pres	4	_	ROOT	_
-5	pas	pas	ADV		Polarity=Neg	4	_	advmod	_
-6	tes	tes	DET		Number=Plur|Number[psor]=Sing|Person=2|Poss=Yes	7	_	det	_
-7	chroniques	chronique	NOUN		Number=Plur	4	_	obj	_
-8	[	[	PUNCT			9	_	punct	_
-9	https://	https://	PUNCT			4	_	punct	_
+1	surtout	surtout	ADV	_	_	4	_	advmod	_
+2	,	,	PUNCT	_	_	1	_	punct	_
+3	n'	ne	ADV	_	Polarity=Neg	4	_	advmod	_
+4	oublie	oublier	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	4	_	ROOT	_
+5	pas	pas	ADV	_	Polarity=Neg	4	_	advmod	_
+6	tes	tes	DET	_	Number=Plur|Number[psor]=Sing|Person=2|Poss=Yes	7	_	det	_
+7	chroniques	chronique	NOUN	_	Number=Plur	4	_	obj	_
+8	[	[	PUNCT	_	_	9	_	punct	_
+9	https://	https://	PUNCT	_	_	4	_	punct	_
+
+
 
 # text = oublie pas la page défécation , hein .
-1	oublie	oublier	VERB		Mood=Imp|Number=Sing|Person=2|Tense=Pres	1	_	ROOT	_
-2	pas	pas	ADV		Polarity=Neg	1	_	advmod	_
-3	la	le	DET		Definite=Def|Number=Sing|PronType=Art	4	_	det	_
-4	page	page	NOUN		Number=Sing	1	_	obj	_
-5	défécation	défécation	NOUN		Number=Sing	4	_	nmod	_
-6	,	,	PUNCT			7	_	punct	_
-7	hein	hein	INTJ			1	_	discourse	_
-8	.	.	PUNCT			1	_	punct	_
+1	oublie	oublier	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	1	_	ROOT	_
+2	pas	pas	ADV	_	Polarity=Neg	1	_	advmod	_
+3	la	le	DET	_	Definite=Def|Number=Sing|PronType=Art	4	_	det	_
+4	page	page	NOUN	_	Number=Sing	1	_	obj	_
+5	défécation	défécation	NOUN	_	Number=Sing	4	_	nmod	_
+6	,	,	PUNCT	_	_	7	_	punct	_
+7	hein	hein	INTJ	_	_	1	_	discourse	_
+8	.	.	PUNCT	_	_	1	_	punct	_
+
+
 
 # text = en tout cas , n' oublie pas de contribuer pendant ton congé patt' .
-1	en	en	ADP			3	_	case	_
-2	tout	touste	DET		Definite=Ind|Number=Sing|Person=3	3	_	amod	_
-3	cas	cas	NOUN		Number=Sing	6	_	obl:mod	_
-4	,	,	PUNCT			3	_	punct	_
-5	n'	ne	ADV		Polarity=Neg	6	_	advmod	_
-6	oublie	oublier	VERB		Mood=Imp|Number=Sing|Person=3|Tense=Pres	6	_	ROOT	_
-7	pas	pas	ADV		Polarity=Neg	6	_	advmod	_
-8	de	de	ADP			9	_	mark	_
-9	contribuer	contribuer	VERB		VerbForm=Inf	6	_	xcomp	_
-10	pendant	pendant	ADP			12	_	case	_
-11	ton	ton	DET		Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes	12	_	det	_
-12	congé	congé	NOUN		Number=Sing	9	_	obl:arg	_
-13	patt'	patt'	ADJ		Number=Sing	12	_	amod	_
-14	.	.	PUNCT			6	_	punct	_
+1	en	en	ADP	_	_	3	_	case	_
+2	tout	touste	DET	_	Definite=Ind|Number=Sing|Person=3	3	_	amod	_
+3	cas	cas	NOUN	_	Number=Sing	6	_	obl:mod	_
+4	,	,	PUNCT	_	_	3	_	punct	_
+5	n'	ne	ADV	_	Polarity=Neg	6	_	advmod	_
+6	oublie	oublier	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	6	_	ROOT	_
+7	pas	pas	ADV	_	Polarity=Neg	6	_	advmod	_
+8	de	de	ADP	_	_	9	_	mark	_
+9	contribuer	contribuer	VERB	_	VerbForm=Inf	6	_	xcomp	_
+10	pendant	pendant	ADP	_	_	12	_	case	_
+11	ton	ton	DET	_	Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes	12	_	det	_
+12	congé	congé	NOUN	_	Number=Sing	9	_	obl:arg	_
+13	patt'	patt'	ADJ	_	Number=Sing	12	_	amod	_
+14	.	.	PUNCT	_	_	6	_	punct	_
+
+
 
 # text = n' oublie tout de même pas de supposer la bonne foi et désolé pour l' utilisation de jargon wikipédien .
-1	n'	ne	ADV		Polarity=Neg	2	_	advmod	_
-2	oublie	oublier	VERB		Mood=Imp|Number=Sing|Person=3|Tense=Pres	2	_	ROOT	_
-3	tout	tous·te	ADV			5	_	advmod	_
-4	de	de	ADP			5	_	case	_
-5	même	même	ADV			2	_	advmod	_
-6	pas	pas	ADV		Polarity=Neg	8	_	advmod	_
-7	de	de	ADP			8	_	mark	_
-8	supposer	supposer	VERB		VerbForm=Inf	2	_	ccomp	_
-9	la	le	DET		Definite=Def|Number=Sing|PronType=Art	11	_	det	_
-10	bonne	bon·ne	ADJ		Number=Sing	11	_	amod	_
-11	foi	foi	NOUN		Number=Sing	8	_	obj	_
-12	et	et	CCONJ			13	_	cc	_
-13	désolé	désoler	ADJ		Number=Sing	11	_	conj	_
-14	pour	pour	ADP			16	_	case	_
-15	l'	le·a	DET		Definite=Def|Number=Sing|PronType=Art	16	_	det	_
-16	utilisation	utilisation	NOUN		Number=Sing	11	_	nmod	_
-17	de	de	ADP			18	_	case	_
-18	jargon	jargon	NOUN		Number=Sing	16	_	nmod	_
-19	wikipédien	wikipédien	ADJ		Number=Sing	18	_	amod	_
-20	.	.	PUNCT			2	_	punct	_
+1	n'	ne	ADV	_	Polarity=Neg	2	_	advmod	_
+2	oublie	oublier	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	2	_	ROOT	_
+3	tout	tous·te	ADV	_	_	5	_	advmod	_
+4	de	de	ADP	_	_	5	_	case	_
+5	même	même	ADV	_	_	2	_	advmod	_
+6	pas	pas	ADV	_	Polarity=Neg	8	_	advmod	_
+7	de	de	ADP	_	_	8	_	mark	_
+8	supposer	supposer	VERB	_	VerbForm=Inf	2	_	ccomp	_
+9	la	le	DET	_	Definite=Def|Number=Sing|PronType=Art	11	_	det	_
+10	bonne	bon·ne	ADJ	_	Number=Sing	11	_	amod	_
+11	foi	foi	NOUN	_	Number=Sing	8	_	obj	_
+12	et	et	CCONJ	_	_	13	_	cc	_
+13	désolé	désoler	ADJ	_	Number=Sing	11	_	conj	_
+14	pour	pour	ADP	_	_	16	_	case	_
+15	l'	le·a	DET	_	Definite=Def|Number=Sing|PronType=Art	16	_	det	_
+16	utilisation	utilisation	NOUN	_	Number=Sing	11	_	nmod	_
+17	de	de	ADP	_	_	18	_	case	_
+18	jargon	jargon	NOUN	_	Number=Sing	16	_	nmod	_
+19	wikipédien	wikipédien	ADJ	_	Number=Sing	18	_	amod	_
+20	.	.	PUNCT	_	_	2	_	punct	_
+
+
 
 # text = d' autre part , n' oublie pas de citer tes sources , comme par exemple pour l' article secteurs d' activités des polymères .
-1	d'	de	ADP			3	_	case	_
-2	autre	autre	ADJ		Number=Sing	3	_	amod	_
-3	part	part	NOUN		Number=Sing	6	_	obl:mod	_
-4	,	,	PUNCT			3	_	punct	_
-5	n'	ne	ADV		Polarity=Neg	6	_	advmod	_
-6	oublie	oublier	VERB		Mood=Imp|Number=Sing|Person=3|Tense=Pres	6	_	ROOT	_
-7	pas	pas	ADV		Polarity=Neg	6	_	advmod	_
-8	de	de	ADP			9	_	mark	_
-9	citer	citer	VERB		VerbForm=Inf	6	_	xcomp	_
-10	tes	tes	DET		Number=Plur|Number[psor]=Sing|Person=2|Poss=Yes	11	_	det	_
-11	sources	source	NOUN		Number=Plur	9	_	obj	_
-12	,	,	PUNCT			18	_	punct	_
-13	comme	comme	SCONJ			18	_	case	_
-14	par	par	ADP			15	_	case	_
-15	exemple	exemple	NOUN		Number=Sing	18	_	nmod	_
-16	pour	pour	ADP			18	_	case	_
-17	l'	le·a	DET		Definite=Def|Number=Sing|PronType=Art	18	_	det	_
-18	article	article	NOUN		Number=Sing	9	_	obl:mod	_
-19	secteurs	secteur	NOUN		Number=Plur	18	_	nmod	_
-20	d'	de	ADP			21	_	case	_
-21	activités	activité	NOUN		Number=Plur	19	_	nmod	_
-22	des	de	ADP		Definite=Def|Number=Plur|PronType=Art	23	_	det	_
-23	polymères	polymère	NOUN		Number=Plur	21	_	nmod	_
-24	.	.	PUNCT			6	_	punct	_
+1	d'	de	ADP	_	_	3	_	case	_
+2	autre	autre	ADJ	_	Number=Sing	3	_	amod	_
+3	part	part	NOUN	_	Number=Sing	6	_	obl:mod	_
+4	,	,	PUNCT	_	_	3	_	punct	_
+5	n'	ne	ADV	_	Polarity=Neg	6	_	advmod	_
+6	oublie	oublier	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	6	_	ROOT	_
+7	pas	pas	ADV	_	Polarity=Neg	6	_	advmod	_
+8	de	de	ADP	_	_	9	_	mark	_
+9	citer	citer	VERB	_	VerbForm=Inf	6	_	xcomp	_
+10	tes	tes	DET	_	Number=Plur|Number[psor]=Sing|Person=2|Poss=Yes	11	_	det	_
+11	sources	source	NOUN	_	Number=Plur	9	_	obj	_
+12	,	,	PUNCT	_	_	18	_	punct	_
+13	comme	comme	SCONJ	_	_	18	_	case	_
+14	par	par	ADP	_	_	15	_	case	_
+15	exemple	exemple	NOUN	_	Number=Sing	18	_	nmod	_
+16	pour	pour	ADP	_	_	18	_	case	_
+17	l'	le·a	DET	_	Definite=Def|Number=Sing|PronType=Art	18	_	det	_
+18	article	article	NOUN	_	Number=Sing	9	_	obl:mod	_
+19	secteurs	secteur	NOUN	_	Number=Plur	18	_	nmod	_
+20	d'	de	ADP	_	_	21	_	case	_
+21	activités	activité	NOUN	_	Number=Plur	19	_	nmod	_
+22	des	de	ADP	_	Definite=Def|Number=Plur|PronType=Art	23	_	det	_
+23	polymères	polymère	NOUN	_	Number=Plur	21	_	nmod	_
+24	.	.	PUNCT	_	_	6	_	punct	_
+
+
 
 # text = et oublie au passage que le tibet historique dont parle tendzin choegyal et le dallai lama est près de 2 fois plus grand , et comprend le plateau tibétain ainsi que les régionde de gansu , qinghai , sichuan , et yunnan .
-1	et	et	CCONJ			2	_	cc	_
-2	oublie	oublier	VERB		Mood=Imp|Number=Sing|Person=3|Tense=Pres	2	_	ROOT	_
-3	au	au	ADP		Definite=Def|Number=Sing|PronType=Art	4	_	det	_
-4	passage	passage	NOUN		Number=Sing	2	_	obl:mod	_
-5	que	que	SCONJ			7	_	case	_
-6	le	le·la	DET		Definite=Def|Number=Sing|PronType=Art	7	_	det	_
-7	tibet	tibet	NOUN		Number=Sing	2	_	ccomp	_
-8	historique	historique	ADJ		Number=Sing	7	_	amod	_
-9	dont	dont	PRON		PronType=Rel	10	_	nsubj	_
-10	parle	parler	VERB		Mood=Ind|Number=Sing|Person=3|Tense=Pres	7	_	acl:relcl	_
-11	tendzin	tendzin	PROPN			10	_	nsubj	_
-12	choegyal	choegyal	NOUN		Number=Sing	11	_	flat:name	_
-13	et	et	CCONJ			15	_	cc	_
-14	le	le·la	DET		Definite=Def|Number=Sing|PronType=Art	15	_	det	_
-15	dallai	daller	VERB		Mood=Ind|Number=Sing|Person=1|Tense=Past	10	_	conj	_
-16	lama	lama	NOUN		Number=Sing	15	_	obj	_
-17	est	être	VERB		Mood=Ind|Number=Sing|Person=3|Tense=Pres	18	_	cop	_
-18	près	près	ADV			15	_	advmod	_
-19	de	de	ADP			21	_	case	_
-20	2	2	NUM		NumType=Card	21	_	nummod	_
-21	fois	foi	NOUN		Number=Plur	18	_	obl:arg	_
-22	plus	plus	ADV			23	_	advmod	_
-23	grand	grand·e	ADJ		Number=Sing	21	_	amod	_
-24	,	,	PUNCT			15	_	punct	_
-25	et	et	CCONJ			26	_	cc	_
-26	comprend	comprendre	VERB		Mood=Ind|Number=Sing|Person=3|Tense=Pres	10	_	conj	_
-27	le	le·la	DET		Definite=Def|Number=Sing|PronType=Art	28	_	det	_
-28	plateau	plateau	NOUN		Number=Sing	26	_	obj	_
-29	tibétain	tibétain·e	ADJ		Number=Sing	28	_	amod	_
-30	ainsi	ainsi	ADV			33	_	cc	_
-31	que	que	SCONJ			30	_	fixed	_
-32	les	le·la	DET		Definite=Def|Number=Plur|PronType=Art	33	_	det	_
-33	régionde	régionde	NOUN		Number=Plur	10	_	conj	_
-34	de	de	ADP			35	_	case	_
-35	gansu	gansu	NOUN		Number=Sing	33	_	nmod	_
-36	,	,	PUNCT			37	_	punct	_
-37	qinghai	qinghai	PROPN			33	_	appos	_
-38	,	,	PUNCT			39	_	punct	_
-39	sichuan	sichuan	ADJ		Number=Sing	33	_	amod	_
-40	,	,	PUNCT			42	_	punct	_
-41	et	et	CCONJ			42	_	cc	_
-42	yunnan	yunnan	PROPN			33	_	conj	_
-43	.	.	PUNCT			2	_	punct	_
+1	et	et	CCONJ	_	_	2	_	cc	_
+2	oublie	oublier	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	2	_	ROOT	_
+3	au	au	ADP	_	Definite=Def|Number=Sing|PronType=Art	4	_	det	_
+4	passage	passage	NOUN	_	Number=Sing	2	_	obl:mod	_
+5	que	que	SCONJ	_	_	7	_	case	_
+6	le	le·la	DET	_	Definite=Def|Number=Sing|PronType=Art	7	_	det	_
+7	tibet	tibet	NOUN	_	Number=Sing	2	_	ccomp	_
+8	historique	historique	ADJ	_	Number=Sing	7	_	amod	_
+9	dont	dont	PRON	_	PronType=Rel	10	_	nsubj	_
+10	parle	parler	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	7	_	acl:relcl	_
+11	tendzin	tendzin	PROPN	_	_	10	_	nsubj	_
+12	choegyal	choegyal	NOUN	_	Number=Sing	11	_	flat:name	_
+13	et	et	CCONJ	_	_	15	_	cc	_
+14	le	le·la	DET	_	Definite=Def|Number=Sing|PronType=Art	15	_	det	_
+15	dallai	daller	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past	10	_	conj	_
+16	lama	lama	NOUN	_	Number=Sing	15	_	obj	_
+17	est	être	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	18	_	cop	_
+18	près	près	ADV	_	_	15	_	advmod	_
+19	de	de	ADP	_	_	21	_	case	_
+20	2	2	NUM	_	NumType=Card	21	_	nummod	_
+21	fois	foi	NOUN	_	Number=Plur	18	_	obl:arg	_
+22	plus	plus	ADV	_	_	23	_	advmod	_
+23	grand	grand·e	ADJ	_	Number=Sing	21	_	amod	_
+24	,	,	PUNCT	_	_	15	_	punct	_
+25	et	et	CCONJ	_	_	26	_	cc	_
+26	comprend	comprendre	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	10	_	conj	_
+27	le	le·la	DET	_	Definite=Def|Number=Sing|PronType=Art	28	_	det	_
+28	plateau	plateau	NOUN	_	Number=Sing	26	_	obj	_
+29	tibétain	tibétain·e	ADJ	_	Number=Sing	28	_	amod	_
+30	ainsi	ainsi	ADV	_	_	33	_	cc	_
+31	que	que	SCONJ	_	_	30	_	fixed	_
+32	les	le·la	DET	_	Definite=Def|Number=Plur|PronType=Art	33	_	det	_
+33	régionde	régionde	NOUN	_	Number=Plur	10	_	conj	_
+34	de	de	ADP	_	_	35	_	case	_
+35	gansu	gansu	NOUN	_	Number=Sing	33	_	nmod	_
+36	,	,	PUNCT	_	_	37	_	punct	_
+37	qinghai	qinghai	PROPN	_	_	33	_	appos	_
+38	,	,	PUNCT	_	_	39	_	punct	_
+39	sichuan	sichuan	ADJ	_	Number=Sing	33	_	amod	_
+40	,	,	PUNCT	_	_	42	_	punct	_
+41	et	et	CCONJ	_	_	42	_	cc	_
+42	yunnan	yunnan	PROPN	_	_	33	_	conj	_
+43	.	.	PUNCT	_	_	2	_	punct	_
+
+
 
 # text = par ailleurs , n' oublie pas mettre à jour [ https://
-1	par	par	ADP			2	_	case	_
-2	ailleurs	ailleurs	ADV			5	_	advmod	_
-3	,	,	PUNCT			2	_	punct	_
-4	n'	ne	ADV		Polarity=Neg	5	_	advmod	_
-5	oublie	oublier	VERB		Mood=Imp|Number=Sing|Person=3|Tense=Pres	5	_	ROOT	_
-6	pas	pas	ADV		Polarity=Neg	5	_	advmod	_
-7	mettre	mettre	VERB		VerbForm=Inf	5	_	xcomp	_
-8	à	à	ADP			9	_	case	_
-9	jour	jour	NOUN		Number=Sing	7	_	obl:arg	_
-10	[	[	PUNCT			5	_	punct	_
-11	https://	https://	PUNCT			11	_	ROOT	_
+1	par	par	ADP	_	_	2	_	case	_
+2	ailleurs	ailleurs	ADV	_	_	5	_	advmod	_
+3	,	,	PUNCT	_	_	2	_	punct	_
+4	n'	ne	ADV	_	Polarity=Neg	5	_	advmod	_
+5	oublie	oublier	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	5	_	ROOT	_
+6	pas	pas	ADV	_	Polarity=Neg	5	_	advmod	_
+7	mettre	mettre	VERB	_	VerbForm=Inf	5	_	xcomp	_
+8	à	à	ADP	_	_	9	_	case	_
+9	jour	jour	NOUN	_	Number=Sing	7	_	obl:arg	_
+10	[	[	PUNCT	_	_	5	_	punct	_
+11	https://	https://	PUNCT	_	_	11	_	ROOT	_
+
+
 
 # text = n' oublie pas que tu es sur un projet collaboratif :
-1	n'	ne	ADV		Polarity=Neg	2	_	advmod	_
-2	oublie	oublier	VERB		Mood=Imp|Number=Sing|Person=3|Tense=Pres	2	_	ROOT	_
-3	pas	pas	ADV		Polarity=Neg	2	_	advmod	_
-4	que	que	SCONJ			6	_	mark	_
-5	tu	tu	PRON		Number=Sing|Person=2|PronType=Prs	6	_	nsubj	_
-6	es	être	VERB		Mood=Ind|Number=Sing|Person=2|Tense=Pres	2	_	ccomp	_
-7	sur	sur	ADP			9	_	case	_
-8	un	un·e	DET		Definite=Ind|Number=Sing|PronType=Art	9	_	det	_
-9	projet	projet	NOUN		Number=Sing	6	_	obl:arg	_
-10	collaboratif	collaboratif·ve	ADJ		Number=Sing	9	_	amod	_
-11	:	:	PUNCT			2	_	punct	_
+1	n'	ne	ADV	_	Polarity=Neg	2	_	advmod	_
+2	oublie	oublier	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	2	_	ROOT	_
+3	pas	pas	ADV	_	Polarity=Neg	2	_	advmod	_
+4	que	que	SCONJ	_	_	6	_	mark	_
+5	tu	tu	PRON	_	Number=Sing|Person=2|PronType=Prs	6	_	nsubj	_
+6	es	être	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres	2	_	ccomp	_
+7	sur	sur	ADP	_	_	9	_	case	_
+8	un	un·e	DET	_	Definite=Ind|Number=Sing|PronType=Art	9	_	det	_
+9	projet	projet	NOUN	_	Number=Sing	6	_	obl:arg	_
+10	collaboratif	collaboratif·ve	ADJ	_	Number=Sing	9	_	amod	_
+11	:	:	PUNCT	_	_	2	_	punct	_
+
+
 
 # text = oublie darwinus et regarde ce qui s' est passé et les accusations d' hc .
-1	oublie	oublier	VERB		Mood=Imp|Number=Sing|Person=3|Tense=Pres	1	_	ROOT	_
-2	darwinus	darwinus	PROPN			1	_	obj	_
-3	et	et	CCONJ			4	_	cc	_
-4	regarde	regarder	VERB		Mood=Ind|Number=Sing|Person=3|Tense=Pres	1	_	conj	_
-5	ce	ce	PRON		Number=Sing|Person=3|PronType=Dem	4	_	obj	_
-6	qui	qui	PRON		PronType=Rel	9	_	nsubj	_
-7	s'	se	PRON		Person=3|PronType=Prs|Reflex=Yes	9	_	expl:comp	_
-8	est	être	AUX		Mood=Ind|Number=Sing|Person=3|Tense=Pres	9	_	aux:tense	_
-9	passé	passer	VERB		Tense=Past|VerbForm=Part	5	_	acl:relcl	_
-10	et	et	CCONJ			12	_	cc	_
-11	les	le·la	DET		Definite=Def|Number=Plur|PronType=Art	12	_	det	_
-12	accusations	accusation	NOUN		Number=Plur	1	_	conj	_
-13	d'	de	ADP			14	_	case	_
-14	hc	hc	PROPN			12	_	nmod	_
-15	.	.	PUNCT			1	_	punct	_
+1	oublie	oublier	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	1	_	ROOT	_
+2	darwinus	darwinus	PROPN	_	_	1	_	obj	_
+3	et	et	CCONJ	_	_	4	_	cc	_
+4	regarde	regarder	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	1	_	conj	_
+5	ce	ce	PRON	_	Number=Sing|Person=3|PronType=Dem	4	_	obj	_
+6	qui	qui	PRON	_	PronType=Rel	9	_	nsubj	_
+7	s'	se	PRON	_	Person=3|PronType=Prs|Reflex=Yes	9	_	expl:comp	_
+8	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	9	_	aux:tense	_
+9	passé	passer	VERB	_	Tense=Past|VerbForm=Part	5	_	acl:relcl	_
+10	et	et	CCONJ	_	_	12	_	cc	_
+11	les	le·la	DET	_	Definite=Def|Number=Plur|PronType=Art	12	_	det	_
+12	accusations	accusation	NOUN	_	Number=Plur	1	_	conj	_
+13	d'	de	ADP	_	_	14	_	case	_
+14	hc	hc	PROPN	_	_	12	_	nmod	_
+15	.	.	PUNCT	_	_	1	_	punct	_
+
+
 
 # text = le fait de mettre l' interwiki sur romanens est impeccable , mais n' oublie pas de faire l' inverse , c' est-à-dire de mettre l' interwiki qui pointe sur ton article depuis l' article en allemand .
-1	le	le·la	DET		Definite=Def|Number=Sing|PronType=Art	2	_	det	_
-2	fait	fait	NOUN		Number=Sing	10	_	nsubj	_
-3	de	de	ADP			4	_	mark	_
-4	mettre	mettre	VERB		VerbForm=Inf	2	_	acl	_
-5	l'	le·a	DET		Definite=Def|Number=Sing|PronType=Art	6	_	det	_
-6	interwiki	inter	NOUN		Number=Sing	4	_	obj	_
-7	sur	sur	ADP			8	_	case	_
-8	romanens	romanen	NOUN		Number=Sing	6	_	nmod	_
-9	est	être	VERB		Mood=Ind|Number=Sing|Person=3|Tense=Pres	10	_	cop	_
-10	impeccable	impeccable	ADJ		Number=Sing	10	_	ROOT	_
-11	,	,	PUNCT			14	_	punct	_
-12	mais	mais	CCONJ			14	_	cc	_
-13	n'	ne	ADV		Polarity=Neg	14	_	advmod	_
-14	oublie	oublier	VERB		Mood=Imp|Number=Sing|Person=3|Tense=Pres	10	_	conj	_
-15	pas	pas	ADV		Polarity=Neg	14	_	advmod	_
-16	de	de	ADP			17	_	mark	_
-17	faire	faire	VERB		VerbForm=Inf	14	_	ccomp	_
-18	l'	le·a	DET		Definite=Def|Number=Sing|PronType=Art	19	_	det	_
-19	inverse	inverse	NOUN		Number=Sing	17	_	obj	_
-20	,	,	PUNCT			10	_	punct	_
-21	c'	ce	PRON		Number=Sing|Person=3|PronType=Dem	24	_	cc	_
-22	est-à-dire	ê-à-d	VERB		VerbForm=Inf	24	_	cc	_
-23	de	de	ADP			24	_	mark	_
-24	mettre	mettre	VERB		VerbForm=Inf	10	_	conj	_
-25	l'	le·a	DET		Definite=Def|Number=Sing|PronType=Art	26	_	det	_
-26	interwiki	inter	NOUN		Number=Sing	24	_	obj	_
-27	qui	qui	PRON		PronType=Rel	28	_	nsubj	_
-28	pointe	poindre	VERB		Mood=Ind|Number=Sing|Person=3|Tense=Pres	26	_	acl:relcl	_
-29	sur	sur	ADP			31	_	case	_
-30	ton	ton	DET		Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes	31	_	det	_
-31	article	article	NOUN		Number=Sing	28	_	obl:arg	_
-32	depuis	depuis	ADP			34	_	case	_
-33	l'	le·a	DET		Definite=Def|Number=Sing|PronType=Art	34	_	det	_
-34	article	article	NOUN		Number=Sing	28	_	obl:mod	_
-35	en	en	ADP			36	_	case	_
-36	allemand	allemand·e	NOUN		Number=Sing	34	_	nmod	_
-37	.	.	PUNCT			10	_	punct	_
+1	le	le·la	DET	_	Definite=Def|Number=Sing|PronType=Art	2	_	det	_
+2	fait	fait	NOUN	_	Number=Sing	10	_	nsubj	_
+3	de	de	ADP	_	_	4	_	mark	_
+4	mettre	mettre	VERB	_	VerbForm=Inf	2	_	acl	_
+5	l'	le·a	DET	_	Definite=Def|Number=Sing|PronType=Art	6	_	det	_
+6	interwiki	inter	NOUN	_	Number=Sing	4	_	obj	_
+7	sur	sur	ADP	_	_	8	_	case	_
+8	romanens	romanen	NOUN	_	Number=Sing	6	_	nmod	_
+9	est	être	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	10	_	cop	_
+10	impeccable	impeccable	ADJ	_	Number=Sing	10	_	ROOT	_
+11	,	,	PUNCT	_	_	14	_	punct	_
+12	mais	mais	CCONJ	_	_	14	_	cc	_
+13	n'	ne	ADV	_	Polarity=Neg	14	_	advmod	_
+14	oublie	oublier	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	10	_	conj	_
+15	pas	pas	ADV	_	Polarity=Neg	14	_	advmod	_
+16	de	de	ADP	_	_	17	_	mark	_
+17	faire	faire	VERB	_	VerbForm=Inf	14	_	ccomp	_
+18	l'	le·a	DET	_	Definite=Def|Number=Sing|PronType=Art	19	_	det	_
+19	inverse	inverse	NOUN	_	Number=Sing	17	_	obj	_
+20	,	,	PUNCT	_	_	10	_	punct	_
+21	c'	ce	PRON	_	Number=Sing|Person=3|PronType=Dem	24	_	cc	_
+22	est-à-dire	ê-à-d	VERB	_	VerbForm=Inf	24	_	cc	_
+23	de	de	ADP	_	_	24	_	mark	_
+24	mettre	mettre	VERB	_	VerbForm=Inf	10	_	conj	_
+25	l'	le·a	DET	_	Definite=Def|Number=Sing|PronType=Art	26	_	det	_
+26	interwiki	inter	NOUN	_	Number=Sing	24	_	obj	_
+27	qui	qui	PRON	_	PronType=Rel	28	_	nsubj	_
+28	pointe	poindre	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	26	_	acl:relcl	_
+29	sur	sur	ADP	_	_	31	_	case	_
+30	ton	ton	DET	_	Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes	31	_	det	_
+31	article	article	NOUN	_	Number=Sing	28	_	obl:arg	_
+32	depuis	depuis	ADP	_	_	34	_	case	_
+33	l'	le·a	DET	_	Definite=Def|Number=Sing|PronType=Art	34	_	det	_
+34	article	article	NOUN	_	Number=Sing	28	_	obl:mod	_
+35	en	en	ADP	_	_	36	_	case	_
+36	allemand	allemand·e	NOUN	_	Number=Sing	34	_	nmod	_
+37	.	.	PUNCT	_	_	10	_	punct	_
+
+
 
 # text = à part ça , n' oublie pas de catégoriser ton image dans commons , sinon tu risques de te la faire supprimer .
-1	à	à	ADP			3	_	case	_
-2	part	part	NOUN		Number=Sing	1	_	fixed	_
-3	ça	ça	PRON		Number=Sing|Person=3|PronType=Dem	6	_	nsubj	_
-4	,	,	PUNCT			3	_	punct	_
-5	n'	ne	ADV		Polarity=Neg	6	_	advmod	_
-6	oublie	oublier	VERB		Mood=Imp|Number=Sing|Person=3|Tense=Pres	6	_	ROOT	_
-7	pas	pas	ADV		Polarity=Neg	6	_	advmod	_
-8	de	de	ADP			9	_	mark	_
-9	catégoriser	catégoriser	VERB		VerbForm=Inf	6	_	xcomp	_
-10	ton	ton	DET		Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes	11	_	det	_
-11	image	image	NOUN		Number=Sing	9	_	obj	_
-12	dans	dans	ADP			13	_	case	_
-13	commons	commons	PROPN			9	_	obl:mod	_
-14	,	,	PUNCT			17	_	punct	_
-15	sinon	sinon	SCONJ			17	_	advmod	_
-16	tu	tu	PRON		Number=Sing|Person=2|PronType=Prs	17	_	nsubj	_
-17	risques	risquer	VERB		Mood=Ind|Number=Sing|Person=2|Tense=Pres	6	_	obl:mod	_
-18	de	de	ADP			19	_	case	_
-19	te	te	PRON		Number=Sing|Person=2|PronType=Prs	17	_	nmod	_
-20	la	le	PRON		Definite=Def|Number=Sing|Person=3|PronType=Art	21	_	obj	_
-21	faire	faire	VERB		VerbForm=Inf	17	_	xcomp	_
-22	supprimer	supprimer	VERB		VerbForm=Inf	21	_	xcomp	_
-23	.	.	PUNCT			6	_	punct	_
+1	à	à	ADP	_	_	3	_	case	_
+2	part	part	NOUN	_	Number=Sing	1	_	fixed	_
+3	ça	ça	PRON	_	Number=Sing|Person=3|PronType=Dem	6	_	nsubj	_
+4	,	,	PUNCT	_	_	3	_	punct	_
+5	n'	ne	ADV	_	Polarity=Neg	6	_	advmod	_
+6	oublie	oublier	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	6	_	ROOT	_
+7	pas	pas	ADV	_	Polarity=Neg	6	_	advmod	_
+8	de	de	ADP	_	_	9	_	mark	_
+9	catégoriser	catégoriser	VERB	_	VerbForm=Inf	6	_	xcomp	_
+10	ton	ton	DET	_	Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes	11	_	det	_
+11	image	image	NOUN	_	Number=Sing	9	_	obj	_
+12	dans	dans	ADP	_	_	13	_	case	_
+13	commons	commons	PROPN	_	_	9	_	obl:mod	_
+14	,	,	PUNCT	_	_	17	_	punct	_
+15	sinon	sinon	SCONJ	_	_	17	_	advmod	_
+16	tu	tu	PRON	_	Number=Sing|Person=2|PronType=Prs	17	_	nsubj	_
+17	risques	risquer	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres	6	_	obl:mod	_
+18	de	de	ADP	_	_	19	_	case	_
+19	te	te	PRON	_	Number=Sing|Person=2|PronType=Prs	17	_	nmod	_
+20	la	le	PRON	_	Definite=Def|Number=Sing|Person=3|PronType=Art	21	_	obj	_
+21	faire	faire	VERB	_	VerbForm=Inf	17	_	xcomp	_
+22	supprimer	supprimer	VERB	_	VerbForm=Inf	21	_	xcomp	_
+23	.	.	PUNCT	_	_	6	_	punct	_
+
+
 
 # text = n' oublie pas de t' identifier et de commenter tes édits cela t' éviteras bien des déboires à l' avenir .
-1	n'	ne	ADV		Polarity=Neg	2	_	advmod	_
-2	oublie	oublier	VERB		Mood=Imp|Number=Sing|Person=3|Tense=Pres	2	_	ROOT	_
-3	pas	pas	ADV		Polarity=Neg	2	_	advmod	_
-4	de	de	ADP			6	_	mark	_
-5	t'	te	PRON		Number=Sing|Person=2|PronType=Prs	6	_	obj	_
-6	identifier	identifier	VERB		VerbForm=Inf	2	_	xcomp	_
-7	et	et	CCONJ			9	_	cc	_
-8	de	de	ADP			9	_	mark	_
-9	commenter	commenter	VERB		VerbForm=Inf	6	_	conj	_
-10	tes	tes	DET		Number=Plur|Number[psor]=Sing|Person=2|Poss=Yes	11	_	det	_
-11	édits	édit	NOUN		Number=Plur	9	_	obj	_
-12	cela	cela	PRON		Number=Sing|Person=3|PronType=Dem	14	_	nsubj	_
-13	t'	te	PRON		Number=Sing|Person=2|PronType=Prs	14	_	iobj	_
-14	éviteras	éviter	VERB		Mood=Ind|Number=Sing|Person=2|Tense=Fut	11	_	acl:relcl	_
-15	bien	bien	ADV			14	_	advmod	_
-16	des	de	DET		Definite=Ind|Number=Plur|PronType=Art	17	_	det	_
-17	déboires	déboire	NOUN		Number=Plur	14	_	obj	_
-18	à	à	ADP			20	_	case	_
-19	l'	le·a	DET		Definite=Def|Number=Sing|PronType=Art	20	_	det	_
-20	avenir	avenir	NOUN		Number=Sing	17	_	nmod	_
-21	.	.	PUNCT			2	_	punct	_
+1	n'	ne	ADV	_	Polarity=Neg	2	_	advmod	_
+2	oublie	oublier	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	2	_	ROOT	_
+3	pas	pas	ADV	_	Polarity=Neg	2	_	advmod	_
+4	de	de	ADP	_	_	6	_	mark	_
+5	t'	te	PRON	_	Number=Sing|Person=2|PronType=Prs	6	_	obj	_
+6	identifier	identifier	VERB	_	VerbForm=Inf	2	_	xcomp	_
+7	et	et	CCONJ	_	_	9	_	cc	_
+8	de	de	ADP	_	_	9	_	mark	_
+9	commenter	commenter	VERB	_	VerbForm=Inf	6	_	conj	_
+10	tes	tes	DET	_	Number=Plur|Number[psor]=Sing|Person=2|Poss=Yes	11	_	det	_
+11	édits	édit	NOUN	_	Number=Plur	9	_	obj	_
+12	cela	cela	PRON	_	Number=Sing|Person=3|PronType=Dem	14	_	nsubj	_
+13	t'	te	PRON	_	Number=Sing|Person=2|PronType=Prs	14	_	iobj	_
+14	éviteras	éviter	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Fut	11	_	acl:relcl	_
+15	bien	bien	ADV	_	_	14	_	advmod	_
+16	des	de	DET	_	Definite=Ind|Number=Plur|PronType=Art	17	_	det	_
+17	déboires	déboire	NOUN	_	Number=Plur	14	_	obj	_
+18	à	à	ADP	_	_	20	_	case	_
+19	l'	le·a	DET	_	Definite=Def|Number=Sing|PronType=Art	20	_	det	_
+20	avenir	avenir	NOUN	_	Number=Sing	17	_	nmod	_
+21	.	.	PUNCT	_	_	2	_	punct	_
+

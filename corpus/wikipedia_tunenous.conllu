@@ -2522,19 +2522,6 @@
 5	va	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 6	enfin	_	ADV	_	_	_	_	_	_
 7	avancer	_	VERB	_	VerbForm=Inf	_	_	_	_
-8	et	_	CCONJ	_	_	_	_	_	_
-9	que	_	SCONJ	_	_	_	_	_	_
-10	je	_	PRON	_	Number=Sing|Person=1|PronType=Prs	_	_	_	_
-11	ne	_	ADV	_	Polarity=Neg	_	_	_	_
-12	nous	_	PRON	_	Number=Plur|Person=1|PronType=Prs|Reflex=Yes	_	_	_	_
-13	ais	_	AUX	_	Mood=Sub|Number=Sing|Person=2|Tense=Pres	_	_
-14	pas	_	ADV	_	Polarity=Neg	_	_	_	_
-15	mis	_	VERB	_	Tense=Past|VerbForm=Part	_	_	_	_
-16	tout	_	ADJ	_	Number=Sing	_	_	_	_
-17	le	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
-18	monde	_	NOUN	_	Number=Sing	_	_	_	_
-19	à	_	ADP	_	_	_	_	_	_
-20	dos	_	NOUN	_	Number=Sing	_	_	_	_
 21	.	_	PUNCT	_	_	_	_	_	_
 
 
