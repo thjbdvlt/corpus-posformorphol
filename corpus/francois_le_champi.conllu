@@ -49581,7 +49581,7 @@
 # text = - Ne fais pas attention .
 1	-	_	PUNCT	_	_	_	_	_	_
 2	Ne	_	ADV	_	Polarity=Neg	_	_	_	_
-3	fais	_	VERB	_	Mood=Imp|Number=Sing|Person=1|Tense=Pres	_	_	_
+3	fais	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_
 4	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 5	attention	_	NOUN	_	Number=Sing	_	_	_	_
 6	.	_	PUNCT	_	_	_	_	_	_
@@ -64525,7 +64525,7 @@
 3	non	_	ADV	_	Polarity=Neg	_	_	_	_
 4	,	_	PUNCT	_	_	_	_	_	_
 5	ne	_	ADV	_	Polarity=Neg	_	_	_	_
-6	crois	_	VERB	_	Mood=Imp|Number=Sing|Person=1|Tense=Pres	_	_	_
+6	crois	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_
 7	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 8	qu'	_	SCONJ	_	_	_	_	_	_
 9	elle	_	PRON	_	Number=Sing|Person=3|PronType=Prs	_	_	_	_

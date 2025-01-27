@@ -21479,7 +21479,7 @@ Imp	te	_	PRON	_	Number=Sing|Person=2|PronType=Prs	_	_	_	_
 
 
 # text = regarde l' article jacques-louis david c' est toujours comme cela que j' organise les bibliographies , avec le modelè ouvrage , et dans l' ordre chronologique ( et avec le paramètre id pour rattacher les notes ) , les notes suffisent à démontrer que j' ai consulté les ouvrages que je cite , le dussolier tu ne le mentionnes pas , ni l' ouvrage les grands crimes du sud-ouest alors quand tu me dis ces recherches bibliographiques m' ont demandé pas mal de temps et d' effort , à d' autres mais pas à moi .
-1	regarde	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+1	regarde	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	_
 2	l'	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 3	article	_	NOUN	_	Number=Sing	_	_	_	_
 4	jacques-louis	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_

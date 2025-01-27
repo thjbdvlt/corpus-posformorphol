@@ -4409,7 +4409,7 @@
 4	mère	_	NOUN	_	Number=Sing	_	_	_	_
 5	,	_	PUNCT	_	_	_	_	_	_
 6	ne	_	ADV	_	Polarity=Neg	_	_	_	_
-7	fais	_	VERB	_	Mood=Imp|Number=Sing|Person=1|Tense=Pres	_	_	_
+7	fais	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_
 8	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 9	de	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_
 10	mal	_	NOUN	_	Number=Sing	_	_	_	_

@@ -204,7 +204,7 @@
 
 # text = ne fais pas semblant de ne pas t' en rendre compte .
 1	ne	_	ADV	_	Polarity=Neg	_	_	_	_
-2	fais	_	VERB	_	Mood=Imp|Number=Sing|Person=1|Tense=Pres	_	_	_	_
+2	fais	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	_
 3	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 4	semblant	_	NOUN	_	Number=Sing	_	_	_	_
 5	de	_	ADP	_	_	_	_	_	_
@@ -931,14 +931,14 @@
 8	autres	_	PRON	_	Number=Plur|Person=3	_	_	_	_
 9	)	_	PUNCT	_	_	_	_	_	_
 10	,	_	PUNCT	_	_	_	_	_	_
-11	crée	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+11	crée	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	_
 12	une	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
 13	sous-page	_	NOUN	_	Number=Sing	_	_	_	_
 14	d'	_	ADP	_	_	_	_	_	_
 15	outils	_	NOUN	_	Number=Plur	_	_	_	_
 16	,	_	PUNCT	_	_	_	_	_	_
 17	ou	_	CCONJ	_	_	_	_	_	_
-18	consacre	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+18	consacre	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	_
 19	un	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
 20	brouillon	_	NOUN	_	Number=Sing	_	_	_	_
 21	à	_	ADP	_	_	_	_	_	_
@@ -1249,7 +1249,7 @@
 
 # text = ne crois pas que je m' énerve au delà de la bienséance .
 1	ne	_	ADV	_	Polarity=Neg	_	_	_	_
-2	crois	_	VERB	_	Mood=Imp|Number=Sing|Person=1|Tense=Pres	_	_	_	_
+2	crois	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	_
 3	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 4	que	_	SCONJ	_	_	_	_	_	_
 5	je	_	PRON	_	Number=Sing|Person=1|PronType=Prs	_	_	_	_
@@ -1281,7 +1281,7 @@
 
 # text = ne fais pas souffrir ta joséphine .
 1	ne	_	ADV	_	Polarity=Neg	_	_	_	_
-2	fais	_	VERB	_	Mood=Imp|Number=Sing|Person=1|Tense=Pres	_	_	_	_
+2	fais	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	_
 3	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 4	souffrir	_	VERB	_	VerbForm=Inf	_	_	_	_
 5	ta	_	DET	_	Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes	_	_	_	_
@@ -1668,7 +1668,7 @@
 3	fais	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	_
 4	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 5	et	_	CCONJ	_	_	_	_	_	_
-6	passe	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+6	passe	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	_
 7	le	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 8	temps	_	NOUN	_	Number=Sing	_	_	_	_
 9	là	_	ADV	_	_	_	_	_	_
@@ -1814,7 +1814,7 @@
 
 # text = ne crois pas dans la politique !
 1	ne	_	ADV	_	Polarity=Neg	_	_	_	_
-2	crois	_	VERB	_	Mood=Imp|Number=Sing|Person=1|Tense=Pres	_	_	_	_
+2	crois	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	_
 3	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 4	dans	_	ADP	_	_	_	_	_	_
 5	la	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
@@ -2177,7 +2177,7 @@
 9	la	_	PRON	_	Definite=Def|Number=Sing|Person=3|PronType=Art	_	_	_	_
 10	retires	_	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres	_	_	_	_
 11	,	_	PUNCT	_	_	_	_	_	_
-12	retire	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+12	retire	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	_
 13	aussi	_	ADV	_	_	_	_	_	_
 14	celle	_	PRON	_	Number=Sing|Person=3|PronType=Dem	_	_	_	_
 15	en	_	ADP	_	_	_	_	_	_
@@ -2308,7 +2308,7 @@
 10	demande	_	NOUN	_	Number=Sing	_	_	_	_
 11	,	_	PUNCT	_	_	_	_	_	_
 12	n'	_	ADV	_	Polarity=Neg	_	_	_	_
-13	hésite	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+13	hésite	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	_
 14	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 15	à	_	ADP	_	_	_	_	_	_
 16	les	_	PRON	_	Definite=Def|Number=Plur|Person=3|PronType=Art	_	_	_	_
@@ -2344,7 +2344,7 @@
 2	ma	_	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes	_	_	_	_
 3	figure	_	NOUN	_	Number=Sing	_	_	_	_
 4	et	_	CCONJ	_	_	_	_	_	_
-5	donne	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+5	donne	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	_
 6	moi	_	PRON	_	Number=Sing|Person=1|PronType=Prs	_	_	_	_
 7	la	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 8	tienne	_	NOUN	_	Number=Sing	_	_	_	_
@@ -3015,7 +3015,7 @@
 # text = mais ne fais pas dire à cette guideline ce qu' elle ne dit pas .
 1	mais	_	CCONJ	_	_	_	_	_	_
 2	ne	_	ADV	_	Polarity=Neg	_	_	_	_
-3	fais	_	VERB	_	Mood=Imp|Number=Sing|Person=1|Tense=Pres	_	_	_	_
+3	fais	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	_
 4	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 5	dire	_	VERB	_	VerbForm=Inf	_	_	_	_
 6	à	_	ADP	_	_	_	_	_	_
@@ -3187,7 +3187,7 @@
 
 # text = ne fais pas à autrui ce que tu ne voudrais pas qu' on te fît .
 1	ne	_	ADV	_	Polarity=Neg	_	_	_	_
-2	fais	_	VERB	_	Mood=Imp|Number=Sing|Person=1|Tense=Pres	_	_	_	_
+2	fais	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	_
 3	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 4	à	_	ADP	_	_	_	_	_	_
 5	autrui	_	PRON	_	Number=Sing|Person=3	_	_	_	_
@@ -3421,7 +3421,7 @@
 4	geste	_	NOUN	_	Number=Sing	_	_	_	_
 5	,	_	PUNCT	_	_	_	_	_	_
 6	et	_	CCONJ	_	_	_	_	_	_
-7	regarde	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+7	regarde	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	_
 8	de	_	ADP	_	_	_	_	_	_
 9	quoi	_	PRON	_	PronType=Int	_	_	_	_
 10	on	_	PRON	_	Number=Sing|Person=3|PronType=Prs	_	_	_	_
@@ -3496,7 +3496,7 @@
 6	,	_	PUNCT	_	_	_	_	_	_
 7	qu'	_	SCONJ	_	_	_	_	_	_
 8	on	_	PRON	_	Number=Sing|Person=3|PronType=Prs	_	_	_	_
-9	arrête	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+9	arrête	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	_
 10	cette	_	DET	_	Number=Sing|PronType=Dem	_	_	_	_
 11	invasion	_	NOUN	_	Number=Sing	_	_	_	_
 12	honteuse	_	ADJ	_	Number=Sing	_	_	_	_
@@ -3643,7 +3643,7 @@
 
 # text = ne crois pas , non plus , que je sois obsédé par la faute .
 1	ne	_	ADV	_	Polarity=Neg	_	_	_	_
-2	crois	_	VERB	_	Mood=Imp|Number=Sing|Person=1|Tense=Pres	_	_	_	_
+2	crois	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	_
 3	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 4	,	_	PUNCT	_	_	_	_	_	_
 5	non	_	ADV	_	Polarity=Neg	_	_	_	_
@@ -3790,7 +3790,7 @@
 1	mais	_	CCONJ	_	_	_	_	_	_
 1	surtout	_	ADV	_	_	_	_	_	_
 1	ne	_	ADV	_	Polarity=Neg	_	_	_	_
-2	fais	_	VERB	_	Mood=Imp|Number=Sing|Person=1|Tense=Pres	_	_	_	_
+2	fais	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	_
 3	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 4	dire	_	VERB	_	VerbForm=Inf	_	_	_	_
 5	à	_	ADP	_	_	_	_	_	_
@@ -3876,7 +3876,7 @@
 
 # text = ne crois pas un mot de ce qu' ils te disent " .
 1	ne	_	ADV	_	Polarity=Neg	_	_	_	_
-2	crois	_	VERB	_	Mood=Imp|Number=Sing|Person=1|Tense=Pres	_	_	_	_
+2	crois	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	_
 3	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 4	un	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
 5	mot	_	NOUN	_	Number=Sing	_	_	_	_
@@ -4179,7 +4179,7 @@
 6	de	_	ADP	_	_	_	_	_	_
 7	algorithme	_	NOUN	_	Number=Sing	_	_	_	_
 8	,	_	PUNCT	_	_	_	_	_	_
-9	va	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+9	va	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	_
 10	à	_	ADP	_	_	_	_	_	_
 11	la	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 12	section	_	NOUN	_	Number=Sing	_	_	_	_
@@ -4258,7 +4258,7 @@
 23	ou	_	CCONJ	_	_	_	_	_	_
 24	mieux	_	ADV	_	_	_	_	_	_
 25	,	_	PUNCT	_	_	_	_	_	_
-26	demande	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+26	demande	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	_
 27	aux	_	ADP	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
 28	spécialistes	_	NOUN	_	Number=Plur	_	_	_	_
 29	:)	_	PUNCT	_	_	_	_	_	_
@@ -5133,7 +5133,7 @@
 
 # text = ne demande pas que les choses arrivent comme tu le désires mais désire -less telles qu' elles arrivent et tu seras heureux .
 1	ne	_	ADV	_	Polarity=Neg	_	_	_	_
-2	demande	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+2	demande	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	_
 3	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 4	que	_	SCONJ	_	_	_	_	_	_
 5	les	_	DET	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
@@ -5825,7 +5825,7 @@
 17	2	_	NUM	_	NumType=Card	_	_	_	_
 18	,	_	PUNCT	_	_	_	_	_	_
 19	mais	_	CCONJ	_	_	_	_	_	_
-20	imagine	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+20	imagine	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	_
 21	que	_	SCONJ	_	_	_	_	_	_
 22	sur	_	ADP	_	_	_	_	_	_
 23	le	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
@@ -7224,7 +7224,7 @@
 3	énerve	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	_
 4	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 5	,	_	PUNCT	_	_	_	_	_	_
-6	prend	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+6	prend	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	_
 7	ton	_	DET	_	Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes	_	_	_	_
 8	temps	_	NOUN	_	Number=Sing	_	_	_	_
 9	.	_	PUNCT	_	_	_	_	_	_
@@ -7241,7 +7241,7 @@
 7	en	_	ADP	_	_	_	_	_	_
 8	colère	_	NOUN	_	Number=Sing	_	_	_	_
 9	,	_	PUNCT	_	_	_	_	_	_
-10	prend	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+10	prend	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	_
 11	ton	_	DET	_	Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes	_	_	_	_
 12	temps	_	NOUN	_	Number=Sing	_	_	_	_
 13	.	_	PUNCT	_	_	_	_	_	_
@@ -7252,10 +7252,10 @@
 1	alors	_	ADV	_	_	_	_	_	_
 2	ne	_	ADV	_	Polarity=Neg	_	_	_	_
 3	t'	_	PRON	_	Number=Sing|Person=2|PronType=Prs	_	_	_	_
-4	énerve	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+4	énerve	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	_
 5	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 6	,	_	PUNCT	_	_	_	_	_	_
-7	prend	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+7	prend	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	_
 8	ton	_	DET	_	Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes	_	_	_	_
 9	temps	_	NOUN	_	Number=Sing	_	_	_	_
 10	,	_	PUNCT	_	_	_	_	_	_
@@ -7334,7 +7334,7 @@
 8	choisie	_	VERB	_	Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
 9	,	_	PUNCT	_	_	_	_	_	_
 10	mais	_	CCONJ	_	_	_	_	_	_
-11	imagine	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+11	imagine	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	_
 12	que	_	SCONJ	_	_	_	_	_	_
 13	tu	_	PRON	_	Number=Sing|Person=2|PronType=Prs	_	_	_	_
 14	décides	_	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres	_	_	_	_
