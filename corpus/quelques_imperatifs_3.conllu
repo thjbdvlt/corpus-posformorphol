@@ -518,7 +518,7 @@
 
 
 
-# text = par contre ne met pas de chocolat en poudre j' ai essayer et ça ne marche pas ça goffle au début et on croit que ça va marcher mais après ça s' aplatit et ça coule partout dans le mico-ondes ( alors pas de chocolat mais juste un blanc d' oeuf et du sucre )
+# text = par contre ne mets pas de chocolat en poudre j' ai essayer et ça ne marche pas ça goffle au début et on croit que ça va marcher mais après ça s' aplatit et ça coule partout dans le mico-ondes ( alors pas de chocolat mais juste un blanc d' oeuf et du sucre )
 1	par	_	ADP	_	_	_	_	_	_
 2	contre	_	ADP	_	_	_	_	_	_
 3	ne	_	ADV	_	Polarity=Neg	_	_	_	_
@@ -805,7 +805,7 @@
 
 
 
-# text = mais ne part pas !
+# text = mais ne pars pas !
 1	mais	_	CCONJ	_	_	_	_	_	_
 2	ne	_	ADV	_	Polarity=Neg	_	_	_	_
 3	pars	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_
@@ -1254,7 +1254,7 @@
 
 
 
-# text = surtout ne fait pas la même bêtise que moi , reste hyper cool , ne répond surtout pas tout de suite aux messages , tu rédiges un brouillon que tu relis , modifies , simplifies le lendemain avant de le poster .
+# text = surtout ne fais pas la même bêtise que moi , reste hyper cool , ne réponds surtout pas tout de suite aux messages , tu rédiges un brouillon que tu relis , modifies , simplifies le lendemain avant de le poster .
 1	surtout	_	ADV	_	_	_	_	_	_
 2	ne	_	ADV	_	Polarity=Neg	_	_	_	_
 3	fais	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_
@@ -1645,7 +1645,7 @@
 
 
 
-# text = surtout ne prend pas mal mon avis , j' ai hésité à répondre là bas mais comme ça concernait aussi gemini 2 et flying jacket c' était le meilleur endroit .
+# text = surtout ne prends pas mal mon avis , j' ai hésité à répondre là bas mais comme ça concernait aussi gemini 2 et flying jacket c' était le meilleur endroit .
 1	surtout	_	ADV	_	_	_	_	_	_
 2	ne	_	ADV	_	Polarity=Neg	_	_	_	_
 3	prends	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_
@@ -2027,7 +2027,7 @@
 7	un	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
 8	appel	_	NOUN	_	Number=Sing	_	_	_	_
 9	au	_	ADP	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
-10	contributeurs	_	NOUN	_	Number=Sing	_	_	_	_
+10	contributeurs	_	NOUN	_	Number=Plur	_	_	_	_
 11	de	_	ADP	_	_	_	_	_	_
 12	wikipedia	_	NOUN	_	Number=Sing	_	_	_	_
 13	à	_	ADP	_	_	_	_	_	_
@@ -2848,7 +2848,7 @@
 
 
 
-# text = mais ne le prend pas mal , dès hier j' ai replacé ce bandeau .
+# text = mais ne le prends pas mal , dès hier j' ai replacé ce bandeau .
 1	mais	_	CCONJ	_	_	_	_	_	_
 2	ne	_	ADV	_	Polarity=Neg	_	_	_	_
 3	le	_	PRON	_	Definite=Def|Number=Sing|Person=3|PronType=Art	_	_	_	_
@@ -2951,7 +2951,7 @@
 
 
 
-# text = surtout ne prend pas cette remarque comme désobligeante , ce n' est qu' un petit conseil que j' ose te donner 2 ( cest )
+# text = surtout ne prends pas cette remarque comme désobligeante , ce n' est qu' un petit conseil que j' ose te donner 2 ( cest )
 1	surtout	_	ADV	_	_	_	_	_	_
 2	ne	_	ADV	_	Polarity=Neg	_	_	_	_
 3	prends	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_
@@ -4278,7 +4278,7 @@
 
 
 
-# text = par contre ne perd pas de vue de définir ou de décrire l' existant biophysique .
+# text = par contre ne perds pas de vue de définir ou de décrire l' existant biophysique .
 1	par	_	ADP	_	_	_	_	_	_
 2	contre	_	ADP	_	_	_	_	_	_
 3	ne	_	ADV	_	Polarity=Neg	_	_	_	_
@@ -4456,7 +4456,7 @@
 
 
 
-# text = surtout ne le prend pas mal , mais je pense que tu as été un peu à côté de la plaque sur prieuré de drevant ( qui est dans ma ldds depuis mon intervention dessus le 2 janvier ) :
+# text = surtout ne le prends pas mal , mais je pense que tu as été un peu à côté de la plaque sur prieuré de drevant ( qui est dans ma ldds depuis mon intervention dessus le 2 janvier ) :
 1	surtout	_	ADV	_	_	_	_	_	_
 2	ne	_	ADV	_	Polarity=Neg	_	_	_	_
 3	le	_	PRON	_	Definite=Def|Number=Sing|Person=3|PronType=Art	_	_	_	_
@@ -5025,7 +5025,7 @@
 
 
 
-# text = surtout ne le prend pas mal , mon but n' est vraiment que d' améliorer wikipedia et de faire en sorte que les compétences de ses rédacteurs puissent se compléter
+# text = surtout ne le prends pas mal , mon but n' est vraiment que d' améliorer wikipedia et de faire en sorte que les compétences de ses rédacteurs puissent se compléter
 1	surtout	_	ADV	_	_	_	_	_	_
 2	ne	_	ADV	_	Polarity=Neg	_	_	_	_
 3	le	_	PRON	_	Definite=Def|Number=Sing|Person=3|PronType=Art	_	_	_	_
@@ -5284,7 +5284,7 @@
 
 
 
-# text = surtout ne le prend pas mal :
+# text = surtout ne le prends pas mal :
 1	surtout	_	ADV	_	_	_	_	_	_
 2	ne	_	ADV	_	Polarity=Neg	_	_	_	_
 3	le	_	PRON	_	Definite=Def|Number=Sing|Person=3|PronType=Art	_	_	_	_
@@ -5662,7 +5662,7 @@
 
 
 
-# text = surtout ne répond pas , je m' en fous , c' est une question purement rhétorique qui n' appelle pas de réponse .
+# text = surtout ne réponds pas , je m' en fous , c' est une question purement rhétorique qui n' appelle pas de réponse .
 1	surtout	_	ADV	_	_	_	_	_	_
 2	ne	_	ADV	_	Polarity=Neg	_	_	_	_
 3	réponds	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_
@@ -6266,7 +6266,7 @@
 
 
 
-# text = surtout ne le prend pas mal .
+# text = surtout ne le prends pas mal .
 1	surtout	_	ADV	_	_	_	_	_	_
 2	ne	_	ADV	_	Polarity=Neg	_	_	_	_
 3	le	_	PRON	_	Definite=Def|Number=Sing|Person=3|PronType=Art	_	_	_	_
@@ -6636,7 +6636,7 @@
 
 
 
-# text = surtout ne fait pas attention a ce que j' écris , je suis nul en francais .
+# text = surtout ne fais pas attention a ce que j' écris , je suis nul en francais .
 1	surtout	_	ADV	_	_	_	_	_	_
 2	ne	_	ADV	_	Polarity=Neg	_	_	_	_
 3	fais	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_
@@ -7776,7 +7776,7 @@
 # text = surtout ne guéris pas de ça clin
 1	surtout	_	ADV	_	_	_	_	_	_
 2	ne	_	ADV	_	Polarity=Neg	_	_	_	_
-3	guéris	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	
+3	guéris	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_
 4	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 5	de	_	ADP	_	_	_	_	_	_
 6	ça	_	PRON	_	Number=Sing|Person=3|PronType=Dem	_	_	_	_
@@ -8650,7 +8650,7 @@
 
 
 
-# text = par conséquent ne devraient pas se trouver d' articles sur des produits en cours de commercialisation tels que séries télévisées encore en tournage ou qui viennent d' être tournées , logiciels commerciaux exploités ou très récents ( microsoft office , windows , google chrome , léopard , mac os x snow léopard , .
+# text = par conséquent ne devraient pas se trouver d' articles sur des produits en cours de commercialisation tels que séries télévisées encore en tournage ou qui viennent d' être tournées , logiciels commerciaux exploités ou très récents ( microsoft office , windows , google , léopard , mac os x snow léopard , .
 1	par	_	ADP	_	_	_	_	_	_
 2	conséquent	_	ADJ	_	Number=Sing	_	_	_	_
 3	ne	_	ADV	_	Polarity=Neg	_	_	_	_
@@ -8717,7 +8717,7 @@
 
 
 
-# text = mais ne nous dit pas qu' à l' inverse les chiites la maudissent sans relâche , certains l' accusent même d' avoir empoisonné le prophète .
+# text = mais ne nous dis pas qu' à l' inverse les chiites la maudissent sans relâche , certains l' accusent même d' avoir empoisonné le prophète .
 1	mais	_	CCONJ	_	_	_	_	_	_
 2	ne	_	ADV	_	Polarity=Neg	_	_	_	_
 3	nous	_	PRON	_	Number=Plur|Person=1|PronType=Prs	_	_	_	_
@@ -10045,7 +10045,7 @@
 
 
 
-# text = surtout ne vient pas ici .
+# text = surtout ne viens pas ici .
 1	surtout	_	ADV	_	_	_	_	_	_
 2	ne	_	ADV	_	Polarity=Neg	_	_	_	_
 3	viens	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_
@@ -10399,7 +10399,7 @@
 
 
 
-# text = surtout ne le prend pas comme une attaque personnelle , hein !
+# text = surtout ne le prends pas comme une attaque personnelle , hein !
 1	surtout	_	ADV	_	_	_	_	_	_
 2	ne	_	ADV	_	Polarity=Neg	_	_	_	_
 3	le	_	PRON	_	Definite=Def|Number=Sing|Person=3|PronType=Art	_	_	_	_
@@ -10831,7 +10831,7 @@
 
 
 
-# text = surtout ne prend pas comme un reproche ma remarque sur ta modification sur l' article heinz lammerding .
+# text = surtout ne prends pas comme un reproche ma remarque sur ta modification sur l' article heinz lammerding .
 1	surtout	_	ADV	_	_	_	_	_	_
 2	ne	_	ADV	_	Polarity=Neg	_	_	_	_
 3	prends	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_

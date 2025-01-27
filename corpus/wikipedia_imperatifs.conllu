@@ -18,12 +18,12 @@
 
 
 
-# text = prends ton stylo et prouve nous mathématiquement que cet algorithme ne converge pas quadratiquement au lieu de jangler avec les mots , en plus d' être têtu , je ne suis pas certain que puisses le prouver marouane rhafli
+# text = prends ton stylo et prouve nous mathématiquement que cet algorithme ne converge pas quadratiquement au lieu de jongler avec les mots , en plus d' être têtu , je ne suis pas certain que puisses le prouver marouane .
 1	prends	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	_
 2	ton	_	DET	_	Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes	_	_	_	_
 3	stylo	_	NOUN	_	Number=Sing	_	_	_	_
 4	et	_	CCONJ	_	_	_	_	_	_
-5	prouve	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+5	prouve	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	_
 6	nous	_	PRON	_	Number=Plur|Person=1|PronType=Prs	_	_	_	_
 7	mathématiquement	_	ADV	_	_	_	_	_	_
 8	que	_	SCONJ	_	_	_	_	_	_
@@ -1140,7 +1140,7 @@
 
 
 
-# text = fais une recherche sur carbon finance intel et tu ne trouveras presque rien ;
+# text = fais une recherche sur intel et tu ne trouveras presque rien ;
 1	fais	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	_
 2	une	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
 3	recherche	_	NOUN	_	Number=Sing	_	_	_	_
@@ -2263,7 +2263,7 @@
 
 
 
-# text = fais gaffe à pas te marcher sur les pieds avec like tears in rainn , je crois qu' il rôde aussi dans le coin mdr .
+# text = fais gaffe à pas te marcher sur les pieds mdr .
 1	fais	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	_
 2	gaffe	_	NOUN	_	Number=Sing	_	_	_	_
 3	à	_	ADP	_	_	_	_	_	_
@@ -2793,7 +2793,7 @@
 
 
 
-# text = prends aussi la peine de lire correctement les motivations du proposant tu gangeras de l' énergie et du temps -
+# text = prends aussi la peine de lire correctement les motivations du proposant tu gagneras de l' énergie et du temps -
 1	prends	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	_	_	_	_
 2	aussi	_	ADV	_	_	_	_	_	_
 3	la	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
@@ -2806,7 +2806,7 @@
 10	du	_	ADP	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 11	proposant	_	VERB	_	Tense=Pres|VerbForm=Part	_	_	_	_
 12	tu	_	PRON	_	Number=Sing|Person=2|PronType=Prs	_	_	_	_
-13	gagneras	_	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Fut	_	_	_	
+13	gagneras	_	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Fut	_	_	_
 14	de	_	ADP	_	_	_	_	_	_
 15	l'	_	DET	_	Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 16	énergie	_	NOUN	_	Number=Sing	_	_	_	_
