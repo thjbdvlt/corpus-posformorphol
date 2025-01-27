@@ -15,7 +15,7 @@
 14	pas	_	ADV	_	Polarity=Neg	_	_	_	_
 15	d'	_	ADP	_	_	_	_	_	_
 16	où	_	PRON	_	PronType=Rel	_	_	_	_
-Imp	te	_	PRON	_	Number=Sing|Person=2|PronType=Prs	_	_	_	_
+17	te	_	PRON	_	Number=Sing|Person=2|PronType=Prs	_	_	_	_
 18	viennent	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_	_
 19	les	_	DET	_	Definite=Def|Number=Plur|PronType=Art	_	_	_	_
 20	informations	_	NOUN	_	Number=Plur	_	_	_	_
