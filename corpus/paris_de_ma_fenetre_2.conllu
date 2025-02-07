@@ -2374,7 +2374,7 @@
 136	plus	_	ADV	_	_	_	_	_	_
 137	confortable	_	ADJ	_	Number=Sing	_	_	_	_
 138	:-o	_	PUNCT	_	_	_	_	_	_
-10	Certains	_	PRON	_	Def=Ind|Definite=Def|Number=Plur|Person=3|PronType=Art	_	_	_	_
+10	Certains	_	PRON	_	Definite=Ind|Definite=Def|Number=Plur|Person=3|PronType=Art	_	_	_	_
 140	ont	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_	_
 141	des	_	DET	_	Definite=Ind|Number=Plur|PronType=Art	_	_	_	_
 142	pliants	_	NOUN	_	Number=Plur	_	_	_	_

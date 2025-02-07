@@ -17790,7 +17790,7 @@
 3	tel	_	ADJ	_	Number=Sing	_	_	_	_
 4	cas	_	NOUN	_	Number=Sing	_	_	_	_
 5	,	_	PUNCT	_	_	_	_	_	_
-12	certains	_	PRON	_	Def=Ind|Definite=Def|Number=Plur|Person=3|PronType=Art	_	_	_	_
+12	certains	_	PRON	_	Definite=Ind|Definite=Def|Number=Plur|Person=3|PronType=Art	_	_	_	_
 7	pourraient	_	VERB	_	Mood=Cnd|Number=Plur|Person=3|Tense=Pres	_	_	_	_
 8	être	_	VERB	_	VerbForm=Inf	_	_	_	_
 9	enclins	_	ADJ	_	Number=Plur	_	_	_	_
@@ -25894,7 +25894,7 @@
 10	feuilles	_	NOUN	_	Number=Plur	_	_	_	_
 11	,	_	PUNCT	_	_	_	_	_	_
 12	dont	_	PRON	_	PronType=Rel	_	_	_	_
-13	certaines	_	PRON	_	Def=Ind|Definite=Def|Number=Plur|Person=3|PronType=Art	_	_	_	_
+13	certaines	_	PRON	_	Definite=Ind|Definite=Def|Number=Plur|Person=3|PronType=Art	_	_	_	_
 5	sont	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_	_
 15	d'	_	ADP	_	_	_	_	_	_
 16	un	_	DET	_	Definite=Ind|Number=Sing|PronType=Art	_	_	_	_
@@ -34143,7 +34143,7 @@
 43	mots	_	NOUN	_	Number=Plur	_	_	_	_
 44	,	_	PUNCT	_	_	_	_	_	_
 45	dont	_	PRON	_	PronType=Rel	_	_	_	_
-2	certains	_	PRON	_	Def=Ind|Definite=Def|Number=Plur|Person=3|PronType=Art	_	_	_	_
+2	certains	_	PRON	_	Definite=Ind|Definite=Def|Number=Plur|Person=3|PronType=Art	_	_	_	_
 47	sont	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_	_
 48	des	_	DET	_	Definite=Ind|Number=Plur|PronType=Art	_	_	_	_
 49	mots	_	NOUN	_	Number=Plur	_	_	_	_
@@ -45968,7 +45968,7 @@
 12	différentes	_	ADJ	_	Number=Plur	_	_	_	_
 13	,	_	PUNCT	_	_	_	_	_	_
 14	dont	_	PRON	_	PronType=Rel	_	_	_	_
-15	certaines	_	PRON	_	Def=Ind|Definite=Def|Number=Plur|Person=3|PronType=Art	_	_	_	_
+15	certaines	_	PRON	_	Definite=Ind|Definite=Def|Number=Plur|Person=3|PronType=Art	_	_	_	_
 5	sont	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_	_
 17	des	_	DET	_	Definite=Ind|Number=Plur|PronType=Art	_	_	_	_
 18	sentiments	_	NOUN	_	Number=Plur	_	_	_	_

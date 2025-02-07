@@ -15205,7 +15205,7 @@
 10	sic	_	NOUN	_	Number=Plur	_	_	_	TOCHANGE|POS=ADV
 11	)	_	PUNCT	_	_	_	_	_	_
 12	car	_	CCONJ	_	_	_	_	_	_
-13	certains	_	PRON	_	Def=Ind|Definite=Def|Number=Plur|Person=3|PronType=Art	_	_	_	OK
+13	certains	_	PRON	_	Definite=Ind|Definite=Def|Number=Plur|Person=3|PronType=Art	_	_	_	OK
 14	pourraient	_	VERB	_	Mood=Cnd|Number=Plur|Person=3|Tense=Pres	_	_	_	_
 15	penser	_	VERB	_	VerbForm=Inf	_	_	_	_
 16	que	_	SCONJ	_	_	_	_	_	_
@@ -18505,7 +18505,7 @@
 19	ces	_	DET	_	Number=Plur|PronType=Dem	_	_	_	_
 20	discussions	_	NOUN	_	Number=Plur	_	_	_	_
 21	,	_	PUNCT	_	_	_	_	_	_
-22	certains	_	PRON	_	Def=Ind|Definite=Def|Number=Plur|Person=3|PronType=Art	_	_	_	_
+22	certains	_	PRON	_	Definite=Ind|Definite=Def|Number=Plur|Person=3|PronType=Art	_	_	_	_
 23	pourraient	_	VERB	_	Mood=Cnd|Number=Plur|Person=3|Tense=Pres	_	_	_	_
 24	plus	_	ADV	_	_	_	_	_	_
 25	tard	_	ADV	_	_	_	_	_	_
